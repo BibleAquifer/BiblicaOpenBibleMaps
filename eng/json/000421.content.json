@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT171",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Job",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: job",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT171.png' alt='Image' width='480' /></p><p><a href='images/OT171.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1kM-5MeHaFP7IgKHOXk4tu1S1MOS070EL/view?usp=drive_link'>Wisdom & Prophets: Job</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "18001001",
+"start_ref_usfm": "JOB 1:1",
+"end_ref": "18042017",
+"end_ref_usfm": "JOB 42:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.395,
+"match_method": "canonical"
+},
+{
+"id": "person:Job",
+"type": "person",
+"preferred_label": "Job",
+"confidence": 0.3714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.3597,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.3584,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.3576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.3571,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.3571,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.3567,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.3563,
+"match_method": "canonical"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.3555,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"preferred_label": "Mischief",
+"confidence": 0.3552,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.355,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.355,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"preferred_label": "Understanding",
+"confidence": 0.355,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
+"confidence": 0.3548,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"preferred_label": "Intention",
+"confidence": 0.3544,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.3538,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.3538,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.3538,
+"match_method": "canonical"
+},
+{
+"id": "person:Elihu.5",
+"type": "person",
+"preferred_label": "Elihu (Friend of Job).",
+"confidence": 0.3535,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DeclareGuilty",
+"type": "keyterm",
+"preferred_label": "To Declare Guilty",
+"confidence": 0.3531,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliphaz.2",
+"type": "person",
+"preferred_label": "Eliphaz",
+"confidence": 0.3531,
+"match_method": "canonical"
+},
+{
+"id": "person:Bildad",
+"type": "person",
+"preferred_label": "Bildad",
+"confidence": 0.353,
+"match_method": "canonical"
+},
+{
+"id": "group:Teman",
+"type": "group",
+"preferred_label": "Temanites",
+"confidence": 0.3527,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"preferred_label": "Terror",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "place:Teman",
+"type": "place",
+"preferred_label": "Teman",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"preferred_label": "Decree",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "group:Shuhites",
+"type": "group",
+"preferred_label": "Shuhites",
+"confidence": 0.3523,
+"match_method": "canonical"
+}
+]
+}
+}
+]

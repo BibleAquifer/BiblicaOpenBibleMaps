@@ -1,0 +1,131 @@
+[
+{
+"content_id": "OT250",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 2:4–24",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 2:4-24",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT250.png' alt='Image' width='480' /></p><p><a href='images/OT250.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1fy8ijuW13024UaRtg82AnXXgOfEaYHVQ&usp=drive_copy'>SRV Genesis: Gen. 2:4-24</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002001",
+"start_ref_usfm": "GEN 2:1",
+"end_ref": "01002025",
+"end_ref_usfm": "GEN 2:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.584,
+"match_method": "canonical"
+},
+{
+"id": "person:Adam",
+"type": "person",
+"preferred_label": "Adam",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "place:Eden.2",
+"type": "place",
+"preferred_label": "Garden of Eden",
+"confidence": 0.312,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"preferred_label": "Intention",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "place:Tigris",
+"type": "place",
+"preferred_label": "Tigris River",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "place:Havilah",
+"type": "place",
+"preferred_label": "Havilah",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "place:Gihon",
+"type": "place",
+"preferred_label": "Gihon",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.108,
+"match_method": "canonical"
+}
+]
+}
+}
+]

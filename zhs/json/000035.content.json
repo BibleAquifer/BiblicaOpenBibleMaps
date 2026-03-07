@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT043",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "保罗与早期教会：保罗第二次传教旅程（第三部分）",
+"media_type": "Image",
+"index_reference": "保罗与早期教会：保罗第二次传教旅程（第三部分）",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT043.png' alt='Image' width='480' /></p><p><a href='images/NT043.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.4603,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4338,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4206,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.3897,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
+"confidence": 0.3873,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.3853,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.3828,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
+"confidence": 0.3804,
+"match_method": "canonical"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"preferred_label": "Athens",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.3721,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.3721,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.3297,
+"match_method": "canonical"
+},
+{
+"id": "person:Jason",
+"type": "person",
+"preferred_label": "Jason",
+"confidence": 0.3235,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Macedonia",
+"confidence": 0.3216,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.3196,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothy",
+"confidence": 0.3196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.3176,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.3165,
+"match_method": "canonical"
+},
+{
+"id": "person:Gallio",
+"type": "person",
+"preferred_label": "Gallio",
+"confidence": 0.2691,
+"match_method": "canonical"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"preferred_label": "Thessalonica",
+"confidence": 0.2672,
+"match_method": "canonical"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"preferred_label": "Aquila",
+"confidence": 0.2672,
+"match_method": "canonical"
+},
+{
+"id": "place:Areopagus",
+"type": "place",
+"preferred_label": "Areopagus",
+"confidence": 0.2672,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"preferred_label": "Priscilla",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.2632,
+"match_method": "canonical"
+}
+]
+}
+}
+]

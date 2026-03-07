@@ -1,0 +1,215 @@
+[
+{
+"content_id": "NT360",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Acts: Acts 25:13–21",
+"media_type": "Image",
+"index_reference": "srv acts: acts 25:13-21",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT360.png' alt='Image' width='480' /></p><p><a href='images/NT360.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=12sSRzC8rZXpDvHb8kfqmn1tjAhWdtn8z&usp=drive_copy'>SRV Acts: Acts 25:13-21</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44025001",
+"start_ref_usfm": "ACT 25:1",
+"end_ref": "44025027",
+"end_ref_usfm": "ACT 25:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.5167,
+"match_method": "canonical"
+},
+{
+"id": "person:Festus",
+"type": "person",
+"preferred_label": "Festus",
+"confidence": 0.5074,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4667,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4667,
+"match_method": "canonical"
+},
+{
+"id": "person:Agrippa",
+"type": "person",
+"preferred_label": "Agrippa",
+"confidence": 0.4407,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Claudius",
+"confidence": 0.4333,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Caesarea",
+"confidence": 0.3741,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"preferred_label": "Call Upon",
+"confidence": 0.3667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.3667,
+"match_method": "canonical"
+},
+{
+"id": "person:Bernice",
+"type": "person",
+"preferred_label": "Bernice",
+"confidence": 0.2481,
+"match_method": "canonical"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"preferred_label": "Augustus",
+"confidence": 0.2407,
+"match_method": "canonical"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"preferred_label": "Judgment Seat",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decision",
+"type": "keyterm",
+"preferred_label": "Decision",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:Felix",
+"type": "person",
+"preferred_label": "Felix",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"preferred_label": "Condemn",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "realia:AudienceHall",
+"type": "realia",
+"preferred_label": "Audience Hall",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1067,
+"match_method": "canonical"
+}
+]
+}
+}
+]

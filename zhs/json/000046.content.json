@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT054",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "保罗与早期教会：腓立比书",
+"media_type": "Image",
+"index_reference": "保罗与早期教会：腓立比书",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT054.png' alt='Image' width='480' /></p><p><a href='images/NT054.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50004023",
+"end_ref_usfm": "PHP 4:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.549,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4409,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"preferred_label": "In Christ",
+"confidence": 0.3933,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.3846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.3846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"preferred_label": "Think",
+"confidence": 0.3822,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.376,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.376,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.376,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.376,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.3736,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.3716,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.3716,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.3173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.3173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "Live",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"preferred_label": "Fellowship",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "person:Epaphroditus",
+"type": "person",
+"preferred_label": "Epaphroditus",
+"confidence": 0.2144,
+"match_method": "canonical"
+}
+]
+}
+}
+]

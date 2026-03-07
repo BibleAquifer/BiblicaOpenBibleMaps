@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT086",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: David on the Run (Part 1)",
+"media_type": "Image",
+"index_reference": "historical: david on the run (part 1)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT086.png' alt='Image' width='480' /></p><p><a href='images/OT086.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1dzJ6MbrS9K9RlrMQolTqxRdKD2EnMFm0&usp=drive_copy'>Historical: David on the Run (Part 1)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09019001",
+"start_ref_usfm": "1SA 19:1",
+"end_ref": "09020042",
+"end_ref_usfm": "1SA 20:42"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.5955,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.5576,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.5068,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4591,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.3909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"preferred_label": "New Moon Festival",
+"confidence": 0.3871,
+"match_method": "canonical"
+},
+{
+"id": "place:Naioth",
+"type": "place",
+"preferred_label": "Naioth",
+"confidence": 0.3871,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.3841,
+"match_method": "canonical"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"preferred_label": "Arrow",
+"confidence": 0.3339,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "person:Michal",
+"type": "person",
+"preferred_label": "Michal",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"preferred_label": "Teraphim",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
+"confidence": 0.2135,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
+"confidence": 0.2105,
+"match_method": "canonical"
+},
+{
+"id": "place:EzelStone",
+"type": "place",
+"preferred_label": "Ezel",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1598,
+"match_method": "canonical"
+}
+]
+}
+}
+]

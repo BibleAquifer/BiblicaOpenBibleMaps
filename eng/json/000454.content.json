@@ -1,0 +1,208 @@
+[
+{
+"content_id": "OT204",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: The Sword and the Signpost",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: the sword and the signpost",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT204.png' alt='Image' width='480' /></p><p><a href='images/OT204.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1mWcPkjFmi9UcZ6TDMLe4wi_oNwOgolsf/view?usp=drive_link'>Wisdom & Prophets: The Sword and the Signpost</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26021001",
+"start_ref_usfm": "EZK 21:1",
+"end_ref": "26021037",
+"end_ref_usfm": "EZK 21:37"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5081,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.4238,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sheath",
+"type": "realia",
+"preferred_label": "Sheath",
+"confidence": 0.2941,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PracticeDivination",
+"type": "keyterm",
+"preferred_label": "Practice Divination",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:FeeForDivination",
+"type": "keyterm",
+"preferred_label": "Fee for Divination",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HaveAVision",
+"type": "keyterm",
+"preferred_label": "Have a Vision",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"preferred_label": "Teraphim",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "realia:Turban",
+"type": "realia",
+"preferred_label": "Turban",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Siege-works",
+"type": "realia",
+"preferred_label": "Siege-Works",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Battering-ram",
+"type": "realia",
+"preferred_label": "Battering-Ram",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"preferred_label": "Crown",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:HouseholdIdols",
+"type": "realia",
+"preferred_label": "Household Idols",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"preferred_label": "Arrow",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:SiegeRamp",
+"type": "realia",
+"preferred_label": "Siege Ramp",
+"confidence": 0.1022,
+"match_method": "canonical"
+}
+]
+}
+}
+]

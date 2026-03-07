@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT277",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 24:62–66",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 24:62-66",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT277.png' alt='Image' width='480' /></p><p><a href='images/OT277.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1XWWatGvXyUoXaZqLxTJmwVFg7nscAc59&usp=drive_copy'>SRV Genesis: Gen. 24:62-66</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024067",
+"end_ref_usfm": "GEN 24:67"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4642,
+"match_method": "canonical"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"preferred_label": "Rebekah",
+"confidence": 0.4366,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.4306,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.397,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.3937,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.3903,
+"match_method": "canonical"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"preferred_label": "Clay Jar",
+"confidence": 0.3534,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.3328,
+"match_method": "canonical"
+},
+{
+"id": "person:Bethuel",
+"type": "person",
+"preferred_label": "Bethuel",
+"confidence": 0.3328,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.3269,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.3269,
+"match_method": "canonical"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"preferred_label": "Milcah",
+"confidence": 0.2731,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.2701,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2669,
+"match_method": "canonical"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"preferred_label": "Laban",
+"confidence": 0.2164,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.2164,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"preferred_label": "A Servant",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"preferred_label": "Be Blameless",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "realia:Earring",
+"type": "realia",
+"preferred_label": "Earring",
+"confidence": 0.2131,
+"match_method": "canonical"
+},
+{
+"id": "place:Beer-lahai-roi",
+"type": "place",
+"preferred_label": "Beer-lahai-roi",
+"confidence": 0.1597,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1597,
+"match_method": "canonical"
+},
+{
+"id": "person:MotherOfRebekah",
+"type": "person",
+"preferred_label": "Mother of Rebekah",
+"confidence": 0.1597,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1567,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1567,
+"match_method": "canonical"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"preferred_label": "Mesopotamia",
+"confidence": 0.1567,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1567,
+"match_method": "canonical"
+}
+]
+}
+}
+]

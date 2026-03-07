@@ -1,0 +1,264 @@
+[
+{
+"content_id": "OT304",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Exodus: Exod. 3:1–10, Exod. 23:20–32",
+"media_type": "Image",
+"index_reference": "srv exodus: exod. 3:1-10, exod. 23:20-32",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT304.png' alt='Image' width='480' /></p><p><a href='images/OT304.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13hWljync3FLLzJwUIMFYb5eUyIuoOubl&usp=drive_copy'>SRV Exodus: Exod. 3:1-10, Exod. 23:20-32</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02003001",
+"start_ref_usfm": "EXO 3:1",
+"end_ref": "02003022",
+"end_ref_usfm": "EXO 3:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.6159,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6045,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5341,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.5227,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.3818,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3114,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.3114,
+"match_method": "canonical"
+},
+{
+"id": "flora:Bush",
+"type": "flora",
+"preferred_label": "Bush",
+"confidence": 0.2605,
+"match_method": "canonical"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LandFlowingOfMilkAndHoney",
+"type": "keyterm",
+"preferred_label": "Land Flowing of Milk and Honey",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"preferred_label": "Mount Sinai",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"preferred_label": "Jethro",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1105,
+"match_method": "canonical"
+}
+]
+}
+}
+]

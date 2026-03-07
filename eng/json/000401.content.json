@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT151",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Hezekiah and Sennacherib",
+"media_type": "Image",
+"index_reference": "historical: hezekiah and sennacherib",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT151.png' alt='Image' width='480' /></p><p><a href='images/OT151.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1arkeLaIERE3NAETjF7quzPW7oXXaNIvi&usp=drive_copy'>Historical: Hezekiah and Sennacherib</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12019037",
+"end_ref_usfm": "2KI 19:37"
+},
+{
+"start_ref": "14032001",
+"start_ref_usfm": "2CH 32:1",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5519,
+"match_method": "canonical"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"preferred_label": "Hezekiah",
+"confidence": 0.5243,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.4804,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4257,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4173,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4173,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3963,
+"match_method": "canonical"
+},
+{
+"id": "person:Sennacherib",
+"type": "person",
+"preferred_label": "Sennacherib",
+"confidence": 0.3916,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.3897,
+"match_method": "canonical"
+},
+{
+"id": "person:Rabshakeh",
+"type": "person",
+"preferred_label": "Rabshakeh",
+"confidence": 0.3874,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.3752,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.371,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.371,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliakim.3",
+"type": "person",
+"preferred_label": "Eliakim",
+"confidence": 0.3206,
+"match_method": "canonical"
+},
+{
+"id": "person:Shebna",
+"type": "person",
+"preferred_label": "Shebna",
+"confidence": 0.3187,
+"match_method": "canonical"
+},
+{
+"id": "person:Amoz",
+"type": "person",
+"preferred_label": "Amoz",
+"confidence": 0.3187,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.3168,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.311,
+"match_method": "canonical"
+},
+{
+"id": "person:Hilkiah",
+"type": "person",
+"preferred_label": "Hilkiah",
+"confidence": 0.2664,
+"match_method": "canonical"
+},
+{
+"id": "person:Joah",
+"type": "person",
+"preferred_label": "Joah",
+"confidence": 0.2664,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "person:Hoshea",
+"type": "person",
+"preferred_label": "Hoshea",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.2568,
+"match_method": "canonical"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"preferred_label": "Asaph",
+"confidence": 0.2159,
+"match_method": "canonical"
+},
+{
+"id": "place:Ivvah",
+"type": "place",
+"preferred_label": "Ivvah",
+"confidence": 0.2121,
+"match_method": "canonical"
+},
+{
+"id": "place:Hena",
+"type": "place",
+"preferred_label": "Hena",
+"confidence": 0.2121,
+"match_method": "canonical"
+},
+{
+"id": "place:Gozan",
+"type": "place",
+"preferred_label": "Gozan",
+"confidence": 0.2103,
+"match_method": "canonical"
+}
+]
+}
+}
+]

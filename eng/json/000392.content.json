@@ -1,0 +1,278 @@
+[
+{
+"content_id": "OT142",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Abijah Defeats Jeroboam",
+"media_type": "Image",
+"index_reference": "historical: abijah defeats jeroboam",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT142.png' alt='Image' width='480' /></p><p><a href='images/OT142.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1qbPlUCNW1LzLXsgG0D1vps6QyAkidDSZ&usp=drive_copy'>Historical: Abijah Defeats Jeroboam</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "14013001",
+"start_ref_usfm": "2CH 13:1",
+"end_ref": "14013023",
+"end_ref_usfm": "2CH 13:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5652,
+"match_method": "canonical"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"preferred_label": "Abijah",
+"confidence": 0.5543,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.5457,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.487,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4674,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4674,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"preferred_label": "Trumpet",
+"confidence": 0.1791,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1791,
+"match_method": "canonical"
+},
+{
+"id": "person:Iddo.5",
+"type": "person",
+"preferred_label": "Iddo",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriel.3",
+"type": "person",
+"preferred_label": "Uriel",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Jeshanah",
+"type": "place",
+"preferred_label": "Jeshanah",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Zemaraim",
+"type": "place",
+"preferred_label": "Zemaraim",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"preferred_label": "Maacah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"preferred_label": "Bread of Display",
+"confidence": 0.1183,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"preferred_label": "Lampstand",
+"confidence": 0.1096,
+"match_method": "canonical"
+}
+]
+}
+}
+]

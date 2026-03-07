@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT165",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: City Plan: Jerusalem Rebuilt by Nehemiah",
+"media_type": "Image",
+"index_reference": "historical: city plan: jerusalem rebuilt by nehemiah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT165.png' alt='Image' width='480' /></p><p><a href='images/OT165.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1fHG__DjtAeH3xPGO86J_eYNVKFpynz6N&usp=drive_copy'>Historical: City Plan: Jerusalem Rebuilt by Nehemiah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16003038",
+"end_ref_usfm": "NEH 3:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4121,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3888,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3753,
+"match_method": "canonical"
+},
+{
+"id": "place:ValleyGate",
+"type": "place",
+"preferred_label": "Valley Gate",
+"confidence": 0.2836,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliashib.7",
+"type": "person",
+"preferred_label": "Eliashib",
+"confidence": 0.2836,
+"match_method": "canonical"
+},
+{
+"id": "place:DungGate",
+"type": "place",
+"preferred_label": "Dung Gate",
+"confidence": 0.2802,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"preferred_label": "Tower",
+"confidence": 0.271,
+"match_method": "canonical"
+},
+{
+"id": "person:Hakkoz.3",
+"type": "person",
+"preferred_label": "Hakkoz",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Meshullam.12",
+"type": "person",
+"preferred_label": "Meshullam",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "group:Horonites",
+"type": "group",
+"preferred_label": "Horonites",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Tobiah.2",
+"type": "person",
+"preferred_label": "Tobiah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Berechiah.5",
+"type": "person",
+"preferred_label": "Berechiah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "place:FountainGate",
+"type": "place",
+"preferred_label": "Fountain Gate",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"preferred_label": "Uriah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophel",
+"type": "place",
+"preferred_label": "Ophel",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"preferred_label": "Sheep Gate",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Azariah.17",
+"type": "person",
+"preferred_label": "Azariah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "place:Tekoa",
+"type": "place",
+"preferred_label": "Tekoa",
+"confidence": 0.219,
+"match_method": "canonical"
+},
+{
+"id": "person:Sanballat",
+"type": "person",
+"preferred_label": "Sanballat",
+"confidence": 0.219,
+"match_method": "canonical"
+},
+{
+"id": "person:Meremoth",
+"type": "person",
+"preferred_label": "Meremoth",
+"confidence": 0.219,
+"match_method": "canonical"
+},
+{
+"id": "place:Keilah",
+"type": "place",
+"preferred_label": "Keilah",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "place:Siloam",
+"type": "place",
+"preferred_label": "Siloam",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "person:Pahath-moab.2",
+"type": "person",
+"preferred_label": "Pahath-moab",
+"confidence": 0.1612,
+"match_method": "canonical"
+}
+]
+}
+}
+]

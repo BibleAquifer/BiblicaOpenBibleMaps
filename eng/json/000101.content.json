@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT158",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Mark: Mark 6:1–6a, Mark 6:6b-13",
+"media_type": "Image",
+"index_reference": "srv mark: mark 6:1-6a, mark 6:6b-13",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT158.png' alt='Image' width='480' /></p><p><a href='images/NT158.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Emeu9TM3MAchaKcFZYAIUgbZI1USdkF2&usp=drive_copy'>SRV Mark: Mark 6:1-6a, Mark 6:6b-13</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"preferred_label": "Herod Antipas",
+"confidence": 0.4098,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.4062,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3902,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.3321,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.3302,
+"match_method": "canonical"
+},
+{
+"id": "person:Herodias",
+"type": "person",
+"preferred_label": "Herodias",
+"confidence": 0.2777,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"preferred_label": "Fish",
+"confidence": 0.2141,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.3",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"preferred_label": "Disbelieve",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip.2",
+"type": "person",
+"preferred_label": "Philip",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"preferred_label": "Gennesaret",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"preferred_label": "Jude",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:DaughterOfHerodias",
+"type": "person",
+"preferred_label": "Daughter of Herodias",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethsaida",
+"type": "place",
+"preferred_label": "Bethsaida",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.3",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "realia:Plate.2",
+"type": "realia",
+"preferred_label": "Plate",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Haste",
+"type": "keyterm",
+"preferred_label": "Haste",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CheerUp",
+"type": "keyterm",
+"preferred_label": "Cheer Up",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.158,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,222 @@
+[
+{
+"content_id": "OT300",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Exodus: Exod. 1:15–22, Exod. 8:20–32, Exod. 9:22–34",
+"media_type": "Image",
+"index_reference": "srv exodus: exod. 1:15-22, exod. 8:20-32, exod. 9:22-34",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT300.png' alt='Image' width='480' /></p><p><a href='images/OT300.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1IxK18qzTF1_wgsUvMBKiJCnqVASLag5d&usp=drive_copy'>SRV Exodus: Exod. 1:15-22, Exod. 8:20-32, Exod. 9:22-34</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02001001",
+"start_ref_usfm": "EXO 1:1",
+"end_ref": "02001022",
+"end_ref_usfm": "EXO 1:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.5227,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4727,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.3205,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3114,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.3114,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.3114,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2591,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "place:Pithom",
+"type": "place",
+"preferred_label": "Pithom",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "person:Puah.3",
+"type": "person",
+"preferred_label": "Puah",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "person:Shiphrah",
+"type": "person",
+"preferred_label": "Shiphrah",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"preferred_label": "Simeon",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Raamses",
+"type": "place",
+"preferred_label": "Raamses",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"preferred_label": "Gad",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"preferred_label": "Asher",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"preferred_label": "Dan",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"preferred_label": "Zebulun",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "realia:Birthstool",
+"type": "realia",
+"preferred_label": "Birthstool",
+"confidence": 0.1195,
+"match_method": "canonical"
+},
+{
+"id": "realia:Brick",
+"type": "realia",
+"preferred_label": "Brick",
+"confidence": 0.1105,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,480 @@
+[
+{
+"content_id": "OT144",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Wars of Asa and Baasha",
+"media_type": "Image",
+"index_reference": "historical: the wars of asa and baasha",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT144.png' alt='Image' width='480' /></p><p><a href='images/OT144.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1WzRP-_TQ5H1XuVmg_9D0A3VBNfnI2Mq7&usp=drive_copy'>Historical: The Wars of Asa and Baasha</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11015001",
+"start_ref_usfm": "1KI 15:1",
+"end_ref": "11015034",
+"end_ref_usfm": "1KI 15:34"
+},
+{
+"start_ref": "14016001",
+"start_ref_usfm": "2CH 16:1",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Asa",
+"type": "person",
+"preferred_label": "Asa",
+"confidence": 0.6052,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5094,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "person:Baasha",
+"type": "person",
+"preferred_label": "Baasha",
+"confidence": 0.4802,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4719,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4719,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.425,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.4156,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.4062,
+"match_method": "canonical"
+},
+{
+"id": "person:Ben-hadad",
+"type": "person",
+"preferred_label": "Ben-hadad",
+"confidence": 0.3417,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.3375,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.3369,
+"match_method": "canonical"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"preferred_label": "Nadab",
+"confidence": 0.2906,
+"match_method": "canonical"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"preferred_label": "Maacah",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"preferred_label": "Abijah",
+"confidence": 0.2823,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2781,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2775,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahijah.3",
+"type": "person",
+"preferred_label": "Ahijah",
+"confidence": 0.2271,
+"match_method": "canonical"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"preferred_label": "Abel-beth-maacah",
+"confidence": 0.2271,
+"match_method": "canonical"
+},
+{
+"id": "place:Ijon",
+"type": "place",
+"preferred_label": "Ijon",
+"confidence": 0.2271,
+"match_method": "canonical"
+},
+{
+"id": "place:Geba",
+"type": "place",
+"preferred_label": "Geba",
+"confidence": 0.2229,
+"match_method": "canonical"
+},
+{
+"id": "group:Naphtali",
+"type": "group",
+"preferred_label": "Tribe of Naphtali",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"preferred_label": "Tirzah",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "place:Chinnereth",
+"type": "place",
+"preferred_label": "Chinnereth",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "person:Tabrimmon",
+"type": "person",
+"preferred_label": "Tabrimmon",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibbethon",
+"type": "place",
+"preferred_label": "Gibbethon",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"preferred_label": "Kidron",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "person:Hanani",
+"type": "person",
+"preferred_label": "Hanani",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "person:Hezion",
+"type": "person",
+"preferred_label": "Hezion",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "group:Shiloh",
+"type": "group",
+"preferred_label": "Shilonites",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"preferred_label": "Libya",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Ethiopia",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"preferred_label": "Ahijah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"preferred_label": "Uriah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"preferred_label": "Tribe of Issachar",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"preferred_label": "Image",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "flora:BalsamTree",
+"type": "flora",
+"preferred_label": "Balsam Tree",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
+"confidence": 0.0994,
+"match_method": "canonical"
+}
+]
+}
+}
+]

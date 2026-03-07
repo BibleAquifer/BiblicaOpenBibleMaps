@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT168",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Mark: Mark 10:46–51",
+"media_type": "Image",
+"index_reference": "srv mark: mark 10:46-51",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT168.png' alt='Image' width='480' /></p><p><a href='images/NT168.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41010001",
+"start_ref_usfm": "MRK 10:1",
+"end_ref": "41010052",
+"end_ref_usfm": "MRK 10:52"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4971,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4192,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.3933,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3933,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"preferred_label": "Fornication",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"preferred_label": "Commandment",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:RichYoungRuler",
+"type": "person",
+"preferred_label": "Rich Young Ruler",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.216,
+"match_method": "canonical"
+},
+{
+"id": "person:Bartimaeus",
+"type": "person",
+"preferred_label": "Bartimaeus",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Timaeus",
+"type": "person",
+"preferred_label": "Timaeus",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CheerUp",
+"type": "keyterm",
+"preferred_label": "Cheer Up",
+"confidence": 0.1587,
+"match_method": "canonical"
+}
+]
+}
+}
+]

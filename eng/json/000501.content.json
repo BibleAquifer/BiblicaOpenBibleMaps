@@ -1,0 +1,292 @@
+[
+{
+"content_id": "OT275",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 22:20–23",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 22:20-23",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT275.png' alt='Image' width='480' /></p><p><a href='images/OT275.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=10maqKxMVjla_PDZJkFROyUrn_JPieofC&usp=drive_copy'>SRV Genesis: Gen. 22:20-23</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01022001",
+"start_ref_usfm": "GEN 22:1",
+"end_ref": "01022024",
+"end_ref_usfm": "GEN 22:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.65,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5188,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.4708,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.4437,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.2546,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2458,
+"match_method": "canonical"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"preferred_label": "Milcah",
+"confidence": 0.2458,
+"match_method": "canonical"
+},
+{
+"id": "person:Bethuel",
+"type": "person",
+"preferred_label": "Bethuel",
+"confidence": 0.2458,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "realia:Knife",
+"type": "realia",
+"preferred_label": "Knife",
+"confidence": 0.1858,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1775,
+"match_method": "canonical"
+},
+{
+"id": "person:Pildash",
+"type": "person",
+"preferred_label": "Pildash",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Kemuel",
+"type": "person",
+"preferred_label": "Kemuel",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Gaham",
+"type": "person",
+"preferred_label": "Gaham",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Jidlaph",
+"type": "person",
+"preferred_label": "Jidlaph",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Uz.2",
+"type": "person",
+"preferred_label": "Uz",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Aram.2",
+"type": "person",
+"preferred_label": "Aram",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Tebah",
+"type": "person",
+"preferred_label": "Tebah",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Buz",
+"type": "person",
+"preferred_label": "Buz",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Tahash",
+"type": "person",
+"preferred_label": "Tahash",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Chesed",
+"type": "person",
+"preferred_label": "Chesed",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Reumah",
+"type": "person",
+"preferred_label": "Reumah",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Hazo",
+"type": "person",
+"preferred_label": "Hazo",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"preferred_label": "Maacah",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"preferred_label": "Rebekah",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:MoriahMount",
+"type": "place",
+"preferred_label": "Mount Moriah",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"preferred_label": "A Person",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1171,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:ToSaddle",
+"type": "realia",
+"preferred_label": "To Saddle",
+"confidence": 0.1088,
+"match_method": "canonical"
+}
+]
+}
+}
+]

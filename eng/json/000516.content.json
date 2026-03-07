@@ -1,0 +1,201 @@
+[
+{
+"content_id": "OT290",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 38:1–29",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 38:1-29",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT290.png' alt='Image' width='480' /></p><p><a href='images/OT290.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ujxHJdPTrA8rzNIByzuXrW5iDtirnh24&usp=drive_copy'>SRV Genesis: Gen. 38:1-29</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01038001",
+"start_ref_usfm": "GEN 38:1",
+"end_ref": "01038030",
+"end_ref_usfm": "GEN 38:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.5517,
+"match_method": "canonical"
+},
+{
+"id": "person:Shelah",
+"type": "person",
+"preferred_label": "Shelah",
+"confidence": 0.3733,
+"match_method": "canonical"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"preferred_label": "Tamar",
+"confidence": 0.3733,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.365,
+"match_method": "canonical"
+},
+{
+"id": "group:Adullam",
+"type": "group",
+"preferred_label": "Adullamites",
+"confidence": 0.315,
+"match_method": "canonical"
+},
+{
+"id": "place:Timnah",
+"type": "place",
+"preferred_label": "Timnah",
+"confidence": 0.315,
+"match_method": "canonical"
+},
+{
+"id": "person:Er.2",
+"type": "person",
+"preferred_label": "Er",
+"confidence": 0.3083,
+"match_method": "canonical"
+},
+{
+"id": "person:Onan",
+"type": "person",
+"preferred_label": "Onan",
+"confidence": 0.3083,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "place:Adullam",
+"type": "place",
+"preferred_label": "Adullam",
+"confidence": 0.295,
+"match_method": "canonical"
+},
+{
+"id": "person:Hirah",
+"type": "person",
+"preferred_label": "Hirah",
+"confidence": 0.2433,
+"match_method": "canonical"
+},
+{
+"id": "place:Enaim",
+"type": "place",
+"preferred_label": "Enaim",
+"confidence": 0.2433,
+"match_method": "canonical"
+},
+{
+"id": "person:Shua",
+"type": "person",
+"preferred_label": "Shua",
+"confidence": 0.2433,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"preferred_label": "Kid",
+"confidence": 0.235,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "realia:Thread",
+"type": "realia",
+"preferred_label": "Thread",
+"confidence": 0.1767,
+"match_method": "canonical"
+},
+{
+"id": "person:Zerah.3",
+"type": "person",
+"preferred_label": "Zerah",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "person:Perez",
+"type": "person",
+"preferred_label": "Perez",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"preferred_label": "Measuring Reed",
+"confidence": 0.17,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
+"confidence": 0.17,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Achzib",
+"type": "place",
+"preferred_label": "Achzib",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"preferred_label": "Play the Prostitute",
+"confidence": 0.165,
+"match_method": "canonical"
+}
+]
+}
+}
+]

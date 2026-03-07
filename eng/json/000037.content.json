@@ -1,0 +1,348 @@
+[
+{
+"content_id": "NT038",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paul and the Early Church: The Death of Herod Agrippa I",
+"media_type": "Image",
+"index_reference": "paul and the early church: the death of herod agrippa i",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT038.png' alt='Image' width='480' /></p><p><a href='images/NT038.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1c7BhCLQjyyodW6QP5MYrkZxxe38B4CtF&usp=drive_copy'>Paul and the Early Church: The Death of Herod Agrippa I</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012025",
+"end_ref_usfm": "ACT 12:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.494,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.476,
+"match_method": "canonical"
+},
+{
+"id": "person:Herod.3",
+"type": "person",
+"preferred_label": "Herod",
+"confidence": 0.464,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.458,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.312,
+"match_method": "canonical"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"preferred_label": "Mark",
+"confidence": 0.252,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.184,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"preferred_label": "Chain",
+"confidence": 0.184,
+"match_method": "canonical"
+},
+{
+"id": "person:Rhoda",
+"type": "person",
+"preferred_label": "Rhoda",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Blastus",
+"type": "person",
+"preferred_label": "Blastus",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"preferred_label": "Tyrians",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"preferred_label": "Door",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Barnabas",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"preferred_label": "Rescue",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Caesarea",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bedroom",
+"type": "realia",
+"preferred_label": "Bedroom",
+"confidence": 0.116,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sandal",
+"type": "realia",
+"preferred_label": "Sandal",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "realia:Entrance",
+"type": "realia",
+"preferred_label": "Entrance",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Maggot",
+"type": "fauna",
+"preferred_label": "Worm",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"preferred_label": "Judgment Seat",
+"confidence": 0.108,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,362 @@
+[
+{
+"content_id": "OT079",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Saul Proclaimed as King",
+"media_type": "Image",
+"index_reference": "historical: saul proclaimed as king",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT079.png' alt='Image' width='480' /></p><p><a href='images/OT079.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1bX4vH1qyFdd_wiDNKPpNf3mM6mT3cLUC&usp=drive_copy'>Historical: Saul Proclaimed as King</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010027",
+"end_ref_usfm": "1SA 10:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5833,
+"match_method": "canonical"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.4741,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.4407,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.24,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "person:Kish",
+"type": "person",
+"preferred_label": "Kish",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "person:UncleOfSaul",
+"type": "person",
+"preferred_label": "Saul's Uncle",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "place:Tabor.2",
+"type": "place",
+"preferred_label": "Oak of Tabor",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeath-elohim",
+"type": "place",
+"preferred_label": "Gibeath-elohim",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "person:Matri",
+"type": "person",
+"preferred_label": "Matri",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "place:Zelzah",
+"type": "place",
+"preferred_label": "Zelzah",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1733,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.1733,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"preferred_label": "A Person",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"preferred_label": "Proverb",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "realia:AnointingFlask",
+"type": "realia",
+"preferred_label": "Anointing Flask",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "realia:Drum",
+"type": "realia",
+"preferred_label": "Drum",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"preferred_label": "Anointing Oil",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"preferred_label": "Oak",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"preferred_label": "Flute",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Skin-bottle",
+"type": "realia",
+"preferred_label": "Skin-Bottle",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"preferred_label": "Lyre",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"preferred_label": "Kid",
+"confidence": 0.1067,
+"match_method": "canonical"
+}
+]
+}
+}
+]

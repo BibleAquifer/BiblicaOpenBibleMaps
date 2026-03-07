@@ -1,0 +1,264 @@
+[
+{
+"content_id": "OT077",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Victory at Mizpah and Samuel as Judge",
+"media_type": "Image",
+"index_reference": "historical: the victory at mizpah and samuel as judge",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT077.png' alt='Image' width='480' /></p><p><a href='images/OT077.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1QE2abloh38E8J2ehdgNlWdowHjQpWWSg&usp=drive_copy'>Historical: The Victory at Mizpah and Samuel as Judge</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09007001",
+"start_ref_usfm": "1SA 7:1",
+"end_ref": "09007017",
+"end_ref_usfm": "1SA 7:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.7471,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6676,
+"match_method": "canonical"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
+"confidence": 0.5882,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.5353,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.5353,
+"match_method": "canonical"
+},
+{
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.5088,
+"match_method": "canonical"
+},
+{
+"id": "place:Kiriath-jearim",
+"type": "place",
+"preferred_label": "Kiriath-jearim",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "deity:Ashtoreth",
+"type": "deity",
+"preferred_label": "Ashtoreth",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1929,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
+"confidence": 0.1929,
+"match_method": "canonical"
+},
+{
+"id": "person:Abinadab",
+"type": "person",
+"preferred_label": "Abinadab",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-car",
+"type": "place",
+"preferred_label": "Beth-car",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "place:Shen",
+"type": "place",
+"preferred_label": "Shen",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "person:Eleazar.3",
+"type": "person",
+"preferred_label": "Eleazar",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Ebenezer",
+"type": "place",
+"preferred_label": "Ebenezer",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Ekron",
+"type": "place",
+"preferred_label": "Ekron",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1165,
+"match_method": "canonical"
+}
+]
+}
+}
+]

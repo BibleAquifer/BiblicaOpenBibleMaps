@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT045",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "保罗与早期教会：保罗第三次传教旅程（第一部分）",
+"media_type": "Image",
+"index_reference": "保罗与早期教会：保罗第三次传教旅程（第一部分）",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT045.png' alt='Image' width='480' /></p><p><a href='images/NT045.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44019001",
+"start_ref_usfm": "ACT 19:1",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.4468,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.407,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4013,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
+"confidence": 0.4006,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.3956,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.3949,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Macedonia",
+"confidence": 0.3835,
+"match_method": "canonical"
+},
+{
+"id": "deity:Artemis",
+"type": "deity",
+"preferred_label": "Artemis",
+"confidence": 0.381,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.3785,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.3785,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3785,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "Declare",
+"confidence": 0.3253,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.3228,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.3228,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"preferred_label": "Ephesians",
+"confidence": 0.2696,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "Encourage",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "place:Miletus",
+"type": "place",
+"preferred_label": "Miletus",
+"confidence": 0.2165,
+"match_method": "canonical"
+},
+{
+"id": "person:Demetrius",
+"type": "person",
+"preferred_label": "Demetrius",
+"confidence": 0.2165,
+"match_method": "canonical"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"preferred_label": "Aristarchus",
+"confidence": 0.2139,
+"match_method": "canonical"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"preferred_label": "Troas",
+"confidence": 0.2139,
+"match_method": "canonical"
+},
+{
+"id": "place:Assos",
+"type": "place",
+"preferred_label": "Assos",
+"confidence": 0.2139,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.2114,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"preferred_label": "The Way",
+"confidence": 0.2114,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.2114,
+"match_method": "canonical"
+}
+]
+}
+}
+]

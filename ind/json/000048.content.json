@@ -1,0 +1,242 @@
+[
+{
+"content_id": "NT056",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paulus dan Gereja Mula-mula: Tesalonika",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mula-mula: tesalonika",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT056.png' alt='Image' width='480' /></p><p><a href='images/NT056.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "52001001",
+"start_ref_usfm": "1TH 1:1",
+"end_ref": "52005028",
+"end_ref_usfm": "1TH 5:28"
+},
+{
+"start_ref": "53001001",
+"start_ref_usfm": "2TH 1:1",
+"end_ref": "53003018",
+"end_ref_usfm": "2TH 3:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
+"confidence": 0.5055,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "Tuhan",
+"confidence": 0.4956,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
+"confidence": 0.4195,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.3996,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "kasihi",
+"confidence": 0.3897,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "injil",
+"confidence": 0.3798,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "kemuliaan",
+"confidence": 0.3699,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.3699,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.3699,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "menasihati",
+"confidence": 0.368,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "yang baik",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "memperdamaikan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"preferred_label": "dikhususkan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "hidup",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "jemaat",
+"confidence": 0.3132,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
+"confidence": 0.3132,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
+"confidence": 0.3132,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.3132,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.3132,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"preferred_label": "tak kenal hukum",
+"confidence": 0.2614,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Makedonia",
+"confidence": 0.2614,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"preferred_label": "lepas atau bebas dari sumpah",
+"confidence": 0.2614,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "sorga",
+"confidence": 0.2599,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "kebenaran",
+"confidence": 0.2599,
+"match_method": "canonical"
+}
+]
+}
+}
+]

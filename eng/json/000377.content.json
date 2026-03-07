@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT127",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Baasha, Zimri, and Omri",
+"media_type": "Image",
+"index_reference": "historical: baasha, zimri, and omri",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT127.png' alt='Image' width='480' /></p><p><a href='images/OT127.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1G5ZsXKZlsGOlr5BwxtF6HYDux7fLRZDq&usp=drive_copy'>Historical: Baasha, Zimri, and Omri</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11015001",
+"start_ref_usfm": "1KI 15:1",
+"end_ref": "11016034",
+"end_ref_usfm": "1KI 16:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5353,
+"match_method": "canonical"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"preferred_label": "Asa",
+"confidence": 0.5037,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.489,
+"match_method": "canonical"
+},
+{
+"id": "person:Baasha",
+"type": "person",
+"preferred_label": "Baasha",
+"confidence": 0.4846,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4426,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4426,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.4426,
+"match_method": "canonical"
+},
+{
+"id": "person:Omri",
+"type": "person",
+"preferred_label": "Omri",
+"confidence": 0.425,
+"match_method": "canonical"
+},
+{
+"id": "person:Zimri.2",
+"type": "person",
+"preferred_label": "Zimri",
+"confidence": 0.414,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.4096,
+"match_method": "canonical"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"preferred_label": "Tirzah",
+"confidence": 0.4029,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3897,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.3831,
+"match_method": "canonical"
+},
+{
+"id": "person:Elah.2",
+"type": "person",
+"preferred_label": "Elah",
+"confidence": 0.3412,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.3382,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.3265,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3231,
+"match_method": "canonical"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"preferred_label": "Nadab",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"preferred_label": "Maacah",
+"confidence": 0.2757,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehu",
+"type": "person",
+"preferred_label": "Jehu",
+"confidence": 0.2757,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibbethon",
+"type": "place",
+"preferred_label": "Gibbethon",
+"confidence": 0.2728,
+"match_method": "canonical"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"preferred_label": "Abijah",
+"confidence": 0.2728,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.2699,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2699,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.2665,
+"match_method": "canonical"
+},
+{
+"id": "person:Ginath",
+"type": "person",
+"preferred_label": "Ginath",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahijah.3",
+"type": "person",
+"preferred_label": "Ahijah",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Tibni",
+"type": "person",
+"preferred_label": "Tibni",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Ben-hadad",
+"type": "person",
+"preferred_label": "Ben-hadad",
+"confidence": 0.2162,
+"match_method": "canonical"
+}
+]
+}
+}
+]

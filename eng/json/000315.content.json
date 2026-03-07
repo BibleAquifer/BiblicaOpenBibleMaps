@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT065",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Gideon",
+"media_type": "Image",
+"index_reference": "historical: gideon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT065.png' alt='Image' width='480' /></p><p><a href='images/OT065.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13h_D7uBIrok861T0wUFXLaciT2pqro07&usp=drive_copy'>Historical: Gideon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07006001",
+"start_ref_usfm": "JDG 6:1",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"preferred_label": "Gideon",
+"confidence": 0.5315,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.53,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.48,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.449,
+"match_method": "canonical"
+},
+{
+"id": "person:Joash",
+"type": "person",
+"preferred_label": "Joash",
+"confidence": 0.392,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebah",
+"type": "person",
+"preferred_label": "Zebah",
+"confidence": 0.39,
+"match_method": "canonical"
+},
+{
+"id": "person:Zalmunna",
+"type": "person",
+"preferred_label": "Zalmunna",
+"confidence": 0.39,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.3815,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.377,
+"match_method": "canonical"
+},
+{
+"id": "place:Succoth",
+"type": "place",
+"preferred_label": "Succoth",
+"confidence": 0.377,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.377,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiezer",
+"type": "person",
+"preferred_label": "Abiezer",
+"confidence": 0.3765,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophrah.2",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.322,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "place:East",
+"type": "place",
+"preferred_label": "East",
+"confidence": 0.318,
+"match_method": "canonical"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
+"confidence": 0.318,
+"match_method": "canonical"
+},
+{
+"id": "group:Abiezer",
+"type": "group",
+"preferred_label": "Abiezrites",
+"confidence": 0.2695,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "place:Penuel",
+"type": "place",
+"preferred_label": "Penuel",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2635,
+"match_method": "canonical"
+}
+]
+}
+}
+]

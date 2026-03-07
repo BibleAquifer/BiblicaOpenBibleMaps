@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT071",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Sins of the Benjaminites",
+"media_type": "Image",
+"index_reference": "historical: sins of the benjaminites",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT071.png' alt='Image' width='480' /></p><p><a href='images/OT071.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1lyZUrKxu3hzF7pjJ_uBiNYrnM0bPJ8bn&usp=drive_copy'>Historical: Sins of the Benjaminites</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07019001",
+"start_ref_usfm": "JDG 19:1",
+"end_ref": "07021025",
+"end_ref_usfm": "JDG 21:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5597,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.5267,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.5248,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.4505,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4199,
+"match_method": "canonical"
+},
+{
+"id": "place:Jabesh-gilead",
+"type": "place",
+"preferred_label": "Jabesh-gilead",
+"confidence": 0.3777,
+"match_method": "canonical"
+},
+{
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.3757,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.3718,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3381,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.3293,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericFather",
+"type": "person",
+"preferred_label": "A Father",
+"confidence": 0.3175,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"preferred_label": "Foolish",
+"confidence": 0.3175,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.3175,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.3118,
+"match_method": "canonical"
+},
+{
+"id": "place:Rimmon.3",
+"type": "place",
+"preferred_label": "Rock of Rimmon",
+"confidence": 0.2689,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2631,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2631,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.2631,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.2631,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2631,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericMale",
+"type": "person",
+"preferred_label": "A Man",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.2031,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT105",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Banishment and Return of Absalom",
+"media_type": "Image",
+"index_reference": "historical: banishment and return of absalom",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT105.png' alt='Image' width='480' /></p><p><a href='images/OT105.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1IW60DP5AOWF3-lRep_edh8zeVj-E8lnK&usp=drive_copy'>Historical: Banishment and Return of Absalom</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10013001",
+"start_ref_usfm": "2SA 13:1",
+"end_ref": "10014033",
+"end_ref_usfm": "2SA 14:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
+"confidence": 0.534,
+"match_method": "canonical"
+},
+{
+"id": "person:Amnon",
+"type": "person",
+"preferred_label": "Amnon",
+"confidence": 0.4715,
+"match_method": "canonical"
+},
+{
+"id": "person:Tamar.2",
+"type": "person",
+"preferred_label": "Tamar",
+"confidence": 0.4333,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.4313,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3938,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3875,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonadab.2",
+"type": "person",
+"preferred_label": "Jonadab",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "place:Geshur",
+"type": "place",
+"preferred_label": "Geshur",
+"confidence": 0.3306,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3275,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2687,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"preferred_label": "A Woman",
+"confidence": 0.2687,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2687,
+"match_method": "canonical"
+},
+{
+"id": "place:Tekoa",
+"type": "place",
+"preferred_label": "Tekoa",
+"confidence": 0.2687,
+"match_method": "canonical"
+},
+{
+"id": "person:Shimeah.2",
+"type": "person",
+"preferred_label": "Shimeah",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cake",
+"type": "realia",
+"preferred_label": "Cake",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"preferred_label": "Ephraim",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "person:Ammihud.4",
+"type": "person",
+"preferred_label": "Ammihud",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "person:Talmai.2",
+"type": "person",
+"preferred_label": "Talmai",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"preferred_label": "Tamar",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "place:Baal-hazor",
+"type": "place",
+"preferred_label": "Baal-hazor",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1562,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1562,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"preferred_label": "Foolish",
+"confidence": 0.1562,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"preferred_label": "Zeruiah",
+"confidence": 0.1562,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1562,
+"match_method": "canonical"
+}
+]
+}
+}
+]

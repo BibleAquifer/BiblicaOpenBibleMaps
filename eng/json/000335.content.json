@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT085",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: David and Goliath",
+"media_type": "Image",
+"index_reference": "historical: david and goliath",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT085.png' alt='Image' width='480' /></p><p><a href='images/OT085.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=11JfgBinU1np13b4nHOcEiXhNj70RB2At&usp=drive_copy'>Historical: David and Goliath</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09017001",
+"start_ref_usfm": "1SA 17:1",
+"end_ref": "09017058",
+"end_ref_usfm": "1SA 17:58"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.6017,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.5983,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.5828,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.4897,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4586,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4043,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.3888,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.3288,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.3288,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.3288,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.2767,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "person:Goliath",
+"type": "person",
+"preferred_label": "Goliath",
+"confidence": 0.2328,
+"match_method": "canonical"
+},
+{
+"id": "place:ElahValley",
+"type": "place",
+"preferred_label": "Valley of Elah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliab.3",
+"type": "person",
+"preferred_label": "Eliab",
+"confidence": 0.219,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sling",
+"type": "realia",
+"preferred_label": "Sling",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"preferred_label": "Bear",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "person:Abner",
+"type": "person",
+"preferred_label": "Abner",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"preferred_label": "Uncircumcised Person",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "realia:CoatOfMail",
+"type": "realia",
+"preferred_label": "Coat of Mail",
+"confidence": 0.1624,
+"match_method": "canonical"
+},
+{
+"id": "place:Shaaraim",
+"type": "place",
+"preferred_label": "Shaaraim",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "place:Socoh",
+"type": "place",
+"preferred_label": "Socoh",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "person:Abinadab.3",
+"type": "person",
+"preferred_label": "Abinadab",
+"confidence": 0.1612,
+"match_method": "canonical"
+}
+]
+}
+}
+]

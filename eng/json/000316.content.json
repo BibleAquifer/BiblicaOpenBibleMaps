@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT066",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Abimelek",
+"media_type": "Image",
+"index_reference": "historical: abimelek",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT066.png' alt='Image' width='480' /></p><p><a href='images/OT066.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1FrtJpnNn1eylg-nlojZuNBubYRl50Xsb&usp=drive_copy'>Historical: Abimelek</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07009001",
+"start_ref_usfm": "JDG 9:1",
+"end_ref": "07009057",
+"end_ref_usfm": "JDG 9:57"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abimelech.2",
+"type": "person",
+"preferred_label": "Abimelech",
+"confidence": 0.6395,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.5079,
+"match_method": "canonical"
+},
+{
+"id": "person:Gaal",
+"type": "person",
+"preferred_label": "Gaal",
+"confidence": 0.4316,
+"match_method": "canonical"
+},
+{
+"id": "person:Gideon",
+"type": "person",
+"preferred_label": "Gideon",
+"confidence": 0.4202,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4053,
+"match_method": "canonical"
+},
+{
+"id": "person:Ebed",
+"type": "person",
+"preferred_label": "Ebed",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebul",
+"type": "person",
+"preferred_label": "Zebul",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "person:Jotham",
+"type": "person",
+"preferred_label": "Jotham",
+"confidence": 0.3421,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"preferred_label": "Tower",
+"confidence": 0.3295,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.2737,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2716,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-millo",
+"type": "place",
+"preferred_label": "Beth-millo",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.2137,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal-berith",
+"type": "deity",
+"preferred_label": "Baal-Berith",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:Arumah",
+"type": "place",
+"preferred_label": "Arumah",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:GerizimMount",
+"type": "place",
+"preferred_label": "Mount Gerizim",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "deity:El-berith",
+"type": "deity",
+"preferred_label": "El-Berith",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:DivinersOak",
+"type": "place",
+"preferred_label": "Diviners’ Oak",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:Thebez",
+"type": "place",
+"preferred_label": "Thebez",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophrah.2",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"preferred_label": "Boxthorn",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "place:Beeroth",
+"type": "place",
+"preferred_label": "Beeroth",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Deceit",
+"type": "keyterm",
+"preferred_label": "Deceit",
+"confidence": 0.1579,
+"match_method": "canonical"
+}
+]
+}
+}
+]

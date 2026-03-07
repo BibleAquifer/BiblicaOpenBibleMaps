@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT072",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Ruth",
+"media_type": "Image",
+"index_reference": "historical: ruth",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT072.png' alt='Image' width='480' /></p><p><a href='images/OT072.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1OX3TSjuNX5bA0fwXVUjch8knJyXDeEUy&usp=drive_copy'>Historical: Ruth</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "08001001",
+"start_ref_usfm": "RUT 1:1",
+"end_ref": "08004022",
+"end_ref_usfm": "RUT 4:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Naomi",
+"type": "person",
+"preferred_label": "Naomi",
+"confidence": 0.4629,
+"match_method": "canonical"
+},
+{
+"id": "person:Boaz",
+"type": "person",
+"preferred_label": "Boaz",
+"confidence": 0.45,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4453,
+"match_method": "canonical"
+},
+{
+"id": "person:Ruth",
+"type": "person",
+"preferred_label": "Ruth",
+"confidence": 0.4206,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.4106,
+"match_method": "canonical"
+},
+{
+"id": "person:Elimelech",
+"type": "person",
+"preferred_label": "Elimelech",
+"confidence": 0.3841,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.3818,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.3765,
+"match_method": "canonical"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
+"confidence": 0.3641,
+"match_method": "canonical"
+},
+{
+"id": "person:Mahlon",
+"type": "person",
+"preferred_label": "Mahlon",
+"confidence": 0.3235,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "person:Chilion",
+"type": "person",
+"preferred_label": "Chilion",
+"confidence": 0.2729,
+"match_method": "canonical"
+},
+{
+"id": "person:Obed",
+"type": "person",
+"preferred_label": "Obed",
+"confidence": 0.2682,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2659,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.2659,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2659,
+"match_method": "canonical"
+},
+{
+"id": "realia:ThreshingFloor",
+"type": "realia",
+"preferred_label": "Threshing Floor",
+"confidence": 0.2612,
+"match_method": "canonical"
+},
+{
+"id": "person:KinsmanRedeemer",
+"type": "person",
+"preferred_label": "Kinsman Redeemer",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericFemales",
+"type": "group",
+"preferred_label": "Women",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "person:Orpah",
+"type": "person",
+"preferred_label": "Orpah",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "person:Hezron.2",
+"type": "person",
+"preferred_label": "Hezron",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "person:Salmon",
+"type": "person",
+"preferred_label": "Salmon",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "person:Perez",
+"type": "person",
+"preferred_label": "Perez",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "person:Amminadab",
+"type": "person",
+"preferred_label": "Amminadab",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephrathah",
+"type": "person",
+"preferred_label": "Ephrathah",
+"confidence": 0.1576,
+"match_method": "canonical"
+}
+]
+}
+}
+]

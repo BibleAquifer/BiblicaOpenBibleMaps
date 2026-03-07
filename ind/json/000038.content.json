@@ -1,0 +1,495 @@
+[
+{
+"content_id": "NT046",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Ketiga Paulus (Bagian 2)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mula-mula: perjalanan misi ketiga paulus (bagian 2)",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT046.png' alt='Image' width='480' /></p><p><a href='images/NT046.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44021001",
+"start_ref_usfm": "ACT 21:1",
+"end_ref": "44021040",
+"end_ref_usfm": "ACT 21:40"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
+"confidence": 0.4738,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
+"confidence": 0.4287,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4062,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.3575,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.345,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "Tuhan",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "hukum",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Kaisarea",
+"confidence": 0.2275,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.2238,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "murni",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Siprus",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "menjadi murid",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tirus",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "realia:Step",
+"type": "realia",
+"preferred_label": "Step",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Mnason",
+"type": "person",
+"preferred_label": "Manason",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Patara",
+"type": "place",
+"preferred_label": "Patara",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarsus",
+"type": "place",
+"preferred_label": "Tarsus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Kilikia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Trophimus",
+"type": "person",
+"preferred_label": "Trofimus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Rhodes",
+"type": "place",
+"preferred_label": "Rodos",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"preferred_label": "Filipus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Agabus",
+"type": "person",
+"preferred_label": "Agabus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"preferred_label": "Fenisia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"preferred_label": "Tarsus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "group:Cyprus",
+"type": "group",
+"preferred_label": "Cypriots",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Cos",
+"type": "place",
+"preferred_label": "Kos",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"preferred_label": "persundalan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Yunani",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"preferred_label": "Ephesians",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "membujuk",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Musa",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Acco",
+"type": "place",
+"preferred_label": "Ako",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "kemuliaan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "Yakobus",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"preferred_label": "bernazar",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "pencemaran",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SomethingDefinite",
+"type": "keyterm",
+"preferred_label": "apa yang sebenarnya terjadi",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "kepenuhan (roh) seperti nabi",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Efesus",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "persembahan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "memutuskan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Mesir",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Yehuda",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "hidup",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:MilitaryMember",
+"type": "person",
+"preferred_label": "Military Member",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "melayani",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "darah",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
+"confidence": 0.1063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"preferred_label": "Bag",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"preferred_label": "Tabernacle",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"preferred_label": "Door",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"preferred_label": "Chain",
+"confidence": 0.1013,
+"match_method": "canonical"
+}
+]
+}
+}
+]

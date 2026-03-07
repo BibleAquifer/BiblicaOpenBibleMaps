@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT216",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Luke: Luke 8:40–55",
+"media_type": "Image",
+"index_reference": "srv luke: luke 8:40-55",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT216.png' alt='Image' width='480' /></p><p><a href='images/NT216.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1AXLytuapOtv2Hy5B6rBFskNkndrfqbQl&usp=drive_copy'>SRV Luke: Luke 8:40-55</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42008001",
+"start_ref_usfm": "LUK 8:1",
+"end_ref": "42008056",
+"end_ref_usfm": "LUK 8:56"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4223,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.4062,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3982,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.3902,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.3357,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.3321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.3321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.3321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2741,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2721,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DailyLife",
+"type": "keyterm",
+"preferred_label": "Daily Life",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "place:Gerasa",
+"type": "place",
+"preferred_label": "Gerasa",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"preferred_label": "Abyss",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "deity:Legion",
+"type": "deity",
+"preferred_label": "Legion",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Susanna",
+"type": "person",
+"preferred_label": "Susanna",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Jairus",
+"type": "person",
+"preferred_label": "Jairus",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Joanna",
+"type": "person",
+"preferred_label": "Joanna",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"preferred_label": "Mary Magdalene",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"preferred_label": "Be Demon Possessed",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Chuza",
+"type": "person",
+"preferred_label": "Chuza",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"preferred_label": "Honest",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.158,
+"match_method": "canonical"
+}
+]
+}
+}
+]

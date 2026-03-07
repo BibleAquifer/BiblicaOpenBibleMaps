@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT223",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Luke: Luke 12:49–58",
+"media_type": "Image",
+"index_reference": "srv luke: luke 12:49-58",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT223.png' alt='Image' width='480' /></p><p><a href='images/NT223.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1kEpSeuCXU8Ey7ajUoKaWTsozFbroe8GR&usp=drive_copy'>SRV Luke: Luke 12:49-58</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012059",
+"end_ref_usfm": "LUK 12:59"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4186,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.3305,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.2729,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2729,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2729,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.2729,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"preferred_label": "Gehenna",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hypocrisy",
+"type": "keyterm",
+"preferred_label": "Hypocrisy",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "realia:Barn",
+"type": "realia",
+"preferred_label": "Barn",
+"confidence": 0.1586,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"preferred_label": "Having Little Faith",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"preferred_label": "Interpret",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"preferred_label": "Faithfulness",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringIn",
+"type": "keyterm",
+"preferred_label": "Bring In",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SetFree",
+"type": "keyterm",
+"preferred_label": "Set Free",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.1576,
+"match_method": "canonical"
+}
+]
+}
+}
+]

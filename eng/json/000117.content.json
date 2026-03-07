@@ -1,0 +1,411 @@
+[
+{
+"content_id": "NT174",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Mark: Mark 15:40–46",
+"media_type": "Image",
+"index_reference": "srv mark: mark 15:40-46",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT174.png' alt='Image' width='480' /></p><p><a href='images/NT174.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1taeF34_6P1_ECoFJv45eYEuFMlAw8n6o&usp=drive_copy'>SRV Mark: Mark 15:40-46</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41015001",
+"start_ref_usfm": "MRK 15:1",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"preferred_label": "Pilate",
+"confidence": 0.4457,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.417,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.3979,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"preferred_label": "Cross",
+"confidence": 0.3857,
+"match_method": "canonical"
+},
+{
+"id": "person:Barabbas",
+"type": "person",
+"preferred_label": "Barabbas",
+"confidence": 0.2872,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.6",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.2234,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.2234,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"preferred_label": "Mary Magdalene",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:James.4",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"preferred_label": "Golgotha",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.3",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Alexander",
+"type": "person",
+"preferred_label": "Alexander",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Centurion.3",
+"type": "person",
+"preferred_label": "Centurion at Crucifixion",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Rufus",
+"type": "person",
+"preferred_label": "Rufus",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Cyrene",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.5",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.5",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Salome",
+"type": "person",
+"preferred_label": "Salome",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Arimathea",
+"type": "place",
+"preferred_label": "Arimathea",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"preferred_label": "Purple Cloth",
+"confidence": 0.1634,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"preferred_label": "Priests",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericElders",
+"type": "group",
+"preferred_label": "Elders",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"preferred_label": "Religious Officials",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DayBeforeTheSabbath",
+"type": "keyterm",
+"preferred_label": "Day Before the Sabbath",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"preferred_label": "Reed",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"preferred_label": "Myrrh",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "realia:MyrrhedWine",
+"type": "realia",
+"preferred_label": "Myrrhed Wine",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "realia:Palace",
+"type": "realia",
+"preferred_label": "Palace",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "realia:Courtyard",
+"type": "realia",
+"preferred_label": "Courtyard",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"preferred_label": "Acacia",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"preferred_label": "Boxthorn",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"preferred_label": "Crown",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"preferred_label": "Crown",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:SourWine",
+"type": "realia",
+"preferred_label": "Sour Wine",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"preferred_label": "Lot",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"preferred_label": "Linen",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Curtain",
+"type": "realia",
+"preferred_label": "Curtain",
+"confidence": 0.0996,
+"match_method": "canonical"
+}
+]
+}
+}
+]

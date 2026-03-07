@@ -1,0 +1,292 @@
+[
+{
+"content_id": "OT013",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: Abraham in Egypt and the Separation from Lot",
+"media_type": "Image",
+"index_reference": "pentateuch: abraham in egypt and the separation from lot",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT013.png' alt='Image' width='480' /></p><p><a href='images/OT013.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1BaJCXqMKhcblztZZhqbFn_pRpbB-j9P-&usp=drive_copy'>Pentateuch: Abraham in Egypt and the Separation from Lot</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01013018",
+"end_ref_usfm": "GEN 13:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.5921,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.4737,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4684,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.4263,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.3632,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.3526,
+"match_method": "canonical"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
+"confidence": 0.2908,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"preferred_label": "Ai",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"preferred_label": "Tent",
+"confidence": 0.2255,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"preferred_label": "Oak",
+"confidence": 0.1689,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Moreh",
+"type": "place",
+"preferred_label": "Oak of Moreh",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Zoar",
+"type": "place",
+"preferred_label": "Zoar",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"preferred_label": "Gomorrah",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1018,
+"match_method": "canonical"
+}
+]
+}
+}
+]

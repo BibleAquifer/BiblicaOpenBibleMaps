@@ -1,0 +1,334 @@
+[
+{
+"content_id": "OT083",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Saul Destroys the Amalekites",
+"media_type": "Image",
+"index_reference": "historical: saul destroys the amalekites",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT083.png' alt='Image' width='480' /></p><p><a href='images/OT083.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1KI_ZUDiM7tXOxpqUHYtd1TS5XqHY7SAs&usp=drive_copy'>Historical: Saul Destroys the Amalekites</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6329,
+"match_method": "canonical"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
+"confidence": 0.5943,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.5686,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
+"confidence": 0.4843,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4657,
+"match_method": "canonical"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
+"confidence": 0.44,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
+"confidence": 0.4329,
+"match_method": "canonical"
+},
+{
+"id": "person:Agag.2",
+"type": "person",
+"preferred_label": "Agag",
+"confidence": 0.4314,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.4143,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.3543,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.3514,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.2914,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.2914,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2886,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.2886,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.2286,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Telaim",
+"type": "place",
+"preferred_label": "Telaim",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Havilah.2",
+"type": "place",
+"preferred_label": "Havilah",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Carmel",
+"type": "place",
+"preferred_label": "Carmel",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SomethingDevotedToGod",
+"type": "keyterm",
+"preferred_label": "Something Devoted to God",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"preferred_label": "Kenites",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1657,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:FeeForDivination",
+"type": "keyterm",
+"preferred_label": "Fee for Divination",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"preferred_label": "Mischief",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"preferred_label": "Shur",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"preferred_label": "Teraphim",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "realia:Robe",
+"type": "realia",
+"preferred_label": "Robe",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:HouseholdIdols",
+"type": "realia",
+"preferred_label": "Household Idols",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1029,
+"match_method": "canonical"
+}
+]
+}
+}
+]

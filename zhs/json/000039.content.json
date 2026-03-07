@@ -1,0 +1,285 @@
+[
+{
+"content_id": "NT047",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "保罗与早期教会：保罗被捕并押送至该撒利亚",
+"media_type": "Image",
+"index_reference": "保罗与早期教会：保罗被捕并押送至该撒利亚",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT047.png' alt='Image' width='480' /></p><p><a href='images/NT047.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44023001",
+"start_ref_usfm": "ACT 23:1",
+"end_ref": "44023035",
+"end_ref_usfm": "ACT 23:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.53,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.3514,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.2886,
+"match_method": "canonical"
+},
+{
+"id": "group:Sadducee",
+"type": "group",
+"preferred_label": "Sadducees",
+"confidence": 0.2886,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.2886,
+"match_method": "canonical"
+},
+{
+"id": "person:Felix",
+"type": "person",
+"preferred_label": "Felix",
+"confidence": 0.2371,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.2314,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Caesarea",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CheerUp",
+"type": "keyterm",
+"preferred_label": "Cheer Up",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Cilicia",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Lysias",
+"type": "person",
+"preferred_label": "Lysias",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Ananias.3",
+"type": "person",
+"preferred_label": "Ananias",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Antipatris",
+"type": "place",
+"preferred_label": "Antipatris",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disobey",
+"type": "keyterm",
+"preferred_label": "Disobey",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "Declare",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decision",
+"type": "keyterm",
+"preferred_label": "Decision",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"preferred_label": "Rescue",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "Promise",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Herod",
+"type": "person",
+"preferred_label": "Herod",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"preferred_label": "Conscience",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "Live",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:MilitaryMember",
+"type": "person",
+"preferred_label": "Military Member",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "realia:Palace",
+"type": "realia",
+"preferred_label": "Palace",
+"confidence": 0.1086,
+"match_method": "canonical"
+}
+]
+}
+}
+]

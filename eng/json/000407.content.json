@@ -1,0 +1,257 @@
+[
+{
+"content_id": "OT157",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Elijah's Flight to Mt. Horeb and Damascus",
+"media_type": "Image",
+"index_reference": "historical: elijah's flight to mt. horeb and damascus",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT157.png' alt='Image' width='480' /></p><p><a href='images/OT157.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ESSN_UppnHRD3una_4su4UindAk9goys&usp=drive_copy'>Historical: Elijah's Flight to Mt. Horeb and Damascus</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11019001",
+"start_ref_usfm": "1KI 19:1",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5643,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3857,
+"match_method": "canonical"
+},
+{
+"id": "person:Elisha",
+"type": "person",
+"preferred_label": "Elisha",
+"confidence": 0.3238,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.3143,
+"match_method": "canonical"
+},
+{
+"id": "person:Shaphat.2",
+"type": "person",
+"preferred_label": "Shaphat",
+"confidence": 0.2619,
+"match_method": "canonical"
+},
+{
+"id": "person:Hazael",
+"type": "person",
+"preferred_label": "Hazael",
+"confidence": 0.2524,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehu.2",
+"type": "person",
+"preferred_label": "Jehu",
+"confidence": 0.2524,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
+"confidence": 0.2524,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.2429,
+"match_method": "canonical"
+},
+{
+"id": "person:Jezebel",
+"type": "person",
+"preferred_label": "Jezebel",
+"confidence": 0.2429,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.2429,
+"match_method": "canonical"
+},
+{
+"id": "flora:Broom",
+"type": "flora",
+"preferred_label": "Broom",
+"confidence": 0.1924,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1829,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1829,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1829,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1829,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1829,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1829,
+"match_method": "canonical"
+},
+{
+"id": "person:Nimshi",
+"type": "person",
+"preferred_label": "Nimshi",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "place:Abel-meholah",
+"type": "place",
+"preferred_label": "Abel-meholah",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"preferred_label": "Mount Sinai",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"preferred_label": "Clay Jar",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "realia:Mattock",
+"type": "realia",
+"preferred_label": "Mattock",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1114,
+"match_method": "canonical"
+}
+]
+}
+}
+]

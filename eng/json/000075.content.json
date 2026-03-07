@@ -1,0 +1,257 @@
+[
+{
+"content_id": "NT115",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Matthew: Matt. 17:1–12",
+"media_type": "Image",
+"index_reference": "srv matthew: matt. 17:1-12",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT115.png' alt='Image' width='480' /></p><p><a href='images/NT115.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1TMMdlA6inFiEtzljiIbo-FR7Xv1ez_0B&usp=drive_copy'>SRV Matthew: Matt. 17:1-12</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017027",
+"end_ref_usfm": "MAT 17:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.5333,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.4407,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.4333,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.3667,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PollTax",
+"type": "keyterm",
+"preferred_label": "Poll Tax",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"preferred_label": "Beloved",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Tax",
+"type": "keyterm",
+"preferred_label": "Tax",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "realia:Two-drachmaPiece",
+"type": "realia",
+"preferred_label": "Two-Drachma Piece",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "realia:Stater",
+"type": "realia",
+"preferred_label": "Stater",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "flora:Mustard",
+"type": "flora",
+"preferred_label": "Mustard",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fishhook",
+"type": "realia",
+"preferred_label": "Fishhook",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"preferred_label": "Fish",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"preferred_label": "Tent",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
+"confidence": 0.1067,
+"match_method": "canonical"
+}
+]
+}
+}
+]

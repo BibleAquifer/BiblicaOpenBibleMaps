@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT184",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: The Defeat of Sennacherib",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: the defeat of sennacherib",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT184.png' alt='Image' width='480' /></p><p><a href='images/OT184.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1ACwNP9aeZ7OdeFC0IsVQcJCddYzHu0nu/view?usp=drive_link'>Wisdom & Prophets: The Defeat of Sennacherib</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23036001",
+"start_ref_usfm": "ISA 36:1",
+"end_ref": "23037038",
+"end_ref_usfm": "ISA 37:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.545,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.485,
+"match_method": "canonical"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"preferred_label": "Hezekiah",
+"confidence": 0.4808,
+"match_method": "canonical"
+},
+{
+"id": "person:Rabshakeh",
+"type": "person",
+"preferred_label": "Rabshakeh",
+"confidence": 0.4167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.4025,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.395,
+"match_method": "canonical"
+},
+{
+"id": "person:Sennacherib",
+"type": "person",
+"preferred_label": "Sennacherib",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "person:Shebna",
+"type": "person",
+"preferred_label": "Shebna",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliakim.3",
+"type": "person",
+"preferred_label": "Eliakim",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "person:Joah",
+"type": "person",
+"preferred_label": "Joah",
+"confidence": 0.2758,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "place:Sepharvaim",
+"type": "place",
+"preferred_label": "Sepharvaim",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"preferred_label": "Asaph",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Arpad",
+"type": "place",
+"preferred_label": "Arpad",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Hilkiah",
+"type": "person",
+"preferred_label": "Hilkiah",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Amoz",
+"type": "person",
+"preferred_label": "Amoz",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "place:Rezeph",
+"type": "place",
+"preferred_label": "Rezeph",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "place:Telassar",
+"type": "place",
+"preferred_label": "Telassar",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "place:Ivvah",
+"type": "place",
+"preferred_label": "Ivvah",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Esarhaddon",
+"type": "person",
+"preferred_label": "Esarhaddon",
+"confidence": 0.1608,
+"match_method": "canonical"
+}
+]
+}
+}
+]

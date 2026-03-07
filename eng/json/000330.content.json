@@ -1,0 +1,180 @@
+[
+{
+"content_id": "OT080",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Saul Defeats Nahash",
+"media_type": "Image",
+"index_reference": "historical: saul defeats nahash",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT080.png' alt='Image' width='480' /></p><p><a href='images/OT080.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1IrEF165h1upXPdluzcaiPutUA8trDRyr&usp=drive_copy'>Historical: Saul Defeats Nahash</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09011001",
+"start_ref_usfm": "1SA 11:1",
+"end_ref": "09011015",
+"end_ref_usfm": "1SA 11:15"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.59,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.53,
+"match_method": "canonical"
+},
+{
+"id": "place:Jabesh-gilead",
+"type": "place",
+"preferred_label": "Jabesh-gilead",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.42,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.42,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahash",
+"type": "person",
+"preferred_label": "Nahash",
+"confidence": 0.2867,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericMales",
+"type": "group",
+"preferred_label": "Men",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "place:Bezek.2",
+"type": "place",
+"preferred_label": "Bezek",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericElders",
+"type": "group",
+"preferred_label": "Elders",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.18,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT022",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: The Migrations of Jacob (Part 3)",
+"media_type": "Image",
+"index_reference": "pentateuch: the migrations of jacob (part 3)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT022.png' alt='Image' width='480' /></p><p><a href='images/OT022.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ClHqUc5o5lJ5ZXcjNBBPbEstWIyj7U0o&usp=drive_copy'>Pentateuch: The Migrations of Jacob (Part 3)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01034001",
+"start_ref_usfm": "GEN 34:1",
+"end_ref": "01035029",
+"end_ref_usfm": "GEN 35:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5483,
+"match_method": "canonical"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"preferred_label": "Shechem",
+"confidence": 0.435,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4325,
+"match_method": "canonical"
+},
+{
+"id": "person:Hamor",
+"type": "person",
+"preferred_label": "Hamor",
+"confidence": 0.4242,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.4025,
+"match_method": "canonical"
+},
+{
+"id": "person:Dinah",
+"type": "person",
+"preferred_label": "Dinah",
+"confidence": 0.3983,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.3908,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "Circumcision",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "person:Leah",
+"type": "person",
+"preferred_label": "Leah",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"preferred_label": "Simeon",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.2283,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"preferred_label": "Paddan-aram",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Bilhah",
+"type": "person",
+"preferred_label": "Bilhah",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "place:TowerOfEder",
+"type": "place",
+"preferred_label": "Tower of Eder",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"preferred_label": "Deborah",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "place:Allon-bacuth",
+"type": "place",
+"preferred_label": "Allon-bachuth",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericMidwife",
+"type": "person",
+"preferred_label": "A Midwife",
+"confidence": 0.1608,
+"match_method": "canonical"
+}
+]
+}
+}
+]

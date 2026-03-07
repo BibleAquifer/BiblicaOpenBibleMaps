@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT017",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "耶穌的生平：約翰福音中耶穌最後一次前往耶路撒冷",
+"media_type": "Image",
+"index_reference": "耶穌的生平：約翰福音中耶穌最後一次前往耶路撒冷",
+"language": "zht",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT017.png' alt='Image' width='480' /></p><p><a href='images/NT017.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43012050",
+"end_ref_usfm": "JHN 12:50"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.5266,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.4173,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4047,
+"match_method": "canonical"
+},
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"preferred_label": "Lazarus",
+"confidence": 0.4019,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.3921,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.3916,
+"match_method": "canonical"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"preferred_label": "Martha",
+"confidence": 0.3916,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.3794,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.3794,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3752,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.3729,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.371,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.3168,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.3168,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"preferred_label": "Bethany",
+"confidence": 0.2664,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"preferred_label": "Commandment",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Friendship",
+"type": "keyterm",
+"preferred_label": "Friendship",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.2568,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"preferred_label": "Stumble",
+"confidence": 0.2103,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"preferred_label": "Philip",
+"confidence": 0.2103,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.2103,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.2084,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2084,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2084,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2084,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2084,
+"match_method": "canonical"
+}
+]
+}
+}
+]

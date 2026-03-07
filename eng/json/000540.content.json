@@ -1,0 +1,292 @@
+[
+{
+"content_id": "OT318",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Exodus: Exod. 23:20–32",
+"media_type": "Image",
+"index_reference": "srv exodus: exod. 23:20-32",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT318.png' alt='Image' width='480' /></p><p><a href='images/OT318.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1NIPUDbajOUgNU7n4om9kXFbpSb9yZfS_&usp=drive_copy'>SRV Exodus: Exod. 23:20-32</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023033",
+"end_ref_usfm": "EXO 23:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4455,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2909,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.2309,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "place:GreatSea",
+"type": "place",
+"preferred_label": "Mediterranean Sea",
+"confidence": 0.1697,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"preferred_label": "Terror",
+"confidence": 0.1697,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"preferred_label": "Red Sea",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"preferred_label": "Sacred Pillar",
+"confidence": 0.1097,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Hornet",
+"type": "fauna",
+"preferred_label": "Hornet",
+"confidence": 0.1097,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"preferred_label": "Kid",
+"confidence": 0.1097,
+"match_method": "canonical"
+},
+{
+"id": "realia:Trap",
+"type": "realia",
+"preferred_label": "Trap",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"preferred_label": "Unleavened Bread",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1036,
+"match_method": "canonical"
+}
+]
+}
+}
+]

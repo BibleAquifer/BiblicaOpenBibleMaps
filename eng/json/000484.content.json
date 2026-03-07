@@ -1,0 +1,208 @@
+[
+{
+"content_id": "OT258",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 11:27–32, Gen. 23:1–19",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 11:27-32, gen. 23:1-19",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT258.png' alt='Image' width='480' /></p><p><a href='images/OT258.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1xDK3gmYuW9lUq09flWLp9lUv87-At4rh&usp=drive_copy'>SRV Genesis: Gen. 11:27-32, Gen. 23:1-19</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011001",
+"start_ref_usfm": "GEN 11:1",
+"end_ref": "01011032",
+"end_ref_usfm": "GEN 11:32"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"preferred_label": "Terah",
+"confidence": 0.4547,
+"match_method": "canonical"
+},
+{
+"id": "person:Haran",
+"type": "person",
+"preferred_label": "Haran",
+"confidence": 0.4516,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Reu",
+"type": "person",
+"preferred_label": "Reu",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Serug",
+"type": "person",
+"preferred_label": "Serug",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Peleg",
+"type": "person",
+"preferred_label": "Peleg",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Shelah.2",
+"type": "person",
+"preferred_label": "Shelah",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3563,
+"match_method": "canonical"
+},
+{
+"id": "person:Arpachshad",
+"type": "person",
+"preferred_label": "Arpachshad",
+"confidence": 0.3563,
+"match_method": "canonical"
+},
+{
+"id": "person:Eber",
+"type": "person",
+"preferred_label": "Eber",
+"confidence": 0.3563,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.2984,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.2984,
+"match_method": "canonical"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"preferred_label": "Ur",
+"confidence": 0.2406,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.2344,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.2344,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.2344,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.2344,
+"match_method": "canonical"
+},
+{
+"id": "person:Shem",
+"type": "person",
+"preferred_label": "Shem",
+"confidence": 0.2281,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"preferred_label": "Shinar",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"preferred_label": "Milcah",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "person:Iscah",
+"type": "person",
+"preferred_label": "Iscah",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"preferred_label": "Tower",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "realia:Brick",
+"type": "realia",
+"preferred_label": "Brick",
+"confidence": 0.1103,
+"match_method": "canonical"
+}
+]
+}
+}
+]

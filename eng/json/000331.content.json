@@ -1,0 +1,306 @@
+[
+{
+"content_id": "OT081",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Invasion of the Philistines",
+"media_type": "Image",
+"index_reference": "historical: invasion of the philistines",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT081.png' alt='Image' width='480' /></p><p><a href='images/OT081.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1pI5_GahbkdB4pxhU6y051Ai0zRVKdPgc&usp=drive_copy'>Historical: Invasion of the Philistines</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013001",
+"start_ref_usfm": "1SA 13:1",
+"end_ref": "09013023",
+"end_ref_usfm": "1SA 13:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.5935,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.5457,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.5457,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5065,
+"match_method": "canonical"
+},
+{
+"id": "place:Michmash",
+"type": "place",
+"preferred_label": "Michmash",
+"confidence": 0.4565,
+"match_method": "canonical"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
+"confidence": 0.4478,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.4478,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.3783,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "place:Geba",
+"type": "place",
+"preferred_label": "Geba",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "realia:Plough",
+"type": "realia",
+"preferred_label": "Plough",
+"confidence": 0.1965,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
+"confidence": 0.1791,
+"match_method": "canonical"
+},
+{
+"id": "realia:Axe",
+"type": "realia",
+"preferred_label": "Axe",
+"confidence": 0.1791,
+"match_method": "canonical"
+},
+{
+"id": "realia:Mattock",
+"type": "realia",
+"preferred_label": "Mattock",
+"confidence": 0.1791,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1791,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophrah",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:ZeboimValley",
+"type": "place",
+"preferred_label": "Valley of Zeboim",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Shual",
+"type": "place",
+"preferred_label": "Shual",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-horonLower",
+"type": "place",
+"preferred_label": "Lower Beth-horon",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-aven",
+"type": "place",
+"preferred_label": "Beth-aven",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"preferred_label": "Gad",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fork.2",
+"type": "realia",
+"preferred_label": "Fork",
+"confidence": 0.1183,
+"match_method": "canonical"
+},
+{
+"id": "realia:Goad",
+"type": "realia",
+"preferred_label": "Goad",
+"confidence": 0.1183,
+"match_method": "canonical"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"preferred_label": "Thistle",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"preferred_label": "Pit",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sickle",
+"type": "realia",
+"preferred_label": "Sickle",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Craftsman",
+"type": "realia",
+"preferred_label": "Craftsman",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.1096,
+"match_method": "canonical"
+}
+]
+}
+}
+]

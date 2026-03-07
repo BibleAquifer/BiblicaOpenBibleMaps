@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT021",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: The Migrations of Jacob (Part 2)",
+"media_type": "Image",
+"index_reference": "pentateuch: the migrations of jacob (part 2)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT021.png' alt='Image' width='480' /></p><p><a href='images/OT021.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1yhO4zq3EJTRxyCz13RVlpjRZvt8PbiTi&usp=drive_copy'>Pentateuch: The Migrations of Jacob (Part 2)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01032001",
+"start_ref_usfm": "GEN 32:1",
+"end_ref": "01033020",
+"end_ref_usfm": "GEN 33:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5269,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.4712,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4279,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3933,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.3419,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.3419,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.3346,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.2785,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "person:Leah",
+"type": "person",
+"preferred_label": "Leah",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "place:Penuel",
+"type": "place",
+"preferred_label": "Penuel",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:KindlyDisposed",
+"type": "keyterm",
+"preferred_label": "To Be Kindly Disposed",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Jabbok",
+"type": "place",
+"preferred_label": "Jabbok",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Succoth",
+"type": "place",
+"preferred_label": "Succoth",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"preferred_label": "Laban",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"preferred_label": "Paddan-aram",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"preferred_label": "Shechem",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1587,
+"match_method": "canonical"
+}
+]
+}
+}
+]

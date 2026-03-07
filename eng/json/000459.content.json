@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT209",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Prophecies Against Gog",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: prophecies against gog",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT209.png' alt='Image' width='480' /></p><p><a href='images/OT209.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ti_ecYgbuajrnRvl8_Zg6IAwSg0FntBf&usp=drive_copy'>Wisdom & Prophets: Prophecies Against Gog</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26038001",
+"start_ref_usfm": "EZK 38:1",
+"end_ref": "26039029",
+"end_ref_usfm": "EZK 39:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5317,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4971,
+"match_method": "canonical"
+},
+{
+"id": "place:Gog",
+"type": "place",
+"preferred_label": "Gog",
+"confidence": 0.4106,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.3933,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.3346,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.3346,
+"match_method": "canonical"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"preferred_label": "Meshech",
+"confidence": 0.2798,
+"match_method": "canonical"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"preferred_label": "Tubal",
+"confidence": 0.2798,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "place:Magog",
+"type": "place",
+"preferred_label": "Magog",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamon-gogValley",
+"type": "place",
+"preferred_label": "Valley of Hamon-gog",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
+"confidence": 0.216,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.216,
+"match_method": "canonical"
+},
+{
+"id": "place:TravelersValley",
+"type": "place",
+"preferred_label": "Valley of the Travelers",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Gomer",
+"type": "person",
+"preferred_label": "Gomer",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamonah",
+"type": "place",
+"preferred_label": "Hamonah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-togarmah",
+"type": "place",
+"preferred_label": "Beth-togarmah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"preferred_label": "Arrow",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "realia:Weapons",
+"type": "realia",
+"preferred_label": "Weapons",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"preferred_label": "Bashan",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "place:Put",
+"type": "place",
+"preferred_label": "Put",
+"confidence": 0.1587,
+"match_method": "canonical"
+}
+]
+}
+}
+]

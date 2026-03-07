@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT024",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Павел и ранняя Церковь: Обзор путешествий Павла",
+"media_type": "Image",
+"index_reference": "павел и ранняя церковь: обзор путешествий павла",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT024.png' alt='Image' width='480' /></p><p><a href='images/NT024.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44013001",
+"start_ref_usfm": "ACT 13:1",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Павел",
+"confidence": 0.4539,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.423,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4016,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Иисус",
+"confidence": 0.377,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.3765,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Иерусалим",
+"confidence": 0.3754,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.369,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.3686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.3683,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.3646,
+"match_method": "canonical"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Варнава",
+"confidence": 0.3638,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Римлянин",
+"confidence": 0.3638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.3635,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
+"confidence": 0.3627,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3627,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.3627,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.3619,
+"match_method": "canonical"
+},
+{
+"id": "person:Festus",
+"type": "person",
+"preferred_label": "Фест",
+"confidence": 0.3614,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.3607,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ефес",
+"confidence": 0.3602,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Сила",
+"confidence": 0.3602,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Асии",
+"confidence": 0.3601,
+"match_method": "canonical"
+},
+{
+"id": "person:Agrippa",
+"type": "person",
+"preferred_label": "Агриппа",
+"confidence": 0.3594,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Македонянин",
+"confidence": 0.3593,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.3587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.3587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.3587,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Клавдий",
+"confidence": 0.3583,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.3583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
+"confidence": 0.3582,
+"match_method": "canonical"
+}
+]
+}
+}
+]

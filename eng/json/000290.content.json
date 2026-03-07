@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT040",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: Settlements of the Reubenites and Gadites",
+"media_type": "Image",
+"index_reference": "pentateuch: settlements of the reubenites and gadites",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT040.png' alt='Image' width='480' /></p><p><a href='images/OT040.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1SAwd5F9zAz0zq5BujTNvsIagX0j9QOO2&usp=drive_copy'>Pentateuch: Settlements of the Reubenites and Gadites</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "04032001",
+"start_ref_usfm": "NUM 32:1",
+"end_ref": "04032042",
+"end_ref_usfm": "NUM 32:42"
+},
+{
+"start_ref": "05003001",
+"start_ref_usfm": "DEU 3:1",
+"end_ref": "05003029",
+"end_ref_usfm": "DEU 3:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5021,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4197,
+"match_method": "canonical"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"preferred_label": "Gad",
+"confidence": 0.419,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.4134,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.4134,
+"match_method": "canonical"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"preferred_label": "Tribe of Reuben",
+"confidence": 0.4134,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.4134,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.4007,
+"match_method": "canonical"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"preferred_label": "Bashan",
+"confidence": 0.4007,
+"match_method": "canonical"
+},
+{
+"id": "person:Og",
+"type": "person",
+"preferred_label": "Og",
+"confidence": 0.3972,
+"match_method": "canonical"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
+"confidence": 0.388,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.388,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.3817,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.3817,
+"match_method": "canonical"
+},
+{
+"id": "place:Heshbon",
+"type": "place",
+"preferred_label": "Heshbon",
+"confidence": 0.3282,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.3254,
+"match_method": "canonical"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
+"confidence": 0.3254,
+"match_method": "canonical"
+},
+{
+"id": "person:Machir",
+"type": "person",
+"preferred_label": "Machir",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "place:Argob",
+"type": "place",
+"preferred_label": "Argob",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "place:Arnon",
+"type": "place",
+"preferred_label": "Arnon",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"preferred_label": "Sihon",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "place:Jazer",
+"type": "place",
+"preferred_label": "Jazer",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-nimrah",
+"type": "place",
+"preferred_label": "Beth-nimrah",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "person:Jair.2",
+"type": "person",
+"preferred_label": "Jair",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:HermonMount",
+"type": "place",
+"preferred_label": "Mount Hermon",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Baal-meon",
+"type": "place",
+"preferred_label": "Baal-meon",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Ataroth",
+"type": "place",
+"preferred_label": "Ataroth",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Elealeh",
+"type": "place",
+"preferred_label": "Elealeh",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "place:Pisgah",
+"type": "place",
+"preferred_label": "Pisgah",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "place:Havvoth-jair",
+"type": "place",
+"preferred_label": "Havvoth-jair",
+"confidence": 0.2155,
+"match_method": "canonical"
+}
+]
+}
+}
+]

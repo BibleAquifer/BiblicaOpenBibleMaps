@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT163",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Ezra’s Mission to Jerusalem",
+"media_type": "Image",
+"index_reference": "historical: ezra’s mission to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT163.png' alt='Image' width='480' /></p><p><a href='images/OT163.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Z0ogfe0fHiWb2sq_6uvTqzzWlJSVria0&usp=drive_copy'>Historical: Ezra’s Mission to Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15010044",
+"end_ref_usfm": "EZR 10:44"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4744,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4195,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4122,
+"match_method": "canonical"
+},
+{
+"id": "person:Ezra",
+"type": "person",
+"preferred_label": "Ezra",
+"confidence": 0.4073,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.3976,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.3976,
+"match_method": "canonical"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"preferred_label": "Artaxerxes",
+"confidence": 0.372,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.3699,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3683,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3522,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.3266,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.3163,
+"match_method": "canonical"
+},
+{
+"id": "place:Ahava",
+"type": "place",
+"preferred_label": "Ahava",
+"confidence": 0.2659,
+"match_method": "canonical"
+},
+{
+"id": "person:Elam",
+"type": "person",
+"preferred_label": "Elam",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
+"id": "person:Hashabiah.7",
+"type": "person",
+"preferred_label": "Hashabiah",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "person:Harim",
+"type": "person",
+"preferred_label": "Harim",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
+"id": "person:Bebai",
+"type": "person",
+"preferred_label": "Bebai",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
+"id": "person:Pahath-moab",
+"type": "person",
+"preferred_label": "Pahath-moab",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
+"id": "person:Sherebiah",
+"type": "person",
+"preferred_label": "Sherebiah",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"preferred_label": "Decree",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2073,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2073,
+"match_method": "canonical"
+},
+{
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
+"confidence": 0.2073,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2073,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.2073,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.2073,
+"match_method": "canonical"
+}
+]
+}
+}
+]

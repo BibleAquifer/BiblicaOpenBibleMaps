@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT095",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Wars Between the Houses of David and Saul",
+"media_type": "Image",
+"index_reference": "historical: wars between the houses of david and saul",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT095.png' alt='Image' width='480' /></p><p><a href='images/OT095.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1mJac-D9M4dY5LZ_RdxDaBGZKGopGy-rI&usp=drive_copy'>Historical: Wars Between the Houses of David and Saul</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10002001",
+"start_ref_usfm": "2SA 2:1",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abner",
+"type": "person",
+"preferred_label": "Abner",
+"confidence": 0.5937,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.5465,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.4641,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.4387,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4261,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.4225,
+"match_method": "canonical"
+},
+{
+"id": "person:Asahel",
+"type": "person",
+"preferred_label": "Asahel",
+"confidence": 0.4218,
+"match_method": "canonical"
+},
+{
+"id": "person:Ish-bosheth",
+"type": "person",
+"preferred_label": "Ish-bosheth",
+"confidence": 0.4085,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.407,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3944,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3944,
+"match_method": "canonical"
+},
+{
+"id": "person:Ner.2",
+"type": "person",
+"preferred_label": "Ner",
+"confidence": 0.3908,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.3817,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.3817,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
+"confidence": 0.3817,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.3254,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"preferred_label": "Zeruiah",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "person:Abigail",
+"type": "person",
+"preferred_label": "Abigail",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahinoam.2",
+"type": "person",
+"preferred_label": "Ahinoam",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "person:Michal",
+"type": "person",
+"preferred_label": "Michal",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "group:Jezreel",
+"type": "group",
+"preferred_label": "Jezreel",
+"confidence": 0.2127,
+"match_method": "canonical"
+}
+]
+}
+}
+]

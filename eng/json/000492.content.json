@@ -1,0 +1,425 @@
+[
+{
+"content_id": "OT266",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 14:17–23",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 14:17-23",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT266.png' alt='Image' width='480' /></p><p><a href='images/OT266.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1N1fxrsD9F3tZS1ASra390tZP1WXqw8Gb&usp=drive_copy'>SRV Genesis: Gen. 14:17-23</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01014001",
+"start_ref_usfm": "GEN 14:1",
+"end_ref": "01014024",
+"end_ref_usfm": "GEN 14:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Chedorlaomer",
+"type": "person",
+"preferred_label": "Chedorlaomer",
+"confidence": 0.5271,
+"match_method": "canonical"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.4812,
+"match_method": "canonical"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"preferred_label": "Gomorrah",
+"confidence": 0.3833,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.375,
+"match_method": "canonical"
+},
+{
+"id": "place:SiddimValley",
+"type": "place",
+"preferred_label": "Valley of Siddim",
+"confidence": 0.3146,
+"match_method": "canonical"
+},
+{
+"id": "place:Ellasar",
+"type": "place",
+"preferred_label": "Ellasar",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "person:Eshcol",
+"type": "person",
+"preferred_label": "Eshcol",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "person:Tidal",
+"type": "person",
+"preferred_label": "Tidal",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "person:Aner",
+"type": "person",
+"preferred_label": "Aner",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "person:Amraphel",
+"type": "person",
+"preferred_label": "Amraphel",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "person:Arioch",
+"type": "person",
+"preferred_label": "Arioch",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "group:Goiim",
+"type": "group",
+"preferred_label": "Goiim",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"preferred_label": "Elam",
+"confidence": 0.2458,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"preferred_label": "Shinar",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Zeboiim",
+"type": "place",
+"preferred_label": "Zeboiim",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Zoar",
+"type": "place",
+"preferred_label": "Zoar",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Admah",
+"type": "place",
+"preferred_label": "Admah",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Birsha",
+"type": "person",
+"preferred_label": "Birsha",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:Hobah",
+"type": "place",
+"preferred_label": "Hobah",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:Shaveh",
+"type": "place",
+"preferred_label": "Valley of Shaveh",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Melchizedek",
+"type": "person",
+"preferred_label": "Melchizedek",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:KingsValley",
+"type": "place",
+"preferred_label": "King’s Valley",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "group:Emim",
+"type": "group",
+"preferred_label": "Emim",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Mamre",
+"type": "person",
+"preferred_label": "Mamre",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"preferred_label": "Rephaim",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:Ashteroth-karnaim",
+"type": "place",
+"preferred_label": "Ashteroth-karnaim",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "group:Zuzim",
+"type": "group",
+"preferred_label": "Zuzim",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:SaltSea",
+"type": "place",
+"preferred_label": "Dead Sea",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:El-paran",
+"type": "place",
+"preferred_label": "El-paran",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Bera",
+"type": "person",
+"preferred_label": "Bera",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Shinab",
+"type": "person",
+"preferred_label": "Shinab",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Shemeber",
+"type": "person",
+"preferred_label": "Shemeber",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Hori",
+"type": "person",
+"preferred_label": "Hori",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Hori",
+"type": "group",
+"preferred_label": "Horites",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Engedi",
+"type": "place",
+"preferred_label": "En-gedi",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Kiriathaim",
+"type": "place",
+"preferred_label": "Kiriathaim",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"preferred_label": "Kadesh-barnea",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.1171,
+"match_method": "canonical"
+},
+{
+"id": "realia:Thread",
+"type": "realia",
+"preferred_label": "Thread",
+"confidence": 0.1171,
+"match_method": "canonical"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"preferred_label": "Oak",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1088,
+"match_method": "canonical"
+}
+]
+}
+}
+]

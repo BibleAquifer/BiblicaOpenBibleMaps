@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT099",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Ark Recovered",
+"media_type": "Image",
+"index_reference": "historical: the ark recovered",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT099.png' alt='Image' width='480' /></p><p><a href='images/OT099.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1nm4m1uzGcuPYWRqlRz4RwxKL0Pt_FH7r&usp=drive_copy'>Historical: The Ark Recovered</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10006001",
+"start_ref_usfm": "2SA 6:1",
+"end_ref": "10007029",
+"end_ref_usfm": "2SA 7:29"
+},
+{
+"start_ref": "13013001",
+"start_ref_usfm": "1CH 13:1",
+"end_ref": "13016043",
+"end_ref_usfm": "1CH 16:43"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6113,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.4994,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.4661,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4429,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
+"confidence": 0.4061,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.3877,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.3877,
+"match_method": "canonical"
+},
+{
+"id": "person:Obed-edom",
+"type": "person",
+"preferred_label": "Obed-edom",
+"confidence": 0.3845,
+"match_method": "canonical"
+},
+{
+"id": "person:Uzzah",
+"type": "person",
+"preferred_label": "Uzzah",
+"confidence": 0.3771,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.3761,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.3732,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeduthun",
+"type": "person",
+"preferred_label": "Jeduthun",
+"confidence": 0.3697,
+"match_method": "canonical"
+},
+{
+"id": "person:Benaiah.4",
+"type": "person",
+"preferred_label": "Benaiah",
+"confidence": 0.3684,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.3674,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.3674,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3674,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.3674,
+"match_method": "canonical"
+},
+{
+"id": "person:Asaph.2",
+"type": "person",
+"preferred_label": "Asaph",
+"confidence": 0.3671,
+"match_method": "canonical"
+},
+{
+"id": "person:Michal",
+"type": "person",
+"preferred_label": "Michal",
+"confidence": 0.3658,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3452,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeiel.4",
+"type": "person",
+"preferred_label": "Jeiel",
+"confidence": 0.3168,
+"match_method": "canonical"
+},
+{
+"id": "person:Zechariah.2",
+"type": "person",
+"preferred_label": "Zechariah",
+"confidence": 0.3142,
+"match_method": "canonical"
+},
+{
+"id": "person:Nathan.2",
+"type": "person",
+"preferred_label": "Nathan",
+"confidence": 0.3129,
+"match_method": "canonical"
+},
+{
+"id": "person:Heman.3",
+"type": "person",
+"preferred_label": "Heman",
+"confidence": 0.3129,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cymbals",
+"type": "realia",
+"preferred_label": "Cymbals",
+"confidence": 0.3116,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.3116,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"preferred_label": "Lyre",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.3074,
+"match_method": "canonical"
+},
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"preferred_label": "Trumpet",
+"confidence": 0.3058,
+"match_method": "canonical"
+},
+{
+"id": "person:Mattithiah.2",
+"type": "person",
+"preferred_label": "Mattithiah",
+"confidence": 0.2639,
+"match_method": "canonical"
+}
+]
+}
+}
+]

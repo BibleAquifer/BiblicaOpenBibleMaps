@@ -1,0 +1,215 @@
+[
+{
+"content_id": "OT043",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Rahab and the Spies",
+"media_type": "Image",
+"index_reference": "historical: rahab and the spies",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT043.png' alt='Image' width='480' /></p><p><a href='images/OT043.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1663K9oEY_ydWrgihUQ5RanzUleLbBf7s&usp=drive_copy'>Historical: Rahab and the Spies</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "06002001",
+"start_ref_usfm": "JOS 2:1",
+"end_ref": "06002024",
+"end_ref_usfm": "JOS 2:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4625,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3838,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.3146,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.3063,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.3063,
+"match_method": "canonical"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
+"confidence": 0.3063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Window",
+"type": "realia",
+"preferred_label": "Window",
+"confidence": 0.2546,
+"match_method": "canonical"
+},
+{
+"id": "group:Spies",
+"type": "group",
+"preferred_label": "Spies",
+"confidence": 0.2542,
+"match_method": "canonical"
+},
+{
+"id": "person:Rahab",
+"type": "person",
+"preferred_label": "Rahab",
+"confidence": 0.2458,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "person:Nun",
+"type": "person",
+"preferred_label": "Nun",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Shittim",
+"type": "place",
+"preferred_label": "Shittim",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"preferred_label": "Terror",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"preferred_label": "Red Sea",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"preferred_label": "Sihon",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Og",
+"type": "person",
+"preferred_label": "Og",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "realia:Thread",
+"type": "realia",
+"preferred_label": "Thread",
+"confidence": 0.1171,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"preferred_label": "Rope",
+"confidence": 0.1171,
+"match_method": "canonical"
+},
+{
+"id": "flora:Flax",
+"type": "flora",
+"preferred_label": "Flax",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
+"confidence": 0.1088,
+"match_method": "canonical"
+}
+]
+}
+}
+]

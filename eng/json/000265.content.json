@@ -1,0 +1,306 @@
+[
+{
+"content_id": "OT015",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: The Boundaries of the Promised Land",
+"media_type": "Image",
+"index_reference": "pentateuch: the boundaries of the promised land",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT015.png' alt='Image' width='480' /></p><p><a href='images/OT015.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1rV3ndfmBJbv2Ql8H9HBgI_KQC9aZqUrJ&usp=drive_copy'>Pentateuch: The Boundaries of the Promised Land</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01015001",
+"start_ref_usfm": "GEN 15:1",
+"end_ref": "01015021",
+"end_ref_usfm": "GEN 15:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.3952,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2429,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2429,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.2429,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Shield",
+"type": "keyterm",
+"preferred_label": "Shield",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "group:Kenizzites",
+"type": "group",
+"preferred_label": "Kenizzites",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliezer.2",
+"type": "person",
+"preferred_label": "Eliezer",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "group:Kadmonites",
+"type": "group",
+"preferred_label": "Kadmonites",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.181,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"preferred_label": "Ur",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"preferred_label": "Rephaim",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"preferred_label": "Kenites",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Girgashites",
+"type": "group",
+"preferred_label": "Girgashites",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"preferred_label": "Terror",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.121,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"preferred_label": "Dove",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"preferred_label": "Vulture",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1114,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bird",
+"type": "fauna",
+"preferred_label": "Bird",
+"confidence": 0.1114,
+"match_method": "canonical"
+}
+]
+}
+}
+]

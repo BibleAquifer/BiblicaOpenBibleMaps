@@ -1,0 +1,138 @@
+[
+{
+"content_id": "OT102",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Mephibosheth Joins David’s Court",
+"media_type": "Image",
+"index_reference": "historical: mephibosheth joins david’s court",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT102.png' alt='Image' width='480' /></p><p><a href='images/OT102.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1zfqch3HN75v-WnNBUajs1g2OBcrdjfYZ&usp=drive_copy'>Historical: Mephibosheth Joins David’s Court</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10009001",
+"start_ref_usfm": "2SA 9:1",
+"end_ref": "10009013",
+"end_ref_usfm": "2SA 9:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Ziba",
+"type": "person",
+"preferred_label": "Ziba",
+"confidence": 0.6077,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.5577,
+"match_method": "canonical"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"preferred_label": "Mephibosheth",
+"confidence": 0.5385,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.5231,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.4385,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.3538,
+"match_method": "canonical"
+},
+{
+"id": "person:Machir.2",
+"type": "person",
+"preferred_label": "Machir",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "person:Ammiel.2",
+"type": "person",
+"preferred_label": "Ammiel",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2938,
+"match_method": "canonical"
+},
+{
+"id": "place:Lo-debar",
+"type": "place",
+"preferred_label": "Lo-debar",
+"confidence": 0.2846,
+"match_method": "canonical"
+},
+{
+"id": "person:Micah.2",
+"type": "person",
+"preferred_label": "Micah",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"preferred_label": "Dog",
+"confidence": 0.1246,
+"match_method": "canonical"
+}
+]
+}
+}
+]

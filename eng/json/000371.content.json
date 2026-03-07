@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT121",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: City Plan: Jerusalem in the Time of Solomon",
+"media_type": "Image",
+"index_reference": "historical: city plan: jerusalem in the time of solomon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT121.png' alt='Image' width='480' /></p><p><a href='images/OT121.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1C0MEC9ChNKK-zKlmoN3ZQjfWJ7r_oz0u&usp=drive_copy'>Historical: City Plan: Jerusalem in the Time of Solomon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11001001",
+"start_ref_usfm": "1KI 1:1",
+"end_ref": "11022054",
+"end_ref_usfm": "1KI 22:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4855,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4442,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.4268,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3908,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.3774,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.3755,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3715,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3715,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.3712,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.3679,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3657,
+"match_method": "canonical"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"preferred_label": "Asa",
+"confidence": 0.3644,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.3632,
+"match_method": "canonical"
+},
+{
+"id": "person:Adonijah",
+"type": "person",
+"preferred_label": "Adonijah",
+"confidence": 0.3626,
+"match_method": "canonical"
+},
+{
+"id": "person:Baasha",
+"type": "person",
+"preferred_label": "Baasha",
+"confidence": 0.3618,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.3617,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.361,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.3596,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.3596,
+"match_method": "canonical"
+},
+{
+"id": "person:Naboth",
+"type": "person",
+"preferred_label": "Naboth",
+"confidence": 0.3588,
+"match_method": "canonical"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"preferred_label": "Benaiah",
+"confidence": 0.3582,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.358,
+"match_method": "canonical"
+},
+{
+"id": "person:Ben-hadad",
+"type": "person",
+"preferred_label": "Ben-hadad",
+"confidence": 0.358,
+"match_method": "canonical"
+},
+{
+"id": "person:Hiram",
+"type": "person",
+"preferred_label": "Hiram",
+"confidence": 0.358,
+"match_method": "canonical"
+},
+{
+"id": "person:Jezebel",
+"type": "person",
+"preferred_label": "Jezebel",
+"confidence": 0.3576,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.3574,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"preferred_label": "Jehoiada",
+"confidence": 0.3571,
+"match_method": "canonical"
+},
+{
+"id": "person:Nathan.2",
+"type": "person",
+"preferred_label": "Nathan",
+"confidence": 0.3569,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.3566,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.3566,
+"match_method": "canonical"
+}
+]
+}
+}
+]

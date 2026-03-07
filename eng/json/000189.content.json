@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT307",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Acts: Acts 7:1–7",
+"media_type": "Image",
+"index_reference": "srv acts: acts 7:1-7",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT307.png' alt='Image' width='480' /></p><p><a href='images/NT307.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1V_d_5-1LKWNG7acnklGtIf9RaaSp6WMd&usp=drive_copy'>SRV Acts: Acts 7:1-7</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44007001",
+"start_ref_usfm": "ACT 7:1",
+"end_ref": "44007060",
+"end_ref_usfm": "ACT 7:60"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.485,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.455,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.4175,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4175,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
+"confidence": 0.2758,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"preferred_label": "Rescue",
+"confidence": 0.2217,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"preferred_label": "Judge",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"preferred_label": "Mount Sinai",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "Promise",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"preferred_label": "Mesopotamia",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Hamor",
+"type": "person",
+"preferred_label": "Hamor",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"preferred_label": "Call Upon",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Stephen",
+"type": "person",
+"preferred_label": "Stephen",
+"confidence": 0.1608,
+"match_method": "canonical"
+}
+]
+}
+}
+]

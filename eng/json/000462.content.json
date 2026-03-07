@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT212",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Daniel in Babylon",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: daniel in babylon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT212.png' alt='Image' width='480' /></p><p><a href='images/OT212.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1NpcOKW1jKuifjmapnqnAaVbZf6GhoklM&usp=drive_copy'>Wisdom & Prophets: Daniel in Babylon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "27001001",
+"start_ref_usfm": "DAN 1:1",
+"end_ref": "27006029",
+"end_ref_usfm": "DAN 6:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Daniel.3",
+"type": "person",
+"preferred_label": "Daniel",
+"confidence": 0.4662,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.4173,
+"match_method": "canonical"
+},
+{
+"id": "person:Azariah.20",
+"type": "person",
+"preferred_label": "Azariah",
+"confidence": 0.3952,
+"match_method": "canonical"
+},
+{
+"id": "person:Mishael.3",
+"type": "person",
+"preferred_label": "Mishael",
+"confidence": 0.3942,
+"match_method": "canonical"
+},
+{
+"id": "person:Hananiah.15",
+"type": "person",
+"preferred_label": "Hananiah",
+"confidence": 0.3942,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.382,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3774,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.3728,
+"match_method": "canonical"
+},
+{
+"id": "group:Astrologer",
+"type": "group",
+"preferred_label": "Astrologers",
+"confidence": 0.368,
+"match_method": "canonical"
+},
+{
+"id": "person:Belshazzar",
+"type": "person",
+"preferred_label": "Belshazzar",
+"confidence": 0.3678,
+"match_method": "canonical"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"preferred_label": "Darius",
+"confidence": 0.3647,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3637,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3637,
+"match_method": "canonical"
+},
+{
+"id": "group:Mede",
+"type": "group",
+"preferred_label": "Medes",
+"confidence": 0.3624,
+"match_method": "canonical"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"preferred_label": "Medan",
+"confidence": 0.3614,
+"match_method": "canonical"
+},
+{
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
+"confidence": 0.3614,
+"match_method": "canonical"
+},
+{
+"id": "group:Persia",
+"type": "group",
+"preferred_label": "Persians",
+"confidence": 0.3614,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3128,
+"match_method": "canonical"
+},
+{
+"id": "person:Arioch.2",
+"type": "person",
+"preferred_label": "Arioch",
+"confidence": 0.3122,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3091,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.3083,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.3037,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.2579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2579,
+"match_method": "canonical"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"preferred_label": "Flute",
+"confidence": 0.2502,
+"match_method": "canonical"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.2491,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.2491,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"preferred_label": "Lyre",
+"confidence": 0.2491,
+"match_method": "canonical"
+},
+{
+"id": "person:Melzar",
+"type": "person",
+"preferred_label": "Melzar",
+"confidence": 0.2066,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"preferred_label": "Jehoiakim",
+"confidence": 0.2056,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,418 @@
+[
+{
+"content_id": "NT042",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Kedua Paulus (Bagian 2)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mula-mula: perjalanan misi kedua paulus (bagian 2)",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT042.png' alt='Image' width='480' /></p><p><a href='images/NT042.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44016040",
+"end_ref_usfm": "ACT 16:40"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
+"confidence": 0.4738,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "Tuhan",
+"confidence": 0.4287,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.3575,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.345,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Roma",
+"confidence": 0.345,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Makedonia",
+"confidence": 0.2938,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
+"confidence": 0.2888,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
+"confidence": 0.2888,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "person:Lydia",
+"type": "person",
+"preferred_label": "Lidia",
+"confidence": 0.2325,
+"match_method": "canonical"
+},
+{
+"id": "place:Mysia",
+"type": "place",
+"preferred_label": "Misia",
+"confidence": 0.2275,
+"match_method": "canonical"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"preferred_label": "Troas",
+"confidence": 0.2275,
+"match_method": "canonical"
+},
+{
+"id": "place:Lystra",
+"type": "place",
+"preferred_label": "Listra",
+"confidence": 0.2275,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.2238,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Yunani",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"preferred_label": "kesetiaan",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "memutuskan",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:PhilippianJailer",
+"type": "person",
+"preferred_label": "Philippian Jailer",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Philippi",
+"type": "place",
+"preferred_label": "Filipi",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Thyatira",
+"type": "place",
+"preferred_label": "Tiatira",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Bithynia",
+"type": "place",
+"preferred_label": "Bitinia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"preferred_label": "Derbe",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Galatia",
+"type": "place",
+"preferred_label": "Galatia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"preferred_label": "Frigia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Neapolis",
+"type": "place",
+"preferred_label": "Neapolis",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Samothrace",
+"type": "place",
+"preferred_label": "Samotrake",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"preferred_label": "Door",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "sembah",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "injil",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "jemaat",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "memperdamaikan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"preferred_label": "Ikonium",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "takut",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "menasihati",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "menjadi murid",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "sabat",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "realia:Torch",
+"type": "realia",
+"preferred_label": "Torch",
+"confidence": 0.1063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"preferred_label": "Foundation",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"preferred_label": "Chain",
+"confidence": 0.1013,
+"match_method": "canonical"
+}
+]
+}
+}
+]

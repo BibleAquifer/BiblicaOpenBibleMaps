@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT129",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Battle of Ramoth Gilead",
+"media_type": "Image",
+"index_reference": "historical: the battle of ramoth gilead",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT129.png' alt='Image' width='480' /></p><p><a href='images/OT129.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Qk3ZkEW3m0LJSZccs-BFAL2KScOJ-ENq&usp=drive_copy'>Historical: The Battle of Ramoth Gilead</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11022001",
+"start_ref_usfm": "1KI 22:1",
+"end_ref": "11022054",
+"end_ref_usfm": "1KI 22:54"
+},
+{
+"start_ref": "14018001",
+"start_ref_usfm": "2CH 18:1",
+"end_ref": "14018034",
+"end_ref_usfm": "2CH 18:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5597,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5341,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.5045,
+"match_method": "canonical"
+},
+{
+"id": "person:Micaiah.5",
+"type": "person",
+"preferred_label": "Micaiah",
+"confidence": 0.4489,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"preferred_label": "Ramoth-gilead",
+"confidence": 0.4216,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.4034,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.396,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.396,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.3909,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.3807,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.3807,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.3756,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.3463,
+"match_method": "canonical"
+},
+{
+"id": "person:Chenaanah",
+"type": "person",
+"preferred_label": "Chenaanah",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "person:Zedekiah.2",
+"type": "person",
+"preferred_label": "Zedekiah",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "person:Imlah",
+"type": "person",
+"preferred_label": "Imlah",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
+"confidence": 0.3205,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3156,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaziah",
+"type": "person",
+"preferred_label": "Ahaziah",
+"confidence": 0.2699,
+"match_method": "canonical"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"preferred_label": "Asa",
+"confidence": 0.2653,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.2605,
+"match_method": "canonical"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"preferred_label": "Throne",
+"confidence": 0.2605,
+"match_method": "canonical"
+},
+{
+"id": "person:Joash.2",
+"type": "person",
+"preferred_label": "Joash",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
+"id": "person:Amon.2",
+"type": "person",
+"preferred_label": "Amon",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2102,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.2102,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2102,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.2053,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.2053,
+"match_method": "canonical"
+},
+{
+"id": "person:Azubah",
+"type": "person",
+"preferred_label": "Azubah",
+"confidence": 0.1574,
+"match_method": "canonical"
+}
+]
+}
+}
+]

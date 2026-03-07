@@ -1,0 +1,194 @@
+[
+{
+"content_id": "OT206",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Prophecies Against Ammon, Moab, Edom, and Philistia",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: prophecies against ammon, moab, edom, and philistia",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT206.png' alt='Image' width='480' /></p><p><a href='images/OT206.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/18PUUYl2Ycei2oPC8LR3ZyO405S_xo2UC/view?usp=drive_link'>Wisdom & Prophets: Prophecies Against Ammon, Moab, Edom, and Philistia</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26025001",
+"start_ref_usfm": "EZK 25:1",
+"end_ref": "26025017",
+"end_ref_usfm": "EZK 25:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6941,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.4059,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.3294,
+"match_method": "canonical"
+},
+{
+"id": "place:East",
+"type": "place",
+"preferred_label": "East",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "place:Dedan",
+"type": "place",
+"preferred_label": "Dedan",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "place:Teman",
+"type": "place",
+"preferred_label": "Teman",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "place:Kiriathaim",
+"type": "place",
+"preferred_label": "Kiriathaim",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-jeshimoth",
+"type": "place",
+"preferred_label": "Beth-jeshimoth",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Baal-meon",
+"type": "place",
+"preferred_label": "Baal-meon",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"preferred_label": "Cherethites",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1165,
+"match_method": "canonical"
+}
+]
+}
+}
+]

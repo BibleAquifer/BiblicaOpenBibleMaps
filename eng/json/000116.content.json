@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT173",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Mark: Mark 14:66–71",
+"media_type": "Image",
+"index_reference": "srv mark: mark 14:66-71",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT173.png' alt='Image' width='480' /></p><p><a href='images/NT173.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1--5P8NO2GKXYfpoSckt0sxFxjDrW1l8K&usp=drive_copy'>SRV Mark: Mark 14:66-71</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026001",
+"start_ref_usfm": "MAT 26:1",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.494,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.416,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.398,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.386,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.38,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.324,
+"match_method": "canonical"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"preferred_label": "Judas",
+"confidence": 0.2707,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.2707,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.268,
+"match_method": "canonical"
+},
+{
+"id": "person:Caiaphas",
+"type": "person",
+"preferred_label": "Caiaphas",
+"confidence": 0.2147,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.2147,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.212,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.212,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.212,
+"match_method": "canonical"
+},
+{
+"id": "realia:Courtyard",
+"type": "realia",
+"preferred_label": "Courtyard",
+"confidence": 0.2107,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Rooster",
+"type": "fauna",
+"preferred_label": "Rooster",
+"confidence": 0.2107,
+"match_method": "canonical"
+},
+{
+"id": "place:Gethsemane",
+"type": "place",
+"preferred_label": "Gethsemane",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.4",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"preferred_label": "Bethany",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"preferred_label": "A Servant",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.156,
+"match_method": "canonical"
+}
+]
+}
+}
+]

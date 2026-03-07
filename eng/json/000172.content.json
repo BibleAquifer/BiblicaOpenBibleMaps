@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT266",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV John: John 7:45–53, John 12:20–35",
+"media_type": "Image",
+"index_reference": "srv john: john 7:45-53, john 12:20-35",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT266.png' alt='Image' width='480' /></p><p><a href='images/NT266.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1J0XojajhqasMOhhWTXVv7J5TINIQp4zP&usp=drive_copy'>SRV John: John 7:45-53, John 12:20-35</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43007001",
+"start_ref_usfm": "JHN 7:1",
+"end_ref": "43007053",
+"end_ref_usfm": "JHN 7:53"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4689,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4009,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.3925,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.3925,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.3377,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.334,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.334,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.334,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.2208,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "Circumcision",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"preferred_label": "Unjust Deed",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "group:Relatives",
+"type": "group",
+"preferred_label": "Relatives",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "person:Nicodemus",
+"type": "person",
+"preferred_label": "Nicodemus",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Belly",
+"type": "keyterm",
+"preferred_label": "Internal Organs",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"preferred_label": "Judgment",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.1585,
+"match_method": "canonical"
+}
+]
+}
+}
+]

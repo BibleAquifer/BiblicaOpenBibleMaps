@@ -1,0 +1,341 @@
+[
+{
+"content_id": "OT186",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: The Gathering of Nations",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: the gathering of nations",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT186.png' alt='Image' width='480' /></p><p><a href='images/OT186.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1tUfDVPPjDmFLqm9C06JSEpbXVmqmbGGR/view?usp=drive_link'>Wisdom & Prophets: The Gathering of Nations</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23066001",
+"start_ref_usfm": "ISA 66:1",
+"end_ref": "23066024",
+"end_ref_usfm": "ISA 66:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6125,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.375,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.3063,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"preferred_label": "Pig",
+"confidence": 0.1858,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"preferred_label": "Jackal",
+"confidence": 0.1775,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1775,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.1775,
+"match_method": "canonical"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"preferred_label": "Tubal",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"preferred_label": "Greece",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Lud",
+"type": "person",
+"preferred_label": "Lud",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"preferred_label": "New Moon Festival",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Put",
+"type": "place",
+"preferred_label": "Put",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"preferred_label": "Mischief",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"preferred_label": "Detested Thing",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Mouse",
+"type": "fauna",
+"preferred_label": "Mouse",
+"confidence": 0.1171,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"preferred_label": "Dog",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"preferred_label": "Wagon",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Maggot",
+"type": "fauna",
+"preferred_label": "Worm",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"preferred_label": "Green Vegetation",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"preferred_label": "Throne",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"preferred_label": "Frankincense",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1088,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT294",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: All Genesis Sites (Canaan)",
+"media_type": "Image",
+"index_reference": "srv genesis: all genesis sites (canaan)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT294.png' alt='Image' width='480' /></p><p><a href='images/OT294.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=17UDCCmtWTzAI2A2LexHRmr9fDkAH51S3&usp=drive_copy'>SRV Genesis: All Genesis Sites (Canaan)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001001",
+"start_ref_usfm": "GEN 1:1",
+"end_ref": "01050026",
+"end_ref_usfm": "GEN 50:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4428,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4049,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3991,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.3905,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.3752,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.372,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.3704,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.3701,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.3689,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.3649,
+"match_method": "canonical"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"preferred_label": "Laban",
+"confidence": 0.3639,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.3631,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.3627,
+"match_method": "canonical"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"preferred_label": "Noah",
+"confidence": 0.3605,
+"match_method": "canonical"
+},
+{
+"id": "person:Leah",
+"type": "person",
+"preferred_label": "Leah",
+"confidence": 0.3596,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.3595,
+"match_method": "canonical"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"preferred_label": "Rebekah",
+"confidence": 0.359,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3582,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.3573,
+"match_method": "canonical"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"preferred_label": "Abimelech",
+"confidence": 0.3569,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.3563,
+"match_method": "canonical"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
+"confidence": 0.3563,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3561,
+"match_method": "canonical"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"preferred_label": "Ishmael",
+"confidence": 0.356,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.3555,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.3553,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.3552,
+"match_method": "canonical"
+},
+{
+"id": "person:Adam",
+"type": "person",
+"preferred_label": "Adam",
+"confidence": 0.3551,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.355,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.355,
+"match_method": "canonical"
+}
+]
+}
+}
+]

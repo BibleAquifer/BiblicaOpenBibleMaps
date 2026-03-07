@@ -1,0 +1,201 @@
+[
+{
+"content_id": "NT309",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Acts: Acts 7:20–33",
+"media_type": "Image",
+"index_reference": "srv acts: acts 7:20-33",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT309.png' alt='Image' width='480' /></p><p><a href='images/NT309.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1dVJIZaWKC-scp-EH_ThIK3R32VoQZayO&usp=drive_copy'>SRV Acts: Acts 7:20-33</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002001",
+"start_ref_usfm": "EXO 2:1",
+"end_ref": "02002025",
+"end_ref_usfm": "EXO 2:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.474,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.466,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.44,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.372,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.372,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.304,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.304,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.244,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.244,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.244,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
+"confidence": 0.184,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Zipporah",
+"type": "person",
+"preferred_label": "Zipporah",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Gershom",
+"type": "person",
+"preferred_label": "Gershom",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"preferred_label": "Jethro",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"preferred_label": "Papyrus",
+"confidence": 0.116,
+"match_method": "canonical"
+}
+]
+}
+}
+]

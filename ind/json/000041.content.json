@@ -1,0 +1,369 @@
+[
+{
+"content_id": "NT049",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Paulus ke Roma (Bagian 2)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mula-mula: perjalanan paulus ke roma (bagian 2)",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT049.png' alt='Image' width='480' /></p><p><a href='images/NT049.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44028001",
+"start_ref_usfm": "ACT 28:1",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
+"confidence": 0.4226,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "Tuhan",
+"confidence": 0.3581,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Roma",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.2935,
+"match_method": "canonical"
+},
+{
+"id": "person:Publius",
+"type": "person",
+"preferred_label": "Publius",
+"confidence": 0.2419,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "membujuk",
+"confidence": 0.2355,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "kerajaan",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "place:Rhegium",
+"type": "place",
+"preferred_label": "Regium",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:ForumOfAppius",
+"type": "place",
+"preferred_label": "Forum",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:ThreeTaverns",
+"type": "place",
+"preferred_label": "Tres",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Puteoli",
+"type": "place",
+"preferred_label": "Putioli",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"preferred_label": "Aleksandria",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Syracuse",
+"type": "place",
+"preferred_label": "Sirakusa",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Malta",
+"type": "place",
+"preferred_label": "Malta",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "memberi kesaksian yang sungguh, sungguh",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"preferred_label": "tidak percaya",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Musa",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "hukum",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Klaudius",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Yesaya",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "memberitakan",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Yehuda",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"preferred_label": "memikirkan",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "melayani",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hospitably",
+"type": "keyterm",
+"preferred_label": "secara menjamu",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "bimbang",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "realia:Emblem",
+"type": "realia",
+"preferred_label": "Emblem",
+"confidence": 0.111,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"preferred_label": "Chain",
+"confidence": 0.111,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "realia:GuestRoom",
+"type": "realia",
+"preferred_label": "Guest Room",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"preferred_label": "Cobra",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "realia:Inn",
+"type": "realia",
+"preferred_label": "Inn",
+"confidence": 0.1045,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,292 @@
+[
+{
+"content_id": "OT049",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Joshua's Conquests in the South",
+"media_type": "Image",
+"index_reference": "historical: joshua's conquests in the south",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT049.png' alt='Image' width='480' /></p><p><a href='images/OT049.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13WE066AOpp_b0yL0NzZhd1FfWBBeuV7o&usp=drive_copy'>Historical: Joshua's Conquests in the South</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "06010001",
+"start_ref_usfm": "JOS 10:1",
+"end_ref": "06010043",
+"end_ref_usfm": "JOS 10:43"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
+"confidence": 0.643,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5593,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4651,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.4337,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
+"confidence": 0.4337,
+"match_method": "canonical"
+},
+{
+"id": "place:Makkedah",
+"type": "place",
+"preferred_label": "Makkedah",
+"confidence": 0.4221,
+"match_method": "canonical"
+},
+{
+"id": "place:Eglon",
+"type": "place",
+"preferred_label": "Eglon",
+"confidence": 0.4174,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
+"confidence": 0.4128,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.4023,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.4023,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.3528,
+"match_method": "canonical"
+},
+{
+"id": "place:Libnah.2",
+"type": "place",
+"preferred_label": "Libnah",
+"confidence": 0.3465,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3419,
+"match_method": "canonical"
+},
+{
+"id": "place:Jarmuth",
+"type": "place",
+"preferred_label": "Jarmuth",
+"confidence": 0.2907,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-horonLower",
+"type": "place",
+"preferred_label": "Lower Beth-horon",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "place:Debir",
+"type": "place",
+"preferred_label": "Debir",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Adoni-zedek",
+"type": "person",
+"preferred_label": "Adoni-zedek",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "place:Azekah",
+"type": "place",
+"preferred_label": "Azekah",
+"confidence": 0.2256,
+"match_method": "canonical"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"preferred_label": "Ai",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"preferred_label": "Gaza",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Horam",
+"type": "person",
+"preferred_label": "Horam",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Piram",
+"type": "person",
+"preferred_label": "Piram",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Jashar",
+"type": "person",
+"preferred_label": "Jashar",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "place:Gezer",
+"type": "place",
+"preferred_label": "Gezer",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Japhia",
+"type": "person",
+"preferred_label": "Japhia",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Hoham",
+"type": "person",
+"preferred_label": "Hoham",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Debir",
+"type": "person",
+"preferred_label": "Debir",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Shephelah",
+"type": "place",
+"preferred_label": "Shephelah",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Aijalon",
+"type": "place",
+"preferred_label": "Aijalon",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Goshen.2",
+"type": "place",
+"preferred_label": "Goshen",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"preferred_label": "Kadesh-barnea",
+"confidence": 0.1605,
+"match_method": "canonical"
+}
+]
+}
+}
+]

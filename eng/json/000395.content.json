@@ -1,0 +1,460 @@
+[
+{
+"content_id": "OT145",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Jehoshaphat Defeats Moab and Ammon",
+"media_type": "Image",
+"index_reference": "historical: jehoshaphat defeats moab and ammon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT145.png' alt='Image' width='480' /></p><p><a href='images/OT145.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1h-A8IRzmbZLPwPHj2Fb-ixPhyidnVs7g&usp=drive_copy'>Historical: Jehoshaphat Defeats Moab and Ammon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "14020001",
+"start_ref_usfm": "2CH 20:1",
+"end_ref": "14020037",
+"end_ref_usfm": "2CH 20:37"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.6297,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.5257,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.5081,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.5081,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4473,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.423,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
+"id": "place:SeirMount",
+"type": "place",
+"preferred_label": "Mount Seir",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaziah",
+"type": "person",
+"preferred_label": "Ahaziah",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "person:Zechariah.10",
+"type": "person",
+"preferred_label": "Zechariah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliezer.7",
+"type": "person",
+"preferred_label": "Eliezer",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Benaiah.6",
+"type": "person",
+"preferred_label": "Benaiah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "place:Jeruel",
+"type": "place",
+"preferred_label": "Jeruel",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "place:BeracahValley",
+"type": "place",
+"preferred_label": "Valley of Beracah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Jahaziel.4",
+"type": "person",
+"preferred_label": "Jahaziel",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Dodavahu",
+"type": "person",
+"preferred_label": "Dodavahu",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "place:Ziz",
+"type": "place",
+"preferred_label": "Ascent of Ziz",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Mattaniah.3",
+"type": "person",
+"preferred_label": "Mattaniah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeiel.5",
+"type": "person",
+"preferred_label": "Jeiel",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "group:Meunites",
+"type": "group",
+"preferred_label": "Meunites",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Azubah",
+"type": "person",
+"preferred_label": "Azubah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Shilhi",
+"type": "person",
+"preferred_label": "Shilhi",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "place:Tekoa",
+"type": "place",
+"preferred_label": "Tekoa",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1643,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"preferred_label": "Asa",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"preferred_label": "Korah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Asaph.2",
+"type": "person",
+"preferred_label": "Asaph",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Kohath",
+"type": "group",
+"preferred_label": "Kohathites",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Kohath",
+"type": "person",
+"preferred_label": "Kohath",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Mareshah",
+"type": "place",
+"preferred_label": "Mareshah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Engedi",
+"type": "place",
+"preferred_label": "En-gedi",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Korah",
+"type": "group",
+"preferred_label": "Korahites",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehu",
+"type": "person",
+"preferred_label": "Jehu",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Hanani",
+"type": "person",
+"preferred_label": "Hanani",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Ezion-geber",
+"type": "place",
+"preferred_label": "Ezion-geber",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"preferred_label": "Trumpet",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"preferred_label": "Lyre",
+"confidence": 0.1022,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT138",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Wars of Pekah",
+"media_type": "Image",
+"index_reference": "historical: the wars of pekah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT138.png' alt='Image' width='480' /></p><p><a href='images/OT138.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ZXMlCQwBBA-GaH3lPfqolM6Ieca_rbc7&usp=drive_copy'>Historical: The Wars of Pekah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12016020",
+"end_ref_usfm": "2KI 16:20"
+},
+{
+"start_ref": "14028001",
+"start_ref_usfm": "2CH 28:1",
+"end_ref": "14028027",
+"end_ref_usfm": "2CH 28:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5088,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5035,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4635,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4612,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaz",
+"type": "person",
+"preferred_label": "Ahaz",
+"confidence": 0.4606,
+"match_method": "canonical"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"preferred_label": "Uzziah",
+"confidence": 0.4129,
+"match_method": "canonical"
+},
+{
+"id": "person:Pekah",
+"type": "person",
+"preferred_label": "Pekah",
+"confidence": 0.41,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.4082,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.4029,
+"match_method": "canonical"
+},
+{
+"id": "person:Menahem",
+"type": "person",
+"preferred_label": "Menahem",
+"confidence": 0.4018,
+"match_method": "canonical"
+},
+{
+"id": "person:Remaliah",
+"type": "person",
+"preferred_label": "Remaliah",
+"confidence": 0.3971,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3924,
+"match_method": "canonical"
+},
+{
+"id": "person:Jotham.2",
+"type": "person",
+"preferred_label": "Jotham",
+"confidence": 0.3894,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.3818,
+"match_method": "canonical"
+},
+{
+"id": "person:Tiglath-pileser",
+"type": "person",
+"preferred_label": "Tiglath-pileser",
+"confidence": 0.3812,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.3765,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3765,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"preferred_label": "Uriah",
+"confidence": 0.3376,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3324,
+"match_method": "canonical"
+},
+{
+"id": "person:Shallum.2",
+"type": "person",
+"preferred_label": "Shallum",
+"confidence": 0.3282,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3271,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3271,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.3271,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.3271,
+"match_method": "canonical"
+},
+{
+"id": "person:Rezin",
+"type": "person",
+"preferred_label": "Rezin",
+"confidence": 0.3259,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.3165,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.3165,
+"match_method": "canonical"
+},
+{
+"id": "person:Jabesh",
+"type": "person",
+"preferred_label": "Jabesh",
+"confidence": 0.2729,
+"match_method": "canonical"
+}
+]
+}
+}
+]

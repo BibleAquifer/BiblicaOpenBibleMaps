@@ -1,0 +1,621 @@
+[
+{
+"content_id": "OT224",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Prophecies Against Foreign Nations",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: prophecies against foreign nations",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT224.png' alt='Image' width='480' /></p><p><a href='images/OT224.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1IX38kIqzmgZIGAMtacD1UxdL-I9WVXwX&usp=drive_copy'>Wisdom & Prophets: Prophecies Against Foreign Nations</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "38009001",
+"start_ref_usfm": "ZEC 9:1",
+"end_ref": "38011017",
+"end_ref_usfm": "ZEC 11:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5261,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.4074,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.4074,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3989,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3989,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.3976,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "place:Ekron",
+"type": "place",
+"preferred_label": "Ekron",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"preferred_label": "Staff",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "place:Hadrach",
+"type": "place",
+"preferred_label": "Hadrach",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"preferred_label": "Teraphim",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"preferred_label": "Cedar",
+"confidence": 0.1639,
+"match_method": "canonical"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"preferred_label": "Greece",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mighty",
+"type": "keyterm",
+"preferred_label": "Mighty",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"preferred_label": "Utterance",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PracticeDivination",
+"type": "keyterm",
+"preferred_label": "Practice Divination",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"preferred_label": "Detested Thing",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"preferred_label": "Majesty",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Ashkelon",
+"type": "place",
+"preferred_label": "Ashkelon",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"preferred_label": "Foolish",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HaveAVision",
+"type": "keyterm",
+"preferred_label": "Have a Vision",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"preferred_label": "Mischief",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Ashdod",
+"type": "place",
+"preferred_label": "Ashdod",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"preferred_label": "Bashan",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"preferred_label": "Woe",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"preferred_label": "Gaza",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"preferred_label": "Fir",
+"confidence": 0.1041,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1041,
+"match_method": "canonical"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"preferred_label": "Grecian Juniper",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Peg.2",
+"type": "realia",
+"preferred_label": "Peg",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"preferred_label": "Pit",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"preferred_label": "Cypress",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Peg",
+"type": "realia",
+"preferred_label": "Peg",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sling",
+"type": "realia",
+"preferred_label": "Sling",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"preferred_label": "Must",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"preferred_label": "Fortification",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"preferred_label": "Oak",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"preferred_label": "Crown",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:HouseholdIdols",
+"type": "realia",
+"preferred_label": "Household Idols",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.0998,
+"match_method": "canonical"
+}
+]
+}
+}
+]

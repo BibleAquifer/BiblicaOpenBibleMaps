@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT109",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Matthew: Matt. 13:54–58, Matt. 14:13–20",
+"media_type": "Image",
+"index_reference": "srv matthew: matt. 13:54-58, matt. 14:13-20",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT109.png' alt='Image' width='480' /></p><p><a href='images/NT109.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1SzsJpx5ZFWTRn4Q0qyRoFdGaWyU6us8u&usp=drive_copy'>SRV Matthew: Matt. 13:54-58, Matt. 14:13-20</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013058",
+"end_ref_usfm": "MAT 13:58"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.4431,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.4422,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.4198,
+"match_method": "canonical"
+},
+{
+"id": "flora:Weed",
+"type": "flora",
+"preferred_label": "Weed",
+"confidence": 0.3555,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
+"confidence": 0.3366,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.331,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.331,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.331,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"preferred_label": "Wheat",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"preferred_label": "Disbelieve",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"preferred_label": "Jude",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.3",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"preferred_label": "Lawless",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StumblingBlock",
+"type": "keyterm",
+"preferred_label": "Stumbling Block",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.1555,
+"match_method": "canonical"
+}
+]
+}
+}
+]

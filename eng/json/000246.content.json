@@ -1,0 +1,369 @@
+[
+{
+"content_id": "NT364",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Acts: Acts 28:11–15",
+"media_type": "Image",
+"index_reference": "srv acts: acts 28:11-15",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT364.png' alt='Image' width='480' /></p><p><a href='images/NT364.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1oLFqGLNmuRoltg65yBpGTI2MCDCMWPHl&usp=drive_copy'>SRV Acts: Acts 28:11-15</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44028001",
+"start_ref_usfm": "ACT 28:1",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.4226,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3581,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2935,
+"match_method": "canonical"
+},
+{
+"id": "person:Publius",
+"type": "person",
+"preferred_label": "Publius",
+"confidence": 0.2419,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.2355,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "place:Rhegium",
+"type": "place",
+"preferred_label": "Rhegium",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:ForumOfAppius",
+"type": "place",
+"preferred_label": "Forum of Appius",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:ThreeTaverns",
+"type": "place",
+"preferred_label": "Three Taverns",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Puteoli",
+"type": "place",
+"preferred_label": "Puteoli",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"preferred_label": "Alexandria",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Syracuse",
+"type": "place",
+"preferred_label": "Syracuse",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Malta",
+"type": "place",
+"preferred_label": "Malta",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "Declare",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"preferred_label": "Disbelieve",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Claudius",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"preferred_label": "Call Upon",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"preferred_label": "Think",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hospitably",
+"type": "keyterm",
+"preferred_label": "Hospitably",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "realia:Emblem",
+"type": "realia",
+"preferred_label": "Emblem",
+"confidence": 0.111,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"preferred_label": "Chain",
+"confidence": 0.111,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "realia:GuestRoom",
+"type": "realia",
+"preferred_label": "Guest Room",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"preferred_label": "Cobra",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "realia:Inn",
+"type": "realia",
+"preferred_label": "Inn",
+"confidence": 0.1045,
+"match_method": "canonical"
+}
+]
+}
+}
+]

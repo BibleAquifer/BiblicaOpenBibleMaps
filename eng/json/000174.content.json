@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT268",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV John: John 11:1–15",
+"media_type": "Image",
+"index_reference": "srv john: john 11:1-15",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT268.png' alt='Image' width='480' /></p><p><a href='images/NT268.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=18FWtsBe6cOIy6YVlfp8JePZ2WLLCzY6t&usp=drive_copy'>SRV John: John 11:1-15</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43011057",
+"end_ref_usfm": "JHN 11:57"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.5474,
+"match_method": "canonical"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"preferred_label": "Martha",
+"confidence": 0.4167,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.4167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.4132,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4132,
+"match_method": "canonical"
+},
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"preferred_label": "Lazarus",
+"confidence": 0.4044,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3895,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3316,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.2737,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"preferred_label": "Bethany",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"preferred_label": "Stumble",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Friendship",
+"type": "keyterm",
+"preferred_label": "Friendship",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.2137,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "person:Caiaphas",
+"type": "person",
+"preferred_label": "Caiaphas",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "person:Thomas",
+"type": "person",
+"preferred_label": "Thomas",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"preferred_label": "Commandment",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"preferred_label": "Ephraim",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"preferred_label": "Anointed",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.1579,
+"match_method": "canonical"
+}
+]
+}
+}
+]

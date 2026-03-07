@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT155",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Exile to Babylon",
+"media_type": "Image",
+"index_reference": "historical: exile to babylon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT155.png' alt='Image' width='480' /></p><p><a href='images/OT155.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=126-mgQdamylpCPj18sSVM96f-VMKLubY&usp=drive_copy'>Historical: Exile to Babylon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12025001",
+"start_ref_usfm": "2KI 25:1",
+"end_ref": "12025030",
+"end_ref_usfm": "2KI 25:30"
+},
+{
+"start_ref": "14036001",
+"start_ref_usfm": "2CH 36:1",
+"end_ref": "14036023",
+"end_ref_usfm": "2CH 36:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.5104,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4943,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4774,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.4179,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.4179,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4094,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4094,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.4094,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3834,
+"match_method": "canonical"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"preferred_label": "Zedekiah",
+"confidence": 0.3377,
+"match_method": "canonical"
+},
+{
+"id": "person:Gedaliah.2",
+"type": "person",
+"preferred_label": "Gedaliah",
+"confidence": 0.3377,
+"match_method": "canonical"
+},
+{
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
+"confidence": 0.2792,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoahaz.3",
+"type": "person",
+"preferred_label": "Jehoahaz",
+"confidence": 0.2792,
+"match_method": "canonical"
+},
+{
+"id": "place:Riblah.2",
+"type": "place",
+"preferred_label": "Riblah",
+"confidence": 0.2792,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuzaradan",
+"type": "person",
+"preferred_label": "Nebuzaradan",
+"confidence": 0.2792,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
+"confidence": 0.2792,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"preferred_label": "Jehoiakim",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"preferred_label": "Jehoiachin",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "person:Cyrus",
+"type": "person",
+"preferred_label": "Cyrus",
+"confidence": 0.2245,
+"match_method": "canonical"
+},
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"preferred_label": "Ishmael",
+"confidence": 0.2208,
+"match_method": "canonical"
+},
+{
+"id": "person:Nethaniah",
+"type": "person",
+"preferred_label": "Nethaniah",
+"confidence": 0.2208,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StateOfBeingUnderSiege",
+"type": "keyterm",
+"preferred_label": "Under Siege",
+"confidence": 0.1623,
+"match_method": "canonical"
+}
+]
+}
+}
+]
