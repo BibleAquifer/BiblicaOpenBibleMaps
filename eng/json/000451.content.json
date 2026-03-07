@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT201",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Prophecy Against Babylon",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: prophecy against babylon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT201.png' alt='Image' width='480' /></p><p><a href='images/OT201.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1yWOqZYW5SbmbSVYyfGv3dHAhSP22OYFv/view?usp=drive_link'>Wisdom & Prophets: Prophecy Against Babylon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24050001",
+"start_ref_usfm": "JER 50:1",
+"end_ref": "24051064",
+"end_ref_usfm": "JER 51:64"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.5586,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5505,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.395,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.3927,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.3786,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.3786,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3745,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
+"confidence": 0.3705,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3705,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.3164,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.3105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.3105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.3105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.3105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.3105,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
+"confidence": 0.2623,
+"match_method": "canonical"
+},
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"preferred_label": "Graven Image",
+"confidence": 0.2564,
+"match_method": "canonical"
+},
+{
+"id": "person:Seraiah.8",
+"type": "person",
+"preferred_label": "Seraiah",
+"confidence": 0.2118,
+"match_method": "canonical"
+},
+{
+"id": "deity:Bel",
+"type": "deity",
+"preferred_label": "Bel",
+"confidence": 0.2118,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "group:Mede",
+"type": "group",
+"preferred_label": "Medes",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"preferred_label": "Medan",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Visitation",
+"type": "keyterm",
+"preferred_label": "Visitation",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.2023,
+"match_method": "canonical"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"preferred_label": "Standard",
+"confidence": 0.2023,
+"match_method": "canonical"
+}
+]
+}
+}
+]

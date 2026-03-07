@@ -1,0 +1,180 @@
+[
+{
+"content_id": "OT308",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Exodus: Exod. 10:1–20, Exod. 25:23–29",
+"media_type": "Image",
+"index_reference": "srv exodus: exod. 10:1-20, exod. 25:23-29",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT308.png' alt='Image' width='480' /></p><p><a href='images/OT308.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1CUabADjedVqDELBSEcTy4b5I3SVhHZDV&usp=drive_copy'>SRV Exodus: Exod. 10:1-20, Exod. 25:23-29</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041001",
+"start_ref_usfm": "GEN 41:1",
+"end_ref": "01041057",
+"end_ref_usfm": "GEN 41:57"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.5579,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.4956,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.4921,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4132,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.3895,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.3532,
+"match_method": "canonical"
+},
+{
+"id": "person:Asenath",
+"type": "person",
+"preferred_label": "Asenath",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "person:Potiphera",
+"type": "person",
+"preferred_label": "Potiphera",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "place:On",
+"type": "place",
+"preferred_label": "On",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1558,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.0979,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.0979,
+"match_method": "canonical"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"preferred_label": "Linen",
+"confidence": 0.0979,
+"match_method": "canonical"
+}
+]
+}
+}
+]

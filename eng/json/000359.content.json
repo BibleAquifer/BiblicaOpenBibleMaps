@@ -1,0 +1,348 @@
+[
+{
+"content_id": "OT109",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Sheba’s Revolt",
+"media_type": "Image",
+"index_reference": "historical: sheba’s revolt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT109.png' alt='Image' width='480' /></p><p><a href='images/OT109.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1kwU3b9zrmgoU627fO5ZggKcmco0axhcX&usp=drive_copy'>Historical: Sheba’s Revolt</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10020001",
+"start_ref_usfm": "2SA 20:1",
+"end_ref": "10020026",
+"end_ref_usfm": "2SA 20:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.575,
+"match_method": "canonical"
+},
+{
+"id": "person:Bichri",
+"type": "person",
+"preferred_label": "Bichri",
+"confidence": 0.5365,
+"match_method": "canonical"
+},
+{
+"id": "person:Sheba.4",
+"type": "person",
+"preferred_label": "Sheba",
+"confidence": 0.5115,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.4712,
+"match_method": "canonical"
+},
+{
+"id": "person:Amasa",
+"type": "person",
+"preferred_label": "Amasa",
+"confidence": 0.4615,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4365,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3692,
+"match_method": "canonical"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"preferred_label": "Abel-beth-maacah",
+"confidence": 0.3096,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3019,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3019,
+"match_method": "canonical"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"preferred_label": "Cherethites",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "group:Pelethites",
+"type": "group",
+"preferred_label": "Pelethites",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "person:Adoram",
+"type": "person",
+"preferred_label": "Adoram",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahilud",
+"type": "person",
+"preferred_label": "Ahilud",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Ira",
+"type": "person",
+"preferred_label": "Ira",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Jair.2",
+"type": "person",
+"preferred_label": "Jair",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Jair",
+"type": "group",
+"preferred_label": "Jairites",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Bichri",
+"type": "group",
+"preferred_label": "Bichrites",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Seraiah",
+"type": "person",
+"preferred_label": "Seraiah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.1746,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1746,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"preferred_label": "Benaiah",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"preferred_label": "Faithfulness",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"preferred_label": "A Woman",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"preferred_label": "Jehoiada",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "realia:SiegeRamp",
+"type": "realia",
+"preferred_label": "Siege Ramp",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sheath",
+"type": "realia",
+"preferred_label": "Sheath",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1073,
+"match_method": "canonical"
+}
+]
+}
+}
+]

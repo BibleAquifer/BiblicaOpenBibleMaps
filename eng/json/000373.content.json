@@ -1,0 +1,501 @@
+[
+{
+"content_id": "OT123",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Solomon’s Foreign Trade",
+"media_type": "Image",
+"index_reference": "historical: solomon’s foreign trade",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT123.png' alt='Image' width='480' /></p><p><a href='images/OT123.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1uf-b51xZgitK2O6p_2kES3qkOfQKd5Pc&usp=drive_copy'>Historical: Solomon’s Foreign Trade</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11010001",
+"start_ref_usfm": "1KI 10:1",
+"end_ref": "11010029",
+"end_ref_usfm": "1KI 10:29"
+},
+{
+"start_ref": "14001001",
+"start_ref_usfm": "2CH 1:1",
+"end_ref": "14001018",
+"end_ref_usfm": "2CH 1:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.5798,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.484,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.4362,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.417,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.357,
+"match_method": "canonical"
+},
+{
+"id": "person:QueenOfSheba",
+"type": "person",
+"preferred_label": "Queen of Sheba",
+"confidence": 0.3426,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3383,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.3383,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.3379,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3379,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.2783,
+"match_method": "canonical"
+},
+{
+"id": "place:Kue",
+"type": "place",
+"preferred_label": "Kue",
+"confidence": 0.2277,
+"match_method": "canonical"
+},
+{
+"id": "place:HouseOfTheForestOfLebanon",
+"type": "place",
+"preferred_label": "House of the Forest of Lebanon",
+"confidence": 0.2277,
+"match_method": "canonical"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"preferred_label": "Sheba",
+"confidence": 0.2234,
+"match_method": "canonical"
+},
+{
+"id": "place:Shephelah",
+"type": "place",
+"preferred_label": "Shephelah",
+"confidence": 0.2234,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Hiram",
+"type": "person",
+"preferred_label": "Hiram",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"preferred_label": "Tent of Meeting",
+"confidence": 0.2187,
+"match_method": "canonical"
+},
+{
+"id": "flora:BalsamTree",
+"type": "flora",
+"preferred_label": "Balsam Tree",
+"confidence": 0.2187,
+"match_method": "canonical"
+},
+{
+"id": "flora:SycomoreFig",
+"type": "flora",
+"preferred_label": "Sycomore Fig",
+"confidence": 0.1677,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophir",
+"type": "place",
+"preferred_label": "Ophir",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.1634,
+"match_method": "canonical"
+},
+{
+"id": "realia:Talent",
+"type": "realia",
+"preferred_label": "Talent",
+"confidence": 0.1634,
+"match_method": "canonical"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"preferred_label": "Throne",
+"confidence": 0.1634,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Kiriath-jearim",
+"type": "place",
+"preferred_label": "Kiriath-jearim",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Bezalel",
+"type": "person",
+"preferred_label": "Bezalel",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lead",
+"type": "keyterm",
+"preferred_label": "To Lead",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Uri",
+"type": "person",
+"preferred_label": "Uri",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Hur.2",
+"type": "person",
+"preferred_label": "Hur",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"preferred_label": "Fig",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"preferred_label": "Cedar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Monkey",
+"type": "fauna",
+"preferred_label": "Monkey",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Baboon",
+"type": "fauna",
+"preferred_label": "Baboon",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"preferred_label": "Large Shield",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"preferred_label": "Tent",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Mina",
+"type": "realia",
+"preferred_label": "Mina",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"preferred_label": "Lyre",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Weapons",
+"type": "realia",
+"preferred_label": "Weapons",
+"confidence": 0.0996,
+"match_method": "canonical"
+}
+]
+}
+}
+]

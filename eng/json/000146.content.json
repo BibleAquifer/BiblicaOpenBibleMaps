@@ -1,0 +1,222 @@
+[
+{
+"content_id": "NT226",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Luke: Luke 18:35–19:09",
+"media_type": "Image",
+"index_reference": "srv luke: luke 18:35-19:09",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT226.png' alt='Image' width='480' /></p><p><a href='images/NT226.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1RK_WLTDSHsIajyNvfM3s6bp9UPelFvYX&usp=drive_copy'>SRV Luke: Luke 18:35-19:09</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40020001",
+"start_ref_usfm": "MAT 20:1",
+"end_ref": "40020034",
+"end_ref_usfm": "MAT 20:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4294,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.3562,
+"match_method": "canonical"
+},
+{
+"id": "realia:Denarius",
+"type": "realia",
+"preferred_label": "Denarius",
+"confidence": 0.2929,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Idle",
+"type": "keyterm",
+"preferred_label": "Useless",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"preferred_label": "Zebedee",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"preferred_label": "Ransom",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"preferred_label": "Condemn",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"preferred_label": "Cross",
+"confidence": 0.1032,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT210",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Building Plan: Ezekiel's Temple",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: building plan: ezekiel's temple",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT210.png' alt='Image' width='480' /></p><p><a href='images/OT210.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1d9sB-RpPY9DzC6A2B2rwulyQ57Jqt61a&usp=drive_copy'>Wisdom & Prophets: Building Plan: Ezekiel's Temple</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26040001",
+"start_ref_usfm": "EZK 40:1",
+"end_ref": "26043027",
+"end_ref_usfm": "EZK 43:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Cubit",
+"type": "realia",
+"preferred_label": "Cubit",
+"confidence": 0.4502,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3943,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3906,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3859,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.3721,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3684,
+"match_method": "canonical"
+},
+{
+"id": "realia:Entrance",
+"type": "realia",
+"preferred_label": "Entrance",
+"confidence": 0.3597,
+"match_method": "canonical"
+},
+{
+"id": "realia:Reed",
+"type": "realia",
+"preferred_label": "Reed",
+"confidence": 0.3318,
+"match_method": "canonical"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"preferred_label": "Date Palm",
+"confidence": 0.3306,
+"match_method": "canonical"
+},
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"preferred_label": "Measuring Reed",
+"confidence": 0.3285,
+"match_method": "canonical"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"preferred_label": "Reed",
+"confidence": 0.3269,
+"match_method": "canonical"
+},
+{
+"id": "realia:Window",
+"type": "realia",
+"preferred_label": "Window",
+"confidence": 0.3195,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.3195,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.3195,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3195,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3195,
+"match_method": "canonical"
+},
+{
+"id": "realia:Room",
+"type": "realia",
+"preferred_label": "Room",
+"confidence": 0.3191,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.3084,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2611,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.2611,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.2611,
+"match_method": "canonical"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"preferred_label": "Holy Place",
+"confidence": 0.2611,
+"match_method": "canonical"
+},
+{
+"id": "realia:Doorstep",
+"type": "realia",
+"preferred_label": "Doorstep",
+"confidence": 0.2548,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"preferred_label": "Vision",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"preferred_label": "Appease",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2074,
+"match_method": "canonical"
+}
+]
+}
+}
+]

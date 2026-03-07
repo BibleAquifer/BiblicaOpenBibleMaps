@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT183",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: God’s Coming Judgement",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: god’s coming judgement",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT183.png' alt='Image' width='480' /></p><p><a href='images/OT183.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/16aErckFCEnrLsnfcGs6PgsWlrxBUUits/view?usp=drive_link'>Wisdom & Prophets: God’s Coming Judgement</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23028001",
+"start_ref_usfm": "ISA 28:1",
+"end_ref": "23035010",
+"end_ref_usfm": "ISA 35:10"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4774,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3919,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3744,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.369,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"preferred_label": "Woe",
+"confidence": 0.3663,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.3063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.3063,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:KindlyDisposed",
+"type": "keyterm",
+"preferred_label": "To Be Kindly Disposed",
+"confidence": 0.2593,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.2593,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"preferred_label": "Mischief",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"preferred_label": "Understanding",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "place:Sharon.2",
+"type": "place",
+"preferred_label": "Sharon Plain",
+"confidence": 0.2078,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.2066,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.2066,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "group:Assyria",
+"type": "group",
+"preferred_label": "Assyrians",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mighty.2",
+"type": "keyterm",
+"preferred_label": "Mighty",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.2054,
+"match_method": "canonical"
+}
+]
+}
+}
+]

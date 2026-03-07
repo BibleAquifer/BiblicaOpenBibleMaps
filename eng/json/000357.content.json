@@ -1,0 +1,432 @@
+[
+{
+"content_id": "OT107",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Defeat of Absalom",
+"media_type": "Image",
+"index_reference": "historical: the defeat of absalom",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT107.png' alt='Image' width='480' /></p><p><a href='images/OT107.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1QDshCluiGnJfGep4hvq9Nw0Cq6pFaUoZ&usp=drive_copy'>Historical: The Defeat of Absalom</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10017001",
+"start_ref_usfm": "2SA 17:1",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
+"confidence": 0.5517,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.4741,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4741,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahithophel",
+"type": "person",
+"preferred_label": "Ahithophel",
+"confidence": 0.4655,
+"match_method": "canonical"
+},
+{
+"id": "person:Hushai",
+"type": "person",
+"preferred_label": "Hushai",
+"confidence": 0.4431,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.2966,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahimaaz.2",
+"type": "person",
+"preferred_label": "Ahimaaz",
+"confidence": 0.2379,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2366,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.4",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.231,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.231,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
+"confidence": 0.231,
+"match_method": "canonical"
+},
+{
+"id": "group:Archites",
+"type": "group",
+"preferred_label": "Archites",
+"confidence": 0.231,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.231,
+"match_method": "canonical"
+},
+{
+"id": "person:Machir.2",
+"type": "person",
+"preferred_label": "Machir",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahash.3",
+"type": "person",
+"preferred_label": "Nahash",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Abigail.2",
+"type": "person",
+"preferred_label": "Abigail",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahash.4",
+"type": "person",
+"preferred_label": "Nahash",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Ammiel.2",
+"type": "person",
+"preferred_label": "Ammiel",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Amasa",
+"type": "person",
+"preferred_label": "Amasa",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "place:En-rogel",
+"type": "place",
+"preferred_label": "En-rogel",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Barzillai",
+"type": "person",
+"preferred_label": "Barzillai",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "place:Lo-debar",
+"type": "place",
+"preferred_label": "Lo-debar",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Jether.3",
+"type": "person",
+"preferred_label": "Jether",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "place:Rogelim",
+"type": "place",
+"preferred_label": "Rogelim",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Shobi",
+"type": "person",
+"preferred_label": "Shobi",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"preferred_label": "Plague",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"preferred_label": "Ishmaelites",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "group:Gilead",
+"type": "group",
+"preferred_label": "Gileadites",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Bahurim",
+"type": "place",
+"preferred_label": "Bahurim",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"preferred_label": "A Woman",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"preferred_label": "Ishmael",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"preferred_label": "Zeruiah",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "flora:Bean",
+"type": "flora",
+"preferred_label": "Bean",
+"confidence": 0.1124,
+"match_method": "canonical"
+},
+{
+"id": "flora:Lentil",
+"type": "flora",
+"preferred_label": "Lentil",
+"confidence": 0.1124,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"preferred_label": "Rope",
+"confidence": 0.1124,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bowl",
+"type": "realia",
+"preferred_label": "Bowl",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:Screen",
+"type": "realia",
+"preferred_label": "Screen",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"preferred_label": "Wheat",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"preferred_label": "Bear",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:ToSaddle",
+"type": "realia",
+"preferred_label": "To Saddle",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
+"confidence": 0.1055,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT100",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: City Plan: Jerusalem in the Time of David",
+"media_type": "Image",
+"index_reference": "historical: city plan: jerusalem in the time of david",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT100.png' alt='Image' width='480' /></p><p><a href='images/OT100.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1PiBeIWIP5ZNMs3PUEXtnO2pWbEYrPQ7S&usp=drive_copy'>Historical: City Plan: Jerusalem in the Time of David</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10001001",
+"start_ref_usfm": "2SA 1:1",
+"end_ref": "10024025",
+"end_ref_usfm": "2SA 24:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.496,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.451,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4154,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.405,
+"match_method": "canonical"
+},
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
+"confidence": 0.4049,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.3869,
+"match_method": "canonical"
+},
+{
+"id": "person:Abner",
+"type": "person",
+"preferred_label": "Abner",
+"confidence": 0.3762,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3706,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3668,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3668,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.3655,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.3655,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.3639,
+"match_method": "canonical"
+},
+{
+"id": "person:Amnon",
+"type": "person",
+"preferred_label": "Amnon",
+"confidence": 0.3635,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"preferred_label": "Uriah",
+"confidence": 0.3629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.3617,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.3617,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.3613,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahithophel",
+"type": "person",
+"preferred_label": "Ahithophel",
+"confidence": 0.3609,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.3606,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.3604,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.3604,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"preferred_label": "Zeruiah",
+"confidence": 0.3596,
+"match_method": "canonical"
+},
+{
+"id": "person:Ish-bosheth",
+"type": "person",
+"preferred_label": "Ish-bosheth",
+"confidence": 0.3591,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.3591,
+"match_method": "canonical"
+},
+{
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
+"confidence": 0.3591,
+"match_method": "canonical"
+},
+{
+"id": "person:Ziba",
+"type": "person",
+"preferred_label": "Ziba",
+"confidence": 0.3587,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.3587,
+"match_method": "canonical"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"preferred_label": "Mephibosheth",
+"confidence": 0.3586,
+"match_method": "canonical"
+},
+{
+"id": "person:Tamar.2",
+"type": "person",
+"preferred_label": "Tamar",
+"confidence": 0.3586,
+"match_method": "canonical"
+}
+]
+}
+}
+]

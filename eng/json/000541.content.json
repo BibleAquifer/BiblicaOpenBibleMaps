@@ -1,0 +1,341 @@
+[
+{
+"content_id": "OT319",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Exodus: Exod. 30:22–33",
+"media_type": "Image",
+"index_reference": "srv exodus: exod. 30:22-33",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT319.png' alt='Image' width='480' /></p><p><a href='images/OT319.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1AJ9QQFeTQZvRfulzp2oJ1sWfQ58eK9q5&usp=drive_copy'>SRV Exodus: Exod. 30:22-33</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030001",
+"start_ref_usfm": "EXO 30:1",
+"end_ref": "02030038",
+"end_ref_usfm": "EXO 30:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5039,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.4803,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.4329,
+"match_method": "canonical"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
+"confidence": 0.4092,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.3545,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.3545,
+"match_method": "canonical"
+},
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"preferred_label": "Tent of Meeting",
+"confidence": 0.3492,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3492,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3492,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.3474,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"preferred_label": "Testimony",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"preferred_label": "Appease",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "realia:Shekel",
+"type": "realia",
+"preferred_label": "Shekel",
+"confidence": 0.2308,
+"match_method": "canonical"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"preferred_label": "Anointing Oil",
+"confidence": 0.2308,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"preferred_label": "Atonement",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.2255,
+"match_method": "canonical"
+},
+{
+"id": "realia:HornsOfAltar",
+"type": "realia",
+"preferred_label": "Horns of Altar",
+"confidence": 0.2255,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
+"confidence": 0.2255,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"preferred_label": "Acacia",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"preferred_label": "Decree",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"preferred_label": "Myrrh",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "realia:Gerah",
+"type": "realia",
+"preferred_label": "Gerah",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fennel",
+"type": "flora",
+"preferred_label": "Fennel",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cassia",
+"type": "flora",
+"preferred_label": "Cassia",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cinnamon",
+"type": "flora",
+"preferred_label": "Cinnamon",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "flora:Liquidambar",
+"type": "flora",
+"preferred_label": "Liquidambar",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Onycha",
+"type": "fauna",
+"preferred_label": "Onycha",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"preferred_label": "Frankincense",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Hin",
+"type": "realia",
+"preferred_label": "Hin",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "flora:BalsamTree",
+"type": "flora",
+"preferred_label": "Balsam Tree",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"preferred_label": "Lampstand",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"preferred_label": "Cubit",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Curtain",
+"type": "realia",
+"preferred_label": "Curtain",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "flora:Calamus",
+"type": "flora",
+"preferred_label": "Calamus",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:CoverLid",
+"type": "realia",
+"preferred_label": "Cover Lid",
+"confidence": 0.1018,
+"match_method": "canonical"
+}
+]
+}
+}
+]

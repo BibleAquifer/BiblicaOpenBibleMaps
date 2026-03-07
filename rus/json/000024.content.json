@@ -1,0 +1,327 @@
+[
+{
+"content_id": "NT032",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Павел и ранняя Церковь: Противники Стефана",
+"media_type": "Image",
+"index_reference": "павел и ранняя церковь: противники стефана",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT032.png' alt='Image' width='480' /></p><p><a href='images/NT032.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006015",
+"end_ref_usfm": "ACT 6:15"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"preferred_label": "Стефан",
+"confidence": 0.3667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.3533,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Моисей",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"preferred_label": "Филипп",
+"confidence": 0.2467,
+"match_method": "canonical"
+},
+{
+"id": "group:Hellenist",
+"type": "group",
+"preferred_label": "Hellenists",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "person:Prochorus",
+"type": "person",
+"preferred_label": "Прохор",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "group:Alexandria",
+"type": "group",
+"preferred_label": "Alexandrians",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "group:Antioch",
+"type": "group",
+"preferred_label": "Antiochians",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "person:Parmenas",
+"type": "person",
+"preferred_label": "Пармена",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "person:Nicolaus",
+"type": "person",
+"preferred_label": "Николай",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "person:Timon",
+"type": "person",
+"preferred_label": "Тимон",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "group:Freedmen",
+"type": "group",
+"preferred_label": "Freedmen",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"preferred_label": "Александрия",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "person:Nicanor",
+"type": "person",
+"preferred_label": "Никанор",
+"confidence": 0.1933,
+"match_method": "canonical"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"preferred_label": "Greece",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Назарет",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blasphemous",
+"type": "keyterm",
+"preferred_label": "Blasphemous",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"preferred_label": "Portent",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Иерусалим",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "Chosen",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Киликия",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "киринеянин",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"preferred_label": "Антиохия",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Асии",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "Witness",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Иисус",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"preferred_label": "Tabernacle",
+"confidence": 0.12,
+"match_method": "canonical"
+}
+]
+}
+}
+]

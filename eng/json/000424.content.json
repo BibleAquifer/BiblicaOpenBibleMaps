@@ -1,0 +1,110 @@
+[
+{
+"content_id": "OT174",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Psalm 87",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: psalm 87",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT174.png' alt='Image' width='480' /></p><p><a href='images/OT174.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1pEO2yYQZGM6pNLBeHhOB41LnK7lgVDMJ/view?usp=drive_link'>Wisdom & Prophets: Psalm 87</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "19087001",
+"start_ref_usfm": "PSA 87:1",
+"end_ref": "19087007",
+"end_ref_usfm": "PSA 87:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5571,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3286,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"preferred_label": "Korah",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"preferred_label": "Psalm",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"preferred_label": "Foundation",
+"confidence": 0.1543,
+"match_method": "canonical"
+}
+]
+}
+}
+]

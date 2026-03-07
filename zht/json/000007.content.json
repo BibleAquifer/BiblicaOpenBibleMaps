@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT011",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "耶穌的生平：耶穌受洗並前往加利利",
+"media_type": "Image",
+"index_reference": "耶穌的生平：耶穌受洗並前往加利利",
+"language": "zht",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT011.png' alt='Image' width='480' /></p><p><a href='images/NT011.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43001001",
+"start_ref_usfm": "JHN 1:1",
+"end_ref": "43001051",
+"end_ref_usfm": "JHN 1:51"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4735,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4471,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.4206,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.4069,
+"match_method": "canonical"
+},
+{
+"id": "person:Nathanael",
+"type": "person",
+"preferred_label": "Nathanael",
+"confidence": 0.402,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"preferred_label": "Philip",
+"confidence": 0.398,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.3941,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.3353,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.3353,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.2216,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.2216,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.2216,
+"match_method": "canonical"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"preferred_label": "Andrew",
+"confidence": 0.2216,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethany.2",
+"type": "place",
+"preferred_label": "Bethany",
+"confidence": 0.1627,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1627,
+"match_method": "canonical"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1627,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethsaida",
+"type": "place",
+"preferred_label": "Bethsaida",
+"confidence": 0.1627,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"preferred_label": "A Disciple",
+"confidence": 0.1627,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT039",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: Destruction of the Midianites",
+"media_type": "Image",
+"index_reference": "pentateuch: destruction of the midianites",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT039.png' alt='Image' width='480' /></p><p><a href='images/OT039.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1pptcN4MIQtCxbluT2LjMlcMm18TGnnfJ&usp=drive_copy'>Pentateuch: Destruction of the Midianites</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "04031001",
+"start_ref_usfm": "NUM 31:1",
+"end_ref": "04031054",
+"end_ref_usfm": "NUM 31:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5083,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"preferred_label": "Eleazar",
+"confidence": 0.4333,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4333,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.3917,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.365,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.34,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.3317,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "person:Balaam",
+"type": "person",
+"preferred_label": "Balaam",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "person:Evi",
+"type": "person",
+"preferred_label": "Evi",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
+"id": "person:Rekem",
+"type": "person",
+"preferred_label": "Rekem",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
+"id": "person:Zur.2",
+"type": "person",
+"preferred_label": "Zur",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
+"id": "person:Hur.3",
+"type": "person",
+"preferred_label": "Hur",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
+"id": "person:Reba",
+"type": "person",
+"preferred_label": "Reba",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"preferred_label": "Plague",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "place:Peor",
+"type": "place",
+"preferred_label": "Baal-peor",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"preferred_label": "Midianites",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "person:Beor.2",
+"type": "person",
+"preferred_label": "Beor",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"preferred_label": "Phinehas",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1583,
+"match_method": "canonical"
+}
+]
+}
+}
+]

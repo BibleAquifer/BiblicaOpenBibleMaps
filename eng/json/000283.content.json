@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT033",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: Building Plan: The Tabernacle",
+"media_type": "Image",
+"index_reference": "pentateuch: building plan: the tabernacle",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT033.png' alt='Image' width='480' /></p><p><a href='images/OT033.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1WKgGkUhwtpB05jh-X90_77usEzqUVAOt&usp=drive_copy'>Pentateuch: Building Plan: The Tabernacle</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02036001",
+"start_ref_usfm": "EXO 36:1",
+"end_ref": "02040038",
+"end_ref_usfm": "EXO 40:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.4254,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4179,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.3902,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.3852,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3701,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3701,
+"match_method": "canonical"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
+"confidence": 0.3676,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.3676,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"preferred_label": "Testimony",
+"confidence": 0.3651,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.3626,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
+"id": "realia:Frame",
+"type": "realia",
+"preferred_label": "Frame",
+"confidence": 0.3325,
+"match_method": "canonical"
+},
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"preferred_label": "Tent of Meeting",
+"confidence": 0.3313,
+"match_method": "canonical"
+},
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"preferred_label": "Purple Cloth",
+"confidence": 0.3302,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"preferred_label": "Cubit",
+"confidence": 0.3277,
+"match_method": "canonical"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"preferred_label": "Linen",
+"confidence": 0.3252,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
+"confidence": 0.3227,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spindle",
+"type": "realia",
+"preferred_label": "Spindle",
+"confidence": 0.3224,
+"match_method": "canonical"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"preferred_label": "Acacia",
+"confidence": 0.3177,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.3177,
+"match_method": "canonical"
+},
+{
+"id": "realia:LinenStrips",
+"type": "realia",
+"preferred_label": "Linen Strips",
+"confidence": 0.3174,
+"match_method": "canonical"
+},
+{
+"id": "realia:GoatHairStrips",
+"type": "realia",
+"preferred_label": "Goat Hair Strips",
+"confidence": 0.3163,
+"match_method": "canonical"
+},
+{
+"id": "realia:Screen",
+"type": "realia",
+"preferred_label": "Screen",
+"confidence": 0.3151,
+"match_method": "canonical"
+},
+{
+"id": "person:Bezalel",
+"type": "person",
+"preferred_label": "Bezalel",
+"confidence": 0.3112,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"preferred_label": "Ephod",
+"confidence": 0.3101,
+"match_method": "canonical"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"preferred_label": "Perimiter Curtain",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "realia:Breast-piece",
+"type": "realia",
+"preferred_label": "Breast-Piece",
+"confidence": 0.3087,
+"match_method": "canonical"
+}
+]
+}
+}
+]

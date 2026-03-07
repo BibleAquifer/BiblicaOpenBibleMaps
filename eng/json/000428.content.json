@@ -1,0 +1,376 @@
+[
+{
+"content_id": "OT178",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: A Shoot from the Stump of Jesse",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: a shoot from the stump of jesse",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT178.png' alt='Image' width='480' /></p><p><a href='images/OT178.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1d3MbAxKHXqsV6wgmewzjIQxdTVMgxe6v/view?usp=drive_link'>Wisdom & Prophets: A Shoot from the Stump of Jesse</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23011001",
+"start_ref_usfm": "ISA 11:1",
+"end_ref": "23012006",
+"end_ref_usfm": "ISA 12:6"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5341,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3114,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"preferred_label": "Standard",
+"confidence": 0.1809,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1809,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.1809,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fairness",
+"type": "keyterm",
+"preferred_label": "Fairness",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"preferred_label": "Elam",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "place:EgyptSea",
+"type": "place",
+"preferred_label": "Sea of Egypt",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"preferred_label": "Intention",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"preferred_label": "Shinar",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Pathros",
+"type": "place",
+"preferred_label": "Pathros",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"preferred_label": "Poor",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"preferred_label": "Understanding",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"preferred_label": "Wolf",
+"confidence": 0.1195,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"preferred_label": "Cobra",
+"confidence": 0.1195,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"preferred_label": "Leopard",
+"confidence": 0.1195,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"preferred_label": "Bear",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Viper",
+"type": "fauna",
+"preferred_label": "Viper",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"preferred_label": "Kid",
+"confidence": 0.1105,
+"match_method": "canonical"
+}
+]
+}
+}
+]

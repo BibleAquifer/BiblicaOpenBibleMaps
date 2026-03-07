@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT162",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Reconstruction of the Temple",
+"media_type": "Image",
+"index_reference": "historical: the reconstruction of the temple",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT162.png' alt='Image' width='480' /></p><p><a href='images/OT162.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=11GaIIWrNTEnSICQXMP-mtsmK1OfXXzSg&usp=drive_copy'>Historical: The Reconstruction of the Temple</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "15003001",
+"start_ref_usfm": "EZR 3:1",
+"end_ref": "15006022",
+"end_ref_usfm": "EZR 6:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4625,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.4617,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.427,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.427,
+"match_method": "canonical"
+},
+{
+"id": "person:Darius.2",
+"type": "person",
+"preferred_label": "Darius",
+"confidence": 0.4145,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.4092,
+"match_method": "canonical"
+},
+{
+"id": "person:Cyrus",
+"type": "person",
+"preferred_label": "Cyrus",
+"confidence": 0.3974,
+"match_method": "canonical"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"preferred_label": "Zerubbabel",
+"confidence": 0.3941,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3796,
+"match_method": "canonical"
+},
+{
+"id": "person:Shethar-bozenai",
+"type": "person",
+"preferred_label": "Shethar-bozenai",
+"confidence": 0.3342,
+"match_method": "canonical"
+},
+{
+"id": "person:Tattenai",
+"type": "person",
+"preferred_label": "Tattenai",
+"confidence": 0.3316,
+"match_method": "canonical"
+},
+{
+"id": "person:Shimshai",
+"type": "person",
+"preferred_label": "Shimshai",
+"confidence": 0.3316,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehum.2",
+"type": "person",
+"preferred_label": "Rehum",
+"confidence": 0.3316,
+"match_method": "canonical"
+},
+{
+"id": "person:Artaxerxes.2",
+"type": "person",
+"preferred_label": "Artaxerxes",
+"confidence": 0.3263,
+"match_method": "canonical"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"preferred_label": "Joshua",
+"confidence": 0.3263,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehozadak",
+"type": "person",
+"preferred_label": "Jehozadak",
+"confidence": 0.2704,
+"match_method": "canonical"
+},
+{
+"id": "person:Shealtiel.2",
+"type": "person",
+"preferred_label": "Shealtiel",
+"confidence": 0.2704,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2678,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.2678,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.2637,
+"match_method": "canonical"
+},
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"preferred_label": "Zechariah",
+"confidence": 0.2171,
+"match_method": "canonical"
+},
+{
+"id": "person:Haggai",
+"type": "person",
+"preferred_label": "Haggai",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "person:Iddo.6",
+"type": "person",
+"preferred_label": "Iddo",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2118,
+"match_method": "canonical"
+}
+]
+}
+}
+]

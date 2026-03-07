@@ -1,0 +1,201 @@
+[
+{
+"content_id": "OT182",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Prophecy Against Tyre",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: prophecy against tyre",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT182.png' alt='Image' width='480' /></p><p><a href='images/OT182.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1SMHdk7QaTiZp0kWn-stqKGRm2Qec-yja/view?usp=drive_link'>Wisdom & Prophets: Prophecy Against Tyre</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23023001",
+"start_ref_usfm": "ISA 23:1",
+"end_ref": "23023018",
+"end_ref_usfm": "ISA 23:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.4861,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.4111,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.325,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"preferred_label": "Fortress",
+"confidence": 0.265,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Cyprus",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.19,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"preferred_label": "Utterance",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"preferred_label": "Play the Prostitute",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:BrookOfEgypt",
+"type": "place",
+"preferred_label": "Brook of Egypt",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Hyena",
+"type": "fauna",
+"preferred_label": "Hyena",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "realia:SiegeTower",
+"type": "realia",
+"preferred_label": "Siege Tower",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "flora:Coriander",
+"type": "flora",
+"preferred_label": "Coriander",
+"confidence": 0.115,
+"match_method": "canonical"
+}
+]
+}
+}
+]

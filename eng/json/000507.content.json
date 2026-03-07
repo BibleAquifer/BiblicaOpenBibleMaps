@@ -1,0 +1,306 @@
+[
+{
+"content_id": "OT281",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 26:1–32",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 26:1-32",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT281.png' alt='Image' width='480' /></p><p><a href='images/OT281.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1UGZYOsib6uZ0yNfe47_JziMkavvDgET1&usp=drive_copy'>SRV Genesis: Gen. 26:1-32</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01026001",
+"start_ref_usfm": "GEN 26:1",
+"end_ref": "01026035",
+"end_ref_usfm": "GEN 26:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.5429,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.44,
+"match_method": "canonical"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"preferred_label": "Abimelech",
+"confidence": 0.44,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.4271,
+"match_method": "canonical"
+},
+{
+"id": "place:Gerar",
+"type": "place",
+"preferred_label": "Gerar",
+"confidence": 0.42,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.4143,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.4143,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.4143,
+"match_method": "canonical"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"preferred_label": "Rebekah",
+"confidence": 0.2886,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Rehoboth",
+"type": "place",
+"preferred_label": "Rehoboth",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Beeri",
+"type": "person",
+"preferred_label": "Beeri",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahuzzath",
+"type": "person",
+"preferred_label": "Ahuzzath",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Phicol",
+"type": "person",
+"preferred_label": "Phicol",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Esek",
+"type": "place",
+"preferred_label": "Esek",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Sitnah",
+"type": "place",
+"preferred_label": "Sitnah",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Elon",
+"type": "person",
+"preferred_label": "Elon",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Judith",
+"type": "person",
+"preferred_label": "Judith",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1657,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1657,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Adah.2",
+"type": "person",
+"preferred_label": "Adah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "realia:Window",
+"type": "realia",
+"preferred_label": "Window",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"preferred_label": "Tent",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1029,
+"match_method": "canonical"
+}
+]
+}
+}
+]

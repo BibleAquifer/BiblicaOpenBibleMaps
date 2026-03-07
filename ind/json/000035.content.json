@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT043",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Kedua Paulus (Bagian 3)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mula-mula: perjalanan misi kedua paulus (bagian 3)",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT043.png' alt='Image' width='480' /></p><p><a href='images/NT043.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
+"confidence": 0.4603,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "Tuhan",
+"confidence": 0.4338,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4206,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
+"confidence": 0.3897,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
+"confidence": 0.3873,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.3853,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
+"confidence": 0.3828,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "sembah",
+"confidence": 0.3804,
+"match_method": "canonical"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"preferred_label": "Atena",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Roma",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Yunani",
+"confidence": 0.3721,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.3721,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.3297,
+"match_method": "canonical"
+},
+{
+"id": "person:Jason",
+"type": "person",
+"preferred_label": "Yason",
+"confidence": 0.3235,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Makedonia",
+"confidence": 0.3216,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "kitab suci",
+"confidence": 0.3196,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.3196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
+"confidence": 0.3176,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.3165,
+"match_method": "canonical"
+},
+{
+"id": "person:Gallio",
+"type": "person",
+"preferred_label": "Galio",
+"confidence": 0.2691,
+"match_method": "canonical"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"preferred_label": "Tesalonika",
+"confidence": 0.2672,
+"match_method": "canonical"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"preferred_label": "Akwila",
+"confidence": 0.2672,
+"match_method": "canonical"
+},
+{
+"id": "place:Areopagus",
+"type": "place",
+"preferred_label": "Areopagus",
+"confidence": 0.2672,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "memutuskan",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"preferred_label": "Priskila",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "sabat",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Efesus",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.2632,
+"match_method": "canonical"
+}
+]
+}
+}
+]

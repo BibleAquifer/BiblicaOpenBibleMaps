@@ -1,0 +1,1967 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Images",
+    "resource_type": "Images, Maps, Videos",
+    "title": "Biblica Open Bible Maps",
+    "aquifer_name": "Biblica 开放圣经地图",
+    "version": "1.1.2",
+    "collection_title": "Biblica Open Bible Maps",
+    "short_name": "Biblica Open Bible Maps",
+    "license_info": {
+      "title": "Biblica Open Bible Maps",
+      "copyright": {
+        "dates": "2023–2025",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        },
+        "statement": "Biblica Open Bible Maps, © 2023–2025 Biblica, Inc. This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/).<br/>More Information: https://docs.google.com/document/d/1Pp44yZ0Zdnd59vJHTrt2rPYq0SppfX5rZbPBt6mz37U/edit?tab=t.0#heading=h.oev9aj1ksvk2"
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "",
+    "resource_code": "BiblicaOpenBibleMaps",
+    "date_created": "2026-03-06",
+    "language": "zhs",
+    "localizations": [
+      "eng",
+      "ind",
+      "rus",
+      "zht"
+    ],
+    "order": "monograph",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2026-03-06T14:54:08.642981"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "BiblicaOpenBibleMaps": {
+            "timestamp": "2026-03-06T14:54:08.642981"
+          }
+        }
+      },
+      "name": {
+        "zh": "Biblica Open Bible Maps"
+      },
+      "abbreviation": {
+        "zh": "Biblica Open Bible Maps"
+      }
+    },
+    "languages": [
+      {
+        "tag": "zh",
+        "name": {
+          "zh": "Chinese (Simplified)"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferMonograph",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 484
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 502
+      },
+      "json/000003.content.json": {
+        "mimeType": "text/json",
+        "size": 478
+      },
+      "json/000004.content.json": {
+        "mimeType": "text/json",
+        "size": 472
+      },
+      "json/000005.content.json": {
+        "mimeType": "text/json",
+        "size": 520
+      },
+      "json/000006.content.json": {
+        "mimeType": "text/json",
+        "size": 691
+      },
+      "json/000007.content.json": {
+        "mimeType": "text/json",
+        "size": 606
+      },
+      "json/000008.content.json": {
+        "mimeType": "text/json",
+        "size": 654
+      },
+      "json/000009.content.json": {
+        "mimeType": "text/json",
+        "size": 612
+      },
+      "json/000010.content.json": {
+        "mimeType": "text/json",
+        "size": 624
+      },
+      "json/000011.content.json": {
+        "mimeType": "text/json",
+        "size": 655
+      },
+      "json/000012.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000013.content.json": {
+        "mimeType": "text/json",
+        "size": 883
+      },
+      "json/000014.content.json": {
+        "mimeType": "text/json",
+        "size": 526
+      },
+      "json/000015.content.json": {
+        "mimeType": "text/json",
+        "size": 526
+      },
+      "json/000016.content.json": {
+        "mimeType": "text/json",
+        "size": 596
+      },
+      "json/000017.content.json": {
+        "mimeType": "text/json",
+        "size": 526
+      },
+      "json/000018.content.json": {
+        "mimeType": "text/json",
+        "size": 520
+      },
+      "json/000019.content.json": {
+        "mimeType": "text/json",
+        "size": 526
+      },
+      "json/000020.content.json": {
+        "mimeType": "text/json",
+        "size": 526
+      },
+      "json/000021.content.json": {
+        "mimeType": "text/json",
+        "size": 532
+      },
+      "json/000022.content.json": {
+        "mimeType": "text/json",
+        "size": 520
+      },
+      "json/000023.content.json": {
+        "mimeType": "text/json",
+        "size": 594
+      },
+      "json/000024.content.json": {
+        "mimeType": "text/json",
+        "size": 600
+      },
+      "json/000025.content.json": {
+        "mimeType": "text/json",
+        "size": 624
+      },
+      "json/000026.content.json": {
+        "mimeType": "text/json",
+        "size": 588
+      },
+      "json/000027.content.json": {
+        "mimeType": "text/json",
+        "size": 588
+      },
+      "json/000028.content.json": {
+        "mimeType": "text/json",
+        "size": 589
+      },
+      "json/000029.content.json": {
+        "mimeType": "text/json",
+        "size": 596
+      },
+      "json/000030.content.json": {
+        "mimeType": "text/json",
+        "size": 614
+      },
+      "json/000031.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000032.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000033.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000034.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000035.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000036.content.json": {
+        "mimeType": "text/json",
+        "size": 686
+      },
+      "json/000037.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000038.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000039.content.json": {
+        "mimeType": "text/json",
+        "size": 632
+      },
+      "json/000040.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000041.content.json": {
+        "mimeType": "text/json",
+        "size": 650
+      },
+      "json/000042.content.json": {
+        "mimeType": "text/json",
+        "size": 2081
+      },
+      "json/000043.content.json": {
+        "mimeType": "text/json",
+        "size": 577
+      },
+      "json/000044.content.json": {
+        "mimeType": "text/json",
+        "size": 699
+      },
+      "json/000045.content.json": {
+        "mimeType": "text/json",
+        "size": 582
+      },
+      "json/000046.content.json": {
+        "mimeType": "text/json",
+        "size": 582
+      },
+      "json/000047.content.json": {
+        "mimeType": "text/json",
+        "size": 582
+      },
+      "json/000048.content.json": {
+        "mimeType": "text/json",
+        "size": 709
+      },
+      "json/000049.content.json": {
+        "mimeType": "text/json",
+        "size": 697
+      },
+      "json/000050.content.json": {
+        "mimeType": "text/json",
+        "size": 576
+      },
+      "json/000051.content.json": {
+        "mimeType": "text/json",
+        "size": 691
+      },
+      "json/000052.content.json": {
+        "mimeType": "text/json",
+        "size": 577
+      },
+      "json/000053.content.json": {
+        "mimeType": "text/json",
+        "size": 578
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 577
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 586
+      },
+      "md/000003.content.md": {
+        "mimeType": "text/markdown",
+        "size": 574
+      },
+      "md/000004.content.md": {
+        "mimeType": "text/markdown",
+        "size": 571
+      },
+      "md/000005.content.md": {
+        "mimeType": "text/markdown",
+        "size": 595
+      },
+      "md/000006.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1579
+      },
+      "md/000007.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1597
+      },
+      "md/000008.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1628
+      },
+      "md/000009.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1639
+      },
+      "md/000010.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1607
+      },
+      "md/000011.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1621
+      },
+      "md/000012.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1660
+      },
+      "md/000013.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1662
+      },
+      "md/000014.content.md": {
+        "mimeType": "text/markdown",
+        "size": 598
+      },
+      "md/000015.content.md": {
+        "mimeType": "text/markdown",
+        "size": 598
+      },
+      "md/000016.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1582
+      },
+      "md/000017.content.md": {
+        "mimeType": "text/markdown",
+        "size": 598
+      },
+      "md/000018.content.md": {
+        "mimeType": "text/markdown",
+        "size": 595
+      },
+      "md/000019.content.md": {
+        "mimeType": "text/markdown",
+        "size": 598
+      },
+      "md/000020.content.md": {
+        "mimeType": "text/markdown",
+        "size": 598
+      },
+      "md/000021.content.md": {
+        "mimeType": "text/markdown",
+        "size": 601
+      },
+      "md/000022.content.md": {
+        "mimeType": "text/markdown",
+        "size": 595
+      },
+      "md/000023.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3103
+      },
+      "md/000024.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2066
+      },
+      "md/000025.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1622
+      },
+      "md/000026.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2282
+      },
+      "md/000027.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2479
+      },
+      "md/000028.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1572
+      },
+      "md/000029.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2451
+      },
+      "md/000030.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2063
+      },
+      "md/000031.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1616
+      },
+      "md/000032.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2170
+      },
+      "md/000033.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2582
+      },
+      "md/000034.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2450
+      },
+      "md/000035.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1616
+      },
+      "md/000036.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2625
+      },
+      "md/000037.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1625
+      },
+      "md/000038.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2742
+      },
+      "md/000039.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1876
+      },
+      "md/000040.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2245
+      },
+      "md/000041.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2226
+      },
+      "md/000042.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1921
+      },
+      "md/000043.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1599
+      },
+      "md/000044.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1648
+      },
+      "md/000045.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1608
+      },
+      "md/000046.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1616
+      },
+      "md/000047.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1629
+      },
+      "md/000048.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1650
+      },
+      "md/000049.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1648
+      },
+      "md/000050.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2937
+      },
+      "md/000051.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1607
+      },
+      "md/000052.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1626
+      },
+      "md/000053.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1583
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Biblica Open Bible Maps © 2023–2025 Biblica Inc..</p>",
+          "mimetype": "text/html",
+          "lang": "zh"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "NT001": {
+      "content_id": "NT001",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣时代的罗马帝国",
+      "localizations": {
+        "eng": {
+          "content_id": "NT001",
+          "language": "eng",
+          "title": "The Life of Jesus: The Roman Empire in the Time of Jesus"
+        },
+        "ind": {
+          "content_id": "NT001",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Kekaisaran Romawi pada Zaman Yesus"
+        },
+        "rus": {
+          "content_id": "NT001",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Римская империя во времена Иисуса"
+        },
+        "zht": {
+          "content_id": "NT001",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌時代的羅馬帝國"
+        }
+      }
+    },
+    "NT003": {
+      "content_id": "NT003",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣时代黎凡特的政治划分",
+      "localizations": {
+        "eng": {
+          "content_id": "NT003",
+          "language": "eng",
+          "title": "The Life of Jesus: Political Division of the Levant in the Time of Jesus"
+        },
+        "ind": {
+          "content_id": "NT003",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Pembagian Politik Levant pada Zaman Yesus"
+        },
+        "rus": {
+          "content_id": "NT003",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Политическое разделение Леванта во времена Иисуса"
+        },
+        "zht": {
+          "content_id": "NT003",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌時代黎凡特的政治劃分"
+        }
+      }
+    },
+    "NT005": {
+      "content_id": "NT005",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣时代的加利利",
+      "localizations": {
+        "eng": {
+          "content_id": "NT005",
+          "language": "eng",
+          "title": "The Life of Jesus: Galilee in Jesus' Time"
+        },
+        "ind": {
+          "content_id": "NT005",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Galilea pada Zaman Yesus"
+        },
+        "rus": {
+          "content_id": "NT005",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Галилея во времена Иисуса"
+        },
+        "zht": {
+          "content_id": "NT005",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌時代的加利利"
+        }
+      }
+    },
+    "NT006": {
+      "content_id": "NT006",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣时代的犹太",
+      "localizations": {
+        "eng": {
+          "content_id": "NT006",
+          "language": "eng",
+          "title": "The Life of Jesus: Judea in Jesus' Time"
+        },
+        "ind": {
+          "content_id": "NT006",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Yudea pada Zaman Yesus"
+        },
+        "rus": {
+          "content_id": "NT006",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Иудея во времена Иисуса"
+        },
+        "zht": {
+          "content_id": "NT006",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌時代的猶太"
+        }
+      }
+    },
+    "NT007": {
+      "content_id": "NT007",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：城市平面图：耶稣时代的耶路撒冷",
+      "localizations": {
+        "eng": {
+          "content_id": "NT007",
+          "language": "eng",
+          "title": "The Life of Jesus: City Plan: Jerusalem in the Time of Jesus"
+        },
+        "ind": {
+          "content_id": "NT007",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Denah Kota: Yerusalem pada Zaman Yesus"
+        },
+        "rus": {
+          "content_id": "NT007",
+          "language": "rus",
+          "title": "Жизнь Иисуса: План города: Иерусалим во времена Иисуса"
+        },
+        "zht": {
+          "content_id": "NT007",
+          "language": "zht",
+          "title": "耶穌的生平：城市平面圖：耶穌時代的耶路撒冷"
+        }
+      }
+    },
+    "NT010": {
+      "content_id": "NT010",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣的降生",
+      "localizations": {
+        "eng": {
+          "content_id": "NT010",
+          "language": "eng",
+          "title": "The Life of Jesus: The Birth of Jesus"
+        },
+        "ind": {
+          "content_id": "NT010",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Kelahiran Yesus"
+        },
+        "rus": {
+          "content_id": "NT010",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Рождение Иисуса"
+        },
+        "zht": {
+          "content_id": "NT010",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌的降生"
+        }
+      }
+    },
+    "NT011": {
+      "content_id": "NT011",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣受洗并前往加利利",
+      "localizations": {
+        "eng": {
+          "content_id": "NT011",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus is Baptized and Travels to Galilee"
+        },
+        "ind": {
+          "content_id": "NT011",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Yesus Dibaptis dan Pergi ke Galilea"
+        },
+        "rus": {
+          "content_id": "NT011",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Крещение Иисуса и путешествие в Галилею"
+        },
+        "zht": {
+          "content_id": "NT011",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌受洗並前往加利利"
+        }
+      }
+    },
+    "NT012": {
+      "content_id": "NT012",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣第一次从加利利前往耶路撒冷的旅程",
+      "localizations": {
+        "eng": {
+          "content_id": "NT012",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus' First Journey from Galilee to Jerusalem"
+        },
+        "ind": {
+          "content_id": "NT012",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Perjalanan Pertama Yesus dari Galilea ke Yerusalem"
+        },
+        "rus": {
+          "content_id": "NT012",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Первое путешествие Иисуса из Галилеи в Иерусалим"
+        },
+        "zht": {
+          "content_id": "NT012",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌第一次從加利利前往耶路撒冷的旅程"
+        }
+      }
+    },
+    "NT013": {
+      "content_id": "NT013",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣途经撒玛利亚的旅程",
+      "localizations": {
+        "eng": {
+          "content_id": "NT013",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus' Journey through Samaria"
+        },
+        "ind": {
+          "content_id": "NT013",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Perjalanan Yesus melalui Samaria"
+        },
+        "rus": {
+          "content_id": "NT013",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Путешествие Иисуса через Самарию"
+        },
+        "zht": {
+          "content_id": "NT013",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌途經撒瑪利亞的旅程"
+        }
+      }
+    },
+    "NT015": {
+      "content_id": "NT015",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣喂饱五千人并在水上行走",
+      "localizations": {
+        "eng": {
+          "content_id": "NT015",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus Feeds the 5000 and Walks on Water"
+        },
+        "ind": {
+          "content_id": "NT015",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Yesus Memberi Makan 5000 Orang dan Berjalan di Atas Air"
+        },
+        "rus": {
+          "content_id": "NT015",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Иисус насыщает 5000 человек и ходит по воде"
+        },
+        "zht": {
+          "content_id": "NT015",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌餵飽五千人並在水上行走"
+        }
+      }
+    },
+    "NT016": {
+      "content_id": "NT016",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣第三次从加利利前往耶路撒冷的旅程",
+      "localizations": {
+        "eng": {
+          "content_id": "NT016",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus' Third Journey from Galilee to Jerusalem"
+        },
+        "ind": {
+          "content_id": "NT016",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Perjalanan Ketiga Yesus dari Galilea ke Yerusalem"
+        },
+        "rus": {
+          "content_id": "NT016",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Третье путешествие Иисуса из Галилеи в Иерусалим"
+        },
+        "zht": {
+          "content_id": "NT016",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌第三次從加利利前往耶路撒冷的旅程"
+        }
+      }
+    },
+    "NT017": {
+      "content_id": "NT017",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：约翰福音中耶稣最后一次前往耶路撒冷",
+      "localizations": {
+        "eng": {
+          "content_id": "NT017",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus Final Trip to Jerusalem in John"
+        },
+        "ind": {
+          "content_id": "NT017",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Perjalanan Terakhir Yesus ke Yerusalem dalam Injil Yohanes"
+        },
+        "rus": {
+          "content_id": "NT017",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Последнее путешествие Иисуса в Иерусалим по Евангелию от Иоанна"
+        },
+        "zht": {
+          "content_id": "NT017",
+          "language": "zht",
+          "title": "耶穌的生平：約翰福音中耶穌最後一次前往耶路撒冷"
+        }
+      }
+    },
+    "NT018": {
+      "content_id": "NT018",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：对观福音中耶稣最后一次前往耶路撒冷",
+      "localizations": {
+        "eng": {
+          "content_id": "NT018",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus' Final Return to Jerusalem in the Synoptic Gospels"
+        },
+        "ind": {
+          "content_id": "NT018",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Perjalanan Terakhir Yesus ke Yerusalem dalam Injil Sinoptik"
+        },
+        "rus": {
+          "content_id": "NT018",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Последнее путешествие Иисуса в Иерусалим по Синоптическим Евангелиям"
+        },
+        "zht": {
+          "content_id": "NT018",
+          "language": "zht",
+          "title": "耶穌的生平：對觀福音中耶穌最後一次前往耶路撒冷"
+        }
+      }
+    },
+    "NT022": {
+      "content_id": "NT022",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：早期基督教的重要地点（东部）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT022",
+          "language": "eng",
+          "title": "Paul and the Early Church: Important Sites in Early Christianity (East)"
+        },
+        "ind": {
+          "content_id": "NT022",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Situs Penting dalam Kekristenan Awal (Timur)"
+        },
+        "rus": {
+          "content_id": "NT022",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Важные места раннего христианства (Восток)"
+        },
+        "zht": {
+          "content_id": "NT022",
+          "language": "zht",
+          "title": "保羅與早期教會：早期基督教的重要地點（東部）"
+        }
+      }
+    },
+    "NT023": {
+      "content_id": "NT023",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：早期基督教的重要地点（西部）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT023",
+          "language": "eng",
+          "title": "Paul and the Early Church: Important Sites in Early Christianity (West)"
+        },
+        "ind": {
+          "content_id": "NT023",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Situs Penting dalam Kekristenan Awal (Barat)"
+        },
+        "rus": {
+          "content_id": "NT023",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Важные места раннего христианства (Запад)"
+        },
+        "zht": {
+          "content_id": "NT023",
+          "language": "zht",
+          "title": "保羅與早期教會：早期基督教的重要地點（西部）"
+        }
+      }
+    },
+    "NT024": {
+      "content_id": "NT024",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗旅程概览",
+      "localizations": {
+        "eng": {
+          "content_id": "NT024",
+          "language": "eng",
+          "title": "Paul and the Early Church: Overview of Paul's Journeys"
+        },
+        "ind": {
+          "content_id": "NT024",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Gambaran Umum Perjalanan Paulus"
+        },
+        "rus": {
+          "content_id": "NT024",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Обзор путешествий Павла"
+        },
+        "zht": {
+          "content_id": "NT024",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅旅程概覽"
+        }
+      }
+    },
+    "NT025": {
+      "content_id": "NT025",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：城市平面图：保罗时代的安提阿",
+      "localizations": {
+        "eng": {
+          "content_id": "NT025",
+          "language": "eng",
+          "title": "Paul and the Early Church: City Plan: Antioch in the Time of Paul"
+        },
+        "ind": {
+          "content_id": "NT025",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Denah Kota: Antiokhia pada Zaman Paulus"
+        },
+        "rus": {
+          "content_id": "NT025",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: План города: Антиохия во времена Павла"
+        },
+        "zht": {
+          "content_id": "NT025",
+          "language": "zht",
+          "title": "保羅與早期教會：城市平面圖：保羅時代的安提阿"
+        }
+      }
+    },
+    "NT026": {
+      "content_id": "NT026",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：城市平面图：保罗时代的雅典",
+      "localizations": {
+        "eng": {
+          "content_id": "NT026",
+          "language": "eng",
+          "title": "Paul and the Early Church: City Plan: Athens in the Time of Paul"
+        },
+        "ind": {
+          "content_id": "NT026",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Denah Kota: Atena pada Zaman Paulus"
+        },
+        "rus": {
+          "content_id": "NT026",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: План города: Афины во времена Павла"
+        },
+        "zht": {
+          "content_id": "NT026",
+          "language": "zht",
+          "title": "保羅與早期教會：城市平面圖：保羅時代的雅典"
+        }
+      }
+    },
+    "NT027": {
+      "content_id": "NT027",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：城市平面图：保罗时代的哥林多",
+      "localizations": {
+        "eng": {
+          "content_id": "NT027",
+          "language": "eng",
+          "title": "Paul and the Early Church: City Plan: Corinth in the Time of Paul"
+        },
+        "ind": {
+          "content_id": "NT027",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Denah Kota: Korintus pada Zaman Paulus"
+        },
+        "rus": {
+          "content_id": "NT027",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: План города: Коринф во времена Павла"
+        },
+        "zht": {
+          "content_id": "NT027",
+          "language": "zht",
+          "title": "保羅與早期教會：城市平面圖：保羅時代的哥林多"
+        }
+      }
+    },
+    "NT028": {
+      "content_id": "NT028",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：城市平面图：保罗时代的以弗所",
+      "localizations": {
+        "eng": {
+          "content_id": "NT028",
+          "language": "eng",
+          "title": "Paul and the Early Church: City Plan: Ephesus in the Time of Paul"
+        },
+        "ind": {
+          "content_id": "NT028",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Denah Kota: Efesus pada Zaman Paulus"
+        },
+        "rus": {
+          "content_id": "NT028",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: План города: Эфес во времена Павла"
+        },
+        "zht": {
+          "content_id": "NT028",
+          "language": "zht",
+          "title": "保羅與早期教會：城市平面圖：保羅時代的以弗所"
+        }
+      }
+    },
+    "NT029": {
+      "content_id": "NT029",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：城市平面图：保罗时代的该撒利亚",
+      "localizations": {
+        "eng": {
+          "content_id": "NT029",
+          "language": "eng",
+          "title": "Paul and the Early Church: City Plan: Caesarea in the Time of Paul"
+        },
+        "ind": {
+          "content_id": "NT029",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Denah Kota: Kaisarea pada Zaman Paulus"
+        },
+        "rus": {
+          "content_id": "NT029",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: План города: Кесария во времена Павла"
+        },
+        "zht": {
+          "content_id": "NT029",
+          "language": "zht",
+          "title": "保羅與早期教會：城市平面圖：保羅時代的該撒利亞"
+        }
+      }
+    },
+    "NT030": {
+      "content_id": "NT030",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：城市平面图：保罗时代的罗马",
+      "localizations": {
+        "eng": {
+          "content_id": "NT030",
+          "language": "eng",
+          "title": "Paul and the Early Church: City Plan: Rome in the Time of Paul"
+        },
+        "ind": {
+          "content_id": "NT030",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Denah Kota: Roma pada Zaman Paulus"
+        },
+        "rus": {
+          "content_id": "NT030",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: План города: Рим во времена Павла"
+        },
+        "zht": {
+          "content_id": "NT030",
+          "language": "zht",
+          "title": "保羅與早期教會：城市平面圖：保羅時代的羅馬"
+        }
+      }
+    },
+    "NT031": {
+      "content_id": "NT031",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：五旬节的聚集",
+      "localizations": {
+        "eng": {
+          "content_id": "NT031",
+          "language": "eng",
+          "title": "Paul and the Early Church: The Gathering at Pentecost"
+        },
+        "ind": {
+          "content_id": "NT031",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perkumpulan pada Hari Pentakosta"
+        },
+        "rus": {
+          "content_id": "NT031",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Собрание в день Пятидесятницы"
+        },
+        "zht": {
+          "content_id": "NT031",
+          "language": "zht",
+          "title": "保羅與早期教會：五旬節的聚集"
+        }
+      }
+    },
+    "NT032": {
+      "content_id": "NT032",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：司提反的反对者",
+      "localizations": {
+        "eng": {
+          "content_id": "NT032",
+          "language": "eng",
+          "title": "Paul and the Early Church: Stephen's Opponents"
+        },
+        "ind": {
+          "content_id": "NT032",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Lawan-lawan Stefanus"
+        },
+        "rus": {
+          "content_id": "NT032",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Противники Стефана"
+        },
+        "zht": {
+          "content_id": "NT032",
+          "language": "zht",
+          "title": "保羅與早期教會：司提反的反對者"
+        }
+      }
+    },
+    "NT033": {
+      "content_id": "NT033",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：司提反讲述犹太人的历史",
+      "localizations": {
+        "eng": {
+          "content_id": "NT033",
+          "language": "eng",
+          "title": "Paul and the Early Church: Stephen Recites the Histories of the Jews"
+        },
+        "ind": {
+          "content_id": "NT033",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Stefanus Menceritakan Sejarah Bangsa Yahudi"
+        },
+        "rus": {
+          "content_id": "NT033",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Стефан излагает историю евреев"
+        },
+        "zht": {
+          "content_id": "NT033",
+          "language": "zht",
+          "title": "保羅與早期教會：司提反講述猶太人的歷史"
+        }
+      }
+    },
+    "NT034": {
+      "content_id": "NT034",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：腓利的旅程",
+      "localizations": {
+        "eng": {
+          "content_id": "NT034",
+          "language": "eng",
+          "title": "Paul and the Early Church: Travels of Philip"
+        },
+        "ind": {
+          "content_id": "NT034",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Filipus"
+        },
+        "rus": {
+          "content_id": "NT034",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Путешествия Филиппа"
+        },
+        "zht": {
+          "content_id": "NT034",
+          "language": "zht",
+          "title": "保羅與早期教會：腓利的旅程"
+        }
+      }
+    },
+    "NT035": {
+      "content_id": "NT035",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗的归信",
+      "localizations": {
+        "eng": {
+          "content_id": "NT035",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Conversion"
+        },
+        "ind": {
+          "content_id": "NT035",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Pertobatan Paulus"
+        },
+        "rus": {
+          "content_id": "NT035",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Обращение Павла"
+        },
+        "zht": {
+          "content_id": "NT035",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅的歸信"
+        }
+      }
+    },
+    "NT036": {
+      "content_id": "NT036",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：彼得的旅程",
+      "localizations": {
+        "eng": {
+          "content_id": "NT036",
+          "language": "eng",
+          "title": "Paul and the Early Church: Travels of Peter"
+        },
+        "ind": {
+          "content_id": "NT036",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Petrus"
+        },
+        "rus": {
+          "content_id": "NT036",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Путешествия Петра"
+        },
+        "zht": {
+          "content_id": "NT036",
+          "language": "zht",
+          "title": "保羅與早期教會：彼得的旅程"
+        }
+      }
+    },
+    "NT037": {
+      "content_id": "NT037",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：安提阿的教会",
+      "localizations": {
+        "eng": {
+          "content_id": "NT037",
+          "language": "eng",
+          "title": "Paul and the Early Church: The Church in Antioch"
+        },
+        "ind": {
+          "content_id": "NT037",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Jemaat di Antiokhia"
+        },
+        "rus": {
+          "content_id": "NT037",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Церковь в Антиохии"
+        },
+        "zht": {
+          "content_id": "NT037",
+          "language": "zht",
+          "title": "保羅與早期教會：安提阿的教會"
+        }
+      }
+    },
+    "NT038": {
+      "content_id": "NT038",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：希律亚基帕一世之死",
+      "localizations": {
+        "eng": {
+          "content_id": "NT038",
+          "language": "eng",
+          "title": "Paul and the Early Church: The Death of Herod Agrippa I"
+        },
+        "ind": {
+          "content_id": "NT038",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Kematian Herodes Agripa I"
+        },
+        "rus": {
+          "content_id": "NT038",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Смерть Ирода Агриппы I"
+        },
+        "zht": {
+          "content_id": "NT038",
+          "language": "zht",
+          "title": "保羅與早期教會：希律亞基帕一世之死"
+        }
+      }
+    },
+    "NT039": {
+      "content_id": "NT039",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第一次传教旅程（第一部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT039",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's First Missionary Journey (Part 1)"
+        },
+        "ind": {
+          "content_id": "NT039",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Pertama Paulus (Bagian 1)"
+        },
+        "rus": {
+          "content_id": "NT039",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Первое миссионерское путешествие Павла (Часть 1)"
+        },
+        "zht": {
+          "content_id": "NT039",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第一次傳教旅程（第一部分）"
+        }
+      }
+    },
+    "NT040": {
+      "content_id": "NT040",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第一次传教旅程（第二部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT040",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's First Missionary Journey (Part 2)"
+        },
+        "ind": {
+          "content_id": "NT040",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Pertama Paulus (Bagian 2)"
+        },
+        "rus": {
+          "content_id": "NT040",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Первое миссионерское путешествие Павла (Часть 2)"
+        },
+        "zht": {
+          "content_id": "NT040",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第一次傳教旅程（第二部分）"
+        }
+      }
+    },
+    "NT041": {
+      "content_id": "NT041",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第二次传教旅程（第一部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT041",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Second Missionary Journey (Part 1)"
+        },
+        "ind": {
+          "content_id": "NT041",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Kedua Paulus (Bagian 1)"
+        },
+        "rus": {
+          "content_id": "NT041",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Второе миссионерское путешествие Павла (Часть 1)"
+        },
+        "zht": {
+          "content_id": "NT041",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第二次傳教旅程（第一部分）"
+        }
+      }
+    },
+    "NT042": {
+      "content_id": "NT042",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第二次传教旅程（第二部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT042",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Second Missionary Journey (Part 2)"
+        },
+        "ind": {
+          "content_id": "NT042",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Kedua Paulus (Bagian 2)"
+        },
+        "rus": {
+          "content_id": "NT042",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Второе миссионерское путешествие Павла (Часть 2)"
+        },
+        "zht": {
+          "content_id": "NT042",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第二次傳教旅程（第二部分）"
+        }
+      }
+    },
+    "NT043": {
+      "content_id": "NT043",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第二次传教旅程（第三部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT043",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Second Missionary Journey (Part 3)"
+        },
+        "ind": {
+          "content_id": "NT043",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Kedua Paulus (Bagian 3)"
+        },
+        "rus": {
+          "content_id": "NT043",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Второе миссионерское путешествие Павла (Часть 3)"
+        },
+        "zht": {
+          "content_id": "NT043",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第二次傳教旅程（第三部分）"
+        }
+      }
+    },
+    "NT044": {
+      "content_id": "NT044",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第二次传教旅程的结束与第三次旅程的开始",
+      "localizations": {
+        "eng": {
+          "content_id": "NT044",
+          "language": "eng",
+          "title": "Paul and the Early Church: End of Paul's Second Missionary Journey and Beginning of his Third"
+        },
+        "ind": {
+          "content_id": "NT044",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Akhir Perjalanan Misi Kedua Paulus dan Awal Perjalanan Ketiganya"
+        },
+        "rus": {
+          "content_id": "NT044",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Конец второго миссионерского путешествия Павла и начало третьего"
+        },
+        "zht": {
+          "content_id": "NT044",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第二次傳教旅程的結束與第三次旅程的開始"
+        }
+      }
+    },
+    "NT045": {
+      "content_id": "NT045",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第三次传教旅程（第一部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT045",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Third Missionary Journey (Part 1)"
+        },
+        "ind": {
+          "content_id": "NT045",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Ketiga Paulus (Bagian 1)"
+        },
+        "rus": {
+          "content_id": "NT045",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Третье миссионерское путешествие Павла (Часть 1)"
+        },
+        "zht": {
+          "content_id": "NT045",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第三次傳教旅程（第一部分）"
+        }
+      }
+    },
+    "NT046": {
+      "content_id": "NT046",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗第三次传教旅程（第二部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT046",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Third Missionary Journey (Part 2)"
+        },
+        "ind": {
+          "content_id": "NT046",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Ketiga Paulus (Bagian 2)"
+        },
+        "rus": {
+          "content_id": "NT046",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Третье миссионерское путешествие Павла (Часть 2)"
+        },
+        "zht": {
+          "content_id": "NT046",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅第三次傳教旅程（第二部分）"
+        }
+      }
+    },
+    "NT047": {
+      "content_id": "NT047",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗被捕并押送至该撒利亚",
+      "localizations": {
+        "eng": {
+          "content_id": "NT047",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul Arrested and Brought to Caesarea"
+        },
+        "ind": {
+          "content_id": "NT047",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Paulus Ditangkap dan Dibawa ke Kaisarea"
+        },
+        "rus": {
+          "content_id": "NT047",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Арест Павла и доставка в Кесарию"
+        },
+        "zht": {
+          "content_id": "NT047",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅被捕並押送至該撒利亞"
+        }
+      }
+    },
+    "NT048": {
+      "content_id": "NT048",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗前往罗马的旅程（第一部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT048",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Journey to Rome (Part 1)"
+        },
+        "ind": {
+          "content_id": "NT048",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Paulus ke Roma (Bagian 1)"
+        },
+        "rus": {
+          "content_id": "NT048",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Путешествие Павла в Рим (Часть 1)"
+        },
+        "zht": {
+          "content_id": "NT048",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅前往羅馬的旅程（第一部分）"
+        }
+      }
+    },
+    "NT049": {
+      "content_id": "NT049",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：保罗前往罗马的旅程（第二部分）",
+      "localizations": {
+        "eng": {
+          "content_id": "NT049",
+          "language": "eng",
+          "title": "Paul and the Early Church: Paul's Journey to Rome (Part 2)"
+        },
+        "ind": {
+          "content_id": "NT049",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Perjalanan Paulus ke Roma (Bagian 2)"
+        },
+        "rus": {
+          "content_id": "NT049",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Путешествие Павла в Рим (Часть 2)"
+        },
+        "zht": {
+          "content_id": "NT049",
+          "language": "zht",
+          "title": "保羅與早期教會：保羅前往羅馬的旅程（第二部分）"
+        }
+      }
+    },
+    "NT050": {
+      "content_id": "NT050",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：书信概览",
+      "localizations": {
+        "eng": {
+          "content_id": "NT050",
+          "language": "eng",
+          "title": "Paul and the Early Church: Epistles Overview"
+        },
+        "ind": {
+          "content_id": "NT050",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Ikhtisar Surat-surat"
+        },
+        "rus": {
+          "content_id": "NT050",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Обзор посланий"
+        },
+        "zht": {
+          "content_id": "NT050",
+          "language": "zht",
+          "title": "保羅與早期教會：書信概覽"
+        }
+      }
+    },
+    "NT051": {
+      "content_id": "NT051",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：罗马书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT051",
+          "language": "eng",
+          "title": "Paul and the Early Church: Romans"
+        },
+        "ind": {
+          "content_id": "NT051",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Roma"
+        },
+        "rus": {
+          "content_id": "NT051",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Римлянам"
+        },
+        "zht": {
+          "content_id": "NT051",
+          "language": "zht",
+          "title": "保羅與早期教會：羅馬書"
+        }
+      }
+    },
+    "NT052": {
+      "content_id": "NT052",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：哥林多书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT052",
+          "language": "eng",
+          "title": "Paul and the Early Church: Corinthians"
+        },
+        "ind": {
+          "content_id": "NT052",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Korintus"
+        },
+        "rus": {
+          "content_id": "NT052",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Коринфянам"
+        },
+        "zht": {
+          "content_id": "NT052",
+          "language": "zht",
+          "title": "保羅與早期教會：哥林多書"
+        }
+      }
+    },
+    "NT053": {
+      "content_id": "NT053",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：加拉太书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT053",
+          "language": "eng",
+          "title": "Paul and the Early Church: Galatians"
+        },
+        "ind": {
+          "content_id": "NT053",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Galatia"
+        },
+        "rus": {
+          "content_id": "NT053",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Галатам"
+        },
+        "zht": {
+          "content_id": "NT053",
+          "language": "zht",
+          "title": "保羅與早期教會：加拉太書"
+        }
+      }
+    },
+    "NT054": {
+      "content_id": "NT054",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：腓立比书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT054",
+          "language": "eng",
+          "title": "Paul and the Early Church: Philippians"
+        },
+        "ind": {
+          "content_id": "NT054",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Filipi"
+        },
+        "rus": {
+          "content_id": "NT054",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Филиппийцам"
+        },
+        "zht": {
+          "content_id": "NT054",
+          "language": "zht",
+          "title": "保羅與早期教會：腓立比書"
+        }
+      }
+    },
+    "NT055": {
+      "content_id": "NT055",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：歌罗西书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT055",
+          "language": "eng",
+          "title": "Paul and the Early Church: Colossians"
+        },
+        "ind": {
+          "content_id": "NT055",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Kolose"
+        },
+        "rus": {
+          "content_id": "NT055",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Колоссянам"
+        },
+        "zht": {
+          "content_id": "NT055",
+          "language": "zht",
+          "title": "保羅與早期教會：歌羅西書"
+        }
+      }
+    },
+    "NT056": {
+      "content_id": "NT056",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：帖撒罗尼迦书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT056",
+          "language": "eng",
+          "title": "Paul and the Early Church: Thessalonians"
+        },
+        "ind": {
+          "content_id": "NT056",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Tesalonika"
+        },
+        "rus": {
+          "content_id": "NT056",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Фессалоникийцам"
+        },
+        "zht": {
+          "content_id": "NT056",
+          "language": "zht",
+          "title": "保羅與早期教會：帖撒羅尼迦書"
+        }
+      }
+    },
+    "NT057": {
+      "content_id": "NT057",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：提摩太书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT057",
+          "language": "eng",
+          "title": "Paul and the Early Church: Timothy"
+        },
+        "ind": {
+          "content_id": "NT057",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Timotius"
+        },
+        "rus": {
+          "content_id": "NT057",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Тимофею"
+        },
+        "zht": {
+          "content_id": "NT057",
+          "language": "zht",
+          "title": "保羅與早期教會：提摩太書"
+        }
+      }
+    },
+    "NT058": {
+      "content_id": "NT058",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：提多书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT058",
+          "language": "eng",
+          "title": "Paul and the Early Church: Titus"
+        },
+        "ind": {
+          "content_id": "NT058",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Titus"
+        },
+        "rus": {
+          "content_id": "NT058",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Титу"
+        },
+        "zht": {
+          "content_id": "NT058",
+          "language": "zht",
+          "title": "保羅與早期教會：提多書"
+        }
+      }
+    },
+    "NT059": {
+      "content_id": "NT059",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：彼得书",
+      "localizations": {
+        "eng": {
+          "content_id": "NT059",
+          "language": "eng",
+          "title": "Paul and the Early Church: Peter"
+        },
+        "ind": {
+          "content_id": "NT059",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Petrus"
+        },
+        "rus": {
+          "content_id": "NT059",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Петра"
+        },
+        "zht": {
+          "content_id": "NT059",
+          "language": "zht",
+          "title": "保羅與早期教會：彼得書"
+        }
+      }
+    },
+    "NT060": {
+      "content_id": "NT060",
+      "reference_id": 0,
+      "index_reference": "保罗与早期教会：启示录",
+      "localizations": {
+        "eng": {
+          "content_id": "NT060",
+          "language": "eng",
+          "title": "Paul and the Early Church: Revelation"
+        },
+        "ind": {
+          "content_id": "NT060",
+          "language": "ind",
+          "title": "Paulus dan Gereja Mula-mula: Wahyu"
+        },
+        "rus": {
+          "content_id": "NT060",
+          "language": "rus",
+          "title": "Павел и ранняя Церковь: Откровение"
+        },
+        "zht": {
+          "content_id": "NT060",
+          "language": "zht",
+          "title": "保羅與早期教會：啟示錄"
+        }
+      }
+    },
+    "NT021": {
+      "content_id": "NT021",
+      "reference_id": 0,
+      "index_reference": "耶稣的生平：耶稣的复活",
+      "localizations": {
+        "eng": {
+          "content_id": "NT021",
+          "language": "eng",
+          "title": "The Life of Jesus: Jesus' Resurrection"
+        },
+        "ind": {
+          "content_id": "NT021",
+          "language": "ind",
+          "title": "Kehidupan Yesus: Kebangkitan Yesus"
+        },
+        "rus": {
+          "content_id": "NT021",
+          "language": "rus",
+          "title": "Жизнь Иисуса: Воскресение Иисуса"
+        },
+        "zht": {
+          "content_id": "NT021",
+          "language": "zht",
+          "title": "耶穌的生平：耶穌的復活"
+        }
+      }
+    }
+  }
+}

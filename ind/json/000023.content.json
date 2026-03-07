@@ -1,0 +1,572 @@
+[
+{
+"content_id": "NT031",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paulus dan Gereja Mula-mula: Perkumpulan pada Hari Pentakosta",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mula-mula: perkumpulan pada hari pentakosta",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT031.png' alt='Image' width='480' /></p><p><a href='images/NT031.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44002001",
+"start_ref_usfm": "ACT 2:1",
+"end_ref": "44002047",
+"end_ref_usfm": "ACT 2:47"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "Tuhan",
+"confidence": 0.4936,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
+"confidence": 0.4074,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
+"confidence": 0.3979,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "sorga",
+"confidence": 0.3383,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"preferred_label": "mujizat",
+"confidence": 0.2872,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Petrus",
+"confidence": 0.283,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "tanda",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "tubuh",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "Daud",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
+"confidence": 0.2234,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
+"confidence": 0.2234,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"preferred_label": "alam maut",
+"confidence": 0.2234,
+"match_method": "canonical"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Yehuda",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "kepenuhan (roh) seperti nabi",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "darah",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "janji",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"preferred_label": "Pontus",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"preferred_label": "Galileans",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"preferred_label": "Libia",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "group:Judea",
+"type": "group",
+"preferred_label": "Judeans",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"preferred_label": "Media",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Joel.14",
+"type": "person",
+"preferred_label": "Yoël",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"preferred_label": "Elam",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"preferred_label": "Frigia",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "group:Elam",
+"type": "group",
+"preferred_label": "Elamites",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Cappadocia",
+"type": "place",
+"preferred_label": "Kapadokia",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "bertobat",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "group:Parthians",
+"type": "group",
+"preferred_label": "Parthians",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "kebangkitan",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Kirene",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"preferred_label": "persekutuan",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "group:Cretan",
+"type": "group",
+"preferred_label": "Cretans",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "berbuat dosa",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"preferred_label": "tak kenal hukum",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:InCommon",
+"type": "keyterm",
+"preferred_label": "(kepunyaan) bersama",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Mesir",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "saksi",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"preferred_label": "Aram-Mesopotamia",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:MightyAct",
+"type": "keyterm",
+"preferred_label": "perbuatan besar",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:Mede",
+"type": "group",
+"preferred_label": "Medes",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazaret",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arab",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Roma",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Pamfilia",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "takut",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Crete",
+"type": "place",
+"preferred_label": "Kreta",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "memberi kesaksian yang sungguh, sungguh",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "mengampuni",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilea",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"preferred_label": "Arabians",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SomethingDefinite",
+"type": "keyterm",
+"preferred_label": "apa yang sebenarnya terjadi",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "sumpah",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"preferred_label": "Cross",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:SweetWine",
+"type": "realia",
+"preferred_label": "Sweet Wine",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"preferred_label": "Throne",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Footstool",
+"type": "realia",
+"preferred_label": "Footstool",
+"confidence": 0.0996,
+"match_method": "canonical"
+}
+]
+}
+}
+]

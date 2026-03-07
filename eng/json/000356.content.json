@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT106",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Absalom Seizes Jerusalem",
+"media_type": "Image",
+"index_reference": "historical: absalom seizes jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT106.png' alt='Image' width='480' /></p><p><a href='images/OT106.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1N8fmu3mxtnCn8j3xA96CP7aPayqR0j82&usp=drive_copy'>Historical: Absalom Seizes Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
+"confidence": 0.5343,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.4764,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.436,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahithophel",
+"type": "person",
+"preferred_label": "Ahithophel",
+"confidence": 0.4298,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4258,
+"match_method": "canonical"
+},
+{
+"id": "person:Hushai",
+"type": "person",
+"preferred_label": "Hushai",
+"confidence": 0.4101,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3904,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.3854,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.3854,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.3803,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3254,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.4",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.3247,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahimaaz.2",
+"type": "person",
+"preferred_label": "Ahimaaz",
+"confidence": 0.3247,
+"match_method": "canonical"
+},
+{
+"id": "group:Archites",
+"type": "group",
+"preferred_label": "Archites",
+"confidence": 0.3202,
+"match_method": "canonical"
+},
+{
+"id": "person:Ziba",
+"type": "person",
+"preferred_label": "Ziba",
+"confidence": 0.3202,
+"match_method": "canonical"
+},
+{
+"id": "person:Ittai",
+"type": "person",
+"preferred_label": "Ittai",
+"confidence": 0.2719,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"preferred_label": "Zeruiah",
+"confidence": 0.2674,
+"match_method": "canonical"
+},
+{
+"id": "person:Shimei.5",
+"type": "person",
+"preferred_label": "Shimei",
+"confidence": 0.2674,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
+"id": "place:Bahurim",
+"type": "place",
+"preferred_label": "Bahurim",
+"confidence": 0.2124,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"preferred_label": "Mephibosheth",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.2101,
+"match_method": "canonical"
+}
+]
+}
+}
+]

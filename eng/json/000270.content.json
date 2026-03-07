@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT020",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: The Migrations of Jacob (Part 1)",
+"media_type": "Image",
+"index_reference": "pentateuch: the migrations of jacob (part 1)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT020.png' alt='Image' width='480' /></p><p><a href='images/OT020.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Q_ZCjLbb1gF8C5SUzNzQCGLKddjcC9-D&usp=drive_copy'>Pentateuch: The Migrations of Jacob (Part 1)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01028001",
+"start_ref_usfm": "GEN 28:1",
+"end_ref": "01031054",
+"end_ref_usfm": "GEN 31:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5253,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.464,
+"match_method": "canonical"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"preferred_label": "Laban",
+"confidence": 0.4636,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.4399,
+"match_method": "canonical"
+},
+{
+"id": "person:Leah",
+"type": "person",
+"preferred_label": "Leah",
+"confidence": 0.4182,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.3792,
+"match_method": "canonical"
+},
+{
+"id": "person:Bilhah",
+"type": "person",
+"preferred_label": "Bilhah",
+"confidence": 0.3737,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.3734,
+"match_method": "canonical"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"preferred_label": "Paddan-aram",
+"confidence": 0.3705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.3705,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3646,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.3644,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.3631,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.3163,
+"match_method": "canonical"
+},
+{
+"id": "person:Zilpah",
+"type": "person",
+"preferred_label": "Zilpah",
+"confidence": 0.3143,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.3117,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.3117,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.3117,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.2601,
+"match_method": "canonical"
+},
+{
+"id": "place:Jegar-sahadutha",
+"type": "place",
+"preferred_label": "Jegar-sahadutha",
+"confidence": 0.2601,
+"match_method": "canonical"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"preferred_label": "Teraphim",
+"confidence": 0.2601,
+"match_method": "canonical"
+},
+{
+"id": "group:Aramean",
+"type": "group",
+"preferred_label": "Arameans",
+"confidence": 0.2588,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.253,
+"match_method": "canonical"
+},
+{
+"id": "person:Bethuel",
+"type": "person",
+"preferred_label": "Bethuel",
+"confidence": 0.2071,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.2071,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.2071,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.2071,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.2058,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2058,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2058,
+"match_method": "canonical"
+}
+]
+}
+}
+]

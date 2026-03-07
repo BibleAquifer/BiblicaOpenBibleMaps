@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT131",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Coup of Jehu (Part 1)",
+"media_type": "Image",
+"index_reference": "historical: the coup of jehu (part 1)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT131.png' alt='Image' width='480' /></p><p><a href='images/OT131.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=14VAdTen0yRLpIfeM-o2a5dti_mG6p8_1&usp=drive_copy'>Historical: The Coup of Jehu (Part 1)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12008001",
+"start_ref_usfm": "2KI 8:1",
+"end_ref": "12010036",
+"end_ref_usfm": "2KI 10:36"
+},
+{
+"start_ref": "14022001",
+"start_ref_usfm": "2CH 22:1",
+"end_ref": "14022012",
+"end_ref_usfm": "2CH 22:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jehu.2",
+"type": "person",
+"preferred_label": "Jehu",
+"confidence": 0.507,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4645,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.4408,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"preferred_label": "Ahaziah",
+"confidence": 0.4316,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4289,
+"match_method": "canonical"
+},
+{
+"id": "person:Joram.3",
+"type": "person",
+"preferred_label": "Joram",
+"confidence": 0.4184,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4132,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4132,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.411,
+"match_method": "canonical"
+},
+{
+"id": "person:Hazael",
+"type": "person",
+"preferred_label": "Hazael",
+"confidence": 0.4026,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.3895,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"preferred_label": "Jehoram",
+"confidence": 0.389,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"preferred_label": "Ramoth-gilead",
+"confidence": 0.3829,
+"match_method": "canonical"
+},
+{
+"id": "person:Elisha",
+"type": "person",
+"preferred_label": "Elisha",
+"confidence": 0.3816,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.3776,
+"match_method": "canonical"
+},
+{
+"id": "person:Jezebel",
+"type": "person",
+"preferred_label": "Jezebel",
+"confidence": 0.3754,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.3737,
+"match_method": "canonical"
+},
+{
+"id": "person:Athaliah",
+"type": "person",
+"preferred_label": "Athaliah",
+"confidence": 0.3732,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.3697,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3697,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3255,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.3216,
+"match_method": "canonical"
+},
+{
+"id": "person:Nimshi",
+"type": "person",
+"preferred_label": "Nimshi",
+"confidence": 0.3193,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.3158,
+"match_method": "canonical"
+},
+{
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
+"confidence": 0.3158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.3158,
+"match_method": "canonical"
+},
+{
+"id": "person:Naboth",
+"type": "person",
+"preferred_label": "Naboth",
+"confidence": 0.2636,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.2618,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.2618,
+"match_method": "canonical"
+}
+]
+}
+}
+]

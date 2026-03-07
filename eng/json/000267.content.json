@@ -1,0 +1,187 @@
+[
+{
+"content_id": "OT017",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: Lot’s Flight from Sodom",
+"media_type": "Image",
+"index_reference": "pentateuch: lot’s flight from sodom",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT017.png' alt='Image' width='480' /></p><p><a href='images/OT017.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1AieVTsJIraiKOskmDGWDQj6Esv6EWjcB&usp=drive_copy'>Pentateuch: Lot’s Flight from Sodom</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01019001",
+"start_ref_usfm": "GEN 19:1",
+"end_ref": "01019038",
+"end_ref_usfm": "GEN 19:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.5566,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4329,
+"match_method": "canonical"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
+"confidence": 0.3526,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3492,
+"match_method": "canonical"
+},
+{
+"id": "place:Zoar",
+"type": "place",
+"preferred_label": "Zoar",
+"confidence": 0.2908,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"preferred_label": "Gomorrah",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "person:Moab",
+"type": "person",
+"preferred_label": "Moab",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Ben-ammi",
+"type": "person",
+"preferred_label": "Ben-ammi",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "group:Angels",
+"type": "group",
+"preferred_label": "Angels",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "realia:Kiln",
+"type": "realia",
+"preferred_label": "Kiln",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"preferred_label": "Unleavened Bread",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Housetop",
+"type": "realia",
+"preferred_label": "Housetop",
+"confidence": 0.1018,
+"match_method": "canonical"
+}
+]
+}
+}
+]

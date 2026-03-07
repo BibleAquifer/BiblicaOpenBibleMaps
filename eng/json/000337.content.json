@@ -1,0 +1,383 @@
+[
+{
+"content_id": "OT087",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: David on the Run (Part 2)",
+"media_type": "Image",
+"index_reference": "historical: david on the run (part 2)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT087.png' alt='Image' width='480' /></p><p><a href='images/OT087.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1VXz4DjYSMonwuSbPC5-Qwgcyed1oqLoi&usp=drive_copy'>Historical: David on the Run (Part 2)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09021001",
+"start_ref_usfm": "1SA 21:1",
+"end_ref": "09022023",
+"end_ref_usfm": "1SA 22:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.575,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.4684,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"preferred_label": "Ahimelech",
+"confidence": 0.4658,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4447,
+"match_method": "canonical"
+},
+{
+"id": "person:Doeg",
+"type": "person",
+"preferred_label": "Doeg",
+"confidence": 0.3632,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahitub",
+"type": "person",
+"preferred_label": "Ahitub",
+"confidence": 0.3579,
+"match_method": "canonical"
+},
+{
+"id": "person:Achish",
+"type": "person",
+"preferred_label": "Achish",
+"confidence": 0.3526,
+"match_method": "canonical"
+},
+{
+"id": "place:Nob",
+"type": "place",
+"preferred_label": "Nob",
+"confidence": 0.3526,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.3492,
+"match_method": "canonical"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"preferred_label": "Edomites",
+"confidence": 0.3474,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.3474,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.3474,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.2908,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "person:Goliath",
+"type": "person",
+"preferred_label": "Goliath",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"preferred_label": "Profane",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BreadOfDisplay",
+"type": "keyterm",
+"preferred_label": "Bread of Display",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Adullam",
+"type": "place",
+"preferred_label": "Adullam",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Hereth",
+"type": "place",
+"preferred_label": "Hereth",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:ElahValley",
+"type": "place",
+"preferred_label": "Valley of Elah",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Gad.2",
+"type": "person",
+"preferred_label": "Gad",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"preferred_label": "Fortress",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:MightyOne",
+"type": "keyterm",
+"preferred_label": "Mighty One",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Kir",
+"type": "place",
+"preferred_label": "Kir",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericServants",
+"type": "group",
+"preferred_label": "Servants",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"preferred_label": "Bread of Display",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "flora:Tamarisk",
+"type": "flora",
+"preferred_label": "Tamarisk",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"preferred_label": "Linen",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"preferred_label": "Ephod",
+"confidence": 0.1018,
+"match_method": "canonical"
+}
+]
+}
+}
+]

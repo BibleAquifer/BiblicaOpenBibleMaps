@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT172",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Psalms 60 and 108",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: psalms 60 and 108",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT172.png' alt='Image' width='480' /></p><p><a href='images/OT172.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1VolwM5f1pBkBmr-05gQYcuYyeere0pE6/view?usp=drive_link'>Wisdom & Prophets: Psalms 60 and 108</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "19060001",
+"start_ref_usfm": "PSA 60:1",
+"end_ref": "19060014",
+"end_ref_usfm": "PSA 60:14"
+},
+{
+"start_ref": "19108001",
+"start_ref_usfm": "PSA 108:1",
+"end_ref": "19108014",
+"end_ref_usfm": "PSA 108:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5107,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.3643,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2393,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "place:Succoth",
+"type": "place",
+"preferred_label": "Succoth",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "realia:Helmet",
+"type": "realia",
+"preferred_label": "Helmet",
+"confidence": 0.1721,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
+"confidence": 0.1721,
+"match_method": "canonical"
+},
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"preferred_label": "Cooking Pot",
+"confidence": 0.1721,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"preferred_label": "Testimony",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "flora:Lily",
+"type": "flora",
+"preferred_label": "Lily",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"preferred_label": "Standard",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"preferred_label": "Lyre",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"preferred_label": "Fortification",
+"confidence": 0.1061,
+"match_method": "canonical"
+}
+]
+}
+}
+]

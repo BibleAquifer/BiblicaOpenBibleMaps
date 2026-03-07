@@ -1,0 +1,320 @@
+[
+{
+"content_id": "NT114",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Matthew: Matt. 16:21–28, Matt. 28:1–15",
+"media_type": "Image",
+"index_reference": "srv matthew: matt. 16:21-28, matt. 28:1-15",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT114.png' alt='Image' width='480' /></p><p><a href='images/NT114.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1iNu7IZUlF1bCuiTV00r6-MVTjD6ZYTI7&usp=drive_copy'>SRV Matthew: Matt. 16:21-28, Matt. 28:1-15</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40016001",
+"start_ref_usfm": "MAT 16:1",
+"end_ref": "40016028",
+"end_ref_usfm": "MAT 16:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4786,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.4375,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "group:Sadducee",
+"type": "group",
+"preferred_label": "Sadducees",
+"confidence": 0.3714,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.3643,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"preferred_label": "Basket",
+"confidence": 0.1793,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"preferred_label": "Caesarea Philippi",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"preferred_label": "Having Little Faith",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StumblingBlock",
+"type": "keyterm",
+"preferred_label": "Stumbling Block",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"preferred_label": "World of the Dead",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"preferred_label": "Think",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"preferred_label": "Jonah",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "realia:Key",
+"type": "realia",
+"preferred_label": "Key",
+"confidence": 0.1132,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"preferred_label": "Cross",
+"confidence": 0.1061,
+"match_method": "canonical"
+}
+]
+}
+}
+]

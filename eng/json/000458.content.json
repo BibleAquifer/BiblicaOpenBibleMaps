@@ -1,0 +1,264 @@
+[
+{
+"content_id": "OT208",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: A Lament Over Egypt",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: a lament over egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT208.png' alt='Image' width='480' /></p><p><a href='images/OT208.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1L3lrkFnXmycnHxKykVVbA_q7dJaC3F8M&usp=drive_copy'>Wisdom & Prophets: A Lament Over Egypt</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26030001",
+"start_ref_usfm": "EZK 30:1",
+"end_ref": "26030026",
+"end_ref_usfm": "EZK 30:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.6269,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.575,
+"match_method": "canonical"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"preferred_label": "Hophra",
+"confidence": 0.3769,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.3765,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.3019,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.3019,
+"match_method": "canonical"
+},
+{
+"id": "place:Thebes",
+"type": "place",
+"preferred_label": "Thebes",
+"confidence": 0.3019,
+"match_method": "canonical"
+},
+{
+"id": "place:Pelusium",
+"type": "place",
+"preferred_label": "Pelusium",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "place:Memphis",
+"type": "place",
+"preferred_label": "Memphis",
+"confidence": 0.2423,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "place:Zoan",
+"type": "place",
+"preferred_label": "Zoan",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"preferred_label": "Libya",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Pi-beseth",
+"type": "place",
+"preferred_label": "Pi-beseth",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Pathros",
+"type": "place",
+"preferred_label": "Pathros",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Put",
+"type": "place",
+"preferred_label": "Put",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Syene",
+"type": "place",
+"preferred_label": "Syene",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Tahpanhes",
+"type": "place",
+"preferred_label": "Tahpanhes",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Lud",
+"type": "person",
+"preferred_label": "Lud",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Migdol",
+"type": "place",
+"preferred_label": "Migdol",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mighty.2",
+"type": "keyterm",
+"preferred_label": "Mighty",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Idol",
+"type": "keyterm",
+"preferred_label": "Idol",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:On",
+"type": "place",
+"preferred_label": "On",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"preferred_label": "Fortress",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"preferred_label": "Image",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"preferred_label": "Yoke",
+"confidence": 0.1073,
+"match_method": "canonical"
+}
+]
+}
+}
+]

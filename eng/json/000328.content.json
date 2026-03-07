@@ -1,0 +1,320 @@
+[
+{
+"content_id": "OT078",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Samuel Anoints Saul",
+"media_type": "Image",
+"index_reference": "historical: samuel anoints saul",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT078.png' alt='Image' width='480' /></p><p><a href='images/OT078.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=123a28eNpQQDm3jE0I3Uc-JKMF45oL97y&usp=drive_copy'>Historical: Samuel Anoints Saul</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09008001",
+"start_ref_usfm": "1SA 8:1",
+"end_ref": "09009027",
+"end_ref_usfm": "1SA 9:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
+"confidence": 0.5153,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.501,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4878,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4235,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.3367,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.3367,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.3359,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.3359,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.2767,
+"match_method": "canonical"
+},
+{
+"id": "person:Kish",
+"type": "person",
+"preferred_label": "Kish",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
+"id": "place:Zuph",
+"type": "place",
+"preferred_label": "Zuph",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "person:Becorath",
+"type": "person",
+"preferred_label": "Becorath",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiel.2",
+"type": "person",
+"preferred_label": "Abiel",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "place:Shalishah",
+"type": "place",
+"preferred_label": "Shalishah",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "person:Joel",
+"type": "person",
+"preferred_label": "Joel",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "person:Aphiah",
+"type": "person",
+"preferred_label": "Aphiah",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "place:Shaalim",
+"type": "place",
+"preferred_label": "Shaalim",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "person:Abijah.2",
+"type": "person",
+"preferred_label": "Abijah",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeror",
+"type": "person",
+"preferred_label": "Zeror",
+"confidence": 0.1633,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
+"confidence": 0.1584,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1584,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.1584,
+"match_method": "canonical"
+},
+{
+"id": "realia:Shekel",
+"type": "realia",
+"preferred_label": "Shekel",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:Mattock",
+"type": "realia",
+"preferred_label": "Mattock",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "flora:Coriander",
+"type": "flora",
+"preferred_label": "Coriander",
+"confidence": 0.0992,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+"content_id": "OT252",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Genesis: Gen. 6:9–22, Gen. 8:1–18",
+"media_type": "Image",
+"index_reference": "srv genesis: gen. 6:9-22, gen. 8:1-18",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT252.png' alt='Image' width='480' /></p><p><a href='images/OT252.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1M99BOzFLusNZUwTK7xaAj0Owkmc-8Yj-&usp=drive_copy'>SRV Genesis: Gen. 6:9-22, Gen. 8:1-18</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006001",
+"start_ref_usfm": "GEN 6:1",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5955,
+"match_method": "canonical"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"preferred_label": "Noah",
+"confidence": 0.4614,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.4014,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"preferred_label": "Cubit",
+"confidence": 0.19,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"preferred_label": "Lizard",
+"confidence": 0.1809,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"preferred_label": "Monitor",
+"confidence": 0.1809,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"preferred_label": "Chameleon",
+"confidence": 0.1809,
+"match_method": "canonical"
+},
+{
+"id": "group:Nephilim",
+"type": "group",
+"preferred_label": "Nephilim",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Destroy",
+"type": "keyterm",
+"preferred_label": "Destroy",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "person:Japheth",
+"type": "person",
+"preferred_label": "Japheth",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kind.2",
+"type": "keyterm",
+"preferred_label": "Kind",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Ham",
+"type": "person",
+"preferred_label": "Ham",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Shem",
+"type": "person",
+"preferred_label": "Shem",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"preferred_label": "Dove",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"preferred_label": "Cypress",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"preferred_label": "Bear",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.1105,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT062",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Judges and Enemies Overview",
+"media_type": "Image",
+"index_reference": "historical: judges and enemies overview",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT062.png' alt='Image' width='480' /></p><p><a href='images/OT062.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1860U73a7ha_rlCMjmU5VxQQ7LkvYLkSp&usp=drive_copy'>Historical: Judges and Enemies Overview</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07001001",
+"start_ref_usfm": "JDG 1:1",
+"end_ref": "07021025",
+"end_ref_usfm": "JDG 21:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4796,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4621,
+"match_method": "canonical"
+},
+{
+"id": "person:Gideon",
+"type": "person",
+"preferred_label": "Gideon",
+"confidence": 0.3858,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.3824,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.382,
+"match_method": "canonical"
+},
+{
+"id": "person:Abimelech.2",
+"type": "person",
+"preferred_label": "Abimelech",
+"confidence": 0.3782,
+"match_method": "canonical"
+},
+{
+"id": "person:Samson",
+"type": "person",
+"preferred_label": "Samson",
+"confidence": 0.3776,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.3726,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.3726,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.3718,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.3697,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.3689,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.3689,
+"match_method": "canonical"
+},
+{
+"id": "person:Jephthah",
+"type": "person",
+"preferred_label": "Jephthah",
+"confidence": 0.3681,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.3667,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.3663,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.366,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.366,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.366,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.366,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.3653,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.3653,
+"match_method": "canonical"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"preferred_label": "Micah",
+"confidence": 0.3648,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.3638,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
+"confidence": 0.3627,
+"match_method": "canonical"
+},
+{
+"id": "person:Sisera",
+"type": "person",
+"preferred_label": "Sisera",
+"confidence": 0.3616,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.3609,
+"match_method": "canonical"
+},
+{
+"id": "person:Manoah",
+"type": "person",
+"preferred_label": "Manoah",
+"confidence": 0.3608,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.3602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.3602,
+"match_method": "canonical"
+}
+]
+}
+}
+]

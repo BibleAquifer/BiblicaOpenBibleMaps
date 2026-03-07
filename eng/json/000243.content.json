@@ -1,0 +1,376 @@
+[
+{
+"content_id": "NT361",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Acts: Acts 27:1–7",
+"media_type": "Image",
+"index_reference": "srv acts: acts 27:1-7",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT361.png' alt='Image' width='480' /></p><p><a href='images/NT361.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1zzO6o3hqHpQ2yZ594HUEMWu7Hp6H3aqA&usp=drive_copy'>SRV Acts: Acts 27:1-7</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44027001",
+"start_ref_usfm": "ACT 27:1",
+"end_ref": "44027044",
+"end_ref_usfm": "ACT 27:44"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.4582,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.442,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.4011,
+"match_method": "canonical"
+},
+{
+"id": "place:Crete",
+"type": "place",
+"preferred_label": "Crete",
+"confidence": 0.35,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "realia:Anchor",
+"type": "realia",
+"preferred_label": "Anchor",
+"confidence": 0.2298,
+"match_method": "canonical"
+},
+{
+"id": "person:Julius",
+"type": "person",
+"preferred_label": "Julius",
+"confidence": 0.2295,
+"match_method": "canonical"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"preferred_label": "Italy",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "place:FairHavens",
+"type": "place",
+"preferred_label": "Fair Havens",
+"confidence": 0.1693,
+"match_method": "canonical"
+},
+{
+"id": "place:Lycia",
+"type": "place",
+"preferred_label": "Lycia",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Cnidus",
+"type": "place",
+"preferred_label": "Cnidus",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Cilicia",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Cauda",
+"type": "place",
+"preferred_label": "Cauda",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:AdriaticSea",
+"type": "place",
+"preferred_label": "Adriatic Sea",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Syrtis",
+"type": "place",
+"preferred_label": "the Syrtis",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Adramyttium",
+"type": "place",
+"preferred_label": "Adramyttium",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Pamphylia",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Myra",
+"type": "place",
+"preferred_label": "Myra",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Lasea",
+"type": "place",
+"preferred_label": "Lasea",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Salmone",
+"type": "place",
+"preferred_label": "Salmone",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"preferred_label": "Alexandria",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"preferred_label": "Augustus",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Phoenix",
+"type": "place",
+"preferred_label": "Phoenix",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"preferred_label": "Aristarchus",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"preferred_label": "Rope",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Claudius",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Cyprus",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Macedonia",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"preferred_label": "Abstain from Food",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"preferred_label": "Thessalonians",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"preferred_label": "Thessalonica",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sail",
+"type": "realia",
+"preferred_label": "Sail",
+"confidence": 0.1048,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rudder",
+"type": "realia",
+"preferred_label": "Rudder",
+"confidence": 0.1048,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fathom",
+"type": "realia",
+"preferred_label": "Fathom",
+"confidence": 0.1048,
+"match_method": "canonical"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"preferred_label": "Wheat",
+"confidence": 0.1002,
+"match_method": "canonical"
+}
+]
+}
+}
+]

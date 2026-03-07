@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT104",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Conquest of Rabbah",
+"media_type": "Image",
+"index_reference": "historical: the conquest of rabbah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT104.png' alt='Image' width='480' /></p><p><a href='images/OT104.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1SGq0w0-kITFSPQXNb82zsNWdi1fXhX58&usp=drive_copy'>Historical: The Conquest of Rabbah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10011001",
+"start_ref_usfm": "2SA 11:1",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "13020001",
+"start_ref_usfm": "1CH 20:1",
+"end_ref": "13020008",
+"end_ref_usfm": "1CH 20:8"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.6091,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"preferred_label": "Uriah",
+"confidence": 0.4788,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4455,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.4417,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.4045,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.3977,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.3977,
+"match_method": "canonical"
+},
+{
+"id": "person:Nathan.2",
+"type": "person",
+"preferred_label": "Nathan",
+"confidence": 0.3939,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.3909,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3909,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.3909,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3841,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3582,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "person:Bathsheba",
+"type": "person",
+"preferred_label": "Bathsheba",
+"confidence": 0.2197,
+"match_method": "canonical"
+},
+{
+"id": "person:Rapha",
+"type": "person",
+"preferred_label": "Rapha",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.2105,
+"match_method": "canonical"
+},
+{
+"id": "person:Shimeah.2",
+"type": "person",
+"preferred_label": "Shimeah",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Saph",
+"type": "person",
+"preferred_label": "Saph",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Lahmi",
+"type": "person",
+"preferred_label": "Lahmi",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Jaare-oregim",
+"type": "person",
+"preferred_label": "Jaare-oregim",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Informant",
+"type": "person",
+"preferred_label": "An Informant",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Sibbecai",
+"type": "person",
+"preferred_label": "Sibbecai",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:Hushathites",
+"type": "group",
+"preferred_label": "Hushathites",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliam",
+"type": "person",
+"preferred_label": "Eliam",
+"confidence": 0.1598,
+"match_method": "canonical"
+}
+]
+}
+}
+]

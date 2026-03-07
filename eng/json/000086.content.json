@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT126",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Matthew: Matt. 27:32–43",
+"media_type": "Image",
+"index_reference": "srv matthew: matt. 27:32-43",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT126.png' alt='Image' width='480' /></p><p><a href='images/NT126.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1pTs2ESeUO3u26KYTQ-MuXKMiv6MHUCe3&usp=drive_copy'>SRV Matthew: Matt. 27:32-43</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40027001",
+"start_ref_usfm": "MAT 27:1",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4455,
+"match_method": "canonical"
+},
+{
+"id": "person:Pilate",
+"type": "person",
+"preferred_label": "Pilate",
+"confidence": 0.4076,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.3841,
+"match_method": "canonical"
+},
+{
+"id": "person:Barabbas",
+"type": "person",
+"preferred_label": "Barabbas",
+"confidence": 0.3841,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.3841,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"preferred_label": "Cross",
+"confidence": 0.3612,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.3339,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "place:Akeldama",
+"type": "place",
+"preferred_label": "Akeldama",
+"confidence": 0.2735,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.6",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"preferred_label": "Mary Magdalene",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"preferred_label": "Reed",
+"confidence": 0.2135,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.2105,
+"match_method": "canonical"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"preferred_label": "Golgotha",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"preferred_label": "Zebedee",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Corban",
+"type": "place",
+"preferred_label": "Temple Treasury",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Cyrene",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.5",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:James.4",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1598,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,355 @@
+[
+{
+"content_id": "NT040",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Pertama Paulus (Bagian 2)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mula-mula: perjalanan misi pertama paulus (bagian 2)",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT040.png' alt='Image' width='480' /></p><p><a href='images/NT040.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44014001",
+"start_ref_usfm": "ACT 14:1",
+"end_ref": "44014028",
+"end_ref_usfm": "ACT 14:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "Tuhan",
+"confidence": 0.4464,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "menjadi murid",
+"confidence": 0.3643,
+"match_method": "canonical"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"preferred_label": "Ikonium",
+"confidence": 0.3125,
+"match_method": "canonical"
+},
+{
+"id": "place:Lystra",
+"type": "place",
+"preferred_label": "Listra",
+"confidence": 0.3054,
+"match_method": "canonical"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Barnabas",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "injil",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"preferred_label": "Derbe",
+"confidence": 0.2464,
+"match_method": "canonical"
+},
+{
+"id": "deity:Zeus",
+"type": "deity",
+"preferred_label": "Zeus",
+"confidence": 0.2464,
+"match_method": "canonical"
+},
+{
+"id": "place:Lycaonia",
+"type": "place",
+"preferred_label": "Likaonia",
+"confidence": 0.2393,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch.2",
+"type": "place",
+"preferred_label": "Antiokhia",
+"confidence": 0.2393,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "jemaat",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "persembahan",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "group:Lycaonia",
+"type": "group",
+"preferred_label": "Lycaonians",
+"confidence": 0.1804,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"preferred_label": "lakukan baik",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "deity:Hermes",
+"type": "deity",
+"preferred_label": "Hermes",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"preferred_label": "Perga",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Pisidia",
+"type": "place",
+"preferred_label": "Pisidia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"preferred_label": "berpuasa",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Pamfilia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Attalia",
+"type": "place",
+"preferred_label": "Atalia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worthless",
+"type": "keyterm",
+"preferred_label": "sia, sia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Yunani",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "membujuk",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"preferred_label": "mujizat",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:FromHeaven",
+"type": "keyterm",
+"preferred_label": "dari langit",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "kerajaan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"preferred_label": "Antiokhia",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "sorga",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "tanda",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "realia:Garland",
+"type": "realia",
+"preferred_label": "Garland",
+"confidence": 0.1132,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"preferred_label": "Door",
+"confidence": 0.1061,
+"match_method": "canonical"
+}
+]
+}
+}
+]

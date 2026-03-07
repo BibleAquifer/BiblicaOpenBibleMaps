@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT135",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Wars of Amaziah and Jehoash",
+"media_type": "Image",
+"index_reference": "historical: the wars of amaziah and jehoash",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT135.png' alt='Image' width='480' /></p><p><a href='images/OT135.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1taeBDw68_wpeM5MaohXcnHpPCQIa8axD&usp=drive_copy'>Historical: The Wars of Amaziah and Jehoash</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
+"start_ref": "14025001",
+"start_ref_usfm": "2CH 25:1",
+"end_ref": "14025028",
+"end_ref_usfm": "2CH 25:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Amaziah",
+"type": "person",
+"preferred_label": "Amaziah",
+"confidence": 0.5658,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.5553,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5553,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.5474,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4921,
+"match_method": "canonical"
+},
+{
+"id": "person:Joash.4",
+"type": "person",
+"preferred_label": "Joash",
+"confidence": 0.4754,
+"match_method": "canonical"
+},
+{
+"id": "person:Joash.3",
+"type": "person",
+"preferred_label": "Joash",
+"confidence": 0.4123,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4053,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam.2",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.3965,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoahaz.2",
+"type": "person",
+"preferred_label": "Jehoahaz",
+"confidence": 0.393,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.3895,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.3895,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"preferred_label": "Beth-shemesh",
+"confidence": 0.3316,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2716,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoaddan",
+"type": "person",
+"preferred_label": "Jehoaddan",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"preferred_label": "Ephraim Gate",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "place:SaltValley",
+"type": "place",
+"preferred_label": "Valley of Salt",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "place:CornerGate",
+"type": "place",
+"preferred_label": "Corner Gate",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "place:Sela",
+"type": "place",
+"preferred_label": "Sela",
+"confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"preferred_label": "Edomites",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"preferred_label": "Ahaziah",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.2158,
+"match_method": "canonical"
+}
+]
+}
+}
+]

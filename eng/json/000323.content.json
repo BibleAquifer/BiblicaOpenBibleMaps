@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT073",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Kings of Edom",
+"media_type": "Image",
+"index_reference": "historical: the kings of edom",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT073.png' alt='Image' width='480' /></p><p><a href='images/OT073.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=10I_naI_JLRReEMtZ9ORU1re6VwGaSCdJ&usp=drive_copy'>Historical: The Kings of Edom</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "13001001",
+"start_ref_usfm": "1CH 1:1",
+"end_ref": "13001054",
+"end_ref_usfm": "1CH 1:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "person:Arpachshad",
+"type": "person",
+"preferred_label": "Arpachshad",
+"confidence": 0.2824,
+"match_method": "canonical"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"preferred_label": "Ishmael",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "person:Cush.2",
+"type": "person",
+"preferred_label": "Cush",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "person:Joktan",
+"type": "person",
+"preferred_label": "Joktan",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "person:Shem",
+"type": "person",
+"preferred_label": "Shem",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Eber",
+"type": "person",
+"preferred_label": "Eber",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Hadad.2",
+"type": "person",
+"preferred_label": "Hadad",
+"confidence": 0.2241,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Husham",
+"type": "person",
+"preferred_label": "Husham",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Teman",
+"type": "person",
+"preferred_label": "Teman",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliphaz",
+"type": "person",
+"preferred_label": "Eliphaz",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Hadad",
+"type": "person",
+"preferred_label": "Hadad",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Ezer",
+"type": "person",
+"preferred_label": "Ezer",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Samlah",
+"type": "person",
+"preferred_label": "Samlah",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Bela.2",
+"type": "person",
+"preferred_label": "Bela",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Midian",
+"type": "person",
+"preferred_label": "Midian",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Zibeon.2",
+"type": "person",
+"preferred_label": "Zibeon",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Dishon",
+"type": "person",
+"preferred_label": "Dishon",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Shobal",
+"type": "person",
+"preferred_label": "Shobal",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Lotan",
+"type": "person",
+"preferred_label": "Lotan",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuel.3",
+"type": "person",
+"preferred_label": "Reuel",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Peleg",
+"type": "person",
+"preferred_label": "Peleg",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Shaul",
+"type": "person",
+"preferred_label": "Shaul",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Anah.2",
+"type": "person",
+"preferred_label": "Anah",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Baal-hanan",
+"type": "person",
+"preferred_label": "Baal-hanan",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Dishan",
+"type": "person",
+"preferred_label": "Dishan",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Gomer",
+"type": "person",
+"preferred_label": "Gomer",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "person:Keturah",
+"type": "person",
+"preferred_label": "Keturah",
+"confidence": 0.2204,
+"match_method": "canonical"
+}
+]
+}
+}
+]

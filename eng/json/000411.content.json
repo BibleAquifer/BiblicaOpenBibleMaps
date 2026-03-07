@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT161",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: The Return from Babylon",
+"media_type": "Image",
+"index_reference": "historical: the return from babylon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT161.png' alt='Image' width='480' /></p><p><a href='images/OT161.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1q0E6UIZyApFq_olK9H0CLNy7vGkS4hK8&usp=drive_copy'>Historical: The Return from Babylon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "15002001",
+"start_ref_usfm": "EZR 2:1",
+"end_ref": "15003013",
+"end_ref_usfm": "EZR 3:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3988,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.388,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.3825,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.3825,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3771,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3217,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.3171,
+"match_method": "canonical"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"preferred_label": "Zerubbabel",
+"confidence": 0.2687,
+"match_method": "canonical"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"preferred_label": "Joshua",
+"confidence": 0.2687,
+"match_method": "canonical"
+},
+{
+"id": "person:Hodaviah.4",
+"type": "person",
+"preferred_label": "Hodaviah",
+"confidence": 0.2157,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeshua.4",
+"type": "person",
+"preferred_label": "Jeshua",
+"confidence": 0.2157,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehozadak",
+"type": "person",
+"preferred_label": "Jehozadak",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "person:Elam",
+"type": "person",
+"preferred_label": "Elam",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "person:Shealtiel.2",
+"type": "person",
+"preferred_label": "Shealtiel",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "person:Kadmiel",
+"type": "person",
+"preferred_label": "Kadmiel",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "person:Asaph.2",
+"type": "person",
+"preferred_label": "Asaph",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "person:Talmon",
+"type": "person",
+"preferred_label": "Talmon",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Harim",
+"type": "person",
+"preferred_label": "Harim",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Zattu.2",
+"type": "person",
+"preferred_label": "Zattu",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "group:Meunim",
+"type": "group",
+"preferred_label": "Meunim",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Ami",
+"type": "person",
+"preferred_label": "Ami",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Arah.2",
+"type": "person",
+"preferred_label": "Arah",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Temah",
+"type": "person",
+"preferred_label": "Temah",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Nekoda.2",
+"type": "person",
+"preferred_label": "Nekoda",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Barzillai.3",
+"type": "person",
+"preferred_label": "Barzillai",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Sotai",
+"type": "person",
+"preferred_label": "Sotai",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Habaiah",
+"type": "person",
+"preferred_label": "Habaiah",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Bigvai.2",
+"type": "person",
+"preferred_label": "Bigvai",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Hagabah",
+"type": "person",
+"preferred_label": "Hagabah",
+"confidence": 0.1578,
+"match_method": "canonical"
+}
+]
+}
+}
+]

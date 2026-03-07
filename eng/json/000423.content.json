@@ -1,0 +1,222 @@
+[
+{
+"content_id": "OT173",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Psalm 83",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: psalm 83",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT173.png' alt='Image' width='480' /></p><p><a href='images/OT173.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1K448AooMPnXskbUZ6mDvjUB6mmI0RM7X/view?usp=drive_link'>Wisdom & Prophets: Psalm 83</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "19083001",
+"start_ref_usfm": "PSA 83:1",
+"end_ref": "19083019",
+"end_ref_usfm": "PSA 83:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4684,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"preferred_label": "Crafty",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebah",
+"type": "person",
+"preferred_label": "Zebah",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeeb",
+"type": "person",
+"preferred_label": "Zeeb",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
+"id": "person:Zalmunna",
+"type": "person",
+"preferred_label": "Zalmunna",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
+"id": "person:Sisera",
+"type": "person",
+"preferred_label": "Sisera",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
+"id": "person:Jabin.2",
+"type": "person",
+"preferred_label": "Jabin",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"preferred_label": "Ishmaelites",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:En-dor",
+"type": "place",
+"preferred_label": "Endor",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Kishon",
+"type": "place",
+"preferred_label": "Kishon",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"preferred_label": "Ishmael",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Gebal",
+"type": "place",
+"preferred_label": "Gebal",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Oreb",
+"type": "person",
+"preferred_label": "Oreb",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Hagri",
+"type": "person",
+"preferred_label": "Hagri",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"preferred_label": "Thistle",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.1137,
+"match_method": "canonical"
+}
+]
+}
+}
+]

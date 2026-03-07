@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT088",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: David on the Run (Part 3)",
+"media_type": "Image",
+"index_reference": "historical: david on the run (part 3)",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT088.png' alt='Image' width='480' /></p><p><a href='images/OT088.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=122cFDSLtBQFphu6v_k_oMH-kM2i_kSiS&usp=drive_copy'>Historical: David on the Run (Part 3)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09024023",
+"end_ref_usfm": "1SA 24:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.6356,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.5923,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5058,
+"match_method": "canonical"
+},
+{
+"id": "place:Keilah",
+"type": "place",
+"preferred_label": "Keilah",
+"confidence": 0.4577,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.4192,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.4192,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4019,
+"match_method": "canonical"
+},
+{
+"id": "place:Ziph.2",
+"type": "place",
+"preferred_label": "Wilderness of Ziph",
+"confidence": 0.3423,
+"match_method": "canonical"
+},
+{
+"id": "place:Horesh",
+"type": "place",
+"preferred_label": "Horesh",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"preferred_label": "Fortress",
+"confidence": 0.2746,
+"match_method": "canonical"
+},
+{
+"id": "place:Engedi",
+"type": "place",
+"preferred_label": "En-gedi",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "place:Jeshimon",
+"type": "place",
+"preferred_label": "Jeshimon",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"preferred_label": "Anointed",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Maon",
+"type": "place",
+"preferred_label": "Maon",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"preferred_label": "Crafty",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Hachilah",
+"type": "place",
+"preferred_label": "Hachilah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:WildgoatsRocks",
+"type": "place",
+"preferred_label": "Wildgoats' Rocks",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "group:Ziph",
+"type": "group",
+"preferred_label": "Ziphites",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:RockOfEscape",
+"type": "place",
+"preferred_label": "Sela-hammahlekoth",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "realia:Robe",
+"type": "realia",
+"preferred_label": "Robe",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"preferred_label": "Ephod",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1587,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,418 @@
+[
+{
+"content_id": "OT124",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Solomon’s Wars and Death",
+"media_type": "Image",
+"index_reference": "historical: solomon’s wars and death",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT124.png' alt='Image' width='480' /></p><p><a href='images/OT124.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Zw0woXm4D-7kKIRwrMnXCN2tKl4chfeu&usp=drive_copy'>Historical: Solomon’s Wars and Death</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11011001",
+"start_ref_usfm": "1KI 11:1",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.5384,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.507,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4756,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4442,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.4267,
+"match_method": "canonical"
+},
+{
+"id": "person:Hadad.3",
+"type": "person",
+"preferred_label": "Hadad",
+"confidence": 0.4163,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4128,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.407,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.4023,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.3419,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.3419,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.3419,
+"match_method": "canonical"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"preferred_label": "Edomites",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "deity:Molech",
+"type": "deity",
+"preferred_label": "Molech",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"preferred_label": "Ahijah",
+"confidence": 0.2395,
+"match_method": "canonical"
+},
+{
+"id": "deity:Ashtoreth",
+"type": "deity",
+"preferred_label": "Ashtoreth",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Tahpenes",
+"type": "person",
+"preferred_label": "Tahpenes",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"preferred_label": "Detested Thing",
+"confidence": 0.2256,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"preferred_label": "The Way",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "deity:Chemosh",
+"type": "deity",
+"preferred_label": "Chemosh",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "group:Shiloh",
+"type": "group",
+"preferred_label": "Shilonites",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliada.2",
+"type": "person",
+"preferred_label": "Eliada",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "place:Zeredah.2",
+"type": "place",
+"preferred_label": "Zeredah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Shishak",
+"type": "person",
+"preferred_label": "Shishak",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Genubath",
+"type": "person",
+"preferred_label": "Genubath",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Rezon",
+"type": "person",
+"preferred_label": "Rezon",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruah",
+"type": "person",
+"preferred_label": "Zeruah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
+"confidence": 0.1609,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1609,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Paran",
+"type": "place",
+"preferred_label": "Paran",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Millo",
+"type": "place",
+"preferred_label": "Millo",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Zobah",
+"type": "place",
+"preferred_label": "Zobah",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:Hadadezer",
+"type": "person",
+"preferred_label": "Hadadezer",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
+"confidence": 0.1005,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1005,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.1005,
+"match_method": "canonical"
+}
+]
+}
+}
+]

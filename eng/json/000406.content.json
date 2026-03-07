@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT156",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Elijah, Ahab, and the Drought",
+"media_type": "Image",
+"index_reference": "historical: elijah, ahab, and the drought",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT156.png' alt='Image' width='480' /></p><p><a href='images/OT156.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=15bNs5Ll46R7Xm_3k007eHeYNSTem_e3A&usp=drive_copy'>Historical: Elijah, Ahab, and the Drought</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5621,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.5329,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.4529,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4014,
+"match_method": "canonical"
+},
+{
+"id": "person:Obadiah",
+"type": "person",
+"preferred_label": "Obadiah",
+"confidence": 0.3971,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.395,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.395,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3257,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.3221,
+"match_method": "canonical"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"preferred_label": "Mount Carmel",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Jezebel",
+"type": "person",
+"preferred_label": "Jezebel",
+"confidence": 0.2693,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.2686,
+"match_method": "canonical"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"preferred_label": "Clay Jar",
+"confidence": 0.2657,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.2657,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.2657,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.2657,
+"match_method": "canonical"
+},
+{
+"id": "place:Cherith",
+"type": "place",
+"preferred_label": "Cherith",
+"confidence": 0.2157,
+"match_method": "canonical"
+},
+{
+"id": "place:Zarephath",
+"type": "place",
+"preferred_label": "Zarephath",
+"confidence": 0.2157,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.2093,
+"match_method": "canonical"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"preferred_label": "Anointing Oil",
+"confidence": 0.2093,
+"match_method": "canonical"
+},
+{
+"id": "place:Tishbe",
+"type": "place",
+"preferred_label": "Tishbe",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "place:Kishon",
+"type": "place",
+"preferred_label": "Kishon",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "person:Widow",
+"type": "person",
+"preferred_label": "A Widow",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "group:Tishbite",
+"type": "group",
+"preferred_label": "Tishbites",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1564,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1564,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.1564,
+"match_method": "canonical"
+}
+]
+}
+}
+]

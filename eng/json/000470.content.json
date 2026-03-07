@@ -1,0 +1,313 @@
+[
+{
+"content_id": "OT220",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Prophecies against Samaria and Jerusalem",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: prophecies against samaria and jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT220.png' alt='Image' width='480' /></p><p><a href='images/OT220.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1JFNMQ03SXp23rXDE2Hkif-gGfg6Pp-nB&usp=drive_copy'>Wisdom & Prophets: Prophecies against Samaria and Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "33001001",
+"start_ref_usfm": "MIC 1:1",
+"end_ref": "33001016",
+"end_ref_usfm": "MIC 1:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.4906,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4125,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.4125,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3344,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3344,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.3344,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2562,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.2562,
+"match_method": "canonical"
+},
+{
+"id": "place:Moresheth-gath",
+"type": "place",
+"preferred_label": "Moresheth-gath",
+"confidence": 0.2031,
+"match_method": "canonical"
+},
+{
+"id": "place:Moresheth",
+"type": "place",
+"preferred_label": "Moresheth",
+"confidence": 0.2031,
+"match_method": "canonical"
+},
+{
+"id": "place:Shaphir",
+"type": "place",
+"preferred_label": "Shaphir",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "place:Maroth",
+"type": "place",
+"preferred_label": "Maroth",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "place:Achzib",
+"type": "place",
+"preferred_label": "Achzib",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-ezel",
+"type": "place",
+"preferred_label": "Beth-ezel",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "place:Zaanan",
+"type": "place",
+"preferred_label": "Zaanan",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"preferred_label": "Micah",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"preferred_label": "Hezekiah",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophrah",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaz",
+"type": "person",
+"preferred_label": "Ahaz",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "person:Jotham.2",
+"type": "person",
+"preferred_label": "Jotham",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Adullam",
+"type": "place",
+"preferred_label": "Adullam",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Mareshah",
+"type": "place",
+"preferred_label": "Mareshah",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HaveAVision",
+"type": "keyterm",
+"preferred_label": "Have a Vision",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"preferred_label": "Image",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Ostrich",
+"type": "fauna",
+"preferred_label": "Ostrich",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"preferred_label": "Graven Image",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"preferred_label": "Jackal",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"preferred_label": "Vulture",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"preferred_label": "Foundation",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Owl",
+"type": "fauna",
+"preferred_label": "Owl",
+"confidence": 0.1181,
+"match_method": "canonical"
+}
+]
+}
+}
+]

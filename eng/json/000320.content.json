@@ -1,0 +1,320 @@
+[
+{
+"content_id": "OT070",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Micah",
+"media_type": "Image",
+"index_reference": "historical: micah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT070.png' alt='Image' width='480' /></p><p><a href='images/OT070.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1t-rLy3uXyZRFy5dsIop5LKZvP103_k_i&usp=drive_copy'>Historical: Micah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07018031",
+"end_ref_usfm": "JDG 18:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Micah.3",
+"type": "person",
+"preferred_label": "Micah",
+"confidence": 0.558,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
+"confidence": 0.483,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.4523,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.442,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.4332,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.4318,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.4318,
+"match_method": "canonical"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"preferred_label": "Teraphim",
+"confidence": 0.4057,
+"match_method": "canonical"
+},
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"preferred_label": "Graven Image",
+"confidence": 0.3718,
+"match_method": "canonical"
+},
+{
+"id": "realia:HouseholdIdols",
+"type": "realia",
+"preferred_label": "Household Idols",
+"confidence": 0.3457,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.3457,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"preferred_label": "Ephod",
+"confidence": 0.3411,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "place:Eshtaol",
+"type": "place",
+"preferred_label": "Eshtaol",
+"confidence": 0.2852,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.2809,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "place:Zorah",
+"type": "place",
+"preferred_label": "Zorah",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"preferred_label": "A Person",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "person:MotherOfMicah.3",
+"type": "person",
+"preferred_label": "Mother of Micah",
+"confidence": 0.2295,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahaneh-dan",
+"type": "place",
+"preferred_label": "Mahaneh-dan",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-rehob",
+"type": "place",
+"preferred_label": "Beth-rehob",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonathan.2",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "group:MilitaryMembers",
+"type": "group",
+"preferred_label": "Military Members",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "person:Gershom",
+"type": "person",
+"preferred_label": "Gershom",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Kiriath-jearim",
+"type": "place",
+"preferred_label": "Kiriath-jearim",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1002,
+"match_method": "canonical"
+}
+]
+}
+}
+]

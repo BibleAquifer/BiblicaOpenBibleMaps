@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT012",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Pentateuch: Abraham's Journey to Canaan",
+"media_type": "Image",
+"index_reference": "pentateuch: abraham's journey to canaan",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT012.png' alt='Image' width='480' /></p><p><a href='images/OT012.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1y3aCtABg0ZaM7Jp8yn6wCApcYaFsBHdm&usp=drive_copy'>Pentateuch: Abraham's Journey to Canaan</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011001",
+"start_ref_usfm": "GEN 11:1",
+"end_ref": "01012020",
+"end_ref_usfm": "GEN 12:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.4875,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4279,
+"match_method": "canonical"
+},
+{
+"id": "person:Terah",
+"type": "person",
+"preferred_label": "Terah",
+"confidence": 0.4144,
+"match_method": "canonical"
+},
+{
+"id": "person:Haran",
+"type": "person",
+"preferred_label": "Haran",
+"confidence": 0.4125,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.4058,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.3462,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.3423,
+"match_method": "canonical"
+},
+{
+"id": "person:Reu",
+"type": "person",
+"preferred_label": "Reu",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "person:Serug",
+"type": "person",
+"preferred_label": "Serug",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "person:Peleg",
+"type": "person",
+"preferred_label": "Peleg",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "person:Shelah.2",
+"type": "person",
+"preferred_label": "Shelah",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "person:Arpachshad",
+"type": "person",
+"preferred_label": "Arpachshad",
+"confidence": 0.3346,
+"match_method": "canonical"
+},
+{
+"id": "person:Eber",
+"type": "person",
+"preferred_label": "Eber",
+"confidence": 0.3346,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.2837,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.2798,
+"match_method": "canonical"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"preferred_label": "Ur",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.2212,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Shem",
+"type": "person",
+"preferred_label": "Shem",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"preferred_label": "Shinar",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"preferred_label": "Milcah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Iscah",
+"type": "person",
+"preferred_label": "Iscah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"preferred_label": "Ai",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1625,
+"match_method": "canonical"
+}
+]
+}
+}
+]

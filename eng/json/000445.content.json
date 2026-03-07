@@ -1,0 +1,257 @@
+[
+{
+"content_id": "OT195",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: The Fall of Jerusalem and Zedekiah's Capture",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: the fall of jerusalem and zedekiah's capture",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT195.png' alt='Image' width='480' /></p><p><a href='images/OT195.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1bKQ9JQKzdp-cFq5Lyr2i9htdmF1sqq50/view?usp=drive_link'>Wisdom & Prophets: The Fall of Jerusalem and Zedekiah's Capture</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24039001",
+"start_ref_usfm": "JER 39:1",
+"end_ref": "24039018",
+"end_ref_usfm": "JER 39:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.55,
+"match_method": "canonical"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"preferred_label": "Zedekiah",
+"confidence": 0.5,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuzaradan",
+"type": "person",
+"preferred_label": "Nebuzaradan",
+"confidence": 0.4111,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.325,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
+"confidence": 0.325,
+"match_method": "canonical"
+},
+{
+"id": "person:Nergal-shar-ezer.2",
+"type": "person",
+"preferred_label": "Nergal-shar-ezer",
+"confidence": 0.2722,
+"match_method": "canonical"
+},
+{
+"id": "person:Rab-mag",
+"type": "person",
+"preferred_label": "Rab-mag",
+"confidence": 0.2722,
+"match_method": "canonical"
+},
+{
+"id": "person:Rab-saris.2",
+"type": "person",
+"preferred_label": "Rab-saris",
+"confidence": 0.2722,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "place:Riblah.2",
+"type": "place",
+"preferred_label": "Riblah",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
+"id": "person:Ebed-melech",
+"type": "person",
+"preferred_label": "Ebed-melech",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "person:Nergal-shar-ezer",
+"type": "person",
+"preferred_label": "Nergal-shar-ezer",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebu-sar-sekim",
+"type": "person",
+"preferred_label": "Nebu-sar-sekim",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebushazban",
+"type": "person",
+"preferred_label": "Nebushazban",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahikam",
+"type": "person",
+"preferred_label": "Ahikam",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "person:Samgar",
+"type": "person",
+"preferred_label": "Samgar",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Ethiopia",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabah",
+"type": "place",
+"preferred_label": "Arabah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Shaphan",
+"type": "person",
+"preferred_label": "Shaphan",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Gedaliah.2",
+"type": "person",
+"preferred_label": "Gedaliah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.115,
+"match_method": "canonical"
+}
+]
+}
+}
+]

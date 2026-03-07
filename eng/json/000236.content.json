@@ -1,0 +1,502 @@
+[
+{
+"content_id": "NT354",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Acts: Acts 20:1–5",
+"media_type": "Image",
+"index_reference": "srv acts: acts 20:1-5",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT354.png' alt='Image' width='480' /></p><p><a href='images/NT354.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1jqEPIM_UUZrgfztdkZEz_m55qST6Sb_c&usp=drive_copy'>SRV Acts: Acts 20:1-5</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44020001",
+"start_ref_usfm": "ACT 20:1",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.4329,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4211,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "Declare",
+"confidence": 0.3526,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "Encourage",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2855,
+"match_method": "canonical"
+},
+{
+"id": "place:Miletus",
+"type": "place",
+"preferred_label": "Miletus",
+"confidence": 0.2342,
+"match_method": "canonical"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"preferred_label": "Troas",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Macedonia",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "place:Assos",
+"type": "place",
+"preferred_label": "Assos",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"preferred_label": "Greece",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Sopater",
+"type": "person",
+"preferred_label": "Sopater",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "group:Berea",
+"type": "group",
+"preferred_label": "Bereans",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve.2",
+"type": "keyterm",
+"preferred_label": "Be Enslaved",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Gaius.2",
+"type": "person",
+"preferred_label": "Gaius",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Philippi",
+"type": "place",
+"preferred_label": "Philippi",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Secundus",
+"type": "person",
+"preferred_label": "Secundus",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Trophimus",
+"type": "person",
+"preferred_label": "Trophimus",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Tychicus",
+"type": "person",
+"preferred_label": "Tychicus",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "group:Asia",
+"type": "group",
+"preferred_label": "Asians",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"preferred_label": "Week",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Mitylene",
+"type": "place",
+"preferred_label": "Mitylene",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Pyrrhus",
+"type": "person",
+"preferred_label": "Pyrrhus",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Samos",
+"type": "place",
+"preferred_label": "Samos",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Chios",
+"type": "place",
+"preferred_label": "Chios",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Eutychus",
+"type": "person",
+"preferred_label": "Eutychus",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"preferred_label": "Derbe",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"preferred_label": "Thessalonians",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"preferred_label": "Consecration",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"preferred_label": "Clean",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"preferred_label": "Thessalonica",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Berea",
+"type": "place",
+"preferred_label": "Berea",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"preferred_label": "Aristarchus",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothy",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "realia:Window",
+"type": "realia",
+"preferred_label": "Window",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "realia:SecondStory",
+"type": "realia",
+"preferred_label": "Second Story",
+"confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"preferred_label": "Wolf",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:UpstairsRoom",
+"type": "realia",
+"preferred_label": "Upstairs Room",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1018,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,271 @@
+[
+{
+"content_id": "NT260",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV John: John 6:16–20",
+"media_type": "Image",
+"index_reference": "srv john: john 6:16-20",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT260.png' alt='Image' width='480' /></p><p><a href='images/NT260.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1lmo6yqoZcjiD0qEE2qydAk-zarTugUxo&usp=drive_copy'>SRV John: John 6:16-20</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40014001",
+"start_ref_usfm": "MAT 14:1",
+"end_ref": "40014036",
+"end_ref_usfm": "MAT 14:36"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4375,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.4125,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.4125,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.365,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.35,
+"match_method": "canonical"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"preferred_label": "Herod Antipas",
+"confidence": 0.2931,
+"match_method": "canonical"
+},
+{
+"id": "person:Herodias",
+"type": "person",
+"preferred_label": "Herodias",
+"confidence": 0.2583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"preferred_label": "Fish",
+"confidence": 0.1706,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.1706,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CheerUp",
+"type": "keyterm",
+"preferred_label": "Cheer Up",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"preferred_label": "Having Little Faith",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip.2",
+"type": "person",
+"preferred_label": "Philip",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"preferred_label": "Gennesaret",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "person:DaughterOfHerodias",
+"type": "person",
+"preferred_label": "Daughter of Herodias",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "realia:Plate.2",
+"type": "realia",
+"preferred_label": "Plate",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"preferred_label": "Basket",
+"confidence": 0.1081,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tassel",
+"type": "realia",
+"preferred_label": "Tassel",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Stade",
+"type": "realia",
+"preferred_label": "Stade",
+"confidence": 0.1025,
+"match_method": "canonical"
+}
+]
+}
+}
+]

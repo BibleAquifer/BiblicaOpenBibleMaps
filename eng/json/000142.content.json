@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT222",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Luke: Luke 11:14–31",
+"media_type": "Image",
+"index_reference": "srv luke: luke 11:14-31",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT222.png' alt='Image' width='480' /></p><p><a href='images/NT222.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1oWrjsTfHMfcWNqBMaEo6U9D695hHCV7f&usp=drive_copy'>SRV Luke: Luke 11:14-31</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42011001",
+"start_ref_usfm": "LUK 11:1",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.3917,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.3333,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"preferred_label": "Judgment",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"preferred_label": "Jonah",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "group:Nineveh",
+"type": "group",
+"preferred_label": "Ninevites",
+"confidence": 0.2241,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.2204,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "place:Nineveh",
+"type": "place",
+"preferred_label": "Nineveh",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"preferred_label": "Court Case",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"preferred_label": "Zechariah",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "person:Abel",
+"type": "person",
+"preferred_label": "Abel",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"preferred_label": "Put to the Test",
+"confidence": 0.1583,
+"match_method": "canonical"
+}
+]
+}
+}
+]

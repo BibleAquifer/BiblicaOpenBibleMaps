@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT202",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: Ezekiel’s Vision by the Kebar",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: ezekiel’s vision by the kebar",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT202.png' alt='Image' width='480' /></p><p><a href='images/OT202.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1Rhm-KF_1cqdbwtEDeENa78kdwS5NNyUR/view?usp=drive_link'>Wisdom & Prophets: Ezekiel’s Vision by the Kebar</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26001001",
+"start_ref_usfm": "EZK 1:1",
+"end_ref": "26003027",
+"end_ref_usfm": "EZK 3:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4331,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3915,
+"match_method": "canonical"
+},
+{
+"id": "place:Chebar",
+"type": "place",
+"preferred_label": "Kebar",
+"confidence": 0.3338,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"preferred_label": "Wagon",
+"confidence": 0.3315,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.3277,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2708,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.2677,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2169,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2138,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.2138,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"preferred_label": "Vision",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "person:Ezekiel",
+"type": "person",
+"preferred_label": "Ezekiel",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "person:Buzi",
+"type": "person",
+"preferred_label": "Buzi",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "place:Tel-abib",
+"type": "place",
+"preferred_label": "Tel-abib",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"preferred_label": "Lamentation",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"preferred_label": "Jehoiachin",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1538,
+"match_method": "canonical"
+},
+{
+"id": "flora:Nettle",
+"type": "flora",
+"preferred_label": "Nettle",
+"confidence": 0.1,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wheel",
+"type": "realia",
+"preferred_label": "Wheel",
+"confidence": 0.1,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Scorpion",
+"type": "fauna",
+"preferred_label": "Scorpion",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"preferred_label": "Vulture",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"preferred_label": "Rope",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"preferred_label": "Throne",
+"confidence": 0.0969,
+"match_method": "canonical"
+}
+]
+}
+}
+]

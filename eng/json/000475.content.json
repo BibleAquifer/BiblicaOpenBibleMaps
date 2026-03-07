@@ -1,0 +1,460 @@
+[
+{
+"content_id": "OT225",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: The Coming Day of the Lord",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: the coming day of the lord",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT225.png' alt='Image' width='480' /></p><p><a href='images/OT225.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1OB3NM-kvXkgM3ZshRRUjbCiCBFd8b1JP&usp=drive_copy'>Wisdom & Prophets: The Coming Day of the Lord</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "38012001",
+"start_ref_usfm": "ZEC 12:1",
+"end_ref": "38014021",
+"end_ref_usfm": "ZEC 14:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.575,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.5545,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4318,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4318,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.4011,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:FeastOfTabernacles",
+"type": "keyterm",
+"preferred_label": "Feast of Tabernacles",
+"confidence": 0.2852,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2809,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"preferred_label": "Plague",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.2207,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "place:Azal",
+"type": "place",
+"preferred_label": "Azal",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:TowerOfHananel",
+"type": "place",
+"preferred_label": "Tower of Hananel",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "person:Shimei.4",
+"type": "person",
+"preferred_label": "Shimei",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:BenjaminGate",
+"type": "place",
+"preferred_label": "Benjamin Gate",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"preferred_label": "Mount of Olives",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Hadad-rimmon",
+"type": "place",
+"preferred_label": "Hadad-rimmon",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "group:Shimei",
+"type": "group",
+"preferred_label": "Shimeites",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"preferred_label": "Cooking Pot",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Punishment",
+"type": "keyterm",
+"preferred_label": "Punishment",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Geba",
+"type": "place",
+"preferred_label": "Geba",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StateOfBeingUnderSiege",
+"type": "keyterm",
+"preferred_label": "Under Siege",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"preferred_label": "Ain",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Megiddo",
+"type": "place",
+"preferred_label": "Megiddo",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"preferred_label": "Uzziah",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabah",
+"type": "place",
+"preferred_label": "Arabah",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"preferred_label": "Utterance",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SomethingDevotedToGod",
+"type": "keyterm",
+"preferred_label": "Something Devoted to God",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "person:Nathan",
+"type": "person",
+"preferred_label": "Nathan",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:CornerGate",
+"type": "place",
+"preferred_label": "Corner Gate",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Supplication",
+"type": "keyterm",
+"preferred_label": "Plea for Mercy",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bowl",
+"type": "realia",
+"preferred_label": "Bowl",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"preferred_label": "Image",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sheaf",
+"type": "realia",
+"preferred_label": "Sheaf",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Winepress",
+"type": "realia",
+"preferred_label": "Winepress",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1002,
+"match_method": "canonical"
+}
+]
+}
+}
+]

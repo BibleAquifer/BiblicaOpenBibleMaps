@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT207",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Wisdom & Prophets: A Lament Over Tyre",
+"media_type": "Image",
+"index_reference": "wisdom & prophets: a lament over tyre",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT207.png' alt='Image' width='480' /></p><p><a href='images/OT207.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1yOHx9FzgWa0pievD7U0BYaMswVFJ8gug/view?usp=drive_link'>Wisdom & Prophets: A Lament Over Tyre</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26026001",
+"start_ref_usfm": "EZK 26:1",
+"end_ref": "26028026",
+"end_ref_usfm": "EZK 28:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4964,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.4145,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.3771,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.3771,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"preferred_label": "Lamentation",
+"confidence": 0.3217,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.2687,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2663,
+"match_method": "canonical"
+},
+{
+"id": "realia:EmbroideredCloth",
+"type": "realia",
+"preferred_label": "Embroidered Cloth",
+"confidence": 0.2641,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.2617,
+"match_method": "canonical"
+},
+{
+"id": "place:Arvad",
+"type": "place",
+"preferred_label": "Arvad",
+"confidence": 0.2157,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Cyprus",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"preferred_label": "Sheba",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "place:Dedan",
+"type": "place",
+"preferred_label": "Dedan",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"preferred_label": "Purple Cloth",
+"confidence": 0.2063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.2063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"preferred_label": "Tower",
+"confidence": 0.2063,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Gamad",
+"type": "place",
+"preferred_label": "Gammad",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Helbon",
+"type": "place",
+"preferred_label": "Helbon",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Raamah",
+"type": "place",
+"preferred_label": "Raamah",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Put",
+"type": "place",
+"preferred_label": "Put",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Sahar",
+"type": "place",
+"preferred_label": "Zahar",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Minnith",
+"type": "place",
+"preferred_label": "Minnith",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Calneh",
+"type": "place",
+"preferred_label": "Calneh",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-togarmah",
+"type": "place",
+"preferred_label": "Beth-togarmah",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Lud",
+"type": "person",
+"preferred_label": "Lud",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Uzal",
+"type": "place",
+"preferred_label": "Izal",
+"confidence": 0.1578,
+"match_method": "canonical"
+}
+]
+}
+}
+]

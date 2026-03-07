@@ -1,0 +1,355 @@
+[
+{
+"content_id": "NT040",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "保罗与早期教会：保罗第一次传教旅程（第二部分）",
+"media_type": "Image",
+"index_reference": "保罗与早期教会：保罗第一次传教旅程（第二部分）",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT040.png' alt='Image' width='480' /></p><p><a href='images/NT040.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44014001",
+"start_ref_usfm": "ACT 14:1",
+"end_ref": "44014028",
+"end_ref_usfm": "ACT 14:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4464,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3643,
+"match_method": "canonical"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"preferred_label": "Iconium",
+"confidence": 0.3125,
+"match_method": "canonical"
+},
+{
+"id": "place:Lystra",
+"type": "place",
+"preferred_label": "Lystra",
+"confidence": 0.3054,
+"match_method": "canonical"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Barnabas",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"preferred_label": "Derbe",
+"confidence": 0.2464,
+"match_method": "canonical"
+},
+{
+"id": "deity:Zeus",
+"type": "deity",
+"preferred_label": "Zeus",
+"confidence": 0.2464,
+"match_method": "canonical"
+},
+{
+"id": "place:Lycaonia",
+"type": "place",
+"preferred_label": "Lycaonia",
+"confidence": 0.2393,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch.2",
+"type": "place",
+"preferred_label": "Antioch",
+"confidence": 0.2393,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "group:Lycaonia",
+"type": "group",
+"preferred_label": "Lycaonians",
+"confidence": 0.1804,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"preferred_label": "Do Good",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "deity:Hermes",
+"type": "deity",
+"preferred_label": "Hermes",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"preferred_label": "Perga",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Pisidia",
+"type": "place",
+"preferred_label": "Pisidia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"preferred_label": "Abstain from Food",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Pamphylia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Attalia",
+"type": "place",
+"preferred_label": "Attalia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worthless",
+"type": "keyterm",
+"preferred_label": "Worthless",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"preferred_label": "Portent",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:FromHeaven",
+"type": "keyterm",
+"preferred_label": "From Heaven",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"preferred_label": "Antioch",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "realia:Garland",
+"type": "realia",
+"preferred_label": "Garland",
+"confidence": 0.1132,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"preferred_label": "Door",
+"confidence": 0.1061,
+"match_method": "canonical"
+}
+]
+}
+}
+]

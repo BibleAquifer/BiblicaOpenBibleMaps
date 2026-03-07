@@ -1,0 +1,138 @@
+[
+{
+"content_id": "OT158",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Elisha takes up Elijah's Mantle",
+"media_type": "Image",
+"index_reference": "historical: elisha takes up elijah's mantle",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT158.png' alt='Image' width='480' /></p><p><a href='images/OT158.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1qznut8q66jktsUYcIxxHrraYX5hpXpqs&usp=drive_copy'>Historical: Elisha takes up Elijah's Mantle</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"preferred_label": "Elisha",
+"confidence": 0.556,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.538,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.53,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.372,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.304,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.304,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.244,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.184,
+"match_method": "canonical"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"preferred_label": "Mount Carmel",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericMales",
+"type": "group",
+"preferred_label": "Men",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"preferred_label": "Bear",
+"confidence": 0.116,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.108,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.108,
+"match_method": "canonical"
+}
+]
+}
+}
+]

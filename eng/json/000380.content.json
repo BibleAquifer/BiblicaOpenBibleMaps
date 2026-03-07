@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT130",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Joram, Elisha, and the Revolt of Moab",
+"media_type": "Image",
+"index_reference": "historical: joram, elisha, and the revolt of moab",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT130.png' alt='Image' width='480' /></p><p><a href='images/OT130.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1cuggcqDgALtyDEa6h1Uog_xl5glRJ2ce&usp=drive_copy'>Historical: Joram, Elisha, and the Revolt of Moab</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003027",
+"end_ref_usfm": "2KI 3:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.55,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.5333,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.5167,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.4333,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.4333,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3667,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3667,
+"match_method": "canonical"
+},
+{
+"id": "person:Elisha",
+"type": "person",
+"preferred_label": "Elisha",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
+"id": "person:Joram.3",
+"type": "person",
+"preferred_label": "Joram",
+"confidence": 0.2407,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.2407,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "person:Mesha.2",
+"type": "person",
+"preferred_label": "Mesha",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "person:Shaphat.2",
+"type": "person",
+"preferred_label": "Shaphat",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1733,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Kir",
+"type": "place",
+"preferred_label": "Kir",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"preferred_label": "Sacred Pillar",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sling",
+"type": "realia",
+"preferred_label": "Sling",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wool",
+"type": "realia",
+"preferred_label": "Wool",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1067,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,285 @@
+[
+{
+"content_id": "OT090",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: David Among the Philistines",
+"media_type": "Image",
+"index_reference": "historical: david among the philistines",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT090.png' alt='Image' width='480' /></p><p><a href='images/OT090.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=11wx0tlMkK98x68cqyv1AWz-qMTj-0hTW&usp=drive_copy'>Historical: David Among the Philistines</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09027012",
+"end_ref_usfm": "1SA 27:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.7625,
+"match_method": "canonical"
+},
+{
+"id": "person:Achish",
+"type": "person",
+"preferred_label": "Achish",
+"confidence": 0.6292,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.45,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "group:Girzites",
+"type": "group",
+"preferred_label": "Girzites",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "place:Ziklag",
+"type": "place",
+"preferred_label": "Ziklag",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"preferred_label": "Maoch",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "group:Jerahmeel",
+"type": "group",
+"preferred_label": "Jerahmeelites",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "person:Jerahmeel",
+"type": "person",
+"preferred_label": "Jerahmeel",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "place:Geshur",
+"type": "place",
+"preferred_label": "Geshur",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "person:Nabal",
+"type": "person",
+"preferred_label": "Nabal",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Carmel",
+"type": "place",
+"preferred_label": "Carmel",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "person:Abigail",
+"type": "person",
+"preferred_label": "Abigail",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"preferred_label": "Kenites",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"preferred_label": "Geshurites",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Jezreel",
+"type": "group",
+"preferred_label": "Jezreel",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahinoam.2",
+"type": "person",
+"preferred_label": "Ahinoam",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"preferred_label": "Shur",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Carmel",
+"type": "group",
+"preferred_label": "Carmelites",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1275,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1275,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1275,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1275,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1275,
+"match_method": "canonical"
+}
+]
+}
+}
+]

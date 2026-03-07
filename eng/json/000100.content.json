@@ -1,0 +1,292 @@
+[
+{
+"content_id": "NT157",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "SRV Mark: Mark 4:35–41, Mark 5:1–20, Mark 5:21–34, Mark 5:35–43",
+"media_type": "Image",
+"index_reference": "srv mark: mark 4:35-41, mark 5:1-20, mark 5:21-34, mark 5:35-43",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT157.png' alt='Image' width='480' /></p><p><a href='images/NT157.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1GnOMe0KB2x6D8UzRMIDshAl_Gn8JHQfH&usp=drive_copy'>SRV Mark: Mark 4:35-41, Mark 5:1-20, Mark 5:21-34, Mark 5:35-43</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008001",
+"start_ref_usfm": "MAT 8:1",
+"end_ref": "40008034",
+"end_ref_usfm": "MAT 8:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.4559,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"preferred_label": "Be Demon Possessed",
+"confidence": 0.3015,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"preferred_label": "Jackal",
+"confidence": 0.2988,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2897,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2897,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"preferred_label": "Pig",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"preferred_label": "Having Little Faith",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "person:ReligiousOfficial",
+"type": "person",
+"preferred_label": "Religious Official",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "person:Centurion.2",
+"type": "person",
+"preferred_label": "Centurion With Sick Servant",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"preferred_label": "Infectious Skin Disease",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"preferred_label": "A Disciple",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1665,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1665,
+"match_method": "canonical"
+},
+{
+"id": "place:Gerasa",
+"type": "place",
+"preferred_label": "Gerasa",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:OuterDarkness",
+"type": "keyterm",
+"preferred_label": "Outer Darkness",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "realia:Housetop",
+"type": "realia",
+"preferred_label": "Housetop",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.1032,
+"match_method": "canonical"
+}
+]
+}
+}
+]

@@ -1,0 +1,383 @@
+[
+{
+"content_id": "OT050",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "Historical: Joshua's Conquests in the North",
+"media_type": "Image",
+"index_reference": "historical: joshua's conquests in the north",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT050.png' alt='Image' width='480' /></p><p><a href='images/OT050.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1dE7PuUz_YStTP9gYkFkCsYHfAcLAgoJV&usp=drive_copy'>Historical: Joshua's Conquests in the North</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "06011001",
+"start_ref_usfm": "JOS 11:1",
+"end_ref": "06011023",
+"end_ref_usfm": "JOS 11:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
+"confidence": 0.5652,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.5652,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.487,
+"match_method": "canonical"
+},
+{
+"id": "place:Hazor",
+"type": "place",
+"preferred_label": "Hazor",
+"confidence": 0.3957,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.3783,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
+"confidence": 0.3783,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.3183,
+"match_method": "canonical"
+},
+{
+"id": "place:Merom",
+"type": "place",
+"preferred_label": "Waters of Merom",
+"confidence": 0.2565,
+"match_method": "canonical"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"preferred_label": "Valley of Mizpeh",
+"confidence": 0.2565,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.2487,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.2487,
+"match_method": "canonical"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "person:Anak",
+"type": "person",
+"preferred_label": "Anak",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabah",
+"type": "place",
+"preferred_label": "Arabah",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "place:Shephelah",
+"type": "place",
+"preferred_label": "Shephelah",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "place:HermonMount",
+"type": "place",
+"preferred_label": "Mount Hermon",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "group:Anak",
+"type": "group",
+"preferred_label": "Anakim",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "place:Anab",
+"type": "place",
+"preferred_label": "Anab",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Misrephoth-maim",
+"type": "place",
+"preferred_label": "Misrephoth-maim",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:HalakMount",
+"type": "place",
+"preferred_label": "Mount Halak",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Achshaph",
+"type": "place",
+"preferred_label": "Achshaph",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Dor",
+"type": "place",
+"preferred_label": "Dor",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:LebanonValley",
+"type": "place",
+"preferred_label": "Valley of Lebanon",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "person:Jobab.3",
+"type": "person",
+"preferred_label": "Jobab",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Madon",
+"type": "place",
+"preferred_label": "Madon",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "person:Jabin",
+"type": "person",
+"preferred_label": "Jabin",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Shimron",
+"type": "place",
+"preferred_label": "Shimron",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Chinnereth",
+"type": "place",
+"preferred_label": "Chinnereth",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"preferred_label": "Gaza",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Debir",
+"type": "place",
+"preferred_label": "Debir",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Ashdod",
+"type": "place",
+"preferred_label": "Ashdod",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Supplication",
+"type": "keyterm",
+"preferred_label": "Plea for Mercy",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Goshen.2",
+"type": "place",
+"preferred_label": "Goshen",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1096,
+"match_method": "canonical"
+}
+]
+}
+}
+]
