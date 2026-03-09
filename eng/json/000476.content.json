@@ -49,9 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Euphrates",
+"id": "place:Gihon",
 "type": "place",
-"preferred_label": "Euphrates River",
+"preferred_label": "Gihon",
 "confidence": 0.176,
 "match_method": "canonical"
 },
@@ -77,17 +77,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gihon",
+"id": "place:Euphrates",
 "type": "place",
-"preferred_label": "Gihon",
+"preferred_label": "Euphrates River",
 "confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.168,
 "match_method": "canonical"
 },
 {
@@ -98,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cush.2",
-"type": "place",
-"preferred_label": "Cush",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -108,6 +101,13 @@
 "id": "keyterm:Holy",
 "type": "keyterm",
 "preferred_label": "Holy",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
 "confidence": 0.168,
 "match_method": "canonical"
 },

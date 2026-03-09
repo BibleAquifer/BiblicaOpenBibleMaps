@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Aaron",
-"type": "person",
-"preferred_label": "Aaron",
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
 "confidence": 0.3676,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
 "confidence": 0.3676,
 "match_method": "canonical"
 },
@@ -91,20 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3327,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.3327,
-"match_method": "canonical"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
@@ -115,6 +101,20 @@
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.3327,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:PerimiterCurtain",
+"id": "realia:Breast-piece",
 "type": "realia",
-"preferred_label": "Perimiter Curtain",
+"preferred_label": "Breast-Piece",
 "confidence": 0.3087,
 "match_method": "canonical"
 },
 {
-"id": "realia:Breast-piece",
+"id": "realia:PerimiterCurtain",
 "type": "realia",
-"preferred_label": "Breast-Piece",
+"preferred_label": "Perimiter Curtain",
 "confidence": 0.3087,
 "match_method": "canonical"
 }

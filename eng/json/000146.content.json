@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "Mercy",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -91,72 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Affection",
-"type": "keyterm",
-"preferred_label": "Affection",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "preferred_label": "LORD",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebedee",
-"type": "person",
-"preferred_label": "Zebedee",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ransom",
-"type": "keyterm",
-"preferred_label": "Ransom",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"preferred_label": "Be Lawful",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -168,23 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:ActWickedly",
-"type": "keyterm",
-"preferred_label": "To Act Wickedly",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -196,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -206,6 +129,83 @@
 "id": "keyterm:Authority.2",
 "type": "keyterm",
 "preferred_label": "Authority",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"preferred_label": "Zebedee",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"preferred_label": "Ransom",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.1632,
 "match_method": "canonical"
 },

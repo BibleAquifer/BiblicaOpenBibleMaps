@@ -105,30 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
 "id": "place:Mesopotamia",
 "type": "place",
 "preferred_label": "Mesopotamia",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
-"id": "person:Kenaz.3",
-"type": "person",
-"preferred_label": "Kenaz",
 "confidence": 0.229,
 "match_method": "canonical"
 },
@@ -140,6 +119,27 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "person:Kenaz.3",
+"type": "person",
+"preferred_label": "Kenaz",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
 "id": "person:Anath",
 "type": "person",
 "preferred_label": "Anath",
@@ -147,9 +147,23 @@
 "match_method": "canonical"
 },
 {
+"id": "place:LebanonMount",
+"type": "place",
+"preferred_label": "Mount Lebanon",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
 "id": "place:Seirah",
 "type": "place",
 "preferred_label": "Seirah",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -168,20 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "place:LebanonMount",
-"type": "place",
-"preferred_label": "Mount Lebanon",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
 "id": "realia:GravenImage",
 "type": "realia",
 "preferred_label": "Graven Image",
@@ -189,44 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Perizzites",
+"id": "group:Benjamin",
 "type": "group",
-"preferred_label": "Perizzites",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:HermonMount",
 "type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Jebusites",
-"type": "group",
-"preferred_label": "Jebusites",
+"preferred_label": "Mount Hermon",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -238,9 +217,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ammon",
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
 "type": "place",
-"preferred_label": "Ammon",
+"preferred_label": "Sidon",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -252,30 +252,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Amalek",
-"type": "group",
-"preferred_label": "Amalekites",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:HermonMount",
+"id": "place:Ammon",
 "type": "place",
-"preferred_label": "Mount Hermon",
+"preferred_label": "Ammon",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -294,16 +287,37 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -315,45 +329,24 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "place:Amalek",
-"type": "place",
-"preferred_label": "Amalek",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Sidon",
-"type": "place",
-"preferred_label": "Sidon",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Heth",
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Heth",
+"preferred_label": "Ephraim",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "realia:Gomed",
-"type": "realia",
-"preferred_label": "Gomed",
-"confidence": 0.111,
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1645,
 "match_method": "canonical"
 },
 {
@@ -364,10 +357,10 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:DatePalm",
-"type": "flora",
-"preferred_label": "Date Palm",
-"confidence": 0.1045,
+"id": "realia:Gomed",
+"type": "realia",
+"preferred_label": "Gomed",
+"confidence": 0.111,
 "match_method": "canonical"
 },
 {
@@ -378,9 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
+"id": "flora:DatePalm",
+"type": "flora",
+"preferred_label": "Date Palm",
 "confidence": 0.1045,
 "match_method": "canonical"
 },
@@ -388,6 +381,13 @@
 "id": "realia:Throne",
 "type": "realia",
 "preferred_label": "Throne",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
 "confidence": 0.1045,
 "match_method": "canonical"
 }

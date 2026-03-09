@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Locust",
-"type": "fauna",
-"preferred_label": "Locust",
-"confidence": 0.2187,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Lion",
 "type": "fauna",
 "preferred_label": "Lion",
@@ -70,9 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Elkosh",
-"type": "place",
-"preferred_label": "Elkosh",
+"id": "fauna:Locust",
+"type": "fauna",
+"preferred_label": "Locust",
+"confidence": 0.2187,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahum.2",
+"type": "person",
+"preferred_label": "Nahum",
 "confidence": 0.1638,
 "match_method": "canonical"
 },
@@ -91,30 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nahum.2",
-"type": "person",
-"preferred_label": "Nahum",
+"id": "place:Elkosh",
+"type": "place",
+"preferred_label": "Elkosh",
 "confidence": 0.1638,
 "match_method": "canonical"
 },
 {
-"id": "place:Libya",
-"type": "place",
-"preferred_label": "Libya",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:StateOfBeingUnderSiege",
-"type": "keyterm",
-"preferred_label": "Under Siege",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -126,23 +112,30 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SeekfindRefuge",
+"type": "keyterm",
+"preferred_label": "Seek Refugue",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"preferred_label": "Detested Thing",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "Glory",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"preferred_label": "The Way",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -154,58 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bashan",
-"type": "place",
-"preferred_label": "Bashan",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Woe.2",
-"type": "keyterm",
-"preferred_label": "Woe",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Incantations",
-"type": "keyterm",
-"preferred_label": "Incantations",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Lebanon",
-"type": "place",
-"preferred_label": "Lebanon",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Put",
-"type": "place",
-"preferred_label": "Put",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
 "id": "place:Carmel",
 "type": "place",
 "preferred_label": "Carmel",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lot",
-"type": "keyterm",
-"preferred_label": "Lot",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -224,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cush.2",
+"id": "place:Assyria",
 "type": "place",
-"preferred_label": "Cush",
+"preferred_label": "Assyria",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"preferred_label": "The Way",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -245,16 +189,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DetestedThing",
+"id": "keyterm:Woe.2",
 "type": "keyterm",
-"preferred_label": "Detested Thing",
+"preferred_label": "Woe",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Judah",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"preferred_label": "Libya",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -266,16 +231,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nile",
+"id": "place:Put",
 "type": "place",
-"preferred_label": "Nile River",
+"preferred_label": "Put",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:SeekfindRefuge",
+"id": "place:Bashan",
+"type": "place",
+"preferred_label": "Bashan",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StateOfBeingUnderSiege",
 "type": "keyterm",
-"preferred_label": "Seek Refugue",
+"preferred_label": "Under Siege",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -287,10 +273,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Fortress",
-"type": "realia",
-"preferred_label": "Fortress",
-"confidence": 0.1591,
+"id": "keyterm:Lot",
+"type": "keyterm",
+"preferred_label": "Lot",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Incantations",
+"type": "keyterm",
+"preferred_label": "Incantations",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
@@ -308,10 +301,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:ProtectiveShield",
+"id": "realia:Fortress",
 "type": "realia",
-"preferred_label": "Protective Shield",
-"confidence": 0.1038,
+"preferred_label": "Fortress",
+"confidence": 0.1591,
 "match_method": "canonical"
 },
 {
@@ -322,6 +315,41 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:ProtectiveShield",
+"type": "realia",
+"preferred_label": "Protective Shield",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"preferred_label": "Dove",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"preferred_label": "Wagon",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:JuniperTree",
+"type": "flora",
+"preferred_label": "Phoenician Juniper",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
 "id": "flora:Grass",
 "type": "flora",
 "preferred_label": "Grass",
@@ -329,9 +357,65 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Dove",
+"id": "realia:GravenImage",
+"type": "realia",
+"preferred_label": "Graven Image",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:StrongDrink",
+"type": "realia",
+"preferred_label": "Strong Drink",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"preferred_label": "Fortification",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"preferred_label": "Fir",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"preferred_label": "Grecian Juniper",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Train",
+"type": "realia",
+"preferred_label": "Train",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
 "type": "fauna",
-"preferred_label": "Dove",
+"preferred_label": "Sheep",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -350,16 +434,51 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
 {
-"id": "realia:StrongDrink",
+"id": "flora:Fig",
+"type": "flora",
+"preferred_label": "Fig",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Whip",
 "type": "realia",
-"preferred_label": "Strong Drink",
+"preferred_label": "Whip",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"preferred_label": "Yoke",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -374,125 +493,6 @@
 "id": "realia:Sword",
 "type": "realia",
 "preferred_label": "Sword",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Fir",
-"type": "flora",
-"preferred_label": "Fir",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:SmallShield",
-"type": "realia",
-"preferred_label": "Small Shield",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Train",
-"type": "realia",
-"preferred_label": "Train",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Wagon",
-"type": "realia",
-"preferred_label": "Wagon",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Fig",
-"type": "flora",
-"preferred_label": "Fig",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"preferred_label": "Grecian Juniper",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Horse",
-"type": "fauna",
-"preferred_label": "Horse",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Whip",
-"type": "realia",
-"preferred_label": "Whip",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:MoltenImage",
-"type": "realia",
-"preferred_label": "Molten Image",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:JuniperTree",
-"type": "flora",
-"preferred_label": "Phoenician Juniper",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Brier",
-"type": "flora",
-"preferred_label": "Brier",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Fortification",
-"type": "realia",
-"preferred_label": "Fortification",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Yoke",
-"type": "realia",
-"preferred_label": "Yoke",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:GravenImage",
-"type": "realia",
-"preferred_label": "Graven Image",
 "confidence": 0.0996,
 "match_method": "canonical"
 }

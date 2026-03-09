@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3776,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
 "confidence": 0.3776,
 "match_method": "canonical"
 },
@@ -109,20 +109,6 @@
 "type": "realia",
 "preferred_label": "House",
 "confidence": 0.3589,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3267,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.3267,
 "match_method": "canonical"
 },
 {
@@ -140,6 +126,20 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3267,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3267,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "To Sin",
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.3176,
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
 "confidence": 0.3176,
 "match_method": "canonical"
 },
@@ -175,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
+"id": "place:Shiloh",
 "type": "place",
-"preferred_label": "Egypt",
+"preferred_label": "Shiloh",
 "confidence": 0.2638,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shiloh",
+"id": "place:Egypt",
 "type": "place",
-"preferred_label": "Shiloh",
+"preferred_label": "Egypt",
 "confidence": 0.2638,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
 "confidence": 0.2092,
 "match_method": "canonical"
 }

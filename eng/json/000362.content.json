@@ -118,6 +118,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Ahoah",
+"type": "group",
+"preferred_label": "Ahohites",
+"confidence": 0.3157,
+"match_method": "canonical"
+},
+{
 "id": "person:Ahoah",
 "type": "person",
 "preferred_label": "Ahoah",
@@ -132,37 +139,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ahoah",
-"type": "group",
-"preferred_label": "Ahohites",
-"confidence": 0.3157,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
-"confidence": 0.3142,
-"match_method": "canonical"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
-"confidence": 0.3142,
-"match_method": "canonical"
-},
-{
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Tribe of Manasseh",
-"confidence": 0.3142,
-"match_method": "canonical"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasseh",
 "confidence": 0.3142,
 "match_method": "canonical"
 },
@@ -174,9 +153,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Gad",
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.3142,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh",
 "type": "person",
-"preferred_label": "Gad",
+"preferred_label": "Manasseh",
 "confidence": 0.3142,
 "match_method": "canonical"
 },
@@ -184,6 +170,20 @@
 "id": "keyterm:BringHonorAndGloryOnOneself",
 "type": "keyterm",
 "preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.3142,
+"match_method": "canonical"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
+"confidence": 0.3142,
+"match_method": "canonical"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"preferred_label": "Gad",
 "confidence": 0.3142,
 "match_method": "canonical"
 },
@@ -223,16 +223,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Anathoth",
+"id": "place:Netophah",
 "type": "place",
-"preferred_label": "Anathoth",
+"preferred_label": "Netophah",
 "confidence": 0.2606,
 "match_method": "canonical"
 },
 {
-"id": "place:Netophah",
+"id": "place:Anathoth",
 "type": "place",
-"preferred_label": "Netophah",
+"preferred_label": "Anathoth",
 "confidence": 0.2606,
 "match_method": "canonical"
 }

@@ -83,16 +83,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3909,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.3909,
 "match_method": "canonical"
 },
@@ -146,23 +146,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.2136,
 "match_method": "canonical"
 },
@@ -174,6 +167,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
@@ -181,23 +181,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shimeah.2",
+"id": "person:Elhanan",
 "type": "person",
-"preferred_label": "Shimeah",
+"preferred_label": "Elhanan",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "person:Saph",
+"id": "person:HugeMan",
 "type": "person",
-"preferred_label": "Saph",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Lahmi",
-"type": "person",
-"preferred_label": "Lahmi",
+"preferred_label": "Huge Man",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -209,9 +202,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Informant",
+"id": "person:Shimeah.2",
 "type": "person",
-"preferred_label": "An Informant",
+"preferred_label": "Shimeah",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -223,16 +216,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hushathites",
-"type": "group",
-"preferred_label": "Hushathites",
+"id": "person:Eliam",
+"type": "person",
+"preferred_label": "Eliam",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "person:Eliam",
+"id": "person:Saph",
 "type": "person",
-"preferred_label": "Eliam",
+"preferred_label": "Saph",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Informant",
+"type": "person",
+"preferred_label": "An Informant",
 "confidence": 0.1598,
 "match_method": "canonical"
 }

@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.2787,
-"match_method": "canonical"
-},
-{
 "id": "place:Jegar-sahadutha",
 "type": "place",
 "preferred_label": "Jegar-sahadutha",
@@ -80,6 +73,13 @@
 "id": "deity:Teraphim",
 "type": "deity",
 "preferred_label": "Teraphim",
+"confidence": 0.2787,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
@@ -112,6 +112,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
 "id": "person:Abraham",
 "type": "person",
 "preferred_label": "Abraham",
@@ -122,13 +129,6 @@
 "id": "group:Aramean",
 "type": "group",
 "preferred_label": "Arameans",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -147,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "Witness",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
@@ -154,23 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"preferred_label": "Nahor",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -189,30 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Smear",
+"id": "keyterm:Slaughtering",
 "type": "keyterm",
-"preferred_label": "Smear",
+"preferred_label": "Slaughtering",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "person:Nahor.2",
-"type": "person",
-"preferred_label": "Nahor",
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Possess",
 "type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
+"preferred_label": "To Cause to Possess",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Witness",
+"id": "keyterm:Smear",
 "type": "keyterm",
-"preferred_label": "Witness",
+"preferred_label": "Smear",
 "confidence": 0.1583,
 "match_method": "canonical"
 }

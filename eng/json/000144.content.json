@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
 "confidence": 0.2865,
 "match_method": "canonical"
 },
 {
-"id": "person:Lot",
-"type": "person",
-"preferred_label": "Lot",
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.2865,
 "match_method": "canonical"
 },
@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Forgive",
 "confidence": 0.2243,
 "match_method": "canonical"
 },
@@ -70,37 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Repent",
-"type": "keyterm",
-"preferred_label": "Repent",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
 "id": "place:Samaria",
 "type": "place",
 "preferred_label": "Samaria",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
 "confidence": 0.2243,
 "match_method": "canonical"
 },
@@ -119,6 +98,34 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StumblingBlock",
+"type": "keyterm",
+"preferred_label": "Stumbling Block",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:CauseToStumble",
 "type": "keyterm",
 "preferred_label": "Cause to Stumble",
@@ -133,58 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:StumblingBlock",
-"type": "keyterm",
-"preferred_label": "Stumbling Block",
-"confidence": 0.1676,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disaster",
-"type": "keyterm",
-"preferred_label": "Disaster",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Reject",
-"type": "keyterm",
-"preferred_label": "Reject",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "Body",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Alive",
-"type": "keyterm",
-"preferred_label": "Make Alive",
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -196,51 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"preferred_label": "To Command",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Sodom",
-"type": "place",
-"preferred_label": "Sodom",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Observation",
-"type": "keyterm",
-"preferred_label": "Observation",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Serve",
 "type": "keyterm",
 "preferred_label": "Serve",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Alive",
+"type": "keyterm",
+"preferred_label": "Make Alive",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -252,9 +175,86 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
 "id": "group:Samaritan",
 "type": "group",
 "preferred_label": "Samaritans",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Observation",
+"type": "keyterm",
+"preferred_label": "Observation",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"preferred_label": "Reject",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -266,9 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Flock",
 "type": "fauna",
-"preferred_label": "Sheep",
+"preferred_label": "Flock",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -280,16 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "realia:Housetop",
-"type": "realia",
-"preferred_label": "Housetop",
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -301,23 +294,16 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
 "id": "realia:Boat",
 "type": "realia",
 "preferred_label": "Boat",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Vulture",
-"type": "fauna",
-"preferred_label": "Vulture",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "flora:Mustard",
-"type": "flora",
-"preferred_label": "Mustard",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -329,16 +315,30 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Grain",
-"type": "flora",
-"preferred_label": "Grain",
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
 {
-"id": "realia:Bed",
+"id": "realia:Housetop",
 "type": "realia",
-"preferred_label": "Bed",
+"preferred_label": "Housetop",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "flora:Mustard",
+"type": "flora",
+"preferred_label": "Mustard",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"preferred_label": "Vulture",
 "confidence": 0.1022,
 "match_method": "canonical"
 }

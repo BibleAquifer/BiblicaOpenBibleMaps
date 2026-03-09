@@ -154,6 +154,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.269,
+"match_method": "canonical"
+},
+{
 "id": "place:Mahanaim",
 "type": "place",
 "preferred_label": "Mahanaim",
@@ -175,20 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.269,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
-"confidence": 0.269,
-"match_method": "canonical"
-},
-{
 "id": "person:Abigail",
 "type": "person",
 "preferred_label": "Abigail",
@@ -203,9 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "place:Jabesh-gilead",
+"type": "place",
+"preferred_label": "Jabesh-gilead",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "group:Jezreel",
+"type": "group",
+"preferred_label": "Jezreel",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Michal",
-"type": "person",
-"preferred_label": "Michal",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "group:Jezreel",
+"id": "group:Carmel",
 "type": "group",
-"preferred_label": "Jezreel",
+"preferred_label": "Carmelites",
 "confidence": 0.2127,
 "match_method": "canonical"
 }

@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Saul.2",
+"id": "person:Samuel",
 "type": "person",
-"preferred_label": "Saul",
+"preferred_label": "Samuel",
 "confidence": 0.5595,
 "match_method": "canonical"
 },
 {
-"id": "person:Samuel",
+"id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Samuel",
+"preferred_label": "Saul",
 "confidence": 0.5595,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
 "confidence": 0.4,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proscribe.2",
-"type": "keyterm",
-"preferred_label": "Set Apart for Destruction",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.4,
 "match_method": "canonical"
 },
@@ -140,6 +140,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
@@ -150,13 +157,6 @@
 "id": "place:Gilgal.2",
 "type": "place",
 "preferred_label": "Gilgal",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -189,16 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shimeah.2",
+"id": "person:Eliab.3",
 "type": "person",
-"preferred_label": "Shimeah",
-"confidence": 0.1612,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
+"preferred_label": "Eliab",
 "confidence": 0.1612,
 "match_method": "canonical"
 },
@@ -210,13 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Havilah.2",
-"type": "place",
-"preferred_label": "Havilah",
-"confidence": 0.1612,
-"match_method": "canonical"
-},
-{
 "id": "place:Carmel",
 "type": "place",
 "preferred_label": "Carmel",
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abinadab.3",
+"id": "person:Shimeah.2",
 "type": "person",
-"preferred_label": "Abinadab",
+"preferred_label": "Shimeah",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"preferred_label": "Kenites",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SomethingDevotedToGod",
+"type": "keyterm",
+"preferred_label": "Something Devoted to God",
 "confidence": 0.1612,
 "match_method": "canonical"
 }

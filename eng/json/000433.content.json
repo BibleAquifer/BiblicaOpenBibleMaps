@@ -56,6 +56,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
@@ -70,10 +77,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
-"confidence": 0.3636,
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.3063,
 "match_method": "canonical"
 },
 {
@@ -84,20 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
-"confidence": 0.3063,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:KindlyDisposed",
-"type": "keyterm",
-"preferred_label": "To Be Kindly Disposed",
-"confidence": 0.2593,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Safety",
 "type": "keyterm",
 "preferred_label": "Safety",
@@ -105,24 +98,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:KindlyDisposed",
 "type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2581,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.2581,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.2581,
+"preferred_label": "To Be Kindly Disposed",
+"confidence": 0.2593,
 "match_method": "canonical"
 },
 {
@@ -140,9 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
+"id": "keyterm:Counsel",
 "type": "keyterm",
-"preferred_label": "Redeem",
+"preferred_label": "Counsel",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.2581,
 "match_method": "canonical"
 },
@@ -154,9 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Counsel",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Counsel",
+"preferred_label": "Covenant",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2581,
 "match_method": "canonical"
 },
@@ -182,37 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2054,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2054,
-"match_method": "canonical"
-},
-{
-"id": "group:Assyria",
-"type": "group",
-"preferred_label": "Assyrians",
-"confidence": 0.2054,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
-"confidence": 0.2054,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mighty.2",
-"type": "keyterm",
-"preferred_label": "Mighty",
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.2054,
 "match_method": "canonical"
 },
@@ -224,9 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"preferred_label": "Dispossess",
+"preferred_label": "To Sin",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Refuge",
+"type": "keyterm",
+"preferred_label": "Refuge",
 "confidence": 0.2054,
 "match_method": "canonical"
 }

@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Engedi",
-"type": "place",
-"preferred_label": "En-gedi",
-"confidence": 0.2212,
-"match_method": "canonical"
-},
-{
 "id": "place:Jeshimon",
 "type": "place",
 "preferred_label": "Jeshimon",
@@ -112,10 +105,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.2173,
+"id": "place:Engedi",
+"type": "place",
+"preferred_label": "En-gedi",
+"confidence": 0.2212,
 "match_method": "canonical"
 },
 {
@@ -126,30 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Anointed",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Anointed",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "place:Maon",
-"type": "place",
-"preferred_label": "Maon",
+"preferred_label": "Swear",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -161,6 +133,34 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Maon",
+"type": "place",
+"preferred_label": "Maon",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"preferred_label": "Anointed",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -168,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Crafty",
-"type": "keyterm",
-"preferred_label": "Crafty",
+"id": "place:Hachilah",
+"type": "place",
+"preferred_label": "Hachilah",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "place:Hachilah",
-"type": "place",
-"preferred_label": "Hachilah",
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"preferred_label": "Crafty",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
 "confidence": 0.1587,
 "match_method": "canonical"
 }

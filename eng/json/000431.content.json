@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Kedar",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Kedar",
+"preferred_label": "Israel",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Kedar",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Kedar",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tema",
-"type": "place",
-"preferred_label": "Tema",
+"id": "group:Dedan",
+"type": "group",
+"preferred_label": "Dedanites",
 "confidence": 0.1882,
 "match_method": "canonical"
 },
 {
-"id": "place:Dumah",
+"id": "place:Tema",
 "type": "place",
-"preferred_label": "Dumah",
+"preferred_label": "Tema",
 "confidence": 0.1882,
 "match_method": "canonical"
 },
@@ -84,44 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Dedan",
-"type": "group",
-"preferred_label": "Dedanites",
+"id": "place:Dumah",
+"type": "place",
+"preferred_label": "Dumah",
 "confidence": 0.1882,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "place:Elam",
+"id": "place:Babylon",
 "type": "place",
-"preferred_label": "Elam",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "place:Dedan",
-"type": "place",
-"preferred_label": "Dedan",
+"preferred_label": "Babylon",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -133,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Dedan",
+"type": "place",
+"preferred_label": "Dedan",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
 "id": "place:Seir",
 "type": "place",
 "preferred_label": "Seir",
@@ -140,9 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Elam",
 "type": "place",
-"preferred_label": "Babylon",
+"preferred_label": "Elam",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -150,6 +136,20 @@
 "id": "place:Negeb",
 "type": "place",
 "preferred_label": "Negev",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -168,6 +168,13 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
 "id": "flora:Sandalwood",
 "type": "flora",
 "preferred_label": "Sandalwood",
@@ -175,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
 "confidence": 0.1165,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
+"id": "realia:GravenImage",
+"type": "realia",
+"preferred_label": "Graven Image",
 "confidence": 0.1165,
 "match_method": "canonical"
 },
@@ -203,16 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:GravenImage",
+"id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Graven Image",
-"confidence": 0.1165,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
+"preferred_label": "Sword",
 "confidence": 0.1165,
 "match_method": "canonical"
 }

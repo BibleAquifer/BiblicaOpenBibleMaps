@@ -77,6 +77,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
 "id": "place:Athens",
 "type": "place",
 "preferred_label": "Афины",
@@ -91,23 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 0.374,
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.3721,
 "match_method": "canonical"
 },
 {
 "id": "person:Javan",
 "type": "person",
 "preferred_label": "Иаван",
-"confidence": 0.3721,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
 "confidence": 0.3721,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Тимофей",
 "confidence": 0.3196,
 "match_method": "canonical"
 },
 {
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Тимофей",
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
 "confidence": 0.3196,
 "match_method": "canonical"
 },
@@ -203,6 +203,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
@@ -210,23 +217,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Sabbath",
 "type": "keyterm",
 "preferred_label": "Sabbath",
-"confidence": 0.2632,
-"match_method": "canonical"
-},
-{
-"id": "place:Ephesus",
-"type": "place",
-"preferred_label": "Ефес",
-"confidence": 0.2632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
 "confidence": 0.2632,
 "match_method": "canonical"
 }

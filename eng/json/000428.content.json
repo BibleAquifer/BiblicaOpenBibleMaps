@@ -42,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -63,9 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -77,10 +84,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.2409,
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.1809,
 "match_method": "canonical"
 },
 {
@@ -98,30 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.1809,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fairness",
-"type": "keyterm",
-"preferred_label": "Fairness",
-"confidence": 0.1795,
-"match_method": "canonical"
-},
-{
 "id": "place:Elam",
 "type": "place",
 "preferred_label": "Elam",
-"confidence": 0.1795,
-"match_method": "canonical"
-},
-{
-"id": "place:EgyptSea",
-"type": "place",
-"preferred_label": "Sea of Egypt",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
@@ -133,135 +119,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Intention",
+"id": "keyterm:Fairness",
 "type": "keyterm",
-"preferred_label": "Intention",
-"confidence": 0.1705,
+"preferred_label": "Fairness",
+"confidence": 0.1795,
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
+"id": "place:EgyptSea",
 "type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Shinar",
-"type": "place",
-"preferred_label": "Shinar",
-"confidence": 0.1705,
+"preferred_label": "Sea of Egypt",
+"confidence": 0.1795,
 "match_method": "canonical"
 },
 {
 "id": "place:Edom",
 "type": "place",
 "preferred_label": "Edom",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Pathros",
-"type": "place",
-"preferred_label": "Pathros",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"preferred_label": "Trust",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"preferred_label": "Counsel",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"preferred_label": "Euphrates River",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Poor",
-"type": "keyterm",
-"preferred_label": "Poor",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -273,16 +147,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ammon",
+"id": "group:Philistine",
 "type": "group",
-"preferred_label": "Ammonites",
+"preferred_label": "Philistines",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Zealous",
+"id": "keyterm:Poor",
 "type": "keyterm",
-"preferred_label": "Be Zealous",
+"preferred_label": "Poor",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -294,9 +182,121 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"preferred_label": "Shinar",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"preferred_label": "Intention",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Pathros",
+"type": "place",
+"preferred_label": "Pathros",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Understanding",
 "type": "keyterm",
 "preferred_label": "Understanding",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -308,13 +308,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Cobra",
-"type": "fauna",
-"preferred_label": "Cobra",
-"confidence": 0.1195,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Leopard",
 "type": "fauna",
 "preferred_label": "Leopard",
@@ -322,9 +315,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Cobra",
 "type": "fauna",
-"preferred_label": "Sheep",
+"preferred_label": "Cobra",
+"confidence": 0.1195,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -343,16 +343,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:MoltenImage",
-"type": "realia",
-"preferred_label": "Molten Image",
-"confidence": 0.1105,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bear",
+"id": "fauna:Kid",
 "type": "fauna",
-"preferred_label": "Bear",
+"preferred_label": "Kid",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -364,9 +357,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Kid",
+"id": "fauna:Bear",
 "type": "fauna",
-"preferred_label": "Kid",
+"preferred_label": "Bear",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1105,
 "match_method": "canonical"
 }

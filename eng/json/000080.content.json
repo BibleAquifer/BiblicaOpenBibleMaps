@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.3391,
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.3391,
 "match_method": "canonical"
 },
@@ -63,20 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -84,9 +70,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "preferred_label": "Be a Disciple",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -112,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Parable",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Parable",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -126,9 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Parable",
+"id": "keyterm:Pray",
 "type": "keyterm",
-"preferred_label": "Parable",
+"preferred_label": "Pray",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -147,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.2196,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -168,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Reject",
-"type": "keyterm",
-"preferred_label": "Reject",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
 "id": "place:Bethphage",
 "type": "place",
 "preferred_label": "Bethphage",
@@ -182,23 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
-"preferred_label": "Nazareth",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
+"id": "keyterm:Reject",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Reject",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -210,51 +196,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Height",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Height",
+"preferred_label": "Always",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Baptism",
+"preferred_label": "Serve",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
+"id": "keyterm:Discern",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Discern",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -273,6 +238,41 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Height",
+"type": "keyterm",
+"preferred_label": "Height",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Command",
 "type": "keyterm",
 "preferred_label": "To Command",
@@ -287,23 +287,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Serve",
+"preferred_label": "Name",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Always",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
-"type": "keyterm",
-"preferred_label": "Discern",
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -322,13 +322,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Tower",
-"type": "realia",
-"preferred_label": "Tower",
-"confidence": 0.1041,
-"match_method": "canonical"
-},
-{
 "id": "realia:Winepress",
 "type": "realia",
 "preferred_label": "Winepress",
@@ -343,23 +336,16 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Tower",
+"type": "realia",
+"preferred_label": "Tower",
+"confidence": 0.1041,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Dove",
 "type": "fauna",
 "preferred_label": "Dove",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "realia:ThornHedge",
-"type": "realia",
-"preferred_label": "Thorn Hedge",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "realia:Watch-tower",
-"type": "realia",
-"preferred_label": "Watch-Tower",
 "confidence": 0.0998,
 "match_method": "canonical"
 },
@@ -374,6 +360,20 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:ThornHedge",
+"type": "realia",
+"preferred_label": "Thorn Hedge",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"preferred_label": "Watch-Tower",
 "confidence": 0.0998,
 "match_method": "canonical"
 }

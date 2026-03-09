@@ -34,16 +34,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Israel",
 "confidence": 0.5553,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Judah",
 "confidence": 0.5553,
 "match_method": "canonical"
 },
@@ -125,16 +125,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoaddan",
-"type": "person",
-"preferred_label": "Jehoaddan",
-"confidence": 0.2228,
-"match_method": "canonical"
-},
-{
-"id": "place:EphraimGate",
+"id": "place:CornerGate",
 "type": "place",
-"preferred_label": "Ephraim Gate",
+"preferred_label": "Corner Gate",
 "confidence": 0.2228,
 "match_method": "canonical"
 },
@@ -146,9 +139,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:CornerGate",
+"id": "person:Jehoaddan",
+"type": "person",
+"preferred_label": "Jehoaddan",
+"confidence": 0.2228,
+"match_method": "canonical"
+},
+{
+"id": "place:EphraimGate",
 "type": "place",
-"preferred_label": "Corner Gate",
+"preferred_label": "Ephraim Gate",
 "confidence": 0.2228,
 "match_method": "canonical"
 },
@@ -167,51 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "group:Edom",
-"type": "group",
-"preferred_label": "Edomites",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "place:Lebanon",
+"id": "place:Seir",
 "type": "place",
-"preferred_label": "Lebanon",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"preferred_label": "Seir",
 "confidence": 0.2158,
 "match_method": "canonical"
 },
@@ -223,6 +181,48 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jehu.2",
+"type": "person",
+"preferred_label": "Jehu",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"preferred_label": "Edomites",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
 "id": "person:Ahaziah.2",
 "type": "person",
 "preferred_label": "Ahaziah",
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Seir",
-"type": "place",
-"preferred_label": "Seir",
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.2158,
 "match_method": "canonical"
 }

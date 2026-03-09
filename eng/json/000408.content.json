@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:CarmelMount",
+"id": "place:Gilgal.3",
 "type": "place",
-"preferred_label": "Mount Carmel",
+"preferred_label": "Gilgal",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilgal.3",
+"id": "place:Samaria",
 "type": "place",
-"preferred_label": "Gilgal",
+"preferred_label": "Samaria",
 "confidence": 0.168,
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
+"id": "place:CarmelMount",
 "type": "place",
-"preferred_label": "Samaria",
+"preferred_label": "Mount Carmel",
 "confidence": 0.168,
 "match_method": "canonical"
 },

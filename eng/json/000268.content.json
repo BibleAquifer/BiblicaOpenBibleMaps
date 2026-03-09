@@ -147,16 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
-"id": "person:Milcah",
+"id": "person:Bethuel",
 "type": "person",
-"preferred_label": "Milcah",
+"preferred_label": "Bethuel",
 "confidence": 0.2115,
 "match_method": "canonical"
 },
@@ -168,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
 "id": "place:Mamre",
 "type": "place",
 "preferred_label": "Mamre",
@@ -175,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Bethuel",
+"id": "person:Milcah",
 "type": "person",
-"preferred_label": "Bethuel",
+"preferred_label": "Milcah",
 "confidence": 0.2115,
 "match_method": "canonical"
 },
@@ -196,23 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.2094,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2094,
-"match_method": "canonical"
-},
-{
 "id": "person:Nahor.2",
 "type": "person",
 "preferred_label": "Nahor",
+"confidence": 0.2094,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.2094,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2094,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.2094,
 "match_method": "canonical"
 }

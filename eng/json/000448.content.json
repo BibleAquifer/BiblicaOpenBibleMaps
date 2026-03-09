@@ -42,16 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
-"confidence": 0.2886,
-"match_method": "canonical"
-},
-{
-"id": "place:Euphrates",
+"id": "place:Babylon",
 "type": "place",
-"preferred_label": "Euphrates River",
+"preferred_label": "Babylon",
 "confidence": 0.2886,
 "match_method": "canonical"
 },
@@ -63,16 +56,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
 "confidence": 0.2886,
 "match_method": "canonical"
 },
 {
-"id": "person:Jeremiah.6",
+"id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "Jeremiah",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.2886,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
 "confidence": 0.2886,
 "match_method": "canonical"
 },
@@ -105,30 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
 "id": "place:Philistine",
 "type": "place",
 "preferred_label": "Philistia",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "place:Nile",
-"type": "place",
-"preferred_label": "Nile River",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "place:Ashkelon",
-"type": "place",
-"preferred_label": "Ashkelon",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -140,24 +119,31 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Ashkelon",
+"type": "place",
+"preferred_label": "Ashkelon",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
 "id": "realia:SmallShield",
 "type": "realia",
 "preferred_label": "Small Shield",
 "confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:MightyOne",
-"type": "keyterm",
-"preferred_label": "Mighty One",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Alas",
-"type": "keyterm",
-"preferred_label": "Alas!",
-"confidence": 0.1686,
 "match_method": "canonical"
 },
 {
@@ -168,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Carchemish",
-"type": "place",
-"preferred_label": "Carchemish",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:PronounceInnocent",
+"id": "keyterm:Alas",
 "type": "keyterm",
-"preferred_label": "Pronounce Innocent",
+"preferred_label": "Alas!",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -196,23 +175,30 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
-"confidence": 0.1657,
+"id": "keyterm:MightyOne",
+"type": "keyterm",
+"preferred_label": "Mighty One",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PronounceInnocent",
+"type": "keyterm",
+"preferred_label": "Pronounce Innocent",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Carchemish",
+"type": "place",
+"preferred_label": "Carchemish",
+"confidence": 0.1686,
 "match_method": "canonical"
 },
 {
 "id": "realia:MoltenImage",
 "type": "realia",
 "preferred_label": "Molten Image",
-"confidence": 0.1657,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
 "confidence": 0.1657,
 "match_method": "canonical"
 },
@@ -224,107 +210,23 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1657,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1657,
+"match_method": "canonical"
+},
+{
 "id": "place:Crete",
 "type": "place",
 "preferred_label": "Crete",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "person:Josiah",
-"type": "person",
-"preferred_label": "Josiah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoiakim",
-"type": "person",
-"preferred_label": "Jehoiakim",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"preferred_label": "Trust",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Put",
-"type": "place",
-"preferred_label": "Put",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Carmel",
-"type": "place",
-"preferred_label": "Carmel",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:TaborMount",
-"type": "place",
-"preferred_label": "Mount Tabor",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Visitation",
-"type": "keyterm",
-"preferred_label": "Visitation",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Cush.2",
-"type": "place",
-"preferred_label": "Cush",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Migdol",
-"type": "place",
-"preferred_label": "Migdol",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "group:Ludim",
-"type": "group",
-"preferred_label": "Ludim",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -336,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -350,9 +252,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hophra",
+"id": "place:Carmel",
+"type": "place",
+"preferred_label": "Carmel",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:TaborMount",
+"type": "place",
+"preferred_label": "Mount Tabor",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Hophra",
+"preferred_label": "Judah",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -364,9 +287,86 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
+"id": "place:Migdol",
+"type": "place",
+"preferred_label": "Migdol",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"preferred_label": "Josiah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Put",
+"type": "place",
+"preferred_label": "Put",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"preferred_label": "Jehoiakim",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Visitation",
+"type": "keyterm",
+"preferred_label": "Visitation",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:Ludim",
 "type": "group",
-"preferred_label": "Gentiles",
+"preferred_label": "Ludim",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"preferred_label": "Hophra",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -378,65 +378,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Spear",
-"type": "realia",
-"preferred_label": "Spear",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Snake",
-"type": "fauna",
-"preferred_label": "Snake",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "flora:Sandalwood",
-"type": "flora",
-"preferred_label": "Sandalwood",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bow",
-"type": "realia",
-"preferred_label": "Bow",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
 "id": "realia:Axe",
 "type": "realia",
 "preferred_label": "Axe",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:AnimalPen",
-"type": "realia",
-"preferred_label": "Animal Pen",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:Sheath",
-"type": "realia",
-"preferred_label": "Sheath",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:Wagon",
-"type": "realia",
-"preferred_label": "Wagon",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Locust",
-"type": "fauna",
-"preferred_label": "Locust",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -448,9 +392,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Liquidambar",
-"type": "flora",
-"preferred_label": "Liquidambar",
+"id": "realia:Wagon",
+"type": "realia",
+"preferred_label": "Wagon",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -458,6 +409,55 @@
 "id": "realia:LargeShield",
 "type": "realia",
 "preferred_label": "Large Shield",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:AnimalPen",
+"type": "realia",
+"preferred_label": "Animal Pen",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "flora:Liquidambar",
+"type": "flora",
+"preferred_label": "Liquidambar",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sheath",
+"type": "realia",
+"preferred_label": "Sheath",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"preferred_label": "Locust",
 "confidence": 0.1029,
 "match_method": "canonical"
 }

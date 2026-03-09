@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "Serve",
+"preferred_label": "Baptism",
 "confidence": 0.3605,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Baptism",
+"preferred_label": "Serve",
 "confidence": 0.3605,
 "match_method": "canonical"
 },
@@ -189,13 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.3585,
-"match_method": "canonical"
-},
-{
 "id": "person:Philip.4",
 "type": "person",
 "preferred_label": "Philip",
@@ -217,16 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Rome",
-"type": "place",
-"preferred_label": "Rome",
-"confidence": 0.3582,
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.3585,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
 "preferred_label": "Resurrection",
+"confidence": 0.3582,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
 "confidence": 0.3582,
 "match_method": "canonical"
 }

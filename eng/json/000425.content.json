@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:BalsamTree",
-"type": "flora",
-"preferred_label": "Balsam Tree",
-"confidence": 0.3169,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Dove",
 "type": "fauna",
 "preferred_label": "Dove",
@@ -91,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Myrrh",
+"id": "flora:BalsamTree",
 "type": "flora",
-"preferred_label": "Myrrh",
+"preferred_label": "Balsam Tree",
 "confidence": 0.3169,
 "match_method": "canonical"
 },
@@ -105,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Myrrh",
+"type": "flora",
+"preferred_label": "Myrrh",
+"confidence": 0.3169,
+"match_method": "canonical"
+},
+{
 "id": "flora:Pomegranate",
 "type": "flora",
 "preferred_label": "Pomegranate",
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Flock",
+"preferred_label": "Goat",
 "confidence": 0.3131,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "fauna:Flock",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Flock",
 "confidence": 0.3131,
 "match_method": "canonical"
 },
@@ -168,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
+"id": "keyterm:Fairness",
+"type": "keyterm",
+"preferred_label": "Fairness",
 "confidence": 0.2077,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fairness",
-"type": "keyterm",
-"preferred_label": "Fairness",
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
 "confidence": 0.2077,
 "match_method": "canonical"
 },
@@ -210,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Cedar",
+"id": "flora:Frankincense",
 "type": "flora",
-"preferred_label": "Cedar",
+"preferred_label": "Frankincense",
 "confidence": 0.2015,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Frankincense",
+"id": "flora:Cedar",
 "type": "flora",
-"preferred_label": "Frankincense",
+"preferred_label": "Cedar",
 "confidence": 0.2015,
 "match_method": "canonical"
 }

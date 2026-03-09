@@ -105,20 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
@@ -133,24 +119,24 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
 "id": "flora:Vine",
 "type": "flora",
 "preferred_label": "Vine",
 "confidence": 0.2137,
-"match_method": "canonical"
-},
-{
-"id": "deity:Baal-berith",
-"type": "deity",
-"preferred_label": "Baal-Berith",
-"confidence": 0.1614,
-"match_method": "canonical"
-},
-{
-"id": "place:Arumah",
-"type": "place",
-"preferred_label": "Arumah",
-"confidence": 0.1614,
 "match_method": "canonical"
 },
 {
@@ -168,9 +154,23 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Baal-berith",
+"type": "deity",
+"preferred_label": "Baal-Berith",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
 "id": "place:DivinersOak",
 "type": "place",
 "preferred_label": "Diviners’ Oak",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophrah.2",
+"type": "place",
+"preferred_label": "Ophrah",
 "confidence": 0.1614,
 "match_method": "canonical"
 },
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ophrah.2",
+"id": "place:Arumah",
 "type": "place",
-"preferred_label": "Ophrah",
+"preferred_label": "Arumah",
 "confidence": 0.1614,
 "match_method": "canonical"
 },
@@ -203,23 +203,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beeroth",
-"type": "place",
-"preferred_label": "Beeroth",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LeanOn",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"preferred_label": "Trust",
+"preferred_label": "Seek Refugue",
 "confidence": 0.1579,
 "match_method": "canonical"
 },
 {
-"id": "place:Lebanon",
+"id": "person:Hamor",
+"type": "person",
+"preferred_label": "Hamor",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
 "type": "place",
-"preferred_label": "Lebanon",
+"preferred_label": "Midian",
 "confidence": 0.1579,
 "match_method": "canonical"
 },

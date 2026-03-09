@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.295,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.295,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ishmael.2",
+"id": "person:Zedekiah.3",
 "type": "person",
-"preferred_label": "Ishmael",
+"preferred_label": "Zedekiah",
 "confidence": 0.2367,
 "match_method": "canonical"
 },
 {
-"id": "person:Zedekiah.3",
+"id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "Zedekiah",
+"preferred_label": "Ishmael",
 "confidence": 0.2367,
 "match_method": "canonical"
 },
@@ -126,9 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mizpah",
-"type": "place",
-"preferred_label": "Mizpah",
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -154,16 +154,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:StateOfBeingUnderSiege",
-"type": "keyterm",
-"preferred_label": "Under Siege",
+"id": "person:Kareah",
+"type": "person",
+"preferred_label": "Kareah",
 "confidence": 0.1717,
 "match_method": "canonical"
 },
 {
-"id": "person:Evil-merodach",
+"id": "person:Tanhumeth",
 "type": "person",
-"preferred_label": "Evil-merodach",
+"preferred_label": "Tanhumeth",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "person:Jezaniah",
+"type": "person",
+"preferred_label": "Jezaniah",
 "confidence": 0.1717,
 "match_method": "canonical"
 },
@@ -182,6 +189,34 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Seraiah.2",
+"type": "person",
+"preferred_label": "Seraiah",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StateOfBeingUnderSiege",
+"type": "keyterm",
+"preferred_label": "Under Siege",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "person:Seraiah.3",
+"type": "person",
+"preferred_label": "Seraiah",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "person:Evil-merodach",
+"type": "person",
+"preferred_label": "Evil-merodach",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
 "id": "person:Elishama.3",
 "type": "person",
 "preferred_label": "Elishama",
@@ -196,41 +231,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Seraiah.3",
-"type": "person",
-"preferred_label": "Seraiah",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
-"id": "person:Kareah",
-"type": "person",
-"preferred_label": "Kareah",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
-"id": "person:Tanhumeth",
-"type": "person",
-"preferred_label": "Tanhumeth",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
-"id": "person:Seraiah.2",
-"type": "person",
-"preferred_label": "Seraiah",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
-"id": "person:Jezaniah",
-"type": "person",
-"preferred_label": "Jezaniah",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
 "id": "realia:Prison",
 "type": "realia",
 "preferred_label": "Prison",
@@ -238,51 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "group:Maacah",
-"type": "group",
-"preferred_label": "Maacathites",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Arabah",
-"type": "place",
-"preferred_label": "Arabah",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Solomon",
+"id": "person:Shaphan",
 "type": "person",
-"preferred_label": "Solomon",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Netophah",
-"type": "place",
-"preferred_label": "Netophah",
+"preferred_label": "Shaphan",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -294,27 +252,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Shaphan",
-"type": "person",
-"preferred_label": "Shaphan",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahikam",
-"type": "person",
-"preferred_label": "Ahikam",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "preferred_label": "Jews",
@@ -322,9 +259,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Maacah",
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabah",
 "type": "place",
-"preferred_label": "Maacah",
+"preferred_label": "Arabah",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"preferred_label": "Maacathites",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Netophah",
+"type": "place",
+"preferred_label": "Netophah",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -336,9 +301,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Siege-works",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"preferred_label": "Maacah",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahikam",
+"type": "person",
+"preferred_label": "Ahikam",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "realia:CookingPot",
 "type": "realia",
-"preferred_label": "Siege-Works",
+"preferred_label": "Cooking Pot",
 "confidence": 0.105,
 "match_method": "canonical"
 },
@@ -350,13 +350,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.105,
-"match_method": "canonical"
-},
-{
 "id": "realia:WickTrimmer",
 "type": "realia",
 "preferred_label": "Wick Trimmer",
@@ -364,9 +357,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:CookingPot",
+"id": "realia:Siege-works",
 "type": "realia",
-"preferred_label": "Cooking Pot",
+"preferred_label": "Siege-Works",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
 "confidence": 0.105,
 "match_method": "canonical"
 },

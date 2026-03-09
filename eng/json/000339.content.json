@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishai",
-"type": "person",
-"preferred_label": "Abishai",
-"confidence": 0.329,
-"match_method": "canonical"
-},
-{
 "id": "place:Carmel",
 "type": "place",
 "preferred_label": "Carmel",
@@ -91,16 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abner",
+"id": "person:Abishai",
 "type": "person",
-"preferred_label": "Abner",
-"confidence": 0.3261,
+"preferred_label": "Abishai",
+"confidence": 0.329,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
 "preferred_label": "Anointed",
+"confidence": 0.3261,
+"match_method": "canonical"
+},
+{
+"id": "person:Abner",
+"type": "person",
+"preferred_label": "Abner",
 "confidence": 0.3261,
 "match_method": "canonical"
 },
@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ner.2",
-"type": "person",
-"preferred_label": "Ner",
-"confidence": 0.213,
-"match_method": "canonical"
-},
-{
 "id": "place:Jeshimon",
 "type": "place",
 "preferred_label": "Jeshimon",
@@ -161,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Wickedness",
-"type": "keyterm",
-"preferred_label": "Wickedness",
+"id": "person:Ner.2",
+"type": "person",
+"preferred_label": "Ner",
 "confidence": 0.213,
 "match_method": "canonical"
 },
@@ -171,6 +164,13 @@
 "id": "place:Ziph.2",
 "type": "place",
 "preferred_label": "Wilderness of Ziph",
+"confidence": 0.213,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
 "confidence": 0.213,
 "match_method": "canonical"
 },
@@ -189,6 +189,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jezreel",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Laish",
+"type": "person",
+"preferred_label": "Laish",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
 "id": "person:Michal",
 "type": "person",
 "preferred_label": "Michal",
@@ -203,16 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Maon",
-"type": "place",
-"preferred_label": "Maon",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "person:Palti.2",
+"id": "person:Ahimelech.2",
 "type": "person",
-"preferred_label": "Palti",
+"preferred_label": "Ahimelech",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -220,13 +227,6 @@
 "id": "group:Caleb",
 "type": "group",
 "preferred_label": "Calebites",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "person:Laish",
-"type": "person",
-"preferred_label": "Laish",
 "confidence": 0.1594,
 "match_method": "canonical"
 }

@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
+"id": "keyterm:Sabbath",
 "type": "keyterm",
-"preferred_label": "Covenant",
+"preferred_label": "Sabbath",
 "confidence": 0.355,
 "match_method": "canonical"
 },
@@ -161,9 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sabbath",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Sabbath",
+"preferred_label": "Covenant",
 "confidence": 0.355,
 "match_method": "canonical"
 },

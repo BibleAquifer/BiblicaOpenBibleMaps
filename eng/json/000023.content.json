@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
+"preferred_label": "Life",
 "confidence": 0.3627,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Be a Disciple",
 "confidence": 0.3627,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ephesus",
-"type": "place",
-"preferred_label": "Ephesus",
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
 "confidence": 0.3602,
 "match_method": "canonical"
 },
 {
-"id": "person:Silas",
-"type": "person",
-"preferred_label": "Silas",
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
 "confidence": 0.3602,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Church",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "Church",
+"preferred_label": "Favor",
 "confidence": 0.3587,
 "match_method": "canonical"
 },
@@ -203,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Favor",
+"preferred_label": "Church",
 "confidence": 0.3587,
 "match_method": "canonical"
 },

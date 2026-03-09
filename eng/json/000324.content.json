@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.4045,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.4045,
 "match_method": "canonical"
 },
@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Aaron",
-"type": "person",
-"preferred_label": "Aaron",
-"confidence": 0.3841,
-"match_method": "canonical"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "preferred_label": "LORD",
@@ -70,16 +63,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lot",
-"type": "keyterm",
-"preferred_label": "Lot",
-"confidence": 0.3273,
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
+"confidence": 0.3841,
 "match_method": "canonical"
 },
 {
 "id": "person:Izhar",
 "type": "person",
 "preferred_label": "Izhar",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"preferred_label": "Lot",
 "confidence": 0.3273,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amram",
+"id": "person:Libni",
 "type": "person",
-"preferred_label": "Amram",
+"preferred_label": "Libni",
 "confidence": 0.2735,
 "match_method": "canonical"
 },
@@ -112,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Libni",
+"id": "person:Amram",
 "type": "person",
-"preferred_label": "Libni",
+"preferred_label": "Amram",
 "confidence": 0.2735,
 "match_method": "canonical"
 },
@@ -126,6 +126,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
@@ -133,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
@@ -147,23 +154,16 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
 "id": "person:Eleazar.2",
 "type": "person",
 "preferred_label": "Eleazar",
-"confidence": 0.2705,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2705,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
@@ -182,6 +182,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ahimoth",
+"type": "person",
+"preferred_label": "Ahimoth",
+"confidence": 0.2197,
+"match_method": "canonical"
+},
+{
+"id": "person:Elihu",
+"type": "person",
+"preferred_label": "Elihu",
+"confidence": 0.2197,
+"match_method": "canonical"
+},
+{
 "id": "person:Zuph",
 "type": "person",
 "preferred_label": "Zuph",
@@ -196,37 +210,23 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Elkanah.4",
+"type": "person",
+"preferred_label": "Elkanah",
+"confidence": 0.2197,
+"match_method": "canonical"
+},
+{
+"id": "person:Azariah.7",
+"type": "person",
+"preferred_label": "Azariah",
+"confidence": 0.2197,
+"match_method": "canonical"
+},
+{
 "id": "person:Amasai",
 "type": "person",
 "preferred_label": "Amasai",
-"confidence": 0.2197,
-"match_method": "canonical"
-},
-{
-"id": "person:Jeroham",
-"type": "person",
-"preferred_label": "Jeroham",
-"confidence": 0.2197,
-"match_method": "canonical"
-},
-{
-"id": "person:Tohu",
-"type": "person",
-"preferred_label": "Tohu",
-"confidence": 0.2197,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehozadak",
-"type": "person",
-"preferred_label": "Jehozadak",
-"confidence": 0.2197,
-"match_method": "canonical"
-},
-{
-"id": "person:Zerah.4",
-"type": "person",
-"preferred_label": "Zerah",
 "confidence": 0.2197,
 "match_method": "canonical"
 }

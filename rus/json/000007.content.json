@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Пётр",
-"confidence": 0.3353,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Пётр",
+"confidence": 0.3353,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Израиль",
 "confidence": 0.2765,
 "match_method": "canonical"
 },
@@ -105,10 +105,24 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Израиль",
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"preferred_label": "Андрей",
+"confidence": 0.2216,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.2216,
 "match_method": "canonical"
 },
 {
@@ -126,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
-"confidence": 0.2216,
-"match_method": "canonical"
-},
-{
-"id": "person:Andrew",
-"type": "person",
-"preferred_label": "Андрей",
-"confidence": 0.2216,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Моисей",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -161,23 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Святой Дух",
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Моисей",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -189,9 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Body",
+"preferred_label": "Sky",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -203,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
+"id": "person:GenericDisciple",
+"type": "person",
+"preferred_label": "A Disciple",
 "confidence": 0.1627,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericDisciple",
-"type": "person",
-"preferred_label": "A Disciple",
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.1627,
 "match_method": "canonical"
 }

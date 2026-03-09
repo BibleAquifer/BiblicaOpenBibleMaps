@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Johanan.5",
+"id": "person:Kareah",
 "type": "person",
-"preferred_label": "Johanan",
+"preferred_label": "Kareah",
 "confidence": 0.3846,
 "match_method": "canonical"
 },
 {
-"id": "person:Kareah",
+"id": "person:Johanan.5",
 "type": "person",
-"preferred_label": "Kareah",
+"preferred_label": "Johanan",
 "confidence": 0.3846,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
 "confidence": 0.3277,
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.3277,
 "match_method": "canonical"
 },
@@ -140,23 +140,16 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jezaniah",
+"type": "person",
+"preferred_label": "Jezaniah",
+"confidence": 0.2169,
+"match_method": "canonical"
+},
+{
 "id": "place:Pathros",
 "type": "place",
 "preferred_label": "Pathros",
-"confidence": 0.2169,
-"match_method": "canonical"
-},
-{
-"id": "person:Baruch.4",
-"type": "person",
-"preferred_label": "Baruch",
-"confidence": 0.2169,
-"match_method": "canonical"
-},
-{
-"id": "person:Hophra",
-"type": "person",
-"preferred_label": "Hophra",
 "confidence": 0.2169,
 "match_method": "canonical"
 },
@@ -168,17 +161,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jezaniah",
+"id": "person:Hophra",
 "type": "person",
-"preferred_label": "Jezaniah",
+"preferred_label": "Hophra",
 "confidence": 0.2169,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.2138,
+"id": "person:Baruch.4",
+"type": "person",
+"preferred_label": "Baruch",
+"confidence": 0.2169,
 "match_method": "canonical"
 },
 {
@@ -189,16 +182,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
 "confidence": 0.2138,
 "match_method": "canonical"
 },
 {
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.2138,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.2138,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "person:Shaphan",
+"type": "person",
+"preferred_label": "Shaphan",
 "confidence": 0.1569,
 "match_method": "canonical"
 }

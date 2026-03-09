@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sin",
+"id": "place:Massah",
 "type": "place",
-"preferred_label": "Wilderness of Sin",
+"preferred_label": "Massah",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
 {
-"id": "place:Massah",
+"id": "place:Sin",
 "type": "place",
-"preferred_label": "Massah",
+"preferred_label": "Wilderness of Sin",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nile",
-"type": "place",
-"preferred_label": "Nile River",
+"id": "keyterm:Destroy",
+"type": "keyterm",
+"preferred_label": "Destroy",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Destroy",
-"type": "keyterm",
-"preferred_label": "Destroy",
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
@@ -140,16 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Sword",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
+"preferred_label": "Stone Altar",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
@@ -161,6 +154,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
@@ -168,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:Scroll",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Scroll",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Altar",
 "confidence": 0.1181,
 "match_method": "canonical"
 }

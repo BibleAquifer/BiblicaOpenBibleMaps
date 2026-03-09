@@ -35,20 +35,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
-"confidence": 0.2765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"preferred_label": "Chosen",
-"confidence": 0.2765,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -63,24 +49,24 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "Chosen",
+"confidence": 0.2765,
+"match_method": "canonical"
+},
+{
 "id": "person:Noah",
 "type": "person",
 "preferred_label": "Noah",
 "confidence": 0.2216,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2176,
 "match_method": "canonical"
 },
 {
@@ -98,9 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Believe",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -108,6 +101,13 @@
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "preferred_label": "Be a Disciple",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -126,30 +126,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "preferred_label": "LORD",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disaster",
-"type": "keyterm",
-"preferred_label": "Disaster",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
@@ -161,23 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happy",
+"id": "keyterm:AbominationOfDesolation",
 "type": "keyterm",
-"preferred_label": "Happy",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawless",
-"type": "keyterm",
-"preferred_label": "Lawless",
+"preferred_label": "Abomination of Desolation",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
@@ -189,9 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Proclaim",
+"preferred_label": "Glory",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
@@ -203,6 +182,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Pray",
 "type": "keyterm",
 "preferred_label": "Pray",
@@ -210,23 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Happy",
 "type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Happy",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Disaster",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Disaster",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"preferred_label": "Lawless",
 "confidence": 0.1588,
 "match_method": "canonical"
 }

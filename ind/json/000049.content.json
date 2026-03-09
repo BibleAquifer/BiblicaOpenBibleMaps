@@ -62,6 +62,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.3753,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "kasihi",
@@ -76,13 +83,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "kebaikan",
-"confidence": 0.3753,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:InChrist",
 "type": "keyterm",
 "preferred_label": "dalam kristus",
@@ -90,16 +90,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "keahlian",
+"preferred_label": "selama, lamanya",
 "confidence": 0.3707,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "selama, lamanya",
+"preferred_label": "keahlian",
 "confidence": 0.3707,
 "match_method": "canonical"
 },
@@ -125,13 +125,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "yang baik",
-"confidence": 0.3638,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "preferred_label": "belas kasihan",
@@ -146,10 +139,24 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "yang baik",
+"confidence": 0.3638,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Conscience",
 "type": "keyterm",
 "preferred_label": "hati nurani",
 "confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
+"confidence": 0.3615,
 "match_method": "canonical"
 },
 {
@@ -167,10 +174,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "bersaksi",
-"confidence": 0.3615,
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.3102,
 "match_method": "canonical"
 },
 {
@@ -181,37 +188,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timotius",
-"confidence": 0.3102,
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "injil",
+"confidence": 0.3092,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "janji",
+"confidence": 0.3092,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "berbuat dosa",
-"confidence": 0.3092,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Savior",
-"type": "keyterm",
-"preferred_label": "juruselamat",
-"confidence": 0.3092,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
-"confidence": 0.3092,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "injil",
 "confidence": 0.3092,
 "match_method": "canonical"
 },
@@ -223,16 +216,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "hati",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.3092,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Promise",
+"id": "keyterm:Clean",
 "type": "keyterm",
-"preferred_label": "janji",
+"preferred_label": "suci",
+"confidence": 0.3092,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
 "confidence": 0.3092,
 "match_method": "canonical"
 }

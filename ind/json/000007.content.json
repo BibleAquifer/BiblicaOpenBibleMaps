@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Petrus",
-"confidence": 0.3353,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "keahlian",
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "percaya",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Petrus",
+"confidence": 0.3353,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2765,
 "match_method": "canonical"
 },
@@ -105,10 +105,24 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
 "confidence": 0.2765,
+"match_method": "canonical"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"preferred_label": "Andreas",
+"confidence": 0.2216,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "benar",
+"confidence": 0.2216,
 "match_method": "canonical"
 },
 {
@@ -126,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "benar",
-"confidence": 0.2216,
-"match_method": "canonical"
-},
-{
-"id": "person:Andrew",
-"type": "person",
-"preferred_label": "Andreas",
-"confidence": 0.2216,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Musa",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -161,23 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "tubuh",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "nama",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "sorga",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Musa",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -189,9 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "tubuh",
+"preferred_label": "sorga",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -203,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "kehidupan",
+"id": "person:GenericDisciple",
+"type": "person",
+"preferred_label": "A Disciple",
 "confidence": 0.1627,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericDisciple",
-"type": "person",
-"preferred_label": "A Disciple",
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
 "confidence": 0.1627,
 "match_method": "canonical"
 }

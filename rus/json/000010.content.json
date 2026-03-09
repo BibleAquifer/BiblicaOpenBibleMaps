@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Be a Disciple",
 "confidence": 0.407,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
+"preferred_label": "Sky",
 "confidence": 0.407,
 "match_method": "canonical"
 },
@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Blood",
 "confidence": 0.3254,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blood",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Blood",
+"preferred_label": "Surely!",
 "confidence": 0.3254,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.269,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
 "confidence": 0.269,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Пётр",
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Пётр",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
@@ -168,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:GalileeSea",
-"type": "place",
-"preferred_label": "Sea of Galilee",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
 "id": "person:Simon.7",
 "type": "person",
 "preferred_label": "Симон",
@@ -182,23 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "place:GalileeSea",
+"type": "place",
+"preferred_label": "Sea of Galilee",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "person:Andrew",
 "type": "person",
-"preferred_label": "Моисей",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"preferred_label": "Chosen",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
+"preferred_label": "Андрей",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
@@ -210,6 +196,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
 "id": "deity:HolySpirit",
 "type": "deity",
 "preferred_label": "Святой Дух",
@@ -217,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Passover",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "Passover",
+"preferred_label": "Spirit",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "person:Joseph.4",
 "type": "person",
 "preferred_label": "Иосиф",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
 "confidence": 0.1563,
 "match_method": "canonical"
 }

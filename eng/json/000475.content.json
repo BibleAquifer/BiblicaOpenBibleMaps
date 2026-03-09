@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4318,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4318,
 "match_method": "canonical"
 },
@@ -98,23 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Azal",
-"type": "place",
-"preferred_label": "Azal",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "place:TowerOfHananel",
-"type": "place",
-"preferred_label": "Tower of Hananel",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "person:Shimei.4",
-"type": "person",
-"preferred_label": "Shimei",
+"id": "group:Shimei",
+"type": "group",
+"preferred_label": "Shimeites",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -122,6 +108,13 @@
 "id": "place:BenjaminGate",
 "type": "place",
 "preferred_label": "Benjamin Gate",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:TowerOfHananel",
+"type": "place",
+"preferred_label": "Tower of Hananel",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -140,17 +133,17 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Shimei",
-"type": "group",
-"preferred_label": "Shimeites",
+"id": "place:Azal",
+"type": "place",
+"preferred_label": "Azal",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
 {
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.1605,
+"id": "person:Shimei.4",
+"type": "person",
+"preferred_label": "Shimei",
+"confidence": 0.1648,
 "match_method": "canonical"
 },
 {
@@ -161,37 +154,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
+"preferred_label": "Force to Serve",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Levi",
+"preferred_label": "Israel",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Punishment",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Punishment",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "place:Geba",
-"type": "place",
-"preferred_label": "Geba",
+"preferred_label": "Holy",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -203,16 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "place:Geba",
+"type": "place",
+"preferred_label": "Geba",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:StateOfBeingUnderSiege",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Under Siege",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:CornerGate",
+"type": "place",
+"preferred_label": "Corner Gate",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -224,30 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Megiddo",
-"type": "place",
-"preferred_label": "Megiddo",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "person:Uzziah",
+"id": "person:Nathan",
 "type": "person",
-"preferred_label": "Uzziah",
+"preferred_label": "Nathan",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -266,16 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:SomethingDevotedToGod",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "Something Devoted to God",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
+"preferred_label": "Favor",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -287,6 +252,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Uzziah",
+"type": "person",
+"preferred_label": "Uzziah",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:StateOfBeingUnderSiege",
+"type": "keyterm",
+"preferred_label": "Under Siege",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
@@ -294,30 +280,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "person:Nathan",
-"type": "person",
-"preferred_label": "Nathan",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
+"id": "keyterm:SomethingDevotedToGod",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Something Devoted to God",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
 {
-"id": "place:CornerGate",
-"type": "place",
-"preferred_label": "Corner Gate",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -326,6 +305,55 @@
 "type": "keyterm",
 "preferred_label": "Plea for Mercy",
 "confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Megiddo",
+"type": "place",
+"preferred_label": "Megiddo",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Punishment",
+"type": "keyterm",
+"preferred_label": "Punishment",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1002,
 "match_method": "canonical"
 },
 {
@@ -343,79 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "realia:Image",
-"type": "realia",
-"preferred_label": "Image",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "realia:Sheaf",
-"type": "realia",
-"preferred_label": "Sheaf",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "flora:OliveTree",
-"type": "flora",
-"preferred_label": "Olive Tree",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.1002,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
 "confidence": 0.1002,
 "match_method": "canonical"
 },
@@ -427,6 +385,20 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Winepress",
+"type": "realia",
+"preferred_label": "Winepress",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"preferred_label": "Image",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Camel",
 "type": "fauna",
 "preferred_label": "Camel",
@@ -434,16 +406,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
 "confidence": 0.1002,
 "match_method": "canonical"
 },
 {
-"id": "realia:Winepress",
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
 "type": "realia",
-"preferred_label": "Winepress",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1002,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sheaf",
+"type": "realia",
+"preferred_label": "Sheaf",
 "confidence": 0.1002,
 "match_method": "canonical"
 },

@@ -76,16 +76,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.3966,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.3966,
 "match_method": "canonical"
 },
@@ -153,20 +153,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3262,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.3262,
-"match_method": "canonical"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
@@ -188,17 +174,24 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3262,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3262,
+"match_method": "canonical"
+},
+{
 "id": "person:Jeremiah.6",
 "type": "person",
 "preferred_label": "Jeremiah",
 "confidence": 0.323,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.3207,
 "match_method": "canonical"
 },
 {
@@ -209,9 +202,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
 "confidence": 0.3207,
 "match_method": "canonical"
 },
@@ -219,6 +212,13 @@
 "id": "keyterm:Work",
 "type": "keyterm",
 "preferred_label": "Work",
+"confidence": 0.3207,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
 "confidence": 0.3207,
 "match_method": "canonical"
 },

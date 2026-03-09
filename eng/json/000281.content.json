@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.3137,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
@@ -122,6 +115,13 @@
 "id": "keyterm:Holy",
 "type": "keyterm",
 "preferred_label": "Holy",
+"confidence": 0.3137,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3137,
 "match_method": "canonical"
 },
@@ -147,23 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.2603,
-"match_method": "canonical"
-},
-{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
-"confidence": 0.2603,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
 "confidence": 0.2603,
 "match_method": "canonical"
 },
@@ -182,16 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.2537,
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2603,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.2603,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
 "type": "fauna",
-"preferred_label": "Flock",
+"preferred_label": "Sheep",
 "confidence": 0.2537,
 "match_method": "canonical"
 },
@@ -203,16 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Baal-zephon",
-"type": "place",
-"preferred_label": "Baal-zephon",
-"confidence": 0.2099,
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.2537,
 "match_method": "canonical"
 },
 {
 "id": "place:Succoth.2",
 "type": "place",
 "preferred_label": "Succoth",
+"confidence": 0.2099,
+"match_method": "canonical"
+},
+{
+"id": "place:Baal-zephon",
+"type": "place",
+"preferred_label": "Baal-zephon",
 "confidence": 0.2099,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "person:Miriam",
+"type": "person",
+"preferred_label": "Miriam",
 "confidence": 0.2084,
 "match_method": "canonical"
 }

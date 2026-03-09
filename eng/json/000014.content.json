@@ -49,13 +49,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.3979,
-"match_method": "canonical"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "preferred_label": "Jews",
@@ -63,16 +56,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Judgment",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Judgment",
-"confidence": 0.3426,
+"preferred_label": "Believe",
+"confidence": 0.3979,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:CourtCase",
 "type": "keyterm",
 "preferred_label": "Court Case",
+"confidence": 0.3426,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"preferred_label": "Judgment",
 "confidence": 0.3426,
 "match_method": "canonical"
 },
@@ -98,44 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "Glory",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
 "confidence": 0.2191,
 "match_method": "canonical"
 },
@@ -154,10 +119,38 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethesda",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Bethesda",
-"confidence": 0.1638,
+"preferred_label": "Jerusalem",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.2191,
 "match_method": "canonical"
 },
 {
@@ -175,16 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Scripture",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Written",
 "confidence": 0.1638,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
+"id": "place:Bethesda",
+"type": "place",
+"preferred_label": "Bethesda",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Written",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.1638,
 "match_method": "canonical"
 },
@@ -203,58 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Word",
 "type": "keyterm",
 "preferred_label": "Word",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -266,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Ask for",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lawful",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "Be Lawful",
+"preferred_label": "Hope",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -283,6 +234,13 @@
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -301,16 +259,58 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Porch",
-"type": "realia",
-"preferred_label": "Porch",
-"confidence": 0.0996,
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
 "id": "realia:Grave",
 "type": "realia",
 "preferred_label": "Grave",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Porch",
+"type": "realia",
+"preferred_label": "Porch",
 "confidence": 0.0996,
 "match_method": "canonical"
 },

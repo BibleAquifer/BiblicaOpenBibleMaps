@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.5429,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.5429,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
 "confidence": 0.2043,
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.2043,
 "match_method": "canonical"
 },
@@ -105,16 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.1821,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
 "confidence": 0.1821,
 "match_method": "canonical"
 },
@@ -126,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
 "confidence": 0.1821,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.1821,
 "match_method": "canonical"
 },
@@ -154,65 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Spear",
-"type": "realia",
-"preferred_label": "Spear",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bow",
-"type": "realia",
-"preferred_label": "Bow",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:SmallShield",
-"type": "realia",
-"preferred_label": "Small Shield",
-"confidence": 0.1221,
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1821,
 "match_method": "canonical"
 },
 {
 "id": "realia:SacredPillar",
 "type": "realia",
 "preferred_label": "Sacred Pillar",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:SacredPole",
-"type": "realia",
-"preferred_label": "Sacred Pole",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:Tower",
-"type": "realia",
-"preferred_label": "Tower",
 "confidence": 0.1221,
 "match_method": "canonical"
 },
@@ -224,9 +168,65 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:LargeShield",
+"type": "realia",
+"preferred_label": "Large Shield",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
 "id": "realia:Fortification",
 "type": "realia",
 "preferred_label": "Fortification",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:SacredPole",
+"type": "realia",
+"preferred_label": "Sacred Pole",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"preferred_label": "Tower",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
 "confidence": 0.1221,
 "match_method": "canonical"
 },
@@ -238,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:LargeShield",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Large Shield",
+"preferred_label": "Altar",
 "confidence": 0.1221,
 "match_method": "canonical"
 }

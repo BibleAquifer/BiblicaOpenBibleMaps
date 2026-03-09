@@ -132,16 +132,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.3765,
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.3765,
 "match_method": "canonical"
 },
@@ -167,20 +167,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3271,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.3271,
-"match_method": "canonical"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
@@ -191,6 +177,20 @@
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
+"confidence": 0.3271,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3271,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.3271,
 "match_method": "canonical"
 },
@@ -216,16 +216,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.3165,
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
 "confidence": 0.3165,
 "match_method": "canonical"
 },

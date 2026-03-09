@@ -105,6 +105,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
@@ -119,16 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
+"preferred_label": "Be a Disciple",
 "confidence": 0.2161,
 "match_method": "canonical"
 },
@@ -140,44 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
+"preferred_label": "Name",
 "confidence": 0.2161,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blood",
+"id": "keyterm:DemonPossessed",
 "type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Abyss",
-"type": "keyterm",
-"preferred_label": "Abyss",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "deity:Legion",
-"type": "deity",
-"preferred_label": "Legion",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "person:Susanna",
-"type": "person",
-"preferred_label": "Susanna",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "person:Jairus",
-"type": "person",
-"preferred_label": "Jairus",
+"preferred_label": "Be Demon Possessed",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
@@ -189,23 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Marymagdalene",
-"type": "person",
-"preferred_label": "Mary Magdalene",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"preferred_label": "Be Demon Possessed",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "person:Chuza",
-"type": "person",
-"preferred_label": "Chuza",
+"id": "deity:Legion",
+"type": "deity",
+"preferred_label": "Legion",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
@@ -217,16 +182,51 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
+"id": "person:Susanna",
+"type": "person",
+"preferred_label": "Susanna",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Chuza",
+"type": "person",
+"preferred_label": "Chuza",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"preferred_label": "Abyss",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Jairus",
+"type": "person",
+"preferred_label": "Jairus",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"preferred_label": "Mary Magdalene",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
 "confidence": 0.158,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
+"id": "person:Herod.2",
+"type": "person",
+"preferred_label": "Herod Antipas",
 "confidence": 0.158,
 "match_method": "canonical"
 }

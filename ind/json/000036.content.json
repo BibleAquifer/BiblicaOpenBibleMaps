@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ephesus",
-"type": "place",
-"preferred_label": "Efesus",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
 "confidence": 0.2982,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Yesus",
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Efesus",
 "confidence": 0.2982,
 "match_method": "canonical"
 },
@@ -119,20 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "percaya",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "preferred_label": "baptisan",
@@ -143,6 +129,13 @@
 "id": "keyterm:TheWay",
 "type": "keyterm",
 "preferred_label": "jalan tuhan",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
 "confidence": 0.2321,
 "match_method": "canonical"
 },
@@ -161,16 +154,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Claudius",
-"type": "person",
-"preferred_label": "Klaudius",
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "hukum",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"preferred_label": "Pontus",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
 {
-"id": "group:Corinth",
-"type": "group",
-"preferred_label": "Corinthians",
+"id": "place:Cenchreae",
+"type": "place",
+"preferred_label": "Kengkrea",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -182,9 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pontus",
-"type": "place",
-"preferred_label": "Pontus",
+"id": "person:Justus.2",
+"type": "person",
+"preferred_label": "Yustus",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Klaudius",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -192,6 +199,27 @@
 "id": "place:Galatia",
 "type": "place",
 "preferred_label": "Galatia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "person:Crispus",
+"type": "person",
+"preferred_label": "Krispus",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"preferred_label": "Aleksandria",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"preferred_label": "Pontus",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -217,23 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Justus.2",
-"type": "person",
-"preferred_label": "Yustus",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "place:Alexandria",
-"type": "place",
-"preferred_label": "Aleksandria",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "place:Cenchreae",
-"type": "place",
-"preferred_label": "Kengkrea",
+"id": "group:Corinth",
+"type": "group",
+"preferred_label": "Corinthians",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -245,27 +259,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Crispus",
-"type": "person",
-"preferred_label": "Krispus",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "group:Pontus",
-"type": "group",
-"preferred_label": "Pontus",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "person:Javan",
-"type": "person",
-"preferred_label": "Yunani",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Declare",
 "type": "keyterm",
 "preferred_label": "memberi kesaksian yang sungguh, sungguh",
@@ -273,9 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "membujuk",
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Yunani",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -287,114 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "jemaat",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "kebaikan",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
 "id": "place:Macedonia",
 "type": "place",
 "preferred_label": "Makedonia",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "Yohanes",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:Silas",
-"type": "person",
-"preferred_label": "Silas",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Antioch",
-"type": "place",
-"preferred_label": "Antiokhia",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Athens",
-"type": "place",
-"preferred_label": "Atena",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "takut",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Kaisarea",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Clean",
-"type": "keyterm",
-"preferred_label": "suci",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Italy",
-"type": "place",
-"preferred_label": "Italia",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blaspheme",
-"type": "keyterm",
-"preferred_label": "menghujat",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:UnrighteousAct",
-"type": "keyterm",
-"preferred_label": "kejahatan",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "sabat",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -406,9 +294,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timotius",
+"id": "keyterm:UnrighteousAct",
+"type": "keyterm",
+"preferred_label": "kejahatan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -423,6 +318,111 @@
 "id": "keyterm:Spirit.2",
 "type": "keyterm",
 "preferred_label": "roh",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Kaisarea",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "sabat",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "jemaat",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"preferred_label": "suci",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "membujuk",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"preferred_label": "Italia",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "Yohanes",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "menghujat",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "takut",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"preferred_label": "Atena",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"preferred_label": "Antiokhia",
 "confidence": 0.1661,
 "match_method": "canonical"
 },

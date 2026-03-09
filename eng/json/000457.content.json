@@ -98,23 +98,16 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Dedan",
+"type": "place",
+"preferred_label": "Dedan",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Dishonor",
 "type": "keyterm",
 "preferred_label": "To Dishonor",
-"confidence": 0.2108,
-"match_method": "canonical"
-},
-{
-"id": "place:Tarshish",
-"type": "place",
-"preferred_label": "Tarshish",
-"confidence": 0.2108,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
 "confidence": 0.2108,
 "match_method": "canonical"
 },
@@ -126,23 +119,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dedan",
-"type": "place",
-"preferred_label": "Dedan",
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.2108,
 "match_method": "canonical"
 },
 {
-"id": "realia:PurpleCloth",
-"type": "realia",
-"preferred_label": "Purple Cloth",
-"confidence": 0.2063,
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.2108,
 "match_method": "canonical"
 },
 {
 "id": "realia:Ship",
 "type": "realia",
 "preferred_label": "Ship",
+"confidence": 0.2063,
+"match_method": "canonical"
+},
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"preferred_label": "Purple Cloth",
 "confidence": 0.2063,
 "match_method": "canonical"
 },
@@ -154,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Haran",
-"type": "place",
-"preferred_label": "Haran",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
 "id": "place:Gamad",
 "type": "place",
 "preferred_label": "Gammad",
@@ -168,51 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Helbon",
+"id": "place:Eden",
 "type": "place",
-"preferred_label": "Helbon",
+"preferred_label": "Eden",
 "confidence": 0.1578,
 "match_method": "canonical"
 },
 {
-"id": "place:Raamah",
+"id": "place:Haran",
 "type": "place",
-"preferred_label": "Raamah",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "place:Put",
-"type": "place",
-"preferred_label": "Put",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "place:Sahar",
-"type": "place",
-"preferred_label": "Zahar",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "place:Minnith",
-"type": "place",
-"preferred_label": "Minnith",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "place:Calneh",
-"type": "place",
-"preferred_label": "Calneh",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-togarmah",
-"type": "place",
-"preferred_label": "Beth-togarmah",
+"preferred_label": "Haran",
 "confidence": 0.1578,
 "match_method": "canonical"
 },
@@ -224,9 +182,51 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Uzal",
+"id": "place:Sahar",
 "type": "place",
-"preferred_label": "Izal",
+"preferred_label": "Zahar",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Helbon",
+"type": "place",
+"preferred_label": "Helbon",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Helech",
+"type": "place",
+"preferred_label": "Helech",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Put",
+"type": "place",
+"preferred_label": "Put",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Raamah",
+"type": "place",
+"preferred_label": "Raamah",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Chilmad",
+"type": "place",
+"preferred_label": "Chilmad",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "place:Calneh",
+"type": "place",
+"preferred_label": "Calneh",
 "confidence": 0.1578,
 "match_method": "canonical"
 }

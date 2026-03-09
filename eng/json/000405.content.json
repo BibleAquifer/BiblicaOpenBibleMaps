@@ -62,16 +62,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4094,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4094,
 "match_method": "canonical"
 },
@@ -104,9 +104,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Persia",
+"id": "place:Riblah.2",
 "type": "place",
-"preferred_label": "Persia",
+"preferred_label": "Riblah",
 "confidence": 0.2792,
 "match_method": "canonical"
 },
@@ -118,16 +118,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Riblah.2",
+"id": "place:Persia",
 "type": "place",
-"preferred_label": "Riblah",
-"confidence": 0.2792,
-"match_method": "canonical"
-},
-{
-"id": "person:Nebuzaradan",
-"type": "person",
-"preferred_label": "Nebuzaradan",
+"preferred_label": "Persia",
 "confidence": 0.2792,
 "match_method": "canonical"
 },
@@ -139,10 +132,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoiakim",
+"id": "person:Nebuzaradan",
 "type": "person",
-"preferred_label": "Jehoiakim",
-"confidence": 0.2755,
+"preferred_label": "Nebuzaradan",
+"confidence": 0.2792,
 "match_method": "canonical"
 },
 {
@@ -156,6 +149,13 @@
 "id": "person:Jehoiachin",
 "type": "person",
 "preferred_label": "Jehoiachin",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"preferred_label": "Jehoiakim",
 "confidence": 0.2755,
 "match_method": "canonical"
 },
@@ -181,16 +181,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -202,23 +195,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Word of the Lord",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -230,9 +209,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:StateOfBeingUnderSiege",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Under Siege",
+"preferred_label": "Swear",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Kareah",
+"type": "person",
+"preferred_label": "Kareah",
 "confidence": 0.1623,
 "match_method": "canonical"
 }

@@ -69,9 +69,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "kemuliaan",
+"preferred_label": "kebaikan",
 "confidence": 0.3699,
 "match_method": "canonical"
 },
@@ -83,9 +83,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "kebaikan",
+"preferred_label": "kemuliaan",
 "confidence": 0.3699,
 "match_method": "canonical"
 },
@@ -97,44 +97,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Consecration.2",
 "type": "keyterm",
-"preferred_label": "keselamatan",
-"confidence": 0.3665,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "kehidupan",
-"confidence": 0.3665,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
-"confidence": 0.3665,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "yang baik",
-"confidence": 0.3665,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "harapan",
-"confidence": 0.3665,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "memperdamaikan",
+"preferred_label": "dikhususkan",
 "confidence": 0.3665,
 "match_method": "canonical"
 },
@@ -146,9 +111,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Consecration.2",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "dikhususkan",
+"preferred_label": "keselamatan",
 "confidence": 0.3665,
 "match_method": "canonical"
 },
@@ -160,10 +125,59 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "memperdamaikan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "keahlian",
 "confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "yang baik",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.3132,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.3132,
 "match_method": "canonical"
 },
 {
@@ -188,30 +202,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.3132,
-"match_method": "canonical"
-},
-{
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timotius",
-"confidence": 0.3132,
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Makedonia",
+"confidence": 0.2614,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Lawless",
 "type": "keyterm",
 "preferred_label": "tak kenal hukum",
-"confidence": 0.2614,
-"match_method": "canonical"
-},
-{
-"id": "place:Macedonia",
-"type": "place",
-"preferred_label": "Makedonia",
 "confidence": 0.2614,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
+"id": "keyterm:InChrist",
 "type": "keyterm",
-"preferred_label": "kebenaran",
+"preferred_label": "dalam kristus",
 "confidence": 0.2599,
 "match_method": "canonical"
 }

@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cyprus",
+"id": "place:Nile",
 "type": "place",
-"preferred_label": "Cyprus",
+"preferred_label": "Nile River",
 "confidence": 0.25,
 "match_method": "canonical"
 },
 {
-"id": "place:Nile",
+"id": "place:Cyprus",
 "type": "place",
-"preferred_label": "Nile River",
+"preferred_label": "Cyprus",
 "confidence": 0.25,
 "match_method": "canonical"
 },
@@ -91,23 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dishonor",
-"type": "keyterm",
-"preferred_label": "To Dishonor",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Assyria",
+"id": "place:BrookOfEgypt",
 "type": "place",
-"preferred_label": "Assyria",
+"preferred_label": "Brook of Egypt",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -126,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Chaldea",
+"id": "place:Assyria",
 "type": "place",
-"preferred_label": "Chaldea",
+"preferred_label": "Assyria",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -140,6 +126,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:PlayTheProstitute",
 "type": "keyterm",
 "preferred_label": "Play the Prostitute",
@@ -147,30 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:BrookOfEgypt",
+"id": "place:Chaldea",
 "type": "place",
-"preferred_label": "Brook of Egypt",
+"preferred_label": "Chaldea",
 "confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Hyena",
-"type": "fauna",
-"preferred_label": "Hyena",
-"confidence": 0.115,
 "match_method": "canonical"
 },
 {
 "id": "flora:Barley",
 "type": "flora",
 "preferred_label": "Barley",
-"confidence": 0.115,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lute",
-"type": "realia",
-"preferred_label": "Lute",
 "confidence": 0.115,
 "match_method": "canonical"
 },
@@ -182,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "realia:Lute",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Lute",
 "confidence": 0.115,
 "match_method": "canonical"
 },
@@ -192,6 +178,20 @@
 "id": "flora:Coriander",
 "type": "flora",
 "preferred_label": "Coriander",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Hyena",
+"type": "fauna",
+"preferred_label": "Hyena",
 "confidence": 0.115,
 "match_method": "canonical"
 }

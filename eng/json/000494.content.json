@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
 "confidence": 0.5469,
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.5469,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beer-lahai-roi",
+"id": "place:Bered",
 "type": "place",
-"preferred_label": "Beer-lahai-roi",
+"preferred_label": "Bered",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
 {
-"id": "place:Bered",
+"id": "place:Beer-lahai-roi",
 "type": "place",
-"preferred_label": "Bered",
+"preferred_label": "Beer-lahai-roi",
 "confidence": 0.1906,
 "match_method": "canonical"
 },

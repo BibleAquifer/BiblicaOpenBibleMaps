@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Isaiah",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Isaiah",
+"preferred_label": "Judah",
 "confidence": 0.33,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Isaiah",
 "confidence": 0.33,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.2725,
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.2725,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sepharvaim",
+"id": "place:Arpad",
 "type": "place",
-"preferred_label": "Sepharvaim",
+"preferred_label": "Arpad",
 "confidence": 0.2183,
 "match_method": "canonical"
 },
@@ -147,23 +147,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Arpad",
+"id": "place:Sepharvaim",
 "type": "place",
-"preferred_label": "Arpad",
+"preferred_label": "Sepharvaim",
 "confidence": 0.2183,
-"match_method": "canonical"
-},
-{
-"id": "place:Lachish",
-"type": "place",
-"preferred_label": "Lachish",
-"confidence": 0.215,
 "match_method": "canonical"
 },
 {
 "id": "place:Hamath",
 "type": "place",
 "preferred_label": "Hamath",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
 "confidence": 0.215,
 "match_method": "canonical"
 },
@@ -182,13 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.2125,
-"match_method": "canonical"
-},
-{
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
@@ -196,9 +189,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Rezeph",
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "place:WashersField",
 "type": "place",
-"preferred_label": "Rezeph",
+"preferred_label": "Launderer’s Field",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "place:Eden",
+"type": "place",
+"preferred_label": "Eden",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Sharezer",
+"type": "person",
+"preferred_label": "Sharezer",
 "confidence": 0.1608,
 "match_method": "canonical"
 },
@@ -210,23 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Telassar",
+"id": "place:Ararat",
 "type": "place",
-"preferred_label": "Telassar",
-"confidence": 0.1608,
-"match_method": "canonical"
-},
-{
-"id": "place:Ivvah",
-"type": "place",
-"preferred_label": "Ivvah",
-"confidence": 0.1608,
-"match_method": "canonical"
-},
-{
-"id": "person:Esarhaddon",
-"type": "person",
-"preferred_label": "Esarhaddon",
+"preferred_label": "Ararat",
 "confidence": 0.1608,
 "match_method": "canonical"
 }

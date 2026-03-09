@@ -28,6 +28,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Sisera",
+"type": "person",
+"preferred_label": "Sisera",
+"confidence": 0.1842,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Crafty",
 "type": "keyterm",
 "preferred_label": "Crafty",
@@ -35,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zebah",
-"type": "person",
-"preferred_label": "Zebah",
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.1842,
 "match_method": "canonical"
 },
@@ -56,16 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
-"confidence": 0.1842,
-"match_method": "canonical"
-},
-{
-"id": "person:Sisera",
+"id": "person:Zebah",
 "type": "person",
-"preferred_label": "Sisera",
+"preferred_label": "Zebah",
 "confidence": 0.1842,
 "match_method": "canonical"
 },
@@ -77,16 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ishmael",
-"type": "group",
-"preferred_label": "Ishmaelites",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -98,34 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:En-dor",
-"type": "place",
-"preferred_label": "Endor",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Kishon",
-"type": "place",
-"preferred_label": "Kishon",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Ishmael",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
 "id": "place:Gebal",
 "type": "place",
 "preferred_label": "Gebal",
@@ -133,65 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Midian",
+"id": "group:Ishmael",
+"type": "group",
+"preferred_label": "Ishmaelites",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:En-dor",
 "type": "place",
-"preferred_label": "Midian",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Amalek",
-"type": "place",
-"preferred_label": "Amalek",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Oreb",
-"type": "person",
-"preferred_label": "Oreb",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Hagri",
-"type": "person",
-"preferred_label": "Hagri",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
+"preferred_label": "Endor",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -203,16 +119,100 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Thistle",
-"type": "flora",
-"preferred_label": "Thistle",
-"confidence": 0.1137,
+"id": "person:Ishmael",
+"type": "person",
+"preferred_label": "Ishmael",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Hagri",
+"type": "person",
+"preferred_label": "Hagri",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Oreb",
+"type": "person",
+"preferred_label": "Oreb",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Kishon",
+"type": "place",
+"preferred_label": "Kishon",
+"confidence": 0.1737,
 "match_method": "canonical"
 },
 {
 "id": "flora:Sandalwood",
 "type": "flora",
 "preferred_label": "Sandalwood",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"preferred_label": "Thistle",
 "confidence": 0.1137,
 "match_method": "canonical"
 }

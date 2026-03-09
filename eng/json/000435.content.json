@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.261,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:BringHonorAndGloryOnOneself",
 "type": "keyterm",
 "preferred_label": "Bring Honor and Glory on Oneself",
@@ -126,17 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Intention",
+"id": "keyterm:Redeem",
 "type": "keyterm",
-"preferred_label": "Intention",
-"confidence": 0.2596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.2596,
+"preferred_label": "Redeem",
+"confidence": 0.261,
 "match_method": "canonical"
 },
 {
@@ -154,45 +140,24 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
+"id": "keyterm:Rebel",
 "type": "keyterm",
-"preferred_label": "Instruction",
+"preferred_label": "Rebel",
 "confidence": 0.2596,
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:HaveInsight",
+"id": "keyterm:Intention",
 "type": "keyterm",
-"preferred_label": "Have Insight",
-"confidence": 0.2064,
+"preferred_label": "Intention",
+"confidence": 0.2596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Instruction",
 "type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "deity:Voice",
-"type": "deity",
-"preferred_label": "A Disembodied Voice",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.2064,
+"preferred_label": "Instruction",
+"confidence": 0.2596,
 "match_method": "canonical"
 },
 {
@@ -203,16 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "deity:Voice",
+"type": "deity",
+"preferred_label": "A Disembodied Voice",
 "confidence": 0.2064,
 "match_method": "canonical"
 },
@@ -227,6 +185,48 @@
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2064,
 "match_method": "canonical"
 }

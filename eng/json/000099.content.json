@@ -63,6 +63,13 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
 "id": "flora:Grass",
 "type": "flora",
 "preferred_label": "Grass",
@@ -70,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Thistle",
+"id": "flora:Brier",
 "type": "flora",
-"preferred_label": "Thistle",
+"preferred_label": "Brier",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -91,79 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Barley",
+"id": "flora:Thistle",
 "type": "flora",
-"preferred_label": "Barley",
+"preferred_label": "Thistle",
 "confidence": 0.162,
-"match_method": "canonical"
-},
-{
-"id": "flora:Brier",
-"type": "flora",
-"preferred_label": "Brier",
-"confidence": 0.162,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "deity:Satan",
-"type": "deity",
-"preferred_label": "Satan",
-"confidence": 0.161,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -175,9 +119,65 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "Always",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -189,13 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Mustard",
-"type": "flora",
-"preferred_label": "Mustard",
-"confidence": 0.1059,
-"match_method": "canonical"
-},
-{
 "id": "flora:Wheat",
 "type": "flora",
 "preferred_label": "Wheat",
@@ -203,17 +196,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sickle",
-"type": "realia",
-"preferred_label": "Sickle",
-"confidence": 0.101,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lampstand.2",
-"type": "realia",
-"preferred_label": "Lampstand",
-"confidence": 0.101,
+"id": "flora:Mustard",
+"type": "flora",
+"preferred_label": "Mustard",
+"confidence": 0.1059,
 "match_method": "canonical"
 },
 {
@@ -227,6 +213,20 @@
 "id": "fauna:Rooster",
 "type": "fauna",
 "preferred_label": "Rooster",
+"confidence": 0.101,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"preferred_label": "Lampstand",
+"confidence": 0.101,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sickle",
+"type": "realia",
+"preferred_label": "Sickle",
 "confidence": 0.101,
 "match_method": "canonical"
 },

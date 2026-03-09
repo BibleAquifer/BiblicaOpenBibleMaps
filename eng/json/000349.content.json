@@ -62,16 +62,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.3877,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.3877,
 "match_method": "canonical"
 },
@@ -118,6 +118,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3674,
+"match_method": "canonical"
+},
+{
 "id": "group:Philistine",
 "type": "group",
 "preferred_label": "Philistines",
@@ -128,13 +135,6 @@
 "id": "person:Saul.2",
 "type": "person",
 "preferred_label": "Saul",
-"confidence": 0.3674,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
 "confidence": 0.3674,
 "match_method": "canonical"
 },

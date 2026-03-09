@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2687,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
 "confidence": 0.2687,
 "match_method": "canonical"
 },
@@ -119,9 +119,23 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "preferred_label": "Bless",
+"confidence": 0.2125,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2125,
 "match_method": "canonical"
 },
@@ -133,23 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2125,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
 "preferred_label": "Passion",
-"confidence": 0.2125,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
 "confidence": 0.2125,
 "match_method": "canonical"
 },
@@ -168,6 +168,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Baal-hazor",
+"type": "place",
+"preferred_label": "Baal-hazor",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"preferred_label": "Tamar",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
 "id": "person:Ammihud.4",
 "type": "person",
 "preferred_label": "Ammihud",
@@ -182,23 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Tamar.3",
-"type": "person",
-"preferred_label": "Tamar",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "place:Baal-hazor",
-"type": "place",
-"preferred_label": "Baal-hazor",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Exempt",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Exempt",
+"preferred_label": "Ability",
 "confidence": 0.1562,
 "match_method": "canonical"
 },
@@ -210,6 +210,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1562,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Foolish",
 "type": "keyterm",
 "preferred_label": "Foolish",
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zeruiah",
-"type": "person",
-"preferred_label": "Zeruiah",
-"confidence": 0.1562,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
+"id": "keyterm:Exempt",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Exempt",
 "confidence": 0.1562,
 "match_method": "canonical"
 }

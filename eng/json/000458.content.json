@@ -49,13 +49,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cush.2",
-"type": "place",
-"preferred_label": "Cush",
-"confidence": 0.3019,
-"match_method": "canonical"
-},
-{
 "id": "place:Babylon",
 "type": "place",
 "preferred_label": "Babylon",
@@ -66,6 +59,13 @@
 "id": "place:Thebes",
 "type": "place",
 "preferred_label": "Thebes",
+"confidence": 0.3019,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
 "confidence": 0.3019,
 "match_method": "canonical"
 },
@@ -91,16 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zoan",
+"id": "place:Tahpanhes",
 "type": "place",
-"preferred_label": "Zoan",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Libya",
-"type": "place",
-"preferred_label": "Libya",
+"preferred_label": "Tahpanhes",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -112,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pathros",
+"id": "place:Libya",
 "type": "place",
-"preferred_label": "Pathros",
+"preferred_label": "Libya",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -133,37 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tahpanhes",
+"id": "place:Zoan",
 "type": "place",
-"preferred_label": "Tahpanhes",
+"preferred_label": "Zoan",
 "confidence": 0.175,
 "match_method": "canonical"
 },
 {
-"id": "person:Lud",
-"type": "person",
-"preferred_label": "Lud",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.1673,
+"id": "place:Pathros",
+"type": "place",
+"preferred_label": "Pathros",
+"confidence": 0.175,
 "match_method": "canonical"
 },
 {
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Arabia",
-"type": "place",
-"preferred_label": "Arabia",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -175,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Migdol",
-"type": "place",
-"preferred_label": "Migdol",
+"id": "person:Lud",
+"type": "person",
+"preferred_label": "Lud",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -189,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Safety",
 "type": "keyterm",
 "preferred_label": "Safety",
@@ -203,16 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Idol",
-"type": "keyterm",
-"preferred_label": "Idol",
+"id": "place:Migdol",
+"type": "place",
+"preferred_label": "Migdol",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -231,10 +196,38 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Fortress",
-"type": "realia",
-"preferred_label": "Fortress",
-"confidence": 0.1073,
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Idol",
+"type": "keyterm",
+"preferred_label": "Idol",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
@@ -245,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Ship",
+"id": "realia:Fortress",
 "type": "realia",
-"preferred_label": "Ship",
+"preferred_label": "Fortress",
 "confidence": 0.1073,
 "match_method": "canonical"
 },
@@ -255,6 +248,13 @@
 "id": "realia:Yoke",
 "type": "realia",
 "preferred_label": "Yoke",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
 "confidence": 0.1073,
 "match_method": "canonical"
 }

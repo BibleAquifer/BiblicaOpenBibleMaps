@@ -41,16 +41,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rehoboam",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Rehoboam",
+"preferred_label": "Israel",
 "confidence": 0.4745,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Rehoboam",
 "confidence": 0.4745,
 "match_method": "canonical"
 },
@@ -62,16 +62,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4074,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4074,
 "match_method": "canonical"
 },
@@ -118,9 +118,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
@@ -132,16 +132,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Solomon",
+"id": "person:David",
 "type": "person",
-"preferred_label": "Solomon",
+"preferred_label": "David",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
 {
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
@@ -167,13 +167,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
 "id": "place:Shiloh",
 "type": "place",
 "preferred_label": "Shiloh",
@@ -188,9 +181,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Iddo.5",
-"type": "person",
-"preferred_label": "Iddo",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"preferred_label": "Tirzah",
 "confidence": 0.1638,
 "match_method": "canonical"
 },
@@ -202,13 +202,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tirzah",
-"type": "place",
-"preferred_label": "Tirzah",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
 "id": "person:Abijah.3",
 "type": "person",
 "preferred_label": "Abijah",
@@ -216,52 +209,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Libya",
-"type": "place",
-"preferred_label": "Libya",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Ethiopia",
-"type": "place",
-"preferred_label": "Ethiopia",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "group:Ethiopia",
-"type": "group",
-"preferred_label": "Ethiopians",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"preferred_label": "Euphrates River",
-"confidence": 0.1596,
+"id": "person:Iddo.5",
+"type": "person",
+"preferred_label": "Iddo",
+"confidence": 0.1638,
 "match_method": "canonical"
 },
 {
@@ -279,9 +230,58 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"preferred_label": "Libya",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Ethiopia",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Dispossess",
 "type": "keyterm",
 "preferred_label": "Dispossess",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -300,27 +300,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Dog",
-"type": "fauna",
-"preferred_label": "Dog",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Reed",
-"type": "flora",
-"preferred_label": "Reed",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
 "id": "realia:SacredPillar",
 "type": "realia",
 "preferred_label": "Sacred Pillar",
@@ -335,9 +314,30 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Dog",
+"type": "fauna",
+"preferred_label": "Dog",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
 "id": "realia:MoltenImage",
 "type": "realia",
 "preferred_label": "Molten Image",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"preferred_label": "Reed",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Doorstep",
+"type": "realia",
+"preferred_label": "Doorstep",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -349,9 +349,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Doorstep",
-"type": "realia",
-"preferred_label": "Doorstep",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.0996,
 "match_method": "canonical"
 }

@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.2935,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.2935,
 "match_method": "canonical"
 },
@@ -53,13 +53,6 @@
 "type": "keyterm",
 "preferred_label": "Fear",
 "confidence": 0.2935,
-"match_method": "canonical"
-},
-{
-"id": "place:ValleyGate",
-"type": "place",
-"preferred_label": "Valley Gate",
-"confidence": 0.2419,
 "match_method": "canonical"
 },
 {
@@ -77,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:ValleyGate",
+"type": "place",
+"preferred_label": "Valley Gate",
+"confidence": 0.2419,
+"match_method": "canonical"
+},
+{
 "id": "person:Sanballat",
 "type": "person",
 "preferred_label": "Sanballat",
@@ -84,16 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Moses",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
+"preferred_label": "Israel",
 "confidence": 0.229,
 "match_method": "canonical"
 },
@@ -105,20 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Euphrates",
-"type": "place",
-"preferred_label": "Euphrates River",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
 "id": "group:Ammon",
 "type": "group",
 "preferred_label": "Ammonites",
@@ -126,16 +105,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hanani.4",
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Hanani",
+"preferred_label": "Moses",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
+"id": "place:Susa",
+"type": "place",
+"preferred_label": "Susa",
 "confidence": 0.171,
 "match_method": "canonical"
 },
 {
-"id": "place:DungGate",
-"type": "place",
-"preferred_label": "Dung Gate",
+"id": "person:Nehemiah.2",
+"type": "person",
+"preferred_label": "Nehemiah",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:DragonSpring",
-"type": "place",
-"preferred_label": "Dragon Spring",
+"id": "person:Geshem",
+"type": "person",
+"preferred_label": "Geshem",
 "confidence": 0.171,
 "match_method": "canonical"
 },
 {
-"id": "person:Geshem",
-"type": "person",
-"preferred_label": "Geshem",
+"id": "place:DungGate",
+"type": "place",
+"preferred_label": "Dung Gate",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -175,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Susa",
-"type": "place",
-"preferred_label": "Susa",
+"id": "person:Hanani.4",
+"type": "person",
+"preferred_label": "Hanani",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nehemiah.2",
-"type": "person",
-"preferred_label": "Nehemiah",
+"id": "place:DragonSpring",
+"type": "place",
+"preferred_label": "Dragon Spring",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -203,37 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Siloam",
-"type": "place",
-"preferred_label": "Siloam",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Redeem",
+"id": "keyterm:Strength",
 "type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Strength",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -245,37 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Arabia",
-"type": "place",
-"preferred_label": "Arabia",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"preferred_label": "Repent",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"preferred_label": "Decree",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Rebel",
 "type": "keyterm",
 "preferred_label": "Rebel",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -287,6 +238,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Kindness",
 "type": "keyterm",
 "preferred_label": "Kindness",
@@ -294,16 +259,51 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
-"confidence": 0.1045,
+"id": "keyterm:Decree",
+"type": "keyterm",
+"preferred_label": "Decree",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Siloam",
+"type": "place",
+"preferred_label": "Siloam",
+"confidence": 0.1645,
 "match_method": "canonical"
 },
 {
 "id": "flora:Vine",
 "type": "flora",
 "preferred_label": "Vine",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
 "confidence": 0.1045,
 "match_method": "canonical"
 },

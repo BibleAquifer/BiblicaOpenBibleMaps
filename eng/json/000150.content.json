@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Passover",
-"type": "keyterm",
-"preferred_label": "Passover",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
 "confidence": 0.388,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
 "confidence": 0.388,
 "match_method": "canonical"
 },
@@ -84,51 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "deity:Satan",
-"type": "deity",
-"preferred_label": "Satan",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:PutToTheTest",
-"type": "keyterm",
-"preferred_label": "Put to the Test",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"preferred_label": "Priests",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericElders",
-"type": "group",
-"preferred_label": "Elders",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
@@ -140,10 +98,59 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Authority.2",
 "type": "keyterm",
 "preferred_label": "Authority",
 "confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericElders",
+"type": "group",
+"preferred_label": "Elders",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"preferred_label": "Priests",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"preferred_label": "Put to the Test",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Rooster",
+"type": "fauna",
+"preferred_label": "Rooster",
+"confidence": 0.209,
 "match_method": "canonical"
 },
 {
@@ -161,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Rooster",
-"type": "fauna",
-"preferred_label": "Rooster",
-"confidence": 0.209,
-"match_method": "canonical"
-},
-{
 "id": "person:SecondAccuserOfPeter",
 "type": "person",
 "preferred_label": "Peter's Second Accuser",
@@ -175,37 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericServant",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "A Servant",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disaster",
-"type": "keyterm",
-"preferred_label": "Disaster",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"preferred_label": "Israel",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
@@ -217,16 +189,44 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "John",
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lawless",
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
 "type": "keyterm",
-"preferred_label": "Lawless",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.1563,
 "match_method": "canonical"
 }

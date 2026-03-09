@@ -35,23 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happy",
-"type": "keyterm",
-"preferred_label": "Happy",
-"confidence": 0.2729,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.2729,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
+"confidence": 0.2729,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
 "confidence": 0.2729,
 "match_method": "canonical"
 },
@@ -63,6 +56,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2729,
+"match_method": "canonical"
+},
+{
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -84,9 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -101,20 +115,6 @@
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "Heart",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -147,51 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:HavingLittleFaith",
 "type": "keyterm",
 "preferred_label": "Having Little Faith",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"preferred_label": "Interpret",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
@@ -203,9 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Faithfulness",
+"id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "Faithfulness",
+"preferred_label": "Baptism",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
@@ -217,16 +182,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:SetFree",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Set Free",
+"preferred_label": "Glory",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
 {
-"id": "person:Solomon",
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Solomon",
+"preferred_label": "Jesus",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
 "confidence": 0.1576,
 "match_method": "canonical"
 }

@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "jemaat",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
 "confidence": 0.3711,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Yesus",
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "jemaat",
 "confidence": 0.3711,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:ActWickedly",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
-"preferred_label": "bertindak jahat",
+"preferred_label": "kerajaan",
 "confidence": 0.3605,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:ActWickedly",
 "type": "keyterm",
-"preferred_label": "kerajaan",
+"preferred_label": "bertindak jahat",
 "confidence": 0.3605,
 "match_method": "canonical"
 },

@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.4318,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.4318,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HouseholdIdols",
+"id": "realia:MoltenImage",
 "type": "realia",
-"preferred_label": "Household Idols",
+"preferred_label": "Molten Image",
 "confidence": 0.3457,
 "match_method": "canonical"
 },
 {
-"id": "realia:MoltenImage",
+"id": "realia:HouseholdIdols",
 "type": "realia",
-"preferred_label": "Molten Image",
+"preferred_label": "Household Idols",
 "confidence": 0.3457,
 "match_method": "canonical"
 },
@@ -105,23 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.3409,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.3409,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"preferred_label": "Israel",
 "confidence": 0.3409,
 "match_method": "canonical"
 },
@@ -133,9 +119,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Judah",
+"confidence": 0.3409,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
 "confidence": 0.3409,
 "match_method": "canonical"
 },
@@ -154,6 +154,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"preferred_label": "A Person",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:LeanOn",
 "type": "keyterm",
 "preferred_label": "Trust",
@@ -168,31 +182,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericPerson",
-"type": "person",
-"preferred_label": "A Person",
-"confidence": 0.2807,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehem",
-"confidence": 0.2807,
-"match_method": "canonical"
-},
-{
 "id": "person:MotherOfMicah.3",
 "type": "person",
 "preferred_label": "Mother of Micah",
 "confidence": 0.2295,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
-"confidence": 0.2205,
 "match_method": "canonical"
 },
 {
@@ -207,6 +200,20 @@
 "type": "place",
 "preferred_label": "Sidon",
 "confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "person:Gershom",
+"type": "person",
+"preferred_label": "Gershom",
+"confidence": 0.1648,
 "match_method": "canonical"
 },
 {
@@ -238,30 +245,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Gershom",
-"type": "person",
-"preferred_label": "Gershom",
-"confidence": 0.1648,
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1602,
 "match_method": "canonical"
 },
 {
 "id": "place:Kiriath-jearim",
 "type": "place",
 "preferred_label": "Kiriath-jearim",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -273,13 +266,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Safety",
 "type": "keyterm",
 "preferred_label": "Safety",
@@ -287,9 +273,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Sidon",
-"type": "group",
-"preferred_label": "Sidonians",
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -301,9 +287,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Bless",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
 "confidence": 0.1602,
 "match_method": "canonical"
 },

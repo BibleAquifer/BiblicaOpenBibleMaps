@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericFemale",
-"type": "person",
-"preferred_label": "A Woman",
+"id": "place:Jezreel",
+"type": "place",
+"preferred_label": "Jezreel",
 "confidence": 0.225,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jezreel",
-"type": "place",
-"preferred_label": "Jezreel",
+"id": "person:GenericFemale",
+"type": "person",
+"preferred_label": "A Woman",
 "confidence": 0.225,
 "match_method": "canonical"
 },
@@ -115,13 +115,6 @@
 "id": "place:En-dor",
 "type": "place",
 "preferred_label": "Endor",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:PracticeDivination",
-"type": "keyterm",
-"preferred_label": "Practice Divination",
 "confidence": 0.1681,
 "match_method": "canonical"
 },
@@ -140,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
+"id": "keyterm:PracticeDivination",
 "type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1625,
+"preferred_label": "Practice Divination",
+"confidence": 0.1681,
 "match_method": "canonical"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -161,23 +154,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Aphek",
-"type": "place",
-"preferred_label": "Aphek",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
 "id": "group:GenericServants",
 "type": "group",
 "preferred_label": "Servants",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -196,16 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ramah",
+"id": "place:Aphek",
 "type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
+"preferred_label": "Aphek",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -217,16 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Robe",
+"id": "realia:MoltenImage",
 "type": "realia",
-"preferred_label": "Robe",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "realia:AnimalPen",
-"type": "realia",
-"preferred_label": "Animal Pen",
+"preferred_label": "Molten Image",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -238,6 +231,20 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:AnimalPen",
+"type": "realia",
+"preferred_label": "Animal Pen",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Robe",
+"type": "realia",
+"preferred_label": "Robe",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
 "id": "realia:UnleavenedBread",
 "type": "realia",
 "preferred_label": "Unleavened Bread",
@@ -245,9 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:MoltenImage",
-"type": "realia",
-"preferred_label": "Molten Image",
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -255,13 +262,6 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
 "confidence": 0.1025,
 "match_method": "canonical"
 },

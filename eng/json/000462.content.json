@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mishael.3",
+"id": "person:Hananiah.15",
 "type": "person",
-"preferred_label": "Mishael",
+"preferred_label": "Hananiah",
 "confidence": 0.3942,
 "match_method": "canonical"
 },
 {
-"id": "person:Hananiah.15",
+"id": "person:Mishael.3",
 "type": "person",
-"preferred_label": "Hananiah",
+"preferred_label": "Mishael",
 "confidence": 0.3942,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3637,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3637,
 "match_method": "canonical"
 },
@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"preferred_label": "Medan",
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
 "confidence": 0.3614,
 "match_method": "canonical"
 },
 {
-"id": "place:Persia",
-"type": "place",
-"preferred_label": "Persia",
+"id": "person:Medan",
+"type": "person",
+"preferred_label": "Medan",
 "confidence": 0.3614,
 "match_method": "canonical"
 },
@@ -203,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lute",
+"id": "realia:Lyre",
 "type": "realia",
-"preferred_label": "Lute",
+"preferred_label": "Lyre",
 "confidence": 0.2491,
 "match_method": "canonical"
 },
 {
-"id": "realia:Lyre",
+"id": "realia:Lute",
 "type": "realia",
-"preferred_label": "Lyre",
+"preferred_label": "Lute",
 "confidence": 0.2491,
 "match_method": "canonical"
 },

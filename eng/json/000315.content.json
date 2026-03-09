@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zebah",
+"id": "person:Zalmunna",
 "type": "person",
-"preferred_label": "Zebah",
+"preferred_label": "Zalmunna",
 "confidence": 0.39,
 "match_method": "canonical"
 },
 {
-"id": "person:Zalmunna",
+"id": "person:Zebah",
 "type": "person",
-"preferred_label": "Zalmunna",
+"preferred_label": "Zebah",
 "confidence": 0.39,
 "match_method": "canonical"
 },
@@ -74,13 +74,6 @@
 "type": "deity",
 "preferred_label": "An Angel",
 "confidence": 0.3815,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.377,
 "match_method": "canonical"
 },
 {
@@ -94,6 +87,13 @@
 "id": "deity:Baal",
 "type": "deity",
 "preferred_label": "Baal",
+"confidence": 0.377,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.377,
 "match_method": "canonical"
 },
@@ -112,6 +112,27 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
 "id": "realia:Altar",
 "type": "realia",
 "preferred_label": "Altar",
@@ -126,37 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.3215,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.3215,
-"match_method": "canonical"
-},
-{
-"id": "realia:RamsHorn",
-"type": "realia",
-"preferred_label": "Rams Horn",
-"confidence": 0.3215,
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
+"confidence": 0.318,
 "match_method": "canonical"
 },
 {
 "id": "place:East",
 "type": "place",
 "preferred_label": "East",
-"confidence": 0.318,
-"match_method": "canonical"
-},
-{
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
 "confidence": 0.318,
 "match_method": "canonical"
 },
@@ -168,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.2635,
 "match_method": "canonical"
 },
@@ -182,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Tribe of Manasseh",
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
 "confidence": 0.2635,
 "match_method": "canonical"
 },
@@ -203,9 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.2635,
 "match_method": "canonical"
 },
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Amalek",
-"type": "place",
-"preferred_label": "Amalek",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephraim",
+"id": "person:Manasseh",
 "type": "person",
-"preferred_label": "Ephraim",
+"preferred_label": "Manasseh",
 "confidence": 0.2635,
 "match_method": "canonical"
 }

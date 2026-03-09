@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
-"confidence": 0.276,
-"match_method": "canonical"
-},
-{
 "id": "person:David",
 "type": "person",
 "preferred_label": "Daud",
@@ -94,6 +87,13 @@
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Yerusalem",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Perga",
-"type": "place",
-"preferred_label": "Perga",
+"id": "keyterm:Fast",
+"type": "keyterm",
+"preferred_label": "berpuasa",
 "confidence": 0.2212,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fast",
-"type": "keyterm",
-"preferred_label": "berpuasa",
+"id": "place:Perga",
+"type": "place",
+"preferred_label": "Perga",
 "confidence": 0.2212,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "meminta",
@@ -154,58 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "keselamatan",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "kehidupan",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "memutuskan",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "nama",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "takut",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "khusus",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
+"id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Yohanes",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Mark",
-"type": "person",
-"preferred_label": "Markus",
+"preferred_label": "Yesus",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -224,9 +168,65 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "memutuskan",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"preferred_label": "Markus",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "Yohanes",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "selama, lamanya",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "hukum",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
 "confidence": 0.2173,
 "match_method": "canonical"
 }

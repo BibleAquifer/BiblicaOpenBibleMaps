@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3943,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3943,
 "match_method": "canonical"
 },
@@ -91,6 +91,13 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
+"confidence": 0.2695,
+"match_method": "canonical"
+},
+{
 "id": "realia:Money",
 "type": "realia",
 "preferred_label": "Money",
@@ -105,37 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Grain",
-"type": "flora",
-"preferred_label": "Grain",
-"confidence": 0.2695,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2148,
-"match_method": "canonical"
-},
-{
 "id": "group:Arabia",
 "type": "group",
 "preferred_label": "Arabians",
-"confidence": 0.2148,
-"match_method": "canonical"
-},
-{
-"id": "place:Arabia",
-"type": "place",
-"preferred_label": "Arabia",
-"confidence": 0.2148,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
 "confidence": 0.2148,
 "match_method": "canonical"
 },
@@ -147,6 +126,27 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
 "id": "realia:Spear",
 "type": "realia",
 "preferred_label": "Spear",
@@ -154,37 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shecaniah.8",
-"type": "person",
-"preferred_label": "Shecaniah",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "place:Ono",
-"type": "place",
-"preferred_label": "Ono",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
 "id": "person:Noadiah.2",
 "type": "person",
 "preferred_label": "Noadiah",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "person:Delaiah.4",
-"type": "person",
-"preferred_label": "Delaiah",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "person:Arah.3",
-"type": "person",
-"preferred_label": "Arah",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
@@ -196,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehohanan.6",
+"id": "person:Shecaniah.8",
 "type": "person",
-"preferred_label": "Jehohanan",
+"preferred_label": "Shecaniah",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
 {
-"id": "person:Berechiah.5",
+"id": "person:Meshullam.12",
 "type": "person",
-"preferred_label": "Berechiah",
+"preferred_label": "Meshullam",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
@@ -217,9 +189,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Meshullam.12",
+"id": "place:Ono",
+"type": "place",
+"preferred_label": "Ono",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "person:Berechiah.5",
 "type": "person",
-"preferred_label": "Meshullam",
+"preferred_label": "Berechiah",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "person:Arah.3",
+"type": "person",
+"preferred_label": "Arah",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehohanan.6",
+"type": "person",
+"preferred_label": "Jehohanan",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "person:Delaiah.4",
+"type": "person",
+"preferred_label": "Delaiah",
 "confidence": 0.1607,
 "match_method": "canonical"
 },

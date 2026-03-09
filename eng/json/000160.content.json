@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.372,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.372,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
 "confidence": 0.236,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Passover",
-"type": "keyterm",
-"preferred_label": "Passover",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.236,
 "match_method": "canonical"
 },
@@ -126,6 +126,13 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Extremely",
 "type": "keyterm",
 "preferred_label": "Extremely",
@@ -136,13 +143,6 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
 "confidence": 0.176,
 "match_method": "canonical"
 },
@@ -161,27 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "place:Capernaum",
-"type": "place",
-"preferred_label": "Capernaum",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:BearWitness",
 "type": "keyterm",
 "preferred_label": "Bear Witness",
@@ -196,6 +175,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Cleanse.2",
 "type": "keyterm",
 "preferred_label": "To Cleanse",
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Body",
+"preferred_label": "Name",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
 "confidence": 0.168,
 "match_method": "canonical"
 },

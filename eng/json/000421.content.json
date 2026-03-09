@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.3571,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Fear",
 "confidence": 0.3571,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Hope",
+"id": "keyterm:Understanding",
 "type": "keyterm",
-"preferred_label": "Hope",
+"preferred_label": "Understanding",
 "confidence": 0.355,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Understanding",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "Understanding",
+"preferred_label": "Hope",
 "confidence": 0.355,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Counsel",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Counsel",
 "confidence": 0.3538,
 "match_method": "canonical"
 },
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Counsel",
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Counsel",
+"preferred_label": "Bless",
 "confidence": 0.3538,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DeclareGuilty",
-"type": "keyterm",
-"preferred_label": "To Declare Guilty",
+"id": "person:Eliphaz.2",
+"type": "person",
+"preferred_label": "Eliphaz",
 "confidence": 0.3531,
 "match_method": "canonical"
 },
 {
-"id": "person:Eliphaz.2",
-"type": "person",
-"preferred_label": "Eliphaz",
+"id": "keyterm:DeclareGuilty",
+"type": "keyterm",
+"preferred_label": "To Declare Guilty",
 "confidence": 0.3531,
 "match_method": "canonical"
 },
@@ -189,30 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"preferred_label": "Exempt",
-"confidence": 0.3525,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Safety",
 "type": "keyterm",
 "preferred_label": "Safety",
-"confidence": 0.3525,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"preferred_label": "Terror",
-"confidence": 0.3525,
-"match_method": "canonical"
-},
-{
-"id": "place:Teman",
-"type": "place",
-"preferred_label": "Teman",
 "confidence": 0.3525,
 "match_method": "canonical"
 },
@@ -224,9 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Shuhites",
-"type": "group",
-"preferred_label": "Shuhites",
+"id": "place:Teman",
+"type": "place",
+"preferred_label": "Teman",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"preferred_label": "Terror",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SoundWisdom",
+"type": "keyterm",
+"preferred_label": "Sound Wisdom",
 "confidence": 0.3523,
 "match_method": "canonical"
 }

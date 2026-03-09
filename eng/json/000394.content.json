@@ -55,16 +55,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4719,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4719,
 "match_method": "canonical"
 },
@@ -146,13 +146,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahijah.3",
-"type": "person",
-"preferred_label": "Ahijah",
-"confidence": 0.2271,
-"match_method": "canonical"
-},
-{
 "id": "place:Abel-beth-maacah",
 "type": "place",
 "preferred_label": "Abel-beth-maacah",
@@ -167,6 +160,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ahijah.3",
+"type": "person",
+"preferred_label": "Ahijah",
+"confidence": 0.2271,
+"match_method": "canonical"
+},
+{
 "id": "place:Geba",
 "type": "place",
 "preferred_label": "Geba",
@@ -174,30 +174,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Naphtali",
-"type": "group",
-"preferred_label": "Tribe of Naphtali",
-"confidence": 0.2188,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.2188,
-"match_method": "canonical"
-},
-{
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
-"confidence": 0.2188,
-"match_method": "canonical"
-},
-{
-"id": "place:Damascus",
+"id": "place:Dan",
 "type": "place",
-"preferred_label": "Damascus",
+"preferred_label": "Dan",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
@@ -216,51 +209,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
 {
-"id": "person:Naphtali",
-"type": "person",
-"preferred_label": "Naphtali",
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
 {
-"id": "place:Mizpah",
-"type": "place",
-"preferred_label": "Mizpah",
+"id": "group:Naphtali",
+"type": "group",
+"preferred_label": "Tribe of Naphtali",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
 {
-"id": "place:Chinnereth",
-"type": "place",
-"preferred_label": "Chinnereth",
-"confidence": 0.1635,
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.2188,
 "match_method": "canonical"
 },
 {
 "id": "person:Tabrimmon",
 "type": "person",
 "preferred_label": "Tabrimmon",
-"confidence": 0.1635,
-"match_method": "canonical"
-},
-{
-"id": "place:Gibbethon",
-"type": "place",
-"preferred_label": "Gibbethon",
-"confidence": 0.1635,
-"match_method": "canonical"
-},
-{
-"id": "place:Kidron",
-"type": "place",
-"preferred_label": "Kidron",
 "confidence": 0.1635,
 "match_method": "canonical"
 },
@@ -272,6 +251,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Gibbethon",
+"type": "place",
+"preferred_label": "Gibbethon",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
 "id": "person:Hezion",
 "type": "person",
 "preferred_label": "Hezion",
@@ -279,23 +265,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Shiloh",
-"type": "group",
-"preferred_label": "Shilonites",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Libya",
+"id": "place:Chinnereth",
 "type": "place",
-"preferred_label": "Libya",
-"confidence": 0.1594,
+"preferred_label": "Chinnereth",
+"confidence": 0.1635,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"preferred_label": "Exempt",
+"id": "place:Kidron",
+"type": "place",
+"preferred_label": "Kidron",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"preferred_label": "Tribe of Issachar",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -307,20 +293,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Issachar",
-"type": "person",
-"preferred_label": "Issachar",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Ethiopia",
-"type": "place",
-"preferred_label": "Ethiopia",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
 "id": "group:Philistine",
 "type": "group",
 "preferred_label": "Philistines",
@@ -328,23 +300,44 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rehoboam",
-"type": "person",
-"preferred_label": "Rehoboam",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "group:Ethiopia",
-"type": "group",
-"preferred_label": "Ethiopians",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
 "id": "person:Ahijah.2",
 "type": "person",
 "preferred_label": "Ahijah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -363,44 +356,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hittite",
-"type": "group",
-"preferred_label": "Hittites",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoshaphat.3",
-"type": "person",
-"preferred_label": "Jehoshaphat",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "group:Issachar",
-"type": "group",
-"preferred_label": "Tribe of Issachar",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
+"id": "place:Ethiopia",
 "type": "place",
-"preferred_label": "Philistia",
+"preferred_label": "Ethiopia",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Shiloh",
+"type": "group",
+"preferred_label": "Shilonites",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -412,9 +377,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -426,9 +391,44 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"preferred_label": "Libya",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
 "confidence": 0.0994,
 "match_method": "canonical"
 },
@@ -447,13 +447,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
 "id": "flora:BalsamTree",
 "type": "flora",
 "preferred_label": "Balsam Tree",
@@ -464,6 +457,13 @@
 "id": "realia:Chariot",
 "type": "realia",
 "preferred_label": "Chariot",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.0994,
 "match_method": "canonical"
 },

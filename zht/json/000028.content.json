@@ -140,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.3686,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "Defilement",
-"confidence": 0.3686,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
 "confidence": 0.3686,
 "match_method": "canonical"
 },
@@ -171,6 +157,20 @@
 "id": "keyterm:Word",
 "type": "keyterm",
 "preferred_label": "Word",
+"confidence": 0.3686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.3686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3686,
 "match_method": "canonical"
 },
@@ -210,16 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.3149,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
 "confidence": 0.3149,
 "match_method": "canonical"
 },

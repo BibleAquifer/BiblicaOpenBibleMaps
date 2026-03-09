@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"preferred_label": "Play the Prostitute",
 "confidence": 0.3959,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.3959,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PlayTheProstitute",
+"id": "keyterm:Defilement",
 "type": "keyterm",
-"preferred_label": "Play the Prostitute",
+"preferred_label": "Defilement",
 "confidence": 0.3959,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
 "confidence": 0.2776,
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
 "confidence": 0.2776,
 "match_method": "canonical"
 },
@@ -116,13 +116,6 @@
 "type": "fauna",
 "preferred_label": "Horse",
 "confidence": 0.2767,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dishonor",
-"type": "keyterm",
-"preferred_label": "To Dishonor",
-"confidence": 0.2184,
 "match_method": "canonical"
 },
 {
@@ -140,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
 "confidence": 0.2184,
 "match_method": "canonical"
 },
@@ -150,6 +143,13 @@
 "id": "keyterm:BearTheConsequencesOf",
 "type": "keyterm",
 "preferred_label": "Bear the Consequences Of",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.2184,
 "match_method": "canonical"
 },
@@ -182,27 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
 "id": "person:Sheba",
 "type": "person",
 "preferred_label": "Sheba",
@@ -217,16 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.1584,
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1592,
 "match_method": "canonical"
 },
 {
 "id": "realia:Sword",
 "type": "realia",
 "preferred_label": "Sword",
+"confidence": 0.1584,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.1584,
 "match_method": "canonical"
 },
@@ -238,30 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:SmallShield",
+"id": "realia:Helmet",
 "type": "realia",
-"preferred_label": "Small Shield",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:Crown",
-"type": "realia",
-"preferred_label": "Crown",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:Wagon",
-"type": "realia",
-"preferred_label": "Wagon",
+"preferred_label": "Helmet",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -273,16 +252,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Belt",
+"id": "realia:Wagon",
 "type": "realia",
-"preferred_label": "Belt",
+"preferred_label": "Wagon",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
 {
-"id": "realia:Helmet",
+"id": "realia:Crown",
 "type": "realia",
-"preferred_label": "Helmet",
+"preferred_label": "Crown",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"preferred_label": "Large Shield",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -294,9 +294,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:AnointingOil",
+"id": "realia:SmallShield",
 "type": "realia",
-"preferred_label": "Anointing Oil",
+"preferred_label": "Small Shield",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -308,9 +308,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:LargeShield",
+"id": "realia:AnointingOil",
 "type": "realia",
-"preferred_label": "Large Shield",
+"preferred_label": "Anointing Oil",
 "confidence": 0.0992,
 "match_method": "canonical"
 }

@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
+"id": "realia:AnointingOil",
 "type": "realia",
-"preferred_label": "Olive Oil",
+"preferred_label": "Anointing Oil",
 "confidence": 0.2686,
 "match_method": "canonical"
 },
 {
-"id": "realia:AnointingOil",
+"id": "realia:OliveOil",
 "type": "realia",
-"preferred_label": "Anointing Oil",
+"preferred_label": "Olive Oil",
 "confidence": 0.2686,
 "match_method": "canonical"
 },
@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
 "id": "group:Philistine",
 "type": "group",
 "preferred_label": "Philistines",
@@ -126,23 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
 "id": "group:Hittite",
 "type": "group",
 "preferred_label": "Hittites",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2143,
 "match_method": "canonical"
 },
@@ -168,6 +147,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
 "id": "realia:EmbroideredCloth",
 "type": "realia",
 "preferred_label": "Embroidered Cloth",
@@ -182,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
+"id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Forgive",
 "confidence": 0.1571,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PleasingOdor",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Pleasing Odor",
+"preferred_label": "Swear",
 "confidence": 0.1571,
 "match_method": "canonical"
 },
@@ -203,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:LeanOn",
+"id": "keyterm:Woe",
 "type": "keyterm",
-"preferred_label": "Trust",
+"preferred_label": "Woe",
 "confidence": 0.1571,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Oath",
-"type": "keyterm",
-"preferred_label": "Oath",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.1571,
 "match_method": "canonical"
 },
 {
-"id": "place:Chaldea",
-"type": "place",
-"preferred_label": "Chaldea",
+"id": "keyterm:PleasingOdor",
+"type": "keyterm",
+"preferred_label": "Pleasing Odor",
 "confidence": 0.1571,
 "match_method": "canonical"
 }

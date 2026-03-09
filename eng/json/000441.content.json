@@ -35,13 +35,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.4437,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Speak",
 "type": "keyterm",
 "preferred_label": "Speak as a Prophet",
@@ -52,6 +45,13 @@
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
+"confidence": 0.4437,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4437,
 "match_method": "canonical"
 },
@@ -98,9 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:NewGate",
+"id": "person:Elnathan.5",
+"type": "person",
+"preferred_label": "Elnathan",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "place:Moresheth",
 "type": "place",
-"preferred_label": "New Gate",
+"preferred_label": "Moresheth",
 "confidence": 0.1771,
 "match_method": "canonical"
 },
@@ -126,20 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Elnathan.5",
-"type": "person",
-"preferred_label": "Elnathan",
-"confidence": 0.1771,
-"match_method": "canonical"
-},
-{
-"id": "place:Moresheth",
-"type": "place",
-"preferred_label": "Moresheth",
-"confidence": 0.1771,
-"match_method": "canonical"
-},
-{
 "id": "person:Shemaiah.24",
 "type": "person",
 "preferred_label": "Shemaiah",
@@ -147,37 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"preferred_label": "Exempt",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "place:Kiriath-jearim",
+"id": "place:NewGate",
 "type": "place",
-"preferred_label": "Kiriath-jearim",
-"confidence": 0.1688,
+"preferred_label": "New Gate",
+"confidence": 0.1771,
 "match_method": "canonical"
 },
 {
-"id": "person:Josiah",
+"id": "person:Shaphan",
 "type": "person",
-"preferred_label": "Josiah",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
+"preferred_label": "Shaphan",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -189,23 +161,37 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Kiriath-jearim",
+"type": "place",
+"preferred_label": "Kiriath-jearim",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"preferred_label": "Josiah",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
 "id": "group:GenericGroup",
 "type": "group",
 "preferred_label": "A Group of People",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericOfficials",
-"type": "group",
-"preferred_label": "Public Officials",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -217,9 +203,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shaphan",
-"type": "person",
-"preferred_label": "Shaphan",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"preferred_label": "Public Officials",
 "confidence": 0.1688,
 "match_method": "canonical"
 },

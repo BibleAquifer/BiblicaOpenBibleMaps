@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
 "confidence": 0.3689,
 "match_method": "canonical"
 },
 {
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.3689,
 "match_method": "canonical"
 },
@@ -133,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.366,
-"match_method": "canonical"
-},
-{
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
@@ -154,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.366,
+"match_method": "canonical"
+},
+{
 "id": "person:Ephraim",
 "type": "person",
 "preferred_label": "Ephraim",
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
 "confidence": 0.3653,
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
 "confidence": 0.3653,
 "match_method": "canonical"
 },

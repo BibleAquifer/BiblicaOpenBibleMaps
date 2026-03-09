@@ -49,6 +49,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.4426,
+"match_method": "canonical"
+},
+{
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
@@ -59,13 +66,6 @@
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
-"confidence": 0.4426,
-"match_method": "canonical"
-},
-{
-"id": "person:Jeroboam",
-"type": "person",
-"preferred_label": "Jeroboam",
 "confidence": 0.4426,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Maacah.3",
+"id": "person:Jehu",
 "type": "person",
-"preferred_label": "Maacah",
+"preferred_label": "Jehu",
 "confidence": 0.2757,
 "match_method": "canonical"
 },
 {
-"id": "person:Jehu",
+"id": "person:Maacah.3",
 "type": "person",
-"preferred_label": "Jehu",
+"preferred_label": "Maacah",
 "confidence": 0.2757,
 "match_method": "canonical"
 },
@@ -182,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ramah.2",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Ramah",
+"preferred_label": "Jerusalem",
 "confidence": 0.2699,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
+"id": "place:Ramah.2",
 "type": "place",
-"preferred_label": "Jerusalem",
+"preferred_label": "Ramah",
 "confidence": 0.2699,
 "match_method": "canonical"
 },
@@ -203,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ginath",
+"id": "person:Tibni",
 "type": "person",
-"preferred_label": "Ginath",
+"preferred_label": "Tibni",
 "confidence": 0.2191,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Tibni",
+"id": "person:Ginath",
 "type": "person",
-"preferred_label": "Tibni",
+"preferred_label": "Ginath",
 "confidence": 0.2191,
 "match_method": "canonical"
 },
 {
-"id": "person:Ben-hadad",
+"id": "person:Hanani",
 "type": "person",
-"preferred_label": "Ben-hadad",
+"preferred_label": "Hanani",
 "confidence": 0.2162,
 "match_method": "canonical"
 }

@@ -117,16 +117,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Authority",
 "confidence": 0.3594,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Authority",
+"preferred_label": "Fear",
 "confidence": 0.3594,
 "match_method": "canonical"
 },
@@ -173,9 +173,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.3567,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
+"confidence": 0.3567,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "Иоанн",
 "confidence": 0.3567,
 "match_method": "canonical"
 },
@@ -194,38 +208,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
-"confidence": 0.3567,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "Иоанн",
-"confidence": 0.3567,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "preferred_label": "Mercy",
 "confidence": 0.3563,
-"match_method": "canonical"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Авраам",
-"confidence": 0.356,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.356,
 "match_method": "canonical"
 },
 {
@@ -239,6 +225,20 @@
 "id": "person:David",
 "type": "person",
 "preferred_label": "Давид",
+"confidence": 0.356,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Пётр",
+"confidence": 0.356,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.356,
 "match_method": "canonical"
 }

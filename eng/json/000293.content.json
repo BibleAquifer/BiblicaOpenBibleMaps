@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
 "confidence": 0.3063,
 "match_method": "canonical"
 },
 {
-"id": "person:Joshua.2",
-"type": "person",
-"preferred_label": "Joshua",
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
 "confidence": 0.3063,
 "match_method": "canonical"
 },
@@ -84,20 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.2375,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.2375,
-"match_method": "canonical"
-},
-{
 "id": "person:Nun",
 "type": "person",
 "preferred_label": "Nun",
@@ -105,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Oath",
+"id": "keyterm:Truth",
 "type": "keyterm",
-"preferred_label": "Oath",
+"preferred_label": "Truth",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
@@ -119,10 +105,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shittim",
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Shittim",
-"confidence": 0.1771,
+"preferred_label": "Jordan River",
+"confidence": 0.2375,
 "match_method": "canonical"
 },
 {
@@ -133,9 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:RedSea",
+"id": "place:Shittim",
 "type": "place",
-"preferred_label": "Red Sea",
+"preferred_label": "Shittim",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -147,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
@@ -154,16 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
+"id": "place:RedSea",
+"type": "place",
+"preferred_label": "Red Sea",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -196,16 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Flax",
+"id": "flora:Cattails",
 "type": "flora",
-"preferred_label": "Flax",
+"preferred_label": "Cattails",
 "confidence": 0.1088,
 "match_method": "canonical"
 },
 {
-"id": "flora:Cattails",
+"id": "flora:Flax",
 "type": "flora",
-"preferred_label": "Cattails",
+"preferred_label": "Flax",
 "confidence": 0.1088,
 "match_method": "canonical"
 }

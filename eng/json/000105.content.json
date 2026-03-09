@@ -49,6 +49,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
 "id": "deity:Demons",
 "type": "deity",
 "preferred_label": "Demons",
@@ -59,13 +66,6 @@
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "Heart",
-"confidence": 0.2865,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
 "confidence": 0.2865,
 "match_method": "canonical"
 },
@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Commandment",
 "type": "keyterm",
 "preferred_label": "Commandment",
@@ -98,10 +91,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Corban",
-"type": "place",
-"preferred_label": "Temple Treasury",
-"confidence": 0.1676,
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2243,
 "match_method": "canonical"
 },
 {
@@ -119,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
+"id": "place:Corban",
+"type": "place",
+"preferred_label": "Temple Treasury",
 "confidence": 0.1676,
 "match_method": "canonical"
 },
@@ -140,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Dog",
-"type": "fauna",
-"preferred_label": "Dog",
-"confidence": 0.1643,
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1676,
 "match_method": "canonical"
 },
 {
-"id": "realia:Temple",
-"type": "realia",
-"preferred_label": "Temple",
+"id": "fauna:Dog",
+"type": "fauna",
+"preferred_label": "Dog",
 "confidence": 0.1643,
 "match_method": "canonical"
 },
@@ -161,37 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"preferred_label": "Fornication",
-"confidence": 0.1622,
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1643,
 "match_method": "canonical"
 },
 {
 "id": "person:Javan",
 "type": "person",
 "preferred_label": "Javan",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"preferred_label": "Worship",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -203,58 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Isaiah",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Parable",
+"id": "keyterm:Fornication",
 "type": "keyterm",
-"preferred_label": "Parable",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:GalileeSea",
-"type": "place",
-"preferred_label": "Sea of Galilee",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
+"preferred_label": "Fornication",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -266,9 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Live.3",
+"id": "keyterm:Parable",
 "type": "keyterm",
-"preferred_label": "Live",
+"preferred_label": "Parable",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -280,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blaspheme",
+"id": "keyterm:Speak",
 "type": "keyterm",
-"preferred_label": "Blaspheme",
+"preferred_label": "Speak as a Prophet",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -290,6 +220,76 @@
 "id": "keyterm:Honest",
 "type": "keyterm",
 "preferred_label": "Honest",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "Live",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"preferred_label": "Sea of Galilee",
 "confidence": 0.1622,
 "match_method": "canonical"
 },

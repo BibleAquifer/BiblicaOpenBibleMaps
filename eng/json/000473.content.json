@@ -35,13 +35,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.334,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -52,6 +45,13 @@
 "id": "person:Israel",
 "type": "person",
 "preferred_label": "Israel",
+"confidence": 0.334,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.334,
 "match_method": "canonical"
 },
@@ -77,30 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "place:Cush.2",
-"type": "place",
-"preferred_label": "Cush",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
 "preferred_label": "Passion",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -115,6 +101,13 @@
 "id": "keyterm:Woe.2",
 "type": "keyterm",
 "preferred_label": "Woe",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -140,6 +133,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Cushi",
-"type": "person",
-"preferred_label": "Cushi",
+"id": "place:SecondQuarter",
+"type": "place",
+"preferred_label": "Second District",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
@@ -175,16 +175,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:FishGate",
-"type": "place",
-"preferred_label": "Fish Gate",
+"id": "person:Hezekiah.4",
+"type": "person",
+"preferred_label": "Hezekiah",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
 {
-"id": "person:Hezekiah.4",
+"id": "person:Cushi",
 "type": "person",
-"preferred_label": "Hezekiah",
+"preferred_label": "Cushi",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "place:FishGate",
+"type": "place",
+"preferred_label": "Fish Gate",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
@@ -196,24 +203,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:SecondQuarter",
-"type": "place",
-"preferred_label": "Second District",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
 "id": "person:Gedaliah.3",
 "type": "person",
 "preferred_label": "Gedaliah",
 "confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1585,
 "match_method": "canonical"
 },
 {
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Josiah",
-"type": "person",
-"preferred_label": "Josiah",
+"id": "keyterm:SeekfindRefuge",
+"type": "keyterm",
+"preferred_label": "Seek Refugue",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "group:Cush",
+"type": "group",
+"preferred_label": "Cushites",
 "confidence": 0.1585,
 "match_method": "canonical"
 }

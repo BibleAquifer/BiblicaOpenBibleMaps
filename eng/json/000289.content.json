@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Eleazar.2",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Eleazar",
+"preferred_label": "Israel",
 "confidence": 0.4333,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Eleazar",
 "confidence": 0.4333,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
+"id": "person:Balaam",
 "type": "person",
-"preferred_label": "Levi",
+"preferred_label": "Balaam",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -112,20 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
-"id": "person:Balaam",
-"type": "person",
-"preferred_label": "Balaam",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
@@ -133,9 +119,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Evi",
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
 "type": "person",
-"preferred_label": "Evi",
+"preferred_label": "Levi",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "person:Zur.2",
+"type": "person",
+"preferred_label": "Zur",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zur.2",
+"id": "person:Evi",
 "type": "person",
-"preferred_label": "Zur",
+"preferred_label": "Evi",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -168,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
+"id": "person:Beor.2",
+"type": "person",
+"preferred_label": "Beor",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "keyterm:Appease",
+"type": "keyterm",
+"preferred_label": "Appease",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -196,6 +196,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "place:MoabPlains",
+"type": "place",
+"preferred_label": "Plains of Moab",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
 "id": "group:Midian",
 "type": "group",
 "preferred_label": "Midianites",
@@ -203,30 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "person:Beor.2",
-"type": "person",
-"preferred_label": "Beor",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
 "id": "person:Phinehas",
 "type": "person",
 "preferred_label": "Phinehas",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
 "confidence": 0.1583,
 "match_method": "canonical"
 }

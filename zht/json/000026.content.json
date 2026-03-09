@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Ability",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Name",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
@@ -119,51 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Isaiah",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"preferred_label": "Paul",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
 "id": "person:Peter",
 "type": "person",
 "preferred_label": "Peter",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "Heart",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -175,6 +133,48 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "realia:Money",
 "type": "realia",
 "preferred_label": "Money",
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ethiopia",
+"id": "place:Ashdod",
 "type": "place",
-"preferred_label": "Ethiopia",
+"preferred_label": "Ashdod",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -196,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ethiopia",
-"type": "group",
-"preferred_label": "Ethiopians",
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Ethiopia",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -210,9 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ashdod",
+"id": "place:Gaza",
 "type": "place",
-"preferred_label": "Ashdod",
+"preferred_label": "Gaza",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -224,23 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Declare",
 "type": "keyterm",
 "preferred_label": "Declare",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"preferred_label": "Unjust Deed",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -252,72 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"preferred_label": "Repent",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Straightness",
-"type": "keyterm",
-"preferred_label": "Straightness",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "person:Simon.9",
-"type": "person",
-"preferred_label": "Simon",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:BowDown",
 "type": "keyterm",
 "preferred_label": "Bow Down",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -329,9 +259,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Caesarea",
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -343,10 +280,80 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
 "id": "group:Samaritan",
 "type": "group",
 "preferred_label": "Samaritans",
 "confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"preferred_label": "Unjust Deed",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"preferred_label": "Straightness",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Caesarea",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
@@ -367,13 +374,6 @@
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
-"confidence": 0.1013,
-"match_method": "canonical"
-},
-{
-"id": "realia:Prison",
-"type": "realia",
-"preferred_label": "Prison",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

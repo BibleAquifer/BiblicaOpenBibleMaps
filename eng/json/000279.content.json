@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
 "confidence": 0.3788,
 "match_method": "canonical"
 },
 {
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Isaac",
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
 "confidence": 0.3788,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
 "confidence": 0.2631,
 "match_method": "canonical"
 },
 {
-"id": "realia:Rod",
-"type": "realia",
-"preferred_label": "Rod",
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
 "confidence": 0.2631,
 "match_method": "canonical"
 },
@@ -151,13 +151,6 @@
 "type": "person",
 "preferred_label": "Zipporah",
 "confidence": 0.2167,
-"match_method": "canonical"
-},
-{
-"id": "group:Perizzites",
-"type": "group",
-"preferred_label": "Perizzites",
-"confidence": 0.2141,
 "match_method": "canonical"
 },
 {
@@ -175,37 +168,23 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
+"confidence": 0.2141,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
-"id": "group:Jebusites",
-"type": "group",
-"preferred_label": "Jebusites",
 "confidence": 0.2115,
 "match_method": "canonical"
 },
@@ -220,6 +199,27 @@
 "id": "group:Canaan",
 "type": "group",
 "preferred_label": "Canaanites",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.2115,
 "match_method": "canonical"
 },

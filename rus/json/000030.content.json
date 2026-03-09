@@ -63,6 +63,27 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.236,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Church",
 "type": "keyterm",
 "preferred_label": "Church",
@@ -77,34 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.236,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
-"confidence": 0.236,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.236,
-"match_method": "canonical"
-},
-{
-"id": "person:James",
-"type": "person",
-"preferred_label": "Иаков",
-"confidence": 0.184,
-"match_method": "canonical"
-},
-{
 "id": "realia:Chain",
 "type": "realia",
 "preferred_label": "Chain",
@@ -112,24 +105,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rhoda",
+"id": "person:James",
 "type": "person",
-"preferred_label": "Рода",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "Иоанн",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "person:Blastus",
-"type": "person",
-"preferred_label": "Власт",
-"confidence": 0.176,
+"preferred_label": "Иаков",
+"confidence": 0.184,
 "match_method": "canonical"
 },
 {
@@ -147,9 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Temple",
-"type": "realia",
-"preferred_label": "Temple",
+"id": "person:Blastus",
+"type": "person",
+"preferred_label": "Власт",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Rhoda",
+"type": "person",
+"preferred_label": "Рода",
 "confidence": 0.176,
 "match_method": "canonical"
 },
@@ -161,23 +147,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Barnabas",
+"id": "person:John.2",
 "type": "person",
-"preferred_label": "Варнава",
-"confidence": 0.168,
+"preferred_label": "Иоанн",
+"confidence": 0.176,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "Persuade",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Иерусалим",
+"preferred_label": "Make Peace",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -189,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
 "id": "person:James.3",
 "type": "person",
 "preferred_label": "Иаков",
@@ -203,65 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rescue",
+"id": "keyterm:CauseOfJoy",
 "type": "keyterm",
-"preferred_label": "Rescue",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Passover",
-"type": "keyterm",
-"preferred_label": "Passover",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"preferred_label": "Павел",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "Make Peace",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Кесария",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Иудея",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "group:Sidon",
-"type": "group",
-"preferred_label": "Sidonians",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Тир",
+"preferred_label": "Cause of Joy",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -273,6 +196,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
 "id": "place:Sidon",
 "type": "place",
 "preferred_label": "Сидон",
@@ -280,9 +210,79 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Варнава",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rescue",
 "type": "keyterm",
-"preferred_label": "Discern",
+"preferred_label": "Rescue",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Павел",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Тир",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Иерусалим",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Кесария",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Иудея",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -291,6 +291,13 @@
 "type": "realia",
 "preferred_label": "Bedroom",
 "confidence": 0.116,
+"match_method": "canonical"
+},
+{
+"id": "realia:Entrance",
+"type": "realia",
+"preferred_label": "Entrance",
+"confidence": 0.108,
 "match_method": "canonical"
 },
 {
@@ -308,16 +315,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sandal",
+"id": "realia:JudgmentSeat",
 "type": "realia",
-"preferred_label": "Sandal",
-"confidence": 0.108,
-"match_method": "canonical"
-},
-{
-"id": "realia:Entrance",
-"type": "realia",
-"preferred_label": "Entrance",
+"preferred_label": "Judgment Seat",
 "confidence": 0.108,
 "match_method": "canonical"
 },
@@ -336,9 +336,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:JudgmentSeat",
+"id": "realia:Sandal",
 "type": "realia",
-"preferred_label": "Judgment Seat",
+"preferred_label": "Sandal",
 "confidence": 0.108,
 "match_method": "canonical"
 }

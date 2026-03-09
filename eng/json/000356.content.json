@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Archites",
-"type": "group",
-"preferred_label": "Archites",
+"id": "person:Ziba",
+"type": "person",
+"preferred_label": "Ziba",
 "confidence": 0.3202,
 "match_method": "canonical"
 },
 {
-"id": "person:Ziba",
-"type": "person",
-"preferred_label": "Ziba",
+"id": "group:Archites",
+"type": "group",
+"preferred_label": "Archites",
 "confidence": 0.3202,
 "match_method": "canonical"
 },
@@ -133,6 +133,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Shimei.5",
+"type": "person",
+"preferred_label": "Shimei",
+"confidence": 0.2674,
+"match_method": "canonical"
+},
+{
 "id": "person:Zeruiah",
 "type": "person",
 "preferred_label": "Zeruiah",
@@ -140,10 +147,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shimei.5",
-"type": "person",
-"preferred_label": "Shimei",
-"confidence": 0.2674,
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.2652,
 "match_method": "canonical"
 },
 {
@@ -168,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
-"confidence": 0.2652,
-"match_method": "canonical"
-},
-{
 "id": "place:Bahurim",
 "type": "place",
 "preferred_label": "Bahurim",
@@ -182,9 +182,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "keyterm:Vow",
+"type": "keyterm",
+"preferred_label": "Vow",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
 "confidence": 0.2101,
 "match_method": "canonical"
 },
@@ -196,20 +217,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.2101,
-"match_method": "canonical"
-},
-{
-"id": "person:Saul.2",
-"type": "person",
-"preferred_label": "Saul",
-"confidence": 0.2101,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mephibosheth",
+"id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Mephibosheth",
-"confidence": 0.2101,
-"match_method": "canonical"
-},
-{
-"id": "person:Abishai",
-"type": "person",
-"preferred_label": "Abishai",
+"preferred_label": "Saul",
 "confidence": 0.2101,
 "match_method": "canonical"
 }

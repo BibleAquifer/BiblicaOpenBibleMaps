@@ -48,44 +48,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shechem",
-"type": "place",
-"preferred_label": "Shechem",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
-"id": "group:Manasseh",
+"id": "group:Ephraim",
 "type": "group",
-"preferred_label": "Tribe of Manasseh",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasseh",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.2321,
 "match_method": "canonical"
 },
@@ -97,16 +62,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.2321,
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "group:Manasseh",
 "type": "group",
-"preferred_label": "Tribe of Ephraim",
+"preferred_label": "Tribe of Manasseh",
 "confidence": 0.2321,
 "match_method": "canonical"
 },
@@ -118,10 +104,31 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
 "id": "place:Succoth",
 "type": "place",
 "preferred_label": "Succoth",
 "confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"preferred_label": "Cooking Pot",
+"confidence": 0.1721,
 "match_method": "canonical"
 },
 {
@@ -139,23 +146,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:CookingPot",
-"type": "realia",
-"preferred_label": "Cooking Pot",
-"confidence": 0.1721,
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1661,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Truth",
 "type": "keyterm",
 "preferred_label": "Truth",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -167,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Witness.2",
+"id": "keyterm:Kindness",
 "type": "keyterm",
-"preferred_label": "Testimony",
+"preferred_label": "Kindness",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -181,16 +181,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
+"id": "keyterm:Witness.2",
 "type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Testimony",
 "confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"preferred_label": "Fortification",
+"confidence": 0.1061,
 "match_method": "canonical"
 },
 {
 "id": "realia:Wine",
 "type": "realia",
 "preferred_label": "Wine",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"preferred_label": "Standard",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"preferred_label": "Lyre",
 "confidence": 0.1061,
 "match_method": "canonical"
 },
@@ -205,34 +233,6 @@
 "id": "realia:Lute",
 "type": "realia",
 "preferred_label": "Lute",
-"confidence": 0.1061,
-"match_method": "canonical"
-},
-{
-"id": "realia:Standard",
-"type": "realia",
-"preferred_label": "Standard",
-"confidence": 0.1061,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.1061,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lyre",
-"type": "realia",
-"preferred_label": "Lyre",
-"confidence": 0.1061,
-"match_method": "canonical"
-},
-{
-"id": "realia:Fortification",
-"type": "realia",
-"preferred_label": "Fortification",
 "confidence": 0.1061,
 "match_method": "canonical"
 }

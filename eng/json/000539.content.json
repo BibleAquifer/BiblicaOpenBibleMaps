@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Decree",
 "type": "keyterm",
 "preferred_label": "Decree",
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Eliezer.3",
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "person:Gershom",
 "type": "person",
-"preferred_label": "Eliezer",
+"preferred_label": "Gershom",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
@@ -98,23 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Gershom",
+"id": "person:Eliezer.3",
 "type": "person",
-"preferred_label": "Gershom",
+"preferred_label": "Eliezer",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Slaughtering",
 "type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
+"preferred_label": "Slaughtering",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -126,20 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
 "id": "place:Midian",
 "type": "place",
 "preferred_label": "Midian",
@@ -147,9 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
+"id": "keyterm:Truth",
 "type": "keyterm",
-"preferred_label": "Slaughtering",
+"preferred_label": "Truth",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -157,6 +150,13 @@
 "id": "person:Aaron",
 "type": "person",
 "preferred_label": "Aaron",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.1667,
 "match_method": "canonical"
 },

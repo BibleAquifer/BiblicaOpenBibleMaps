@@ -49,13 +49,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.3,
-"match_method": "canonical"
-},
-{
 "id": "group:Benjamin",
 "type": "group",
 "preferred_label": "Tribe of Benjamin",
@@ -70,6 +63,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.3,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Donkey",
 "type": "fauna",
 "preferred_label": "Donkey",
@@ -77,16 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
-"id": "person:Kish",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Kish",
+"preferred_label": "Israel",
 "confidence": 0.2333,
 "match_method": "canonical"
 },
@@ -98,31 +91,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Kish",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Kish",
 "confidence": 0.2333,
 "match_method": "canonical"
 },
 {
-"id": "person:UncleOfSaul",
-"type": "person",
-"preferred_label": "Saul's Uncle",
-"confidence": 0.1741,
-"match_method": "canonical"
-},
-{
-"id": "place:Tabor.2",
-"type": "place",
-"preferred_label": "Oak of Tabor",
-"confidence": 0.1741,
-"match_method": "canonical"
-},
-{
-"id": "place:Gibeath-elohim",
-"type": "place",
-"preferred_label": "Gibeath-elohim",
-"confidence": 0.1741,
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2333,
 "match_method": "canonical"
 },
 {
@@ -140,10 +119,24 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
-"confidence": 0.1733,
+"id": "person:UncleOfSaul",
+"type": "person",
+"preferred_label": "Saul's Uncle",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeath-elohim",
+"type": "place",
+"preferred_label": "Gibeath-elohim",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "place:Tabor.2",
+"type": "place",
+"preferred_label": "Oak of Tabor",
+"confidence": 0.1741,
 "match_method": "canonical"
 },
 {
@@ -154,10 +147,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1667,
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1733,
 "match_method": "canonical"
 },
 {
@@ -175,65 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericPerson",
-"type": "person",
-"preferred_label": "A Person",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Saying",
-"type": "keyterm",
-"preferred_label": "Proverb",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -245,10 +182,80 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Saying",
+"type": "keyterm",
+"preferred_label": "Proverb",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"preferred_label": "A Person",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Wickedness",
 "type": "keyterm",
 "preferred_label": "Wickedness",
 "confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"preferred_label": "Anointing Oil",
+"confidence": 0.1141,
 "match_method": "canonical"
 },
 {
@@ -266,10 +273,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:AnointingOil",
+"id": "realia:OliveOil",
 "type": "realia",
-"preferred_label": "Anointing Oil",
-"confidence": 0.1141,
+"preferred_label": "Olive Oil",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1067,
 "match_method": "canonical"
 },
 {
@@ -287,44 +301,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Flute",
+"id": "realia:Lyre",
 "type": "realia",
-"preferred_label": "Flute",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "realia:Skin-bottle",
-"type": "realia",
-"preferred_label": "Skin-Bottle",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lute",
-"type": "realia",
-"preferred_label": "Lute",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
+"preferred_label": "Lyre",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
@@ -336,6 +315,34 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Kid",
+"type": "fauna",
+"preferred_label": "Kid",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"preferred_label": "Flute",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
@@ -343,16 +350,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lyre",
+"id": "realia:Skin-bottle",
 "type": "realia",
-"preferred_label": "Lyre",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Kid",
-"type": "fauna",
-"preferred_label": "Kid",
+"preferred_label": "Skin-Bottle",
 "confidence": 0.1067,
 "match_method": "canonical"
 }

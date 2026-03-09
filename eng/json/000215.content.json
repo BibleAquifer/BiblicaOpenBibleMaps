@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Be a Disciple",
 "confidence": 0.4304,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
+"preferred_label": "Sky",
 "confidence": 0.4304,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Example",
 "type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Symbol",
 "confidence": 0.2982,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "Symbol",
+"preferred_label": "Life",
 "confidence": 0.2982,
 "match_method": "canonical"
 },
@@ -98,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
 "id": "place:CaesareaPhilippi",
 "type": "place",
 "preferred_label": "Caesarea Philippi",
@@ -112,37 +105,23 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Satan",
-"type": "deity",
-"preferred_label": "Satan",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptist",
+"id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Baptist",
-"confidence": 0.1661,
+"preferred_label": "Church",
+"confidence": 0.1732,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:HavingLittleFaith",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Having Little Faith",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happy",
+"id": "keyterm:StumblingBlock",
 "type": "keyterm",
-"preferred_label": "Happy",
+"preferred_label": "Stumbling Block",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -161,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Elijah",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:HavingLittleFaith",
-"type": "keyterm",
-"preferred_label": "Having Little Faith",
+"preferred_label": "Blood",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -189,44 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Resurrection",
+"id": "keyterm:Baptist",
 "type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:John.4",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:StumblingBlock",
-"type": "keyterm",
-"preferred_label": "Stumbling Block",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"preferred_label": "World of the Dead",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"preferred_label": "To Command",
+"preferred_label": "Baptist",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -245,37 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Think",
-"type": "keyterm",
-"preferred_label": "Think",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:Jonah.2",
+"id": "person:John.4",
 "type": "person",
-"preferred_label": "Jonah",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
+"preferred_label": "John",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -294,9 +196,107 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"preferred_label": "World of the Dead",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "preferred_label": "Body",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"preferred_label": "Think",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"preferred_label": "Jonah",
 "confidence": 0.1661,
 "match_method": "canonical"
 },

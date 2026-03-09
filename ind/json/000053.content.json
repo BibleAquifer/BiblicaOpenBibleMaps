@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Yerusalem",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Yesus",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "nama",
+"preferred_label": "tubuh",
 "confidence": 0.2755,
 "match_method": "canonical"
 },
@@ -77,10 +77,38 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "tubuh",
+"preferred_label": "nama",
 "confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "roh",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Petrus",
+"confidence": 0.217,
 "match_method": "canonical"
 },
 {
@@ -105,20 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "firman",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "kehidupan",
@@ -126,51 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Petrus",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "roh",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "place:Emmaus",
-"type": "place",
-"preferred_label": "Emaus",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "person:Cleopas",
-"type": "person",
-"preferred_label": "Kleopas",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "menggenapi",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Week",
 "type": "keyterm",
 "preferred_label": "minggu",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Betania",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
@@ -182,6 +154,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Cleopas",
+"type": "person",
+"preferred_label": "Kleopas",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
 "id": "person:Joanna",
 "type": "person",
 "preferred_label": "Yohana",
@@ -189,30 +168,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "percaya",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
+"id": "place:Bethany",
 "type": "place",
-"preferred_label": "Galilea",
+"preferred_label": "Betania",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "menggenapi",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "place:Emmaus",
+"type": "place",
+"preferred_label": "Emaus",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "saksi",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Height",
-"type": "keyterm",
-"preferred_label": "tempat yang tinggi",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "berbuat dosa",
+"preferred_label": "mengampuni",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "kemuliaan",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
 "confidence": 0.1585,
 "match_method": "canonical"
 }

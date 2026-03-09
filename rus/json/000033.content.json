@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cilicia",
-"type": "place",
-"preferred_label": "Киликия",
-"confidence": 0.2268,
-"match_method": "canonical"
-},
-{
 "id": "person:Mark",
 "type": "person",
 "preferred_label": "Марк",
@@ -119,44 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"preferred_label": "Fornication",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
+"id": "place:Cilicia",
 "type": "place",
-"preferred_label": "Иерусалим",
-"confidence": 0.222,
+"preferred_label": "Киликия",
+"confidence": 0.2268,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
 "confidence": 0.222,
 "match_method": "canonical"
 },
@@ -168,23 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Пётр",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "Circumcision",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Blood",
 "type": "keyterm",
 "preferred_label": "Blood",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"preferred_label": "Fornication",
 "confidence": 0.222,
 "match_method": "canonical"
 },
@@ -196,16 +154,58 @@
 "match_method": "canonical"
 },
 {
-"id": "person:James.3",
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
 "type": "person",
-"preferred_label": "Иаков",
-"confidence": 0.1659,
+"preferred_label": "Пётр",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "Circumcision",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Иерусалим",
+"confidence": 0.222,
 "match_method": "canonical"
 },
 {
 "id": "place:Phoenicia",
 "type": "place",
 "preferred_label": "Финикия",
+"confidence": 0.1659,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "Иаков",
 "confidence": 0.1659,
 "match_method": "canonical"
 },
@@ -217,58 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Portent",
-"type": "keyterm",
-"preferred_label": "Portent",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:CallUpon",
 "type": "keyterm",
 "preferred_label": "Call Upon",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "place:Cyprus",
-"type": "place",
-"preferred_label": "Киттим",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "Давид",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -280,93 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Portent",
 "type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"preferred_label": "Beloved",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "place:Pamphylia",
-"type": "place",
-"preferred_label": "Памфилия",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Самария",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"preferred_label": "Encourage",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "Heart",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericMales",
-"type": "group",
-"preferred_label": "Men",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
+"preferred_label": "Portent",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -378,9 +245,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sabbath",
+"id": "keyterm:Beloved",
 "type": "keyterm",
-"preferred_label": "Sabbath",
+"preferred_label": "Beloved",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -399,6 +294,111 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "Давид",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Самария",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Киттим",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "Encourage",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericMales",
+"type": "group",
+"preferred_label": "Men",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Памфилия",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
 "id": "realia:Yoke",
 "type": "realia",
 "preferred_label": "Yoke",
@@ -413,16 +413,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Synagogue",
+"id": "realia:Tabernacle",
 "type": "realia",
-"preferred_label": "Synagogue",
+"preferred_label": "Tabernacle",
 "confidence": 0.101,
 "match_method": "canonical"
 },
 {
-"id": "realia:Tabernacle",
+"id": "realia:Synagogue",
 "type": "realia",
-"preferred_label": "Tabernacle",
+"preferred_label": "Synagogue",
 "confidence": 0.101,
 "match_method": "canonical"
 }

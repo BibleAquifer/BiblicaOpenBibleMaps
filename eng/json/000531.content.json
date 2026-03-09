@@ -147,41 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "place:Rameses",
-"type": "place",
-"preferred_label": "Rameses",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
@@ -189,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decree",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Decree",
+"preferred_label": "Holy",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
@@ -203,9 +168,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Favor",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "place:Rameses",
+"type": "place",
+"preferred_label": "Rameses",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"preferred_label": "Decree",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.1588,
 "match_method": "canonical"
 },

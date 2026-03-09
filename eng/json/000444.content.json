@@ -28,13 +28,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.4932,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -42,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.4523,
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.4932,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
 "confidence": 0.4523,
 "match_method": "canonical"
 },
@@ -63,9 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.4523,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Babylon",
+"preferred_label": "Jerusalem",
 "confidence": 0.4523,
 "match_method": "canonical"
 },
@@ -84,6 +84,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:WordOfTheLord",
 "type": "keyterm",
 "preferred_label": "Word of the Lord",
@@ -94,13 +101,6 @@
 "id": "group:Hebrews",
 "type": "group",
 "preferred_label": "Hebrews",
-"confidence": 0.2409,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -119,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Alas",
-"type": "keyterm",
-"preferred_label": "Alas!",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "keyterm:Alas",
+"type": "keyterm",
+"preferred_label": "Alas!",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
@@ -144,13 +144,6 @@
 "type": "place",
 "preferred_label": "Azekah",
 "confidence": 0.1795,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dishonor",
-"type": "keyterm",
-"preferred_label": "To Dishonor",
-"confidence": 0.1705,
 "match_method": "canonical"
 },
 {
@@ -164,6 +157,13 @@
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
 "confidence": 0.1705,
 "match_method": "canonical"
 },

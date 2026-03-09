@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
+"preferred_label": "Offering",
 "confidence": 0.3162,
 "match_method": "canonical"
 },
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Peace",
+"preferred_label": "Word of the Lord",
 "confidence": 0.3162,
 "match_method": "canonical"
 },
@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Offering",
+"preferred_label": "Peace",
 "confidence": 0.3162,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.2622,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
 "preferred_label": "Slaughtering",
@@ -126,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.2622,
+"match_method": "canonical"
+},
+{
 "id": "place:HinnomValley",
 "type": "place",
 "preferred_label": "Valley of Hinnom",
@@ -133,30 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.2081,
-"match_method": "canonical"
-},
-{
 "id": "place:Shiloh",
 "type": "place",
 "preferred_label": "Shiloh",
-"confidence": 0.2081,
-"match_method": "canonical"
-},
-{
-"id": "place:Topheth",
-"type": "place",
-"preferred_label": "Topheth",
-"confidence": 0.2081,
-"match_method": "canonical"
-},
-{
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
 "confidence": 0.2081,
 "match_method": "canonical"
 },
@@ -168,9 +147,30 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2081,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
+"confidence": 0.2081,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.2081,
+"match_method": "canonical"
+},
+{
+"id": "place:Topheth",
+"type": "place",
+"preferred_label": "Topheth",
 "confidence": 0.2081,
 "match_method": "canonical"
 },
@@ -179,6 +179,13 @@
 "type": "fauna",
 "preferred_label": "Horse",
 "confidence": 0.2022,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-haccherem",
+"type": "place",
+"preferred_label": "Beth-haccherem",
+"confidence": 0.1559,
 "match_method": "canonical"
 },
 {
@@ -196,37 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beth-haccherem",
+"id": "place:Dan",
 "type": "place",
-"preferred_label": "Beth-haccherem",
-"confidence": 0.1559,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Dan",
 "confidence": 0.1541,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Foreskin",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Foreskin",
 "confidence": 0.1541,
 "match_method": "canonical"
 },
 {
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
 "confidence": 0.1541,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
+"id": "keyterm:TheWay",
 "type": "keyterm",
-"preferred_label": "Defilement",
+"preferred_label": "The Way",
 "confidence": 0.1541,
 "match_method": "canonical"
 }

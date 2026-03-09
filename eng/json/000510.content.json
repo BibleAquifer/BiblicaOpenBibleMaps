@@ -63,6 +63,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2379,
+"match_method": "canonical"
+},
+{
 "id": "person:Reuben",
 "type": "person",
 "preferred_label": "Reuben",
@@ -70,10 +77,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehem",
-"confidence": 0.2379,
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.2366,
 "match_method": "canonical"
 },
 {
@@ -98,23 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.2366,
+"id": "place:Paddan-aram",
+"type": "place",
+"preferred_label": "Paddan-aram",
+"confidence": 0.231,
 "match_method": "canonical"
 },
 {
 "id": "person:Abraham",
 "type": "person",
 "preferred_label": "Abraham",
-"confidence": 0.231,
-"match_method": "canonical"
-},
-{
-"id": "place:Paddan-aram",
-"type": "place",
-"preferred_label": "Paddan-aram",
 "confidence": 0.231,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:TowerOfEder",
+"id": "place:Allon-bacuth",
 "type": "place",
-"preferred_label": "Tower of Eder",
+"preferred_label": "Allon-bachuth",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Deborah",
+"id": "place:TowerOfEder",
+"type": "place",
+"preferred_label": "Tower of Eder",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -161,9 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Allon-bacuth",
+"id": "place:Mamre",
 "type": "place",
-"preferred_label": "Allon-bachuth",
+"preferred_label": "Mamre",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"preferred_label": "Deborah",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -175,16 +182,58 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mamre",
-"type": "place",
-"preferred_label": "Mamre",
-"confidence": 0.1724,
-"match_method": "canonical"
-},
-{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"preferred_label": "Zebulun",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"preferred_label": "Rebekah",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"preferred_label": "Dan",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -203,44 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Issachar",
-"type": "person",
-"preferred_label": "Issachar",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Pure",
 "type": "keyterm",
 "preferred_label": "Pure",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.10",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Rebekah",
-"type": "person",
-"preferred_label": "Rebekah",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -252,13 +266,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
 "id": "person:Zilpah",
 "type": "person",
 "preferred_label": "Zilpah",
@@ -266,9 +273,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -280,6 +287,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
 "id": "person:Asher",
 "type": "person",
 "preferred_label": "Asher",
@@ -287,23 +301,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Dan",
+"id": "person:Levi.3",
 "type": "person",
-"preferred_label": "Dan",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Naphtali",
-"type": "person",
-"preferred_label": "Naphtali",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebulun",
-"type": "person",
-"preferred_label": "Zebulun",
+"preferred_label": "Levi",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -329,9 +329,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
+"id": "realia:OliveOil",
 "type": "realia",
-"preferred_label": "Wine",
+"preferred_label": "Olive Oil",
 "confidence": 0.1055,
 "match_method": "canonical"
 },
@@ -343,16 +343,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Tent",
+"id": "realia:Wine",
 "type": "realia",
-"preferred_label": "Tent",
+"preferred_label": "Wine",
 "confidence": 0.1055,
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
+"id": "realia:Tent",
 "type": "realia",
-"preferred_label": "Olive Oil",
+"preferred_label": "Tent",
 "confidence": 0.1055,
 "match_method": "canonical"
 }

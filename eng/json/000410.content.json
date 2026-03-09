@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3884,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3884,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
 "confidence": 0.3829,
 "match_method": "canonical"
 },
 {
-"id": "person:Ahab",
-"type": "person",
-"preferred_label": "Ahab",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.3829,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
+"id": "place:Edom",
 "type": "place",
-"preferred_label": "Jordan River",
+"preferred_label": "Edom",
 "confidence": 0.2665,
 "match_method": "canonical"
 },
@@ -147,23 +147,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Edom",
+"preferred_label": "Jordan River",
 "confidence": 0.2665,
-"match_method": "canonical"
-},
-{
-"id": "place:Ramoth-gilead",
-"type": "place",
-"preferred_label": "Ramoth-gilead",
-"confidence": 0.2159,
 "match_method": "canonical"
 },
 {
 "id": "group:GenericProphets",
 "type": "group",
 "preferred_label": "Prophets",
+"confidence": 0.2159,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"preferred_label": "Ramoth-gilead",
 "confidence": 0.2159,
 "match_method": "canonical"
 },
@@ -182,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "keyterm:InfectiousSkinDisease",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.211,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"preferred_label": "Infectious Skin Disease",
 "confidence": 0.211,
 "match_method": "canonical"
 },
@@ -203,23 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.211,
-"match_method": "canonical"
-},
-{
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "Damascus",
-"confidence": 0.211,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:InfectiousSkinDisease",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Infectious Skin Disease",
+"preferred_label": "Word of the Lord",
+"confidence": 0.211,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.211,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
 "confidence": 0.211,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
+"confidence": 0.211,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
 "confidence": 0.211,
 "match_method": "canonical"
 }

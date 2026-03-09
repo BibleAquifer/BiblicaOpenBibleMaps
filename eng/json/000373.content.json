@@ -69,16 +69,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.3383,
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.3383,
 "match_method": "canonical"
 },
@@ -97,16 +97,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
@@ -160,16 +160,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeon",
-"type": "place",
-"preferred_label": "Gibeon",
+"id": "person:Hiram",
+"type": "person",
+"preferred_label": "Hiram",
 "confidence": 0.2191,
 "match_method": "canonical"
 },
 {
-"id": "person:Hiram",
-"type": "person",
-"preferred_label": "Hiram",
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
 "confidence": 0.2191,
 "match_method": "canonical"
 },
@@ -223,13 +223,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Talent",
-"type": "realia",
-"preferred_label": "Talent",
-"confidence": 0.1634,
-"match_method": "canonical"
-},
-{
 "id": "realia:Throne",
 "type": "realia",
 "preferred_label": "Throne",
@@ -237,52 +230,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Kiriath-jearim",
-"type": "place",
-"preferred_label": "Kiriath-jearim",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "person:Bezalel",
-"type": "person",
-"preferred_label": "Bezalel",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Arabia",
-"type": "place",
-"preferred_label": "Arabia",
-"confidence": 0.1596,
+"id": "realia:Talent",
+"type": "realia",
+"preferred_label": "Talent",
+"confidence": 0.1634,
 "match_method": "canonical"
 },
 {
@@ -300,30 +251,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
+"id": "place:Kiriath-jearim",
+"type": "place",
+"preferred_label": "Kiriath-jearim",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "person:Uri",
-"type": "person",
-"preferred_label": "Uri",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BelieveIn",
+"id": "keyterm:Truth",
 "type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Truth",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -335,58 +272,72 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
-"confidence": 0.1591,
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "realia:Ship",
-"type": "realia",
-"preferred_label": "Ship",
-"confidence": 0.1591,
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "flora:Fig",
-"type": "flora",
-"preferred_label": "Fig",
-"confidence": 0.1591,
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Bezalel",
+"type": "person",
+"preferred_label": "Bezalel",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Uri",
+"type": "person",
+"preferred_label": "Uri",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
 "id": "realia:HighPlace",
 "type": "realia",
 "preferred_label": "High Place",
-"confidence": 0.1591,
-"match_method": "canonical"
-},
-{
-"id": "flora:Cedar",
-"type": "flora",
-"preferred_label": "Cedar",
-"confidence": 0.1591,
-"match_method": "canonical"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.1591,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.1591,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
 "confidence": 0.1591,
 "match_method": "canonical"
 },
@@ -405,17 +356,52 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:SmallShield",
+"id": "realia:TempleAltar",
 "type": "realia",
-"preferred_label": "Small Shield",
-"confidence": 0.1038,
+"preferred_label": "Temple Altar",
+"confidence": 0.1591,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Monkey",
-"type": "fauna",
-"preferred_label": "Monkey",
-"confidence": 0.1038,
+"id": "flora:Fig",
+"type": "flora",
+"preferred_label": "Fig",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"preferred_label": "Cedar",
+"confidence": 0.1591,
+"match_method": "canonical"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1591,
 "match_method": "canonical"
 },
 {
@@ -433,6 +419,20 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Monkey",
+"type": "fauna",
+"preferred_label": "Monkey",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
 "id": "realia:Cloak",
 "type": "realia",
 "preferred_label": "Cloak",
@@ -440,37 +440,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Tent",
-"type": "realia",
-"preferred_label": "Tent",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
 "id": "realia:ArkOfTheCovenant",
 "type": "realia",
 "preferred_label": "Ark of the Covenant",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lute",
-"type": "realia",
-"preferred_label": "Lute",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Mule",
-"type": "fauna",
-"preferred_label": "Mule",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Mina",
-"type": "realia",
-"preferred_label": "Mina",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -489,9 +461,37 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
 "id": "realia:Weapons",
 "type": "realia",
 "preferred_label": "Weapons",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"preferred_label": "Tent",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Mina",
+"type": "realia",
+"preferred_label": "Mina",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
 "confidence": 0.0996,
 "match_method": "canonical"
 }

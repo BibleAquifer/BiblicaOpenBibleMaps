@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Perizzites",
-"type": "group",
-"preferred_label": "Perizzites",
-"confidence": 0.25,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:LandFlowingOfMilkAndHoney",
 "type": "keyterm",
 "preferred_label": "Land Flowing of Milk and Honey",
@@ -98,23 +91,16 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
+"confidence": 0.25,
+"match_method": "canonical"
+},
+{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
-"confidence": 0.2409,
-"match_method": "canonical"
-},
-{
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
-"confidence": 0.2409,
-"match_method": "canonical"
-},
-{
-"id": "group:Jebusites",
-"type": "group",
-"preferred_label": "Jebusites",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -133,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Pharaoh.6",
-"type": "person",
-"preferred_label": "Pharaoh",
-"confidence": 0.2409,
-"match_method": "canonical"
-},
-{
 "id": "group:Amorites",
 "type": "group",
 "preferred_label": "Amorites",
@@ -147,16 +126,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:SinaiMount",
-"type": "place",
-"preferred_label": "Mount Sinai",
-"confidence": 0.1795,
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.2409,
 "match_method": "canonical"
 },
 {
 "id": "person:Jethro",
 "type": "person",
 "preferred_label": "Jethro",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"preferred_label": "Mount Sinai",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
@@ -168,16 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Appoint",
+"preferred_label": "Holy",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -203,23 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
+"id": "keyterm:Appoint",
 "type": "keyterm",
-"preferred_label": "Force to Serve",
+"preferred_label": "Appoint",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lamb",
+"id": "fauna:Flock",
 "type": "fauna",
-"preferred_label": "Sheep",
+"preferred_label": "Flock",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -227,13 +227,6 @@
 "id": "realia:Cloak",
 "type": "realia",
 "preferred_label": "Cloak",
-"confidence": 0.1105,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -248,6 +241,13 @@
 "id": "fauna:Goat",
 "type": "fauna",
 "preferred_label": "Goat",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1105,
 "match_method": "canonical"
 },

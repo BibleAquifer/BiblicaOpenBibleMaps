@@ -98,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3195,
+"match_method": "canonical"
+},
+{
 "id": "realia:Window",
 "type": "realia",
 "preferred_label": "Window",
@@ -122,13 +129,6 @@
 "id": "realia:Altar",
 "type": "realia",
 "preferred_label": "Altar",
-"confidence": 0.3195,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
 "confidence": 0.3195,
 "match_method": "canonical"
 },
@@ -182,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Vision",
+"id": "keyterm:Appease",
 "type": "keyterm",
-"preferred_label": "Vision",
-"confidence": 0.2074,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"preferred_label": "Appease",
 "confidence": 0.2074,
 "match_method": "canonical"
 },
@@ -199,6 +192,20 @@
 "id": "person:Zadok.2",
 "type": "person",
 "preferred_label": "Zadok",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"preferred_label": "Vision",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.2074,
 "match_method": "canonical"
 },
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appease",
-"type": "keyterm",
-"preferred_label": "Appease",
-"confidence": 0.2074,
-"match_method": "canonical"
-},
-{
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.2074,
 "match_method": "canonical"
 }

@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3474,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3474,
 "match_method": "canonical"
 },
@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.2255,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -84,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Josiah",
-"type": "person",
-"preferred_label": "Josiah",
-"confidence": 0.2237,
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.2255,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
@@ -105,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Josiah",
+"type": "person",
+"preferred_label": "Josiah",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
 "id": "person:Nebuchadnezzar",
 "type": "person",
 "preferred_label": "Nebuchadnezzar",
@@ -112,23 +112,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Uz",
+"type": "place",
+"preferred_label": "Uz",
+"confidence": 0.1671,
 "match_method": "canonical"
 },
 {
 "id": "place:Tema",
 "type": "place",
 "preferred_label": "Tema",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "place:Zimri",
-"type": "place",
-"preferred_label": "Zimri",
 "confidence": 0.1671,
 "match_method": "canonical"
 },
@@ -140,6 +140,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Zimri",
+"type": "place",
+"preferred_label": "Zimri",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
 "id": "place:Buz",
 "type": "place",
 "preferred_label": "Buz",
@@ -147,44 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Uz",
+"id": "place:Media",
 "type": "place",
-"preferred_label": "Uz",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoiakim",
-"type": "person",
-"preferred_label": "Jehoiakim",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
+"preferred_label": "Media",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -196,86 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Arabia",
-"type": "place",
-"preferred_label": "Arabia",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "group:Chaldea",
-"type": "group",
-"preferred_label": "Chaldeans",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Ekron",
-"type": "place",
-"preferred_label": "Ekron",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Elam",
-"type": "place",
-"preferred_label": "Elam",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"preferred_label": "Be Blameless",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Chaldea",
-"type": "place",
-"preferred_label": "Chaldea",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Ashdod",
-"type": "place",
-"preferred_label": "Ashdod",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
 "id": "place:Dedan",
 "type": "place",
 "preferred_label": "Dedan",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -287,23 +189,51 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Ashdod",
+"type": "place",
+"preferred_label": "Ashdod",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"preferred_label": "Be Blameless",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"preferred_label": "Elam",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
 "id": "place:Philistine",
 "type": "place",
 "preferred_label": "Philistia",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -315,6 +245,41 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"preferred_label": "Gaza",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"preferred_label": "Jehoiakim",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
 "id": "place:Ashkelon",
 "type": "place",
 "preferred_label": "Ashkelon",
@@ -322,10 +287,52 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Media",
+"id": "place:Moab",
 "type": "place",
-"preferred_label": "Media",
+"preferred_label": "Moab",
 "confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Ekron",
+"type": "place",
+"preferred_label": "Ekron",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1018,
 "match_method": "canonical"
 },
 {
@@ -336,16 +343,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
-"confidence": 0.1018,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lamp",
-"type": "realia",
-"preferred_label": "Lamp",
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
 "confidence": 0.1018,
 "match_method": "canonical"
 },
@@ -357,23 +357,23 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
 "id": "realia:Scroll",
 "type": "realia",
 "preferred_label": "Scroll",
-"confidence": 0.1018,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.1018,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
 "confidence": 0.1018,
 "match_method": "canonical"
 }

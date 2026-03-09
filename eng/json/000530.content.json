@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Asenath",
+"id": "person:Potiphera",
 "type": "person",
-"preferred_label": "Asenath",
+"preferred_label": "Potiphera",
 "confidence": 0.2228,
 "match_method": "canonical"
 },
 {
-"id": "person:Potiphera",
+"id": "person:Asenath",
 "type": "person",
-"preferred_label": "Potiphera",
+"preferred_label": "Asenath",
 "confidence": 0.2228,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
+"id": "person:Manasseh",
 "type": "person",
-"preferred_label": "Ephraim",
+"preferred_label": "Manasseh",
 "confidence": 0.1614,
 "match_method": "canonical"
 },
 {
-"id": "person:Manasseh",
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Manasseh",
+"preferred_label": "Ephraim",
 "confidence": 0.1614,
 "match_method": "canonical"
 },
@@ -109,27 +109,6 @@
 "type": "flora",
 "preferred_label": "Grass",
 "confidence": 0.1593,
-"match_method": "canonical"
-},
-{
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "Egyptians",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.1579,
 "match_method": "canonical"
 },
 {
@@ -143,6 +122,27 @@
 "id": "group:Hebrews",
 "type": "group",
 "preferred_label": "Hebrews",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
 "confidence": 0.1579,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Chariot",
+"id": "realia:Linen",
 "type": "realia",
-"preferred_label": "Chariot",
+"preferred_label": "Linen",
 "confidence": 0.0979,
 "match_method": "canonical"
 },
 {
-"id": "realia:Linen",
+"id": "realia:Chariot",
 "type": "realia",
-"preferred_label": "Linen",
+"preferred_label": "Chariot",
 "confidence": 0.0979,
 "match_method": "canonical"
 }

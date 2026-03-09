@@ -140,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
 "id": "place:Telaim",
 "type": "place",
 "preferred_label": "Telaim",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Havilah.2",
-"type": "place",
-"preferred_label": "Havilah",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -168,6 +154,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Kenite",
+"type": "group",
+"preferred_label": "Kenites",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:SomethingDevotedToGod",
 "type": "keyterm",
 "preferred_label": "Something Devoted to God",
@@ -175,9 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Kenite",
-"type": "group",
-"preferred_label": "Kenites",
+"id": "place:Havilah.2",
+"type": "place",
+"preferred_label": "Havilah",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Mischief",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Mischief",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -203,72 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BringHonorAndGloryOnOneself",
-"type": "keyterm",
-"preferred_label": "Bring Honor and Glory on Oneself",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Ramah",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mischief",
-"type": "keyterm",
-"preferred_label": "Mischief",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Forgive",
 "type": "keyterm",
 "preferred_label": "Forgive",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Gibeah.2",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -280,9 +217,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
 "type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Slaughtering",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -294,10 +266,31 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Robe",
-"type": "realia",
-"preferred_label": "Robe",
-"confidence": 0.1029,
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1629,
 "match_method": "canonical"
 },
 {
@@ -315,9 +308,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "realia:Robe",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Robe",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -325,6 +318,13 @@
 "id": "fauna:Camel",
 "type": "fauna",
 "preferred_label": "Camel",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.1029,
 "match_method": "canonical"
 }

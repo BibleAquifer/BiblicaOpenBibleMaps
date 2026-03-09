@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "person:Abimelech",
+"type": "person",
+"preferred_label": "Abimelech",
 "confidence": 0.3673,
 "match_method": "canonical"
 },
 {
-"id": "person:Abimelech",
-"type": "person",
-"preferred_label": "Abimelech",
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.3673,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.3624,
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
 "confidence": 0.3624,
 "match_method": "canonical"
 },
@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Laban",
-"type": "person",
-"preferred_label": "Laban",
-"confidence": 0.311,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Oath",
 "type": "keyterm",
 "preferred_label": "Oath",
@@ -161,10 +154,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Sarah",
+"id": "person:Laban",
 "type": "person",
-"preferred_label": "Sarah",
-"confidence": 0.3099,
+"preferred_label": "Laban",
+"confidence": 0.311,
 "match_method": "canonical"
 },
 {
@@ -175,17 +168,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Heth",
+"id": "person:Sarah",
 "type": "person",
-"preferred_label": "Heth",
+"preferred_label": "Sarah",
 "confidence": 0.3099,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
-"confidence": 0.3024,
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.3099,
 "match_method": "canonical"
 },
 {
@@ -203,10 +196,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.2585,
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.3024,
 "match_method": "canonical"
 },
 {
@@ -217,16 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.2574,
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2585,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
+"confidence": 0.2574,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
 "confidence": 0.2574,
 "match_method": "canonical"
 }

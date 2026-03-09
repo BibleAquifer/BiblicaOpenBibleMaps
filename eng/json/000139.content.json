@@ -49,13 +49,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Elijah",
-"confidence": 0.329,
-"match_method": "canonical"
-},
-{
 "id": "person:Peter",
 "type": "person",
 "preferred_label": "Peter",
@@ -63,17 +56,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2718,
-"match_method": "canonical"
-},
-{
-"id": "person:John.2",
+"id": "person:Elijah",
 "type": "person",
-"preferred_label": "John",
-"confidence": 0.2718,
+"preferred_label": "Elijah",
+"confidence": 0.329,
 "match_method": "canonical"
 },
 {
@@ -84,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
 "confidence": 0.2718,
 "match_method": "canonical"
 },
@@ -105,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
 "confidence": 0.2718,
 "match_method": "canonical"
 },
@@ -119,9 +105,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "person:John.2",
 "type": "person",
-"preferred_label": "Moses",
+"preferred_label": "John",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"preferred_label": "Herod Antipas",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
@@ -133,9 +133,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Herod.2",
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Herod Antipas",
+"preferred_label": "Moses",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
@@ -143,13 +164,6 @@
 "id": "keyterm:Resurrection",
 "type": "keyterm",
 "preferred_label": "Resurrection",
-"confidence": 0.2145,
-"match_method": "canonical"
-},
-{
-"id": "person:James",
-"type": "person",
-"preferred_label": "James",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
@@ -168,23 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.2145,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.2145,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
@@ -210,23 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Good News",
+"preferred_label": "Word",
 "confidence": 0.1573,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Holy",
 "confidence": 0.1573,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptist",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Baptist",
+"preferred_label": "Ask for",
 "confidence": 0.1573,
 "match_method": "canonical"
 }
