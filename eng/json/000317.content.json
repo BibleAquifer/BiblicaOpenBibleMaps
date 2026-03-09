@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Gilead",
-"type": "group",
-"preferred_label": "Gileadites",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.3247,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
+"id": "group:Gilead",
+"type": "group",
+"preferred_label": "Gileadites",
 "confidence": 0.3247,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "person:Sihon",
+"type": "person",
+"preferred_label": "Sihon",
 "confidence": 0.2685,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.2685,
 "match_method": "canonical"
 },
 {
-"id": "person:Sihon",
-"type": "person",
-"preferred_label": "Sihon",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.2685,
 "match_method": "canonical"
 },
@@ -175,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Elon.3",
-"type": "person",
-"preferred_label": "Elon",
-"confidence": 0.2178,
-"match_method": "canonical"
-},
-{
 "id": "person:Ibzan",
 "type": "person",
 "preferred_label": "Ibzan",
@@ -189,9 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Gilead.2",
+"id": "group:Zebulun",
+"type": "group",
+"preferred_label": "Tribe of Zebulun",
+"confidence": 0.2178,
+"match_method": "canonical"
+},
+{
+"id": "person:Elon.3",
 "type": "person",
-"preferred_label": "Gilead",
+"preferred_label": "Elon",
 "confidence": 0.2178,
 "match_method": "canonical"
 },
@@ -210,16 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abdon",
+"id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "Abdon",
+"preferred_label": "Gilead",
 "confidence": 0.2178,
 "match_method": "canonical"
 },
 {
-"id": "group:Zebulun",
-"type": "group",
-"preferred_label": "Tribe of Zebulun",
+"id": "person:Abdon",
+"type": "person",
+"preferred_label": "Abdon",
 "confidence": 0.2178,
 "match_method": "canonical"
 },

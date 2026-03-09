@@ -77,6 +77,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.3785,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Name",
 "type": "keyterm",
 "preferred_label": "Name",
@@ -87,13 +94,6 @@
 "id": "deity:HolySpirit",
 "type": "deity",
 "preferred_label": "Holy Spirit",
-"confidence": 0.3785,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
 "confidence": 0.3785,
 "match_method": "canonical"
 },
@@ -126,13 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 0.2671,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -147,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.2671,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "preferred_label": "Baptism",
@@ -161,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Encourage",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Encourage",
+"preferred_label": "Serve",
 "confidence": 0.2671,
 "match_method": "canonical"
 },
@@ -175,10 +161,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Miletus",
-"type": "place",
-"preferred_label": "Miletus",
-"confidence": 0.2165,
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "Encourage",
+"confidence": 0.2671,
 "match_method": "canonical"
 },
 {
@@ -186,6 +179,20 @@
 "type": "person",
 "preferred_label": "Demetrius",
 "confidence": 0.2165,
+"match_method": "canonical"
+},
+{
+"id": "place:Miletus",
+"type": "place",
+"preferred_label": "Miletus",
+"confidence": 0.2165,
+"match_method": "canonical"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"preferred_label": "Aristarchus",
+"confidence": 0.2139,
 "match_method": "canonical"
 },
 {
@@ -203,20 +210,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Aristarchus",
-"type": "person",
-"preferred_label": "Aristarchus",
-"confidence": 0.2139,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.2114,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:TheWay",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "The Way",
+"preferred_label": "Spirit",
+"confidence": 0.2114,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
 "confidence": 0.2114,
 "match_method": "canonical"
 }

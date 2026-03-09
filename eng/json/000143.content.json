@@ -63,37 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"preferred_label": "Parable",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -112,10 +84,45 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "Heart",
 "confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.161,
 "match_method": "canonical"
 },
 {
@@ -133,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blaspheme",
-"type": "keyterm",
-"preferred_label": "Blaspheme",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
 "id": "realia:Barn",
 "type": "realia",
 "preferred_label": "Barn",
@@ -147,9 +147,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:HavingLittleFaith",
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Having Little Faith",
+"preferred_label": "Decided",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1576,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
@@ -161,37 +182,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Baptism",
+"preferred_label": "To Command",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Forgive",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BringIn",
+"id": "keyterm:SetFree",
 "type": "keyterm",
-"preferred_label": "Bring In",
+"preferred_label": "Set Free",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
 "confidence": 0.1576,
 "match_method": "canonical"
 },
@@ -210,23 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.1576,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Glory",
 "confidence": 0.1576,
 "match_method": "canonical"
 }

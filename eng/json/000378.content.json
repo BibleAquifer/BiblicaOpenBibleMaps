@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeroboam",
-"type": "person",
-"preferred_label": "Jeroboam",
+"id": "place:Tirzah",
+"type": "place",
+"preferred_label": "Tirzah",
 "confidence": 0.4294,
 "match_method": "canonical"
 },
 {
-"id": "place:Tirzah",
-"type": "place",
-"preferred_label": "Tirzah",
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
 "confidence": 0.4294,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Asa",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Asa",
 "confidence": 0.4162,
 "match_method": "canonical"
 },
 {
-"id": "person:Asa",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Asa",
+"preferred_label": "Judah",
 "confidence": 0.4162,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Tibni",
+"id": "person:Ginath",
 "type": "person",
-"preferred_label": "Tibni",
+"preferred_label": "Ginath",
 "confidence": 0.2382,
 "match_method": "canonical"
 },
 {
-"id": "person:Ginath",
+"id": "person:Tibni",
 "type": "person",
-"preferred_label": "Ginath",
+"preferred_label": "Tibni",
 "confidence": 0.2382,
 "match_method": "canonical"
 },
@@ -168,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibbethon",
-"type": "place",
-"preferred_label": "Gibbethon",
-"confidence": 0.2265,
-"match_method": "canonical"
-},
-{
 "id": "deity:Baal",
 "type": "deity",
 "preferred_label": "Baal",
@@ -182,9 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Segub",
+"id": "place:Gibbethon",
+"type": "place",
+"preferred_label": "Gibbethon",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Segub",
+"preferred_label": "Jezebel",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -196,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Arza",
+"id": "person:Ethbaal",
 "type": "person",
-"preferred_label": "Arza",
+"preferred_label": "Ethbaal",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jezebel",
+"id": "person:Segub",
 "type": "person",
-"preferred_label": "Jezebel",
+"preferred_label": "Segub",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
 {
-"id": "person:Ethbaal",
+"id": "person:Arza",
 "type": "person",
-"preferred_label": "Ethbaal",
+"preferred_label": "Arza",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -238,44 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Nun",
-"type": "person",
-"preferred_label": "Nun",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
 "id": "place:Bethel",
 "type": "place",
 "preferred_label": "Bethel",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Sidon",
-"type": "place",
-"preferred_label": "Sidon",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Joshua.2",
-"type": "person",
-"preferred_label": "Joshua",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -287,9 +252,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Sidon",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
 "type": "group",
-"preferred_label": "Sidonians",
+"preferred_label": "Philistines",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -301,44 +280,37 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Nun",
+"type": "person",
+"preferred_label": "Nun",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
 "id": "realia:StoneAltar",
 "type": "realia",
 "preferred_label": "Stone Altar",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Dog",
-"type": "fauna",
-"preferred_label": "Dog",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:SacredPole",
-"type": "realia",
-"preferred_label": "Sacred Pole",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
 "confidence": 0.1032,
 "match_method": "canonical"
 },
@@ -357,9 +329,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "fauna:Dog",
+"type": "fauna",
+"preferred_label": "Dog",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Money",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:SacredPole",
+"type": "realia",
+"preferred_label": "Sacred Pole",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
 "confidence": 0.1032,
 "match_method": "canonical"
 }

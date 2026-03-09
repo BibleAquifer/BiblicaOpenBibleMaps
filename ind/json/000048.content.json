@@ -76,16 +76,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "hati",
+"preferred_label": "kemuliaan",
 "confidence": 0.3699,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "kemuliaan",
+"preferred_label": "hati",
 "confidence": 0.3699,
 "match_method": "canonical"
 },
@@ -94,13 +94,6 @@
 "type": "keyterm",
 "preferred_label": "menasihati",
 "confidence": 0.368,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Consecration.2",
-"type": "keyterm",
-"preferred_label": "dikhususkan",
-"confidence": 0.3665,
 "match_method": "canonical"
 },
 {
@@ -118,23 +111,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Live.3",
-"type": "keyterm",
-"preferred_label": "hidup",
-"confidence": 0.3665,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "memperdamaikan",
-"confidence": 0.3665,
-"match_method": "canonical"
-},
-{
 "id": "deity:HolySpirit",
 "type": "deity",
 "preferred_label": "Roh",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "hidup",
 "confidence": 0.3665,
 "match_method": "canonical"
 },
@@ -146,6 +132,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.3665,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "kehidupan",
@@ -153,9 +146,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Hope",
+"id": "keyterm:Consecration.2",
 "type": "keyterm",
-"preferred_label": "harapan",
+"preferred_label": "dikhususkan",
 "confidence": 0.3665,
 "match_method": "canonical"
 },
@@ -167,16 +160,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CauseOfJoy",
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.3132,
+"preferred_label": "memperdamaikan",
+"confidence": 0.3665,
 "match_method": "canonical"
 },
 {
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timotius",
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
 "confidence": 0.3132,
 "match_method": "canonical"
 },
@@ -188,16 +181,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"preferred_label": "Paulus",
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
 "confidence": 0.3132,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "khusus",
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.3132,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
 "confidence": 0.3132,
 "match_method": "canonical"
 },
@@ -209,16 +209,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lawless",
+"id": "keyterm:Blameless",
 "type": "keyterm",
-"preferred_label": "tak kenal hukum",
+"preferred_label": "lepas atau bebas dari sumpah",
 "confidence": 0.2614,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blameless",
+"id": "keyterm:Lawless",
 "type": "keyterm",
-"preferred_label": "lepas atau bebas dari sumpah",
+"preferred_label": "tak kenal hukum",
 "confidence": 0.2614,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:InChrist",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "dalam kristus",
+"preferred_label": "roh",
 "confidence": 0.2599,
 "match_method": "canonical"
 }

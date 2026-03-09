@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Beeroth",
-"type": "group",
-"preferred_label": "Beerothites",
+"id": "place:Beeroth",
+"type": "place",
+"preferred_label": "Beeroth",
 "confidence": 0.4667,
 "match_method": "canonical"
 },
 {
-"id": "place:Beeroth",
-"type": "place",
-"preferred_label": "Beeroth",
+"id": "group:Beeroth",
+"type": "group",
+"preferred_label": "Beerothites",
 "confidence": 0.4667,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "person:Abner",
+"type": "person",
+"preferred_label": "Abner",
 "confidence": 0.275,
 "match_method": "canonical"
 },
 {
-"id": "person:Abner",
-"type": "person",
-"preferred_label": "Abner",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.275,
 "match_method": "canonical"
 },
@@ -109,6 +109,13 @@
 "type": "realia",
 "preferred_label": "Bed",
 "confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel.3",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.2042,
 "match_method": "canonical"
 },
 {
@@ -126,37 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jezreel.3",
+"id": "place:Arabah",
 "type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.2042,
+"preferred_label": "Arabah",
+"confidence": 0.1875,
 "match_method": "canonical"
 },
 {
 "id": "person:Jonathan.3",
 "type": "person",
 "preferred_label": "Jonathan",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "place:Arabah",
-"type": "place",
-"preferred_label": "Arabah",
 "confidence": 0.1875,
 "match_method": "canonical"
 },
@@ -168,9 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Benjamin",
+"preferred_label": "Israel",
 "confidence": 0.1875,
 "match_method": "canonical"
 },
@@ -178,6 +171,13 @@
 "id": "keyterm:Redeem",
 "type": "keyterm",
 "preferred_label": "Redeem",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
 "confidence": 0.1875,
 "match_method": "canonical"
 },

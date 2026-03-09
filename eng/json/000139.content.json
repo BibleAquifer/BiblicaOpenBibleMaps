@@ -63,23 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.2718,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.2718,
-"match_method": "canonical"
-},
-{
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
 "confidence": 0.2718,
 "match_method": "canonical"
 },
@@ -91,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
 "confidence": 0.2718,
 "match_method": "canonical"
 },
@@ -105,37 +98,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
 "type": "person",
 "preferred_label": "John",
 "confidence": 0.2718,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
 "confidence": 0.2718,
 "match_method": "canonical"
 },
 {
-"id": "person:Herod.2",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Herod Antipas",
-"confidence": 0.2145,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2145,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
+"preferred_label": "Moses",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
@@ -154,9 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "person:James",
 "type": "person",
-"preferred_label": "Moses",
+"preferred_label": "James",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
 {
-"id": "person:James",
+"id": "person:Herod.2",
 "type": "person",
-"preferred_label": "James",
+"preferred_label": "Herod Antipas",
 "confidence": 0.2145,
 "match_method": "canonical"
 },
@@ -196,13 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Reject",
-"type": "keyterm",
-"preferred_label": "Reject",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
 "id": "person:ReligiousOfficial",
 "type": "person",
 "preferred_label": "Religious Official",
@@ -210,23 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Reject",
 "type": "keyterm",
-"preferred_label": "Word",
+"preferred_label": "Reject",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.1573,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Bless",
 "confidence": 0.1573,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Happen",
 "type": "keyterm",
-"preferred_label": "Ask for",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.1573,
 "match_method": "canonical"
 }

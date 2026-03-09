@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "fauna:Lamb",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Sheep",
 "confidence": 0.29,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Sheep",
+"preferred_label": "Goat",
 "confidence": 0.29,
 "match_method": "canonical"
 },
@@ -105,6 +105,20 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Midian",
+"type": "group",
+"preferred_label": "Midianites",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:IntactState",
 "type": "keyterm",
 "preferred_label": "Peace",
@@ -119,23 +133,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"preferred_label": "Midianites",
-"confidence": 0.225,
+"id": "person:Potiphar",
+"type": "person",
+"preferred_label": "Potiphar",
+"confidence": 0.1681,
 "match_method": "canonical"
 },
 {
 "id": "place:HebronValley",
 "type": "place",
 "preferred_label": "Valley of Hebron",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
 "confidence": 0.1681,
 "match_method": "canonical"
 },
@@ -147,17 +161,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Potiphar",
-"type": "person",
-"preferred_label": "Potiphar",
-"confidence": 0.1681,
+"id": "fauna:Hyena",
+"type": "fauna",
+"preferred_label": "Hyena",
+"confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.1681,
+"id": "fauna:Bear",
+"type": "fauna",
+"preferred_label": "Bear",
+"confidence": 0.165,
 "match_method": "canonical"
 },
 {
@@ -175,37 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bear",
-"type": "fauna",
-"preferred_label": "Bear",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Hyena",
-"type": "fauna",
-"preferred_label": "Hyena",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Pharaoh.4",
-"type": "person",
-"preferred_label": "Pharaoh",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Canaan",
+"id": "place:Hell",
 "type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"preferred_label": "Be Zealous",
+"preferred_label": "Hell",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -217,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "place:Hell",
+"id": "place:Canaan",
 "type": "place",
-"preferred_label": "Hell",
+"preferred_label": "Canaan",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -238,10 +224,31 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Pharaoh.4",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
 "id": "person:GenericMale",
 "type": "person",
 "preferred_label": "A Man",
 "confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "flora:Ladanum",
+"type": "flora",
+"preferred_label": "Rock Rose",
+"confidence": 0.1081,
 "match_method": "canonical"
 },
 {
@@ -255,13 +262,6 @@
 "id": "realia:Sackcloth",
 "type": "realia",
 "preferred_label": "Sackcloth",
-"confidence": 0.1081,
-"match_method": "canonical"
-},
-{
-"id": "flora:Ladanum",
-"type": "flora",
-"preferred_label": "Rock Rose",
 "confidence": 0.1081,
 "match_method": "canonical"
 },

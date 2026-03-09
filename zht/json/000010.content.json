@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blood",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Blood",
+"preferred_label": "Surely!",
 "confidence": 0.3254,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Blood",
 "confidence": 0.3254,
 "match_method": "canonical"
 },
@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.269,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -126,23 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.2127,
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.269,
 "match_method": "canonical"
 },
 {
 "id": "person:Philip",
 "type": "person",
 "preferred_label": "Philip",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
@@ -161,9 +147,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tiberias",
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "place:GalileeSea",
 "type": "place",
-"preferred_label": "Tiberias",
+"preferred_label": "Sea of Galilee",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -175,23 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:GalileeSea",
+"id": "place:Tiberias",
 "type": "place",
-"preferred_label": "Sea of Galilee",
+"preferred_label": "Tiberias",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
 {
-"id": "person:Andrew",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Andrew",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "person:Judas.2",
-"type": "person",
-"preferred_label": "Judas",
+"preferred_label": "Moses",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
@@ -203,16 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "Spirit",
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"preferred_label": "Judas",
 "confidence": 0.1563,
 "match_method": "canonical"
 }

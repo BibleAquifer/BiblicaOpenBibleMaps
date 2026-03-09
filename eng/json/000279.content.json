@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.3814,
-"match_method": "canonical"
-},
-{
 "id": "person:Aaron",
 "type": "person",
 "preferred_label": "Aaron",
@@ -77,9 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.3814,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
 "confidence": 0.3788,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
 "confidence": 0.3788,
 "match_method": "canonical"
 },
@@ -154,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:LandFlowingOfMilkAndHoney",
-"type": "keyterm",
-"preferred_label": "Land Flowing of Milk and Honey",
-"confidence": 0.2141,
-"match_method": "canonical"
-},
-{
 "id": "person:Heth",
 "type": "person",
 "preferred_label": "Heth",
@@ -175,30 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
+"id": "keyterm:LandFlowingOfMilkAndHoney",
 "type": "keyterm",
-"preferred_label": "Force to Serve",
-"confidence": 0.2115,
+"preferred_label": "Land Flowing of Milk and Honey",
+"confidence": 0.2141,
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
-"id": "group:Hittite",
+"id": "group:Hivites",
 "type": "group",
-"preferred_label": "Hittites",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
+"preferred_label": "Hivites",
 "confidence": 0.2115,
 "match_method": "canonical"
 },
@@ -210,16 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.2115,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
+"id": "group:Hittite",
 "type": "group",
-"preferred_label": "Tribe of Levi",
+"preferred_label": "Hittites",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
 "confidence": 0.2115,
 "match_method": "canonical"
 },
@@ -227,6 +213,20 @@
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.2115,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
 "confidence": 0.2115,
 "match_method": "canonical"
 }

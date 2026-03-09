@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Elealeh",
+"id": "place:Sibmah",
 "type": "place",
-"preferred_label": "Elealeh",
+"preferred_label": "Sibmah",
 "confidence": 0.2478,
 "match_method": "canonical"
 },
 {
-"id": "place:Sibmah",
+"id": "place:Elealeh",
 "type": "place",
-"preferred_label": "Sibmah",
+"preferred_label": "Elealeh",
 "confidence": 0.2478,
 "match_method": "canonical"
 },
@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jazer",
-"type": "place",
-"preferred_label": "Jazer",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
 "id": "place:Dibon",
 "type": "place",
 "preferred_label": "Dibon",
@@ -84,10 +77,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
-"confidence": 0.1791,
+"id": "place:Jazer",
+"type": "place",
+"preferred_label": "Jazer",
+"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
@@ -98,51 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Eglaim",
-"type": "place",
-"preferred_label": "Eglaim",
-"confidence": 0.1783,
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.1791,
 "match_method": "canonical"
 },
 {
-"id": "place:BrookOfTheWillows",
+"id": "place:Zoar",
 "type": "place",
-"preferred_label": "Brook of the Willows",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "place:Horonaim",
-"type": "place",
-"preferred_label": "Horonaim",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "place:Beer-elim",
-"type": "place",
-"preferred_label": "Beer-elim",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "place:Medeba",
-"type": "place",
-"preferred_label": "Medeba",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "place:Nebo",
-"type": "place",
-"preferred_label": "Nebo",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "place:Bajith",
-"type": "place",
-"preferred_label": "Bajith",
+"preferred_label": "Zoar",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -154,6 +112,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jahaz",
+"type": "place",
+"preferred_label": "Jahaz",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
 "id": "place:Luhith",
 "type": "place",
 "preferred_label": "Luhith",
@@ -161,16 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zoar",
+"id": "place:Nebo",
 "type": "place",
-"preferred_label": "Zoar",
+"preferred_label": "Nebo",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
 {
-"id": "place:Dibon.3",
+"id": "place:Beer-elim",
 "type": "place",
-"preferred_label": "Dimon",
+"preferred_label": "Beer-elim",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Eglaim",
+"type": "place",
+"preferred_label": "Eglaim",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -182,10 +154,59 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jahaz",
+"id": "place:Bajith",
 "type": "place",
-"preferred_label": "Jahaz",
+"preferred_label": "Bajith",
 "confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Horonaim",
+"type": "place",
+"preferred_label": "Horonaim",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Medeba",
+"type": "place",
+"preferred_label": "Medeba",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Dibon.3",
+"type": "place",
+"preferred_label": "Dimon",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:BrookOfTheWillows",
+"type": "place",
+"preferred_label": "Brook of the Willows",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.1696,
 "match_method": "canonical"
 },
 {
@@ -199,6 +220,27 @@
 "id": "keyterm:Utterance",
 "type": "keyterm",
 "preferred_label": "Utterance",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -217,72 +259,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"preferred_label": "Counsel",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "flora:Poplar",
-"type": "flora",
-"preferred_label": "Poplar",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"preferred_label": "Grass",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
 "id": "realia:Wine",
 "type": "realia",
 "preferred_label": "Wine",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "flora:Willow",
+"type": "flora",
+"preferred_label": "Willow",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
@@ -294,9 +287,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:RaisinCake",
-"type": "realia",
-"preferred_label": "Raisin Cake",
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
@@ -315,16 +308,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Lion",
 "type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
-"id": "flora:Willow",
-"type": "flora",
-"preferred_label": "Willow",
+"preferred_label": "Lion",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
@@ -332,6 +318,20 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:RaisinCake",
+"type": "realia",
+"preferred_label": "Raisin Cake",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "flora:Poplar",
+"type": "flora",
+"preferred_label": "Poplar",
 "confidence": 0.1096,
 "match_method": "canonical"
 },

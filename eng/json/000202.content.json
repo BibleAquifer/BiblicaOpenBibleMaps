@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Joppa",
-"type": "place",
-"preferred_label": "Joppa",
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
 "confidence": 0.3375,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
+"id": "place:Joppa",
+"type": "place",
+"preferred_label": "Joppa",
 "confidence": 0.3375,
 "match_method": "canonical"
 },
@@ -84,20 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.2781,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.2781,
-"match_method": "canonical"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "preferred_label": "Jews",
@@ -112,9 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Defilement",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Defilement",
+"confidence": 0.2781,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
 "confidence": 0.2781,
 "match_method": "canonical"
 },
@@ -126,9 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Defilement",
+"preferred_label": "Name",
+"confidence": 0.2781,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
 "confidence": 0.2781,
 "match_method": "canonical"
 },
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Ask for",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Proclaim",
+"preferred_label": "Ask for",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Proclaim",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Proclaim",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
@@ -189,13 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Declare",
-"type": "keyterm",
-"preferred_label": "Declare",
-"confidence": 0.1635,
-"match_method": "canonical"
-},
-{
 "id": "group:Italy",
 "type": "group",
 "preferred_label": "Italians",
@@ -210,37 +203,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Declare",
 "type": "keyterm",
-"preferred_label": "Make Peace",
+"preferred_label": "Declare",
+"confidence": 0.1635,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
+"id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
+"preferred_label": "Circumcision",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -259,79 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "Discern",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Italy",
-"type": "place",
-"preferred_label": "Italy",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "Circumcision",
+"preferred_label": "Make Peace",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -343,27 +252,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disgusting",
-"type": "keyterm",
-"preferred_label": "Disgusting",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Faithfulness",
-"type": "keyterm",
-"preferred_label": "Faithfulness",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -371,9 +259,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Judea",
+"id": "place:Italy",
 "type": "place",
-"preferred_label": "Judea",
+"preferred_label": "Italy",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -385,17 +301,94 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"preferred_label": "Faithfulness",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disgusting",
+"type": "keyterm",
+"preferred_label": "Disgusting",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
 "id": "realia:Leather",
 "type": "realia",
 "preferred_label": "Leather",
 "confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "realia:LinenCloth",
-"type": "realia",
-"preferred_label": "Linen Cloth",
-"confidence": 0.1035,
 "match_method": "canonical"
 },
 {
@@ -406,16 +399,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Chameleon",
-"type": "fauna",
-"preferred_label": "Chameleon",
-"confidence": 0.0994,
+"id": "realia:LinenCloth",
+"type": "realia",
+"preferred_label": "Linen Cloth",
+"confidence": 0.1035,
 "match_method": "canonical"
 },
 {
-"id": "realia:Clothing",
+"id": "realia:Cross",
 "type": "realia",
-"preferred_label": "Clothing",
+"preferred_label": "Cross",
 "confidence": 0.0994,
 "match_method": "canonical"
 },
@@ -427,16 +420,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Cross",
-"type": "realia",
-"preferred_label": "Cross",
+"id": "fauna:Lizard",
+"type": "fauna",
+"preferred_label": "Lizard",
 "confidence": 0.0994,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lizard",
+"id": "fauna:Chameleon",
 "type": "fauna",
-"preferred_label": "Lizard",
+"preferred_label": "Chameleon",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
 "confidence": 0.0994,
 "match_method": "canonical"
 },
@@ -448,9 +448,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Snake",
-"type": "fauna",
-"preferred_label": "Snake",
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.0994,
 "match_method": "canonical"
 }

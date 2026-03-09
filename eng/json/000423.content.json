@@ -35,9 +35,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Crafty",
-"type": "keyterm",
-"preferred_label": "Crafty",
+"id": "person:Zeeb",
+"type": "person",
+"preferred_label": "Zeeb",
 "confidence": 0.1842,
 "match_method": "canonical"
 },
@@ -49,23 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zeeb",
-"type": "person",
-"preferred_label": "Zeeb",
-"confidence": 0.1842,
-"match_method": "canonical"
-},
-{
 "id": "person:Zalmunna",
 "type": "person",
 "preferred_label": "Zalmunna",
-"confidence": 0.1842,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebah",
-"type": "person",
-"preferred_label": "Zebah",
 "confidence": 0.1842,
 "match_method": "canonical"
 },
@@ -77,44 +63,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Zebah",
 "type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1737,
+"preferred_label": "Zebah",
+"confidence": 0.1842,
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
-"confidence": 0.1737,
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"preferred_label": "Crafty",
+"confidence": 0.1842,
 "match_method": "canonical"
 },
 {
-"id": "place:Gebal",
-"type": "place",
-"preferred_label": "Gebal",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "group:Ishmael",
-"type": "group",
-"preferred_label": "Ishmaelites",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:En-dor",
-"type": "place",
-"preferred_label": "Endor",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Lot",
+"id": "person:Hagri",
 "type": "person",
-"preferred_label": "Lot",
+"preferred_label": "Hagri",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -126,44 +91,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"preferred_label": "Ishmaelites",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Gebal",
 "type": "place",
-"preferred_label": "Philistia",
+"preferred_label": "Gebal",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
 {
-"id": "place:Midian",
+"id": "place:Edom",
 "type": "place",
-"preferred_label": "Midian",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Hagri",
-"type": "person",
-"preferred_label": "Hagri",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Oreb",
-"type": "person",
-"preferred_label": "Oreb",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
+"preferred_label": "Edom",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -171,20 +122,6 @@
 "id": "place:Amalek",
 "type": "place",
 "preferred_label": "Amalek",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -199,6 +136,69 @@
 "id": "place:Kishon",
 "type": "place",
 "preferred_label": "Kishon",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:En-dor",
+"type": "place",
+"preferred_label": "Endor",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Oreb",
+"type": "person",
+"preferred_label": "Oreb",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
 "confidence": 0.1737,
 "match_method": "canonical"
 },

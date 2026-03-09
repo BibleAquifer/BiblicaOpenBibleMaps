@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
@@ -105,9 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Matri",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Matri",
+"preferred_label": "Israel",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "place:Tabor.2",
+"type": "place",
+"preferred_label": "Oak of Tabor",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
@@ -115,6 +115,13 @@
 "id": "place:Zelzah",
 "type": "place",
 "preferred_label": "Zelzah",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "person:Matri",
+"type": "person",
+"preferred_label": "Matri",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
@@ -133,10 +140,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tabor.2",
-"type": "place",
-"preferred_label": "Oak of Tabor",
-"confidence": 0.1741,
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1733,
 "match_method": "canonical"
 },
 {
@@ -147,23 +154,37 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
-"confidence": 0.1733,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "person:Rachel",
-"type": "person",
-"preferred_label": "Rachel",
+"id": "keyterm:Saying",
+"type": "keyterm",
+"preferred_label": "Proverb",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -182,44 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Saying",
-"type": "keyterm",
-"preferred_label": "Proverb",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
+"id": "place:Gilgal.2",
 "type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"preferred_label": "Gilgal",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -231,16 +217,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Smear",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Smear",
+"preferred_label": "Peace",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -259,13 +259,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:AnointingFlask",
-"type": "realia",
-"preferred_label": "Anointing Flask",
-"confidence": 0.1141,
-"match_method": "canonical"
-},
-{
 "id": "realia:Drum",
 "type": "realia",
 "preferred_label": "Drum",
@@ -273,24 +266,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
+"id": "realia:AnointingFlask",
 "type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "flora:Oak",
-"type": "flora",
-"preferred_label": "Oak",
-"confidence": 0.1067,
+"preferred_label": "Anointing Flask",
+"confidence": 0.1141,
 "match_method": "canonical"
 },
 {
@@ -308,30 +287,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Kid",
 "type": "fauna",
 "preferred_label": "Kid",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lute",
-"type": "realia",
-"preferred_label": "Lute",
-"confidence": 0.1067,
-"match_method": "canonical"
-},
-{
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
@@ -343,9 +301,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "flora:Oak",
+"type": "flora",
+"preferred_label": "Oak",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Lute",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
@@ -353,6 +325,34 @@
 "id": "realia:Skin-bottle",
 "type": "realia",
 "preferred_label": "Skin-Bottle",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
 "confidence": 0.1067,
 "match_method": "canonical"
 }

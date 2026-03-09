@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Ardour",
 "type": "keyterm",
-"preferred_label": "Love",
+"preferred_label": "Passion",
 "confidence": 0.2714,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "Passion",
+"preferred_label": "Love",
 "confidence": 0.2714,
 "match_method": "canonical"
 },
@@ -98,23 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
+"id": "group:Amorites",
 "type": "group",
-"preferred_label": "Philistines",
+"preferred_label": "Amorites",
 "confidence": 0.2143,
 "match_method": "canonical"
 },
@@ -126,30 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
+"id": "place:Canaan",
 "type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Canaan",
 "confidence": 0.2143,
 "match_method": "canonical"
 },
@@ -168,6 +133,41 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
 "id": "realia:EmbroideredCloth",
 "type": "realia",
 "preferred_label": "Embroidered Cloth",
@@ -182,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
+"id": "keyterm:Woe",
 "type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.1571,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Woe",
 "confidence": 0.1571,
 "match_method": "canonical"
 },
@@ -203,16 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Woe",
+"id": "keyterm:LeanOn",
 "type": "keyterm",
-"preferred_label": "Woe",
+"preferred_label": "Trust",
 "confidence": 0.1571,
 "match_method": "canonical"
 },
 {
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
+"id": "keyterm:BearTheConsequencesOf",
+"type": "keyterm",
+"preferred_label": "Bear the Consequences Of",
 "confidence": 0.1571,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PleasingOdor",
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1571,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decree",
 "type": "keyterm",
-"preferred_label": "Pleasing Odor",
+"preferred_label": "Decree",
 "confidence": 0.1571,
 "match_method": "canonical"
 }

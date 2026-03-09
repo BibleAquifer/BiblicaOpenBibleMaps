@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "hukum",
+"preferred_label": "percaya",
 "confidence": 0.4024,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Law",
 "type": "keyterm",
-"preferred_label": "percaya",
+"preferred_label": "hukum",
 "confidence": 0.4024,
 "match_method": "canonical"
 },
@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "tubuh",
+"preferred_label": "kehidupan",
 "confidence": 0.3858,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "kehidupan",
+"preferred_label": "tubuh",
 "confidence": 0.3858,
 "match_method": "canonical"
 },
@@ -126,16 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "memutuskan",
+"preferred_label": "kasihi",
 "confidence": 0.365,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "kasihi",
+"preferred_label": "memutuskan",
 "confidence": 0.365,
 "match_method": "canonical"
 },
@@ -168,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "penyunatan",
 "confidence": 0.3625,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "penyunatan",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3625,
 "match_method": "canonical"
 },

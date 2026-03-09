@@ -56,6 +56,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.3162,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.3162,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
@@ -70,23 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.3162,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:LeanOn",
 "type": "keyterm",
 "preferred_label": "Trust",
-"confidence": 0.3162,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
 "confidence": 0.3162,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.2622,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Deceit",
 "type": "keyterm",
 "preferred_label": "Deceit",
@@ -126,31 +119,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.2622,
+"match_method": "canonical"
+},
+{
 "id": "place:HinnomValley",
 "type": "place",
 "preferred_label": "Valley of Hinnom",
 "confidence": 0.2099,
-"match_method": "canonical"
-},
-{
-"id": "place:Shiloh",
-"type": "place",
-"preferred_label": "Shiloh",
-"confidence": 0.2081,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
-"confidence": 0.2081,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.2081,
 "match_method": "canonical"
 },
 {
@@ -171,6 +150,27 @@
 "id": "place:Topheth",
 "type": "place",
 "preferred_label": "Topheth",
+"confidence": 0.2081,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.2081,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.2081,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.2081,
 "match_method": "canonical"
 },
@@ -203,30 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
+"id": "keyterm:Visitation",
+"type": "keyterm",
+"preferred_label": "Visitation",
 "confidence": 0.1541,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Foreskin",
+"id": "keyterm:Defilement",
 "type": "keyterm",
-"preferred_label": "Foreskin",
+"preferred_label": "Defilement",
 "confidence": 0.1541,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Arrow",
-"type": "keyterm",
-"preferred_label": "Arrow",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.1541,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:TheWay",
+"id": "keyterm:Defection",
 "type": "keyterm",
-"preferred_label": "The Way",
+"preferred_label": "Defection",
 "confidence": 0.1541,
 "match_method": "canonical"
 }

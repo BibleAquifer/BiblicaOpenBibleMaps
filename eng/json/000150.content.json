@@ -84,44 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "group:ReligiousOfficials",
-"type": "group",
-"preferred_label": "Religious Officials",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
 "id": "group:GenericElders",
 "type": "group",
 "preferred_label": "Elders",
-"confidence": 0.2127,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
@@ -133,6 +98,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"preferred_label": "Religious Officials",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:PutToTheTest",
 "type": "keyterm",
 "preferred_label": "Put to the Test",
@@ -140,9 +119,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
 "id": "deity:Satan",
 "type": "deity",
 "preferred_label": "Satan",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.2127,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
@@ -175,23 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
+"id": "keyterm:Blaspheme",
 "type": "keyterm",
-"preferred_label": "Blood",
+"preferred_label": "Blaspheme",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
@@ -203,6 +196,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Speak",
 "type": "keyterm",
 "preferred_label": "Speak as a Prophet",
@@ -210,23 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.1563,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Bear Witness",
+"preferred_label": "Offering",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.1563,
 "match_method": "canonical"
 }

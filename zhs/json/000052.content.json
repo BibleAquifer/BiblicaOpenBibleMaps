@@ -196,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Faithfulness",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "Faithfulness",
+"preferred_label": "Spirit",
 "confidence": 0.3589,
 "match_method": "canonical"
 },
@@ -210,23 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Faithfulness",
 "type": "keyterm",
-"preferred_label": "Spirit",
+"preferred_label": "Faithfulness",
 "confidence": 0.3589,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
+"confidence": 0.3583,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Happy",
 "type": "keyterm",
 "preferred_label": "Happy",
-"confidence": 0.3583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
 "confidence": 0.3583,
 "match_method": "canonical"
 }

@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Barnabas",
-"type": "person",
-"preferred_label": "Barnabas",
-"confidence": 0.2982,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:GoodNews",
 "type": "keyterm",
 "preferred_label": "Good News",
@@ -91,10 +84,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Derbe",
-"type": "place",
-"preferred_label": "Derbe",
-"confidence": 0.2464,
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Barnabas",
+"confidence": 0.2982,
 "match_method": "canonical"
 },
 {
@@ -105,16 +98,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Lycaonia",
+"id": "place:Derbe",
 "type": "place",
-"preferred_label": "Lycaonia",
-"confidence": 0.2393,
+"preferred_label": "Derbe",
+"confidence": 0.2464,
 "match_method": "canonical"
 },
 {
 "id": "place:Antioch.2",
 "type": "place",
 "preferred_label": "Antioch",
+"confidence": 0.2393,
+"match_method": "canonical"
+},
+{
+"id": "place:Lycaonia",
+"type": "place",
+"preferred_label": "Lycaonia",
 "confidence": 0.2393,
 "match_method": "canonical"
 },
@@ -147,30 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fast",
-"type": "keyterm",
-"preferred_label": "Abstain from Food",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
 "id": "place:Perga",
 "type": "place",
 "preferred_label": "Perga",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "place:Attalia",
-"type": "place",
-"preferred_label": "Attalia",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worthless",
-"type": "keyterm",
-"preferred_label": "Worthless",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -182,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Pisidia",
+"type": "place",
+"preferred_label": "Pisidia",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:DoGood",
 "type": "keyterm",
 "preferred_label": "Do Good",
@@ -189,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pisidia",
+"id": "place:Attalia",
 "type": "place",
-"preferred_label": "Pisidia",
+"preferred_label": "Attalia",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -203,17 +189,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Javan",
-"type": "person",
-"preferred_label": "Javan",
-"confidence": 0.1661,
+"id": "keyterm:Fast",
+"type": "keyterm",
+"preferred_label": "Abstain from Food",
+"confidence": 0.1732,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Worthless",
 "type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1661,
+"preferred_label": "Worthless",
+"confidence": 0.1732,
 "match_method": "canonical"
 },
 {
@@ -224,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -238,9 +224,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Bear Witness",
+"preferred_label": "Sky",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"preferred_label": "Antioch",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -259,30 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "Heart",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -294,16 +294,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Antioch",
-"type": "place",
-"preferred_label": "Antioch",
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
+"id": "keyterm:BearWitness",
 "type": "keyterm",
-"preferred_label": "Persuade",
+"preferred_label": "Bear Witness",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -315,23 +315,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
-"confidence": 0.1061,
-"match_method": "canonical"
-},
-{
 "id": "realia:Door",
 "type": "realia",
 "preferred_label": "Door",
-"confidence": 0.1061,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
 "confidence": 0.1061,
 "match_method": "canonical"
 },
@@ -343,9 +329,23 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
 "id": "realia:Synagogue",
 "type": "realia",
 "preferred_label": "Synagogue",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.1061,
 "match_method": "canonical"
 }

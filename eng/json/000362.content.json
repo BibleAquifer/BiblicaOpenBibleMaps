@@ -118,6 +118,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Benaiah",
+"type": "person",
+"preferred_label": "Benaiah",
+"confidence": 0.3157,
+"match_method": "canonical"
+},
+{
 "id": "group:Ahoah",
 "type": "group",
 "preferred_label": "Ahohites",
@@ -132,30 +139,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benaiah",
-"type": "person",
-"preferred_label": "Benaiah",
-"confidence": 0.3157,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
-"confidence": 0.3142,
-"match_method": "canonical"
-},
-{
-"id": "person:Zeruiah",
-"type": "person",
-"preferred_label": "Zeruiah",
-"confidence": 0.3142,
-"match_method": "canonical"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
 "confidence": 0.3142,
 "match_method": "canonical"
 },
@@ -174,13 +160,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Tribe of Manasseh",
-"confidence": 0.3142,
-"match_method": "canonical"
-},
-{
 "id": "person:Gad",
 "type": "person",
 "preferred_label": "Gad",
@@ -188,16 +167,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Pit",
-"type": "realia",
-"preferred_label": "Pit",
-"confidence": 0.3113,
+"id": "person:Zeruiah",
+"type": "person",
+"preferred_label": "Zeruiah",
+"confidence": 0.3142,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
+"confidence": 0.3142,
+"match_method": "canonical"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
+"confidence": 0.3142,
 "match_method": "canonical"
 },
 {
 "id": "realia:Fortress",
 "type": "realia",
 "preferred_label": "Fortress",
+"confidence": 0.3113,
+"match_method": "canonical"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"preferred_label": "Pit",
 "confidence": 0.3113,
 "match_method": "canonical"
 },
@@ -216,13 +216,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeah.2",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 0.2606,
-"match_method": "canonical"
-},
-{
 "id": "place:Netophah",
 "type": "place",
 "preferred_label": "Netophah",
@@ -233,6 +226,13 @@
 "id": "place:Anathoth",
 "type": "place",
 "preferred_label": "Anathoth",
+"confidence": 0.2606,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
 "confidence": 0.2606,
 "match_method": "canonical"
 }

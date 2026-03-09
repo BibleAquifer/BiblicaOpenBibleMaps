@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
+"id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "injil",
+"preferred_label": "hati",
 "confidence": 0.3846,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "hati",
+"preferred_label": "injil",
 "confidence": 0.3846,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "tubuh",
+"preferred_label": "kemuliaan",
 "confidence": 0.376,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Persuade",
 "type": "keyterm",
-"preferred_label": "kemuliaan",
+"preferred_label": "membujuk",
 "confidence": 0.376,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "membujuk",
+"preferred_label": "tubuh",
 "confidence": 0.376,
 "match_method": "canonical"
 },
@@ -126,23 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "meminta",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "kebaikan",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fellowship",
-"type": "keyterm",
-"preferred_label": "persekutuan",
 "confidence": 0.263,
 "match_method": "canonical"
 },
@@ -154,37 +140,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "roh",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Live.3",
 "type": "keyterm",
 "preferred_label": "hidup",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "nama",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "memperdamaikan",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
 "confidence": 0.263,
 "match_method": "canonical"
 },
@@ -196,9 +161,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Hope",
 "type": "keyterm",
 "preferred_label": "harapan",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
 "confidence": 0.263,
 "match_method": "canonical"
 },
@@ -210,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Fellowship",
 "type": "keyterm",
-"preferred_label": "roh",
+"preferred_label": "persekutuan",
 "confidence": 0.263,
 "match_method": "canonical"
 },
@@ -220,6 +199,27 @@
 "id": "keyterm:Pure",
 "type": "keyterm",
 "preferred_label": "murni",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "memperdamaikan",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "hukum",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.263,
 "match_method": "canonical"
 },

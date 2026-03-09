@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Manasseh",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Manasseh",
+"preferred_label": "Israel",
 "confidence": 0.3897,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Manasseh",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Manasseh",
 "confidence": 0.3897,
 "match_method": "canonical"
 },
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.3781,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joshua.2",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Joshua",
+"preferred_label": "Judah",
 "confidence": 0.3781,
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
 "confidence": 0.3781,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hebron",
+"id": "place:Gilead",
 "type": "place",
-"preferred_label": "Hebron",
+"preferred_label": "Gilead",
 "confidence": 0.3632,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
+"id": "group:Asher",
+"type": "group",
+"preferred_label": "Tribe of Asher",
 "confidence": 0.3632,
 "match_method": "canonical"
 },
@@ -196,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Asher",
-"type": "group",
-"preferred_label": "Tribe of Asher",
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
 "confidence": 0.3632,
 "match_method": "canonical"
 },

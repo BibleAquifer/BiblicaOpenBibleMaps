@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.3846,
-"match_method": "canonical"
-},
-{
 "id": "person:Kareah",
 "type": "person",
 "preferred_label": "Kareah",
@@ -91,17 +84,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.3846,
+"match_method": "canonical"
+},
+{
 "id": "place:Tahpanhes",
 "type": "place",
 "preferred_label": "Tahpanhes",
 "confidence": 0.3308,
-"match_method": "canonical"
-},
-{
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
-"confidence": 0.3277,
 "match_method": "canonical"
 },
 {
@@ -112,16 +105,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
-"confidence": 0.2708,
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.3277,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.2708,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
 "confidence": 0.2708,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jezaniah",
-"type": "person",
-"preferred_label": "Jezaniah",
-"confidence": 0.2169,
-"match_method": "canonical"
-},
-{
 "id": "place:Pathros",
 "type": "place",
 "preferred_label": "Pathros",
@@ -161,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hophra",
+"id": "person:Jezaniah",
 "type": "person",
-"preferred_label": "Hophra",
+"preferred_label": "Jezaniah",
 "confidence": 0.2169,
 "match_method": "canonical"
 },
@@ -175,16 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Neriah",
+"id": "person:Hophra",
 "type": "person",
-"preferred_label": "Neriah",
-"confidence": 0.2138,
+"preferred_label": "Hophra",
+"confidence": 0.2169,
 "match_method": "canonical"
 },
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
 "preferred_label": "Nebuchadnezzar",
+"confidence": 0.2138,
+"match_method": "canonical"
+},
+{
+"id": "person:Neriah",
+"type": "person",
+"preferred_label": "Neriah",
 "confidence": 0.2138,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shaphan",
-"type": "person",
-"preferred_label": "Shaphan",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.1569,
 "match_method": "canonical"
 }

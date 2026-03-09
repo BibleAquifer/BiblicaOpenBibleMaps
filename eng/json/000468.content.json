@@ -28,23 +28,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3857,
-"match_method": "canonical"
-},
-{
 "id": "place:Edom",
 "type": "place",
 "preferred_label": "Edom",
-"confidence": 0.3857,
-"match_method": "canonical"
-},
-{
-"id": "place:EsauMount",
-"type": "place",
-"preferred_label": "Mount Esau",
 "confidence": 0.3857,
 "match_method": "canonical"
 },
@@ -56,6 +42,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:EsauMount",
+"type": "place",
+"preferred_label": "Mount Esau",
+"confidence": 0.3857,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3857,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Dispossess",
 "type": "keyterm",
 "preferred_label": "Dispossess",
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Negeb",
-"type": "place",
-"preferred_label": "Negev",
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"preferred_label": "Understanding",
 "confidence": 0.2429,
 "match_method": "canonical"
 },
@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"preferred_label": "Understanding",
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
 "confidence": 0.2429,
 "match_method": "canonical"
 },
@@ -91,93 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
+"id": "place:Zarephath",
 "type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.10",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "place:Sardis",
-"type": "place",
-"preferred_label": "Sardis",
+"preferred_label": "Zarephath",
 "confidence": 0.1714,
 "match_method": "canonical"
 },
@@ -189,23 +105,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lot",
-"type": "keyterm",
-"preferred_label": "Lot",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.1714,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.1714,
 "match_method": "canonical"
 },
 {
-"id": "place:Zarephath",
+"id": "place:Canaan",
 "type": "place",
-"preferred_label": "Zarephath",
+"preferred_label": "Canaan",
 "confidence": 0.1714,
 "match_method": "canonical"
 },
@@ -217,6 +133,69 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"preferred_label": "Lot",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "place:Sardis",
+"type": "place",
+"preferred_label": "Sardis",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
 "id": "place:Shephelah",
 "type": "place",
 "preferred_label": "Shephelah",
@@ -224,9 +203,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
 "id": "person:Ephraim",
 "type": "person",
 "preferred_label": "Ephraim",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
 "confidence": 0.1714,
 "match_method": "canonical"
 },

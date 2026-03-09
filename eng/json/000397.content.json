@@ -62,16 +62,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.4235,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4235,
 "match_method": "canonical"
 },
@@ -125,16 +125,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shimeath",
+"id": "person:Jehozabad",
 "type": "person",
-"preferred_label": "Shimeath",
+"preferred_label": "Jehozabad",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
 {
-"id": "person:Jehozabad",
+"id": "person:Shomer",
 "type": "person",
-"preferred_label": "Jehozabad",
+"preferred_label": "Shomer",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -153,37 +153,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shomer",
+"id": "person:Shimeath",
 "type": "person",
-"preferred_label": "Shomer",
+"preferred_label": "Shimeath",
 "confidence": 0.2265,
-"match_method": "canonical"
-},
-{
-"id": "place:Beersheba",
-"type": "place",
-"preferred_label": "Beersheba",
-"confidence": 0.2184,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.2184,
 "match_method": "canonical"
 },
 {
 "id": "person:Moses",
 "type": "person",
 "preferred_label": "Moses",
-"confidence": 0.2184,
-"match_method": "canonical"
-},
-{
-"id": "group:Syria",
-"type": "group",
-"preferred_label": "Syrians",
 "confidence": 0.2184,
 "match_method": "canonical"
 },
@@ -198,6 +177,27 @@
 "id": "person:Hazael",
 "type": "person",
 "preferred_label": "Hazael",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
 "confidence": 0.2184,
 "match_method": "canonical"
 },
@@ -223,6 +223,104 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"preferred_label": "Testimony",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"preferred_label": "Jehoram",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehu.2",
+"type": "person",
+"preferred_label": "Jehu",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"preferred_label": "Utterance",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
 "id": "person:Athaliah",
 "type": "person",
 "preferred_label": "Athaliah",
@@ -237,93 +335,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Utterance",
-"type": "keyterm",
-"preferred_label": "Utterance",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
 "id": "group:Ammon",
 "type": "group",
 "preferred_label": "Ammonites",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehu.2",
-"type": "person",
-"preferred_label": "Jehu",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-millo",
-"type": "place",
-"preferred_label": "Beth-millo",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoshaphat.3",
-"type": "person",
-"preferred_label": "Jehoshaphat",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "Damascus",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahaziah.2",
-"type": "person",
-"preferred_label": "Ahaziah",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -335,30 +349,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"preferred_label": "Testimony",
+"id": "place:Beth-millo",
+"type": "place",
+"preferred_label": "Beth-millo",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoram",
+"id": "person:Ahaziah.2",
 "type": "person",
-"preferred_label": "Jehoram",
+"preferred_label": "Ahaziah",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -370,16 +370,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Altar",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
+"id": "realia:Bowl",
 "type": "realia",
-"preferred_label": "High Place",
+"preferred_label": "Bowl",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -391,16 +398,30 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TentOfMeeting",
+"id": "realia:Trumpet",
 "type": "realia",
-"preferred_label": "Tent of Meeting",
+"preferred_label": "Trumpet",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
 {
-"id": "realia:Bowl",
+"id": "realia:Image",
 "type": "realia",
-"preferred_label": "Bowl",
+"preferred_label": "Image",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -419,13 +440,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Image",
-"type": "realia",
-"preferred_label": "Image",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
 "id": "realia:Doorstep",
 "type": "realia",
 "preferred_label": "Doorstep",
@@ -440,30 +454,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Trumpet",
+"id": "realia:HighPlace",
 "type": "realia",
-"preferred_label": "Trumpet",
+"preferred_label": "High Place",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
+"id": "realia:TentOfMeeting",
 "type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bed",
-"type": "realia",
-"preferred_label": "Bed",
+"preferred_label": "Tent of Meeting",
 "confidence": 0.0992,
 "match_method": "canonical"
 }

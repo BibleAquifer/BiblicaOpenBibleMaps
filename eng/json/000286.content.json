@@ -118,16 +118,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Seir",
+"id": "place:HorMount",
 "type": "place",
-"preferred_label": "Seir",
+"preferred_label": "Mount Hor",
 "confidence": 0.3743,
 "match_method": "canonical"
 },
 {
-"id": "place:HorMount",
+"id": "place:Seir",
 "type": "place",
-"preferred_label": "Mount Hor",
+"preferred_label": "Seir",
 "confidence": 0.3743,
 "match_method": "canonical"
 },
@@ -146,9 +146,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.3178,
 "match_method": "canonical"
 },
@@ -160,9 +160,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
 "confidence": 0.3178,
 "match_method": "canonical"
 },
@@ -181,16 +181,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
+"id": "person:Anak",
+"type": "person",
+"preferred_label": "Anak",
 "confidence": 0.2634,
 "match_method": "canonical"
 },
 {
-"id": "person:Anak",
-"type": "person",
-"preferred_label": "Anak",
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
 "confidence": 0.2634,
 "match_method": "canonical"
 },
@@ -223,16 +223,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Messengers",
+"id": "group:Emim",
 "type": "group",
-"preferred_label": "Messengers",
+"preferred_label": "Emim",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
 {
-"id": "place:Oboth",
-"type": "place",
-"preferred_label": "Oboth",
+"id": "group:Rephaim",
+"type": "group",
+"preferred_label": "Rephaim",
 "confidence": 0.2129,
 "match_method": "canonical"
 }

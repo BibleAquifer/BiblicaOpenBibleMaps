@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abinoam",
+"id": "person:Heber.2",
 "type": "person",
-"preferred_label": "Abinoam",
+"preferred_label": "Heber",
 "confidence": 0.3473,
 "match_method": "canonical"
 },
 {
-"id": "person:Heber.2",
+"id": "person:Abinoam",
 "type": "person",
-"preferred_label": "Heber",
+"preferred_label": "Abinoam",
 "confidence": 0.3473,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kedesh",
-"type": "place",
-"preferred_label": "Kedesh",
-"confidence": 0.3327,
-"match_method": "canonical"
-},
-{
 "id": "group:Zebulun",
 "type": "group",
 "preferred_label": "Tribe of Zebulun",
@@ -126,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Kedesh",
+"type": "place",
+"preferred_label": "Kedesh",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
 "id": "place:Harosheth-hagoyim",
 "type": "place",
 "preferred_label": "Harosheth-hagoyim",
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kishon",
+"id": "place:TaborMount",
 "type": "place",
-"preferred_label": "Kishon",
+"preferred_label": "Mount Tabor",
 "confidence": 0.2818,
 "match_method": "canonical"
 },
 {
-"id": "place:TaborMount",
+"id": "place:Kishon",
 "type": "place",
-"preferred_label": "Mount Tabor",
+"preferred_label": "Kishon",
 "confidence": 0.2818,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Naphtali",
-"type": "group",
-"preferred_label": "Tribe of Naphtali",
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
 "confidence": 0.2745,
 "match_method": "canonical"
 },
 {
-"id": "person:Naphtali",
-"type": "person",
-"preferred_label": "Naphtali",
+"id": "group:Naphtali",
+"type": "group",
+"preferred_label": "Tribe of Naphtali",
 "confidence": 0.2745,
 "match_method": "canonical"
 },
@@ -175,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Peg.2",
-"type": "realia",
-"preferred_label": "Peg",
-"confidence": 0.2182,
-"match_method": "canonical"
-},
-{
 "id": "realia:Peg",
 "type": "realia",
 "preferred_label": "Peg",
@@ -189,24 +182,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.2164,
-"match_method": "canonical"
-},
-{
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
-"confidence": 0.2164,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.2164,
+"id": "realia:Peg.2",
+"type": "realia",
+"preferred_label": "Peg",
+"confidence": 0.2182,
 "match_method": "canonical"
 },
 {
@@ -224,9 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Anath",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.2164,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Anath",
+"preferred_label": "Ephraim",
+"confidence": 0.2164,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.2164,
+"match_method": "canonical"
+},
+{
+"id": "place:Meroz",
+"type": "place",
+"preferred_label": "Meroz",
 "confidence": 0.1618,
 "match_method": "canonical"
 }

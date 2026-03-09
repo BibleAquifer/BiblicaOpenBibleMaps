@@ -253,16 +253,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Spirit",
+"preferred_label": "Salvation",
 "confidence": 0.36,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Spirit",
 "confidence": 0.36,
 "match_method": "canonical"
 },
@@ -274,16 +274,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Hope",
 "confidence": 0.3595,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Hope",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Hope",
+"preferred_label": "Name",
 "confidence": 0.3595,
 "match_method": "canonical"
 },

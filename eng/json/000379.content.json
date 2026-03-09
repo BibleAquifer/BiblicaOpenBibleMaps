@@ -90,16 +90,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.3807,
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.3807,
 "match_method": "canonical"
 },
@@ -125,16 +125,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zedekiah.2",
+"id": "person:Imlah",
 "type": "person",
-"preferred_label": "Zedekiah",
+"preferred_label": "Imlah",
 "confidence": 0.3273,
 "match_method": "canonical"
 },
 {
-"id": "person:Imlah",
+"id": "person:Zedekiah.2",
 "type": "person",
-"preferred_label": "Imlah",
+"preferred_label": "Zedekiah",
 "confidence": 0.3273,
 "match_method": "canonical"
 },
@@ -167,16 +167,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Throne",
-"type": "realia",
-"preferred_label": "Throne",
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.2605,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "realia:Throne",
+"type": "realia",
+"preferred_label": "Throne",
 "confidence": 0.2605,
 "match_method": "canonical"
 },
@@ -202,16 +202,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
+"id": "keyterm:Truth",
 "type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Truth",
 "confidence": 0.2102,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Truth",
+"preferred_label": "Swear",
 "confidence": 0.2102,
 "match_method": "canonical"
 },

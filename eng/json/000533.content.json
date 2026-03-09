@@ -35,9 +35,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Moses",
 "confidence": 0.3114,
 "match_method": "canonical"
 },
@@ -49,9 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Moses",
+"preferred_label": "Israel",
 "confidence": 0.3114,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Etham",
+"id": "place:RedSea",
 "type": "place",
-"preferred_label": "Etham",
+"preferred_label": "Red Sea",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
 {
-"id": "place:RedSea",
+"id": "place:Etham",
 "type": "place",
-"preferred_label": "Red Sea",
+"preferred_label": "Etham",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
@@ -119,37 +119,23 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LandFlowingOfMilkAndHoney",
-"type": "keyterm",
-"preferred_label": "Land Flowing of Milk and Honey",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -168,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -189,16 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.10",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Jebusites",
+"id": "group:Philistine",
 "type": "group",
-"preferred_label": "Jebusites",
+"preferred_label": "Philistines",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -210,6 +182,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LandFlowingOfMilkAndHoney",
+"type": "keyterm",
+"preferred_label": "Land Flowing of Milk and Honey",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Instruction",
 "type": "keyterm",
 "preferred_label": "Instruction",
@@ -217,9 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Cattails",
-"type": "flora",
-"preferred_label": "Cattails",
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -231,9 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
 "confidence": 0.1105,
 "match_method": "canonical"
 }

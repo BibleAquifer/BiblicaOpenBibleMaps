@@ -49,9 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.3087,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3087,
 "match_method": "canonical"
 },
@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.2391,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.2391,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeremiah.6",
+"id": "person:Archelaus",
 "type": "person",
-"preferred_label": "Jeremiah",
+"preferred_label": "Archelaus",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
 {
-"id": "person:Archelaus",
+"id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Archelaus",
+"preferred_label": "Jeremiah",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -133,23 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rachel",
-"type": "person",
-"preferred_label": "Rachel",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
+"id": "group:GenericPriests",
 "type": "group",
-"preferred_label": "Jews",
+"preferred_label": "Priests",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -161,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -175,44 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"preferred_label": "Priests",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Mary",
-"type": "person",
-"preferred_label": "Mary",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericPriest",
-"type": "person",
-"preferred_label": "A Priest",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"preferred_label": "Encourage",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -224,10 +175,66 @@
 "match_method": "canonical"
 },
 {
+"id": "person:GenericPriest",
+"type": "person",
+"preferred_label": "A Priest",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "Encourage",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "Life",
 "confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"preferred_label": "Myrrh",
+"confidence": 0.1183,
 "match_method": "canonical"
 },
 {
@@ -252,13 +259,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Myrrh",
-"type": "flora",
-"preferred_label": "Myrrh",
-"confidence": 0.1183,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -266,16 +266,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Incense",
-"type": "realia",
-"preferred_label": "Incense",
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
+"id": "realia:Incense",
+"type": "realia",
+"preferred_label": "Incense",
 "confidence": 0.1096,
 "match_method": "canonical"
 },

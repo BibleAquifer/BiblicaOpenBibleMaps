@@ -253,16 +253,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Spirit",
+"preferred_label": "Salvation",
 "confidence": 0.36,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Spirit",
 "confidence": 0.36,
 "match_method": "canonical"
 },

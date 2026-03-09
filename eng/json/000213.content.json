@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Ishmael",
+"id": "keyterm:Foreskin",
+"type": "keyterm",
+"preferred_label": "Foreskin",
 "confidence": 0.4407,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Foreskin",
-"type": "keyterm",
-"preferred_label": "Foreskin",
+"id": "person:Ishmael",
+"type": "person",
+"preferred_label": "Ishmael",
 "confidence": 0.4407,
 "match_method": "canonical"
 },
@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.1741,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:UncircumcisedPerson",
 "type": "keyterm",
 "preferred_label": "Uncircumcised Person",
@@ -108,6 +101,13 @@
 "id": "keyterm:Complete",
 "type": "keyterm",
 "preferred_label": "Complete",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
 "confidence": 0.1741,
 "match_method": "canonical"
 }

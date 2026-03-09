@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3409,
 "match_method": "canonical"
 },
@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3409,
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Israel",
 "confidence": 0.3409,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericPerson",
-"type": "person",
-"preferred_label": "A Person",
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
 "confidence": 0.2807,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"preferred_label": "Trust",
+"id": "person:GenericPerson",
+"type": "person",
+"preferred_label": "A Person",
 "confidence": 0.2807,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:Dispossess",
 "type": "keyterm",
-"preferred_label": "Peace",
+"preferred_label": "Dispossess",
 "confidence": 0.2205,
 "match_method": "canonical"
 },
@@ -203,24 +203,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Dispossess",
+"preferred_label": "Peace",
 "confidence": 0.2205,
-"match_method": "canonical"
-},
-{
-"id": "person:Gershom",
-"type": "person",
-"preferred_label": "Gershom",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "place:Mahaneh-dan",
-"type": "place",
-"preferred_label": "Mahaneh-dan",
-"confidence": 0.1648,
 "match_method": "canonical"
 },
 {
@@ -231,9 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jonathan.2",
+"id": "person:Gershom",
 "type": "person",
-"preferred_label": "Jonathan",
+"preferred_label": "Gershom",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -245,9 +231,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
+"id": "person:Jonathan.2",
+"type": "person",
+"preferred_label": "Jonathan",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahaneh-dan",
+"type": "place",
+"preferred_label": "Mahaneh-dan",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -259,9 +259,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shiloh",
-"type": "place",
-"preferred_label": "Shiloh",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -273,13 +287,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Possess",
 "type": "keyterm",
 "preferred_label": "To Cause to Possess",
@@ -287,23 +294,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Curse",
 "type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "group:Sidon",
-"type": "group",
-"preferred_label": "Sidonians",
+"preferred_label": "To Curse",
 "confidence": 0.1602,
 "match_method": "canonical"
 },

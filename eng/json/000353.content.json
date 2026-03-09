@@ -27,16 +27,16 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
 "confidence": 0.575,
 "match_method": "canonical"
 },
 {
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
 "confidence": 0.575,
 "match_method": "canonical"
 },
@@ -160,27 +160,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Kindness",
 "type": "keyterm",
 "preferred_label": "Kindness",
@@ -195,13 +174,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -209,16 +181,44 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Euphrates",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Euphrates River",
+"preferred_label": "Jordan River",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
 "type": "place",
-"preferred_label": "Jordan River",
+"preferred_label": "Jericho",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
@@ -237,13 +237,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Medeba",
-"type": "place",
-"preferred_label": "Medeba",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -251,16 +244,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.1018,
+"id": "place:Medeba",
+"type": "place",
+"preferred_label": "Medeba",
+"confidence": 0.1618,
 "match_method": "canonical"
 },
 {
 "id": "realia:Talent",
 "type": "realia",
 "preferred_label": "Talent",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
 "confidence": 0.1018,
 "match_method": "canonical"
 }

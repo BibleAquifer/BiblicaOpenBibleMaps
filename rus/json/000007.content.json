@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Израиль",
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
 "confidence": 0.2765,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Израиль",
 "confidence": 0.2765,
 "match_method": "canonical"
 },
@@ -109,13 +109,6 @@
 "type": "keyterm",
 "preferred_label": "Believe",
 "confidence": 0.2765,
-"match_method": "canonical"
-},
-{
-"id": "person:Andrew",
-"type": "person",
-"preferred_label": "Андрей",
-"confidence": 0.2216,
 "match_method": "canonical"
 },
 {
@@ -133,38 +126,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
+"id": "person:Andrew",
+"type": "person",
+"preferred_label": "Андрей",
 "confidence": 0.2216,
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Святой Дух",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
+"id": "keyterm:Law",
 "type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Елия",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "Body",
-"confidence": 0.2176,
+"preferred_label": "Law",
+"confidence": 0.2216,
 "match_method": "canonical"
 },
 {
@@ -189,9 +161,37 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Елия",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Name",
 "type": "keyterm",
 "preferred_label": "Name",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethsaida",
-"type": "place",
-"preferred_label": "Вифсаида",
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.1627,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
+"id": "place:Bethsaida",
+"type": "place",
+"preferred_label": "Вифсаида",
 "confidence": 0.1627,
 "match_method": "canonical"
 }

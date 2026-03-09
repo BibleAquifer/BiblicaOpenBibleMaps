@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Galilee",
+"preferred_label": "Jerusalem",
 "confidence": 0.236,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
+"id": "place:Galilee",
 "type": "place",
-"preferred_label": "Jerusalem",
+"preferred_label": "Galilee",
 "confidence": 0.236,
 "match_method": "canonical"
 },
@@ -112,6 +112,13 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Dove",
 "type": "fauna",
 "preferred_label": "Dove",
@@ -119,9 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.176,
 "match_method": "canonical"
 },
@@ -140,16 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -161,23 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "Body",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -189,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
 "preferred_label": "Name",
@@ -203,9 +182,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Capernaum",
-"type": "place",
-"preferred_label": "Capernaum",
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
 "confidence": 0.168,
 "match_method": "canonical"
 },

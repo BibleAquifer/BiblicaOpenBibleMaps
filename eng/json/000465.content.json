@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.2123,
-"match_method": "canonical"
-},
-{
 "id": "place:Kidron",
 "type": "place",
 "preferred_label": "Kidron",
@@ -119,23 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 0.2085,
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.2123,
 "match_method": "canonical"
 },
 {
-"id": "flora:Fig",
-"type": "flora",
-"preferred_label": "Fig",
-"confidence": 0.2085,
-"match_method": "canonical"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"preferred_label": "Anointing Oil",
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
 "confidence": 0.2085,
 "match_method": "canonical"
 },
@@ -147,6 +133,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.2085,
+"match_method": "canonical"
+},
+{
 "id": "flora:Grain",
 "type": "flora",
 "preferred_label": "Grain",
@@ -154,10 +147,38 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Mule",
-"type": "fauna",
-"preferred_label": "Mule",
+"id": "realia:AnointingOil",
+"type": "realia",
+"preferred_label": "Anointing Oil",
 "confidence": 0.2085,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"preferred_label": "Fig",
+"confidence": 0.2085,
+"match_method": "canonical"
+},
+{
+"id": "person:Joel.14",
+"type": "person",
+"preferred_label": "Joel",
+"confidence": 0.1589,
+"match_method": "canonical"
+},
+{
+"id": "person:Pethuel",
+"type": "person",
+"preferred_label": "Pethuel",
+"confidence": 0.1589,
+"match_method": "canonical"
+},
+{
+"id": "group:Sabean",
+"type": "group",
+"preferred_label": "Sabeans",
+"confidence": 0.1589,
 "match_method": "canonical"
 },
 {
@@ -175,44 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Sabean",
-"type": "group",
-"preferred_label": "Sabeans",
-"confidence": 0.1589,
-"match_method": "canonical"
-},
-{
-"id": "person:Pethuel",
-"type": "person",
-"preferred_label": "Pethuel",
-"confidence": 0.1589,
-"match_method": "canonical"
-},
-{
-"id": "person:Joel.14",
-"type": "person",
-"preferred_label": "Joel",
-"confidence": 0.1589,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Generous",
+"id": "keyterm:Compassionate",
 "type": "keyterm",
-"preferred_label": "Generous",
+"preferred_label": "Compassionate",
 "confidence": 0.1562,
 "match_method": "canonical"
 },
 {
-"id": "place:Eden.2",
+"id": "place:Sidon",
 "type": "place",
-"preferred_label": "Garden of Eden",
-"confidence": 0.1562,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Sidon",
 "confidence": 0.1562,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "keyterm:Refuge",
 "type": "keyterm",
 "preferred_label": "Refuge",
+"confidence": 0.1562,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
 "confidence": 0.1562,
 "match_method": "canonical"
 }

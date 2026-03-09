@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Anointed",
-"type": "keyterm",
-"preferred_label": "Anointed",
+"id": "person:Abner",
+"type": "person",
+"preferred_label": "Abner",
 "confidence": 0.3261,
 "match_method": "canonical"
 },
 {
-"id": "person:Abner",
-"type": "person",
-"preferred_label": "Abner",
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"preferred_label": "Anointed",
 "confidence": 0.3261,
 "match_method": "canonical"
 },
@@ -147,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Ziph.2",
+"type": "place",
+"preferred_label": "Wilderness of Ziph",
+"confidence": 0.213,
+"match_method": "canonical"
+},
+{
 "id": "place:Jeshimon",
 "type": "place",
 "preferred_label": "Jeshimon",
@@ -161,24 +168,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ziph.2",
-"type": "place",
-"preferred_label": "Wilderness of Ziph",
-"confidence": 0.213,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Wickedness",
 "type": "keyterm",
 "preferred_label": "Wickedness",
 "confidence": 0.213,
-"match_method": "canonical"
-},
-{
-"id": "realia:ClayJar",
-"type": "realia",
-"preferred_label": "Clay Jar",
-"confidence": 0.2096,
 "match_method": "canonical"
 },
 {
@@ -189,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jezreel",
-"type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.1594,
+"id": "realia:ClayJar",
+"type": "realia",
+"preferred_label": "Clay Jar",
+"confidence": 0.2096,
 "match_method": "canonical"
 },
 {
-"id": "person:Laish",
-"type": "person",
-"preferred_label": "Laish",
+"id": "group:Ziph",
+"type": "group",
+"preferred_label": "Ziphites",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -210,6 +203,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Palti.2",
+"type": "person",
+"preferred_label": "Palti",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
 "id": "place:Gallim",
 "type": "place",
 "preferred_label": "Gallim",
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahimelech.2",
-"type": "person",
-"preferred_label": "Ahimelech",
+"id": "place:Maon",
+"type": "place",
+"preferred_label": "Maon",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
 {
-"id": "group:Caleb",
-"type": "group",
-"preferred_label": "Calebites",
+"id": "person:Ahinoam.2",
+"type": "person",
+"preferred_label": "Ahinoam",
 "confidence": 0.1594,
 "match_method": "canonical"
 }

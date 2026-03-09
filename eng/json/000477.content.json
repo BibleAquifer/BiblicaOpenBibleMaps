@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Adah",
+"id": "person:Zillah",
 "type": "person",
-"preferred_label": "Adah",
+"preferred_label": "Zillah",
 "confidence": 0.325,
 "match_method": "canonical"
 },
 {
-"id": "person:Zillah",
+"id": "person:Adah",
 "type": "person",
-"preferred_label": "Zillah",
+"preferred_label": "Adah",
 "confidence": 0.325,
 "match_method": "canonical"
 },
@@ -98,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Methushael",
+"type": "person",
+"preferred_label": "Methushael",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
 "id": "person:Jubal",
 "type": "person",
 "preferred_label": "Jubal",
@@ -112,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Naamah.2",
+"id": "person:Eve",
 "type": "person",
-"preferred_label": "Naamah",
+"preferred_label": "Eve",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -126,30 +133,23 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Mehujael",
+"type": "person",
+"preferred_label": "Mehujael",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Naamah.2",
+"type": "person",
+"preferred_label": "Naamah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
 "id": "person:Tubal-cain",
 "type": "person",
 "preferred_label": "Tubal-cain",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Eve",
-"type": "person",
-"preferred_label": "Eve",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Enosh",
-"type": "person",
-"preferred_label": "Enosh",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Methushael",
-"type": "person",
-"preferred_label": "Methushael",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Irad",
+"id": "person:Enosh",
 "type": "person",
-"preferred_label": "Irad",
+"preferred_label": "Enosh",
 "confidence": 0.175,
 "match_method": "canonical"
 },
 {
-"id": "person:Mehujael",
+"id": "person:Irad",
 "type": "person",
-"preferred_label": "Mehujael",
+"preferred_label": "Irad",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -182,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
+"id": "place:Eden.2",
+"type": "place",
+"preferred_label": "Garden of Eden",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -203,13 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Eden.2",
-"type": "place",
-"preferred_label": "Garden of Eden",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
 "preferred_label": "Passion",
@@ -217,10 +203,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lute",
-"type": "realia",
-"preferred_label": "Lute",
-"confidence": 0.115,
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
@@ -231,16 +224,23 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1073,
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.115,
 "match_method": "canonical"
 },
 {
 "id": "flora:Sorghum",
 "type": "flora",
 "preferred_label": "Sorghum",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1073,
 "match_method": "canonical"
 },

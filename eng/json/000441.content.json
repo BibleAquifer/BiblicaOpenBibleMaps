@@ -35,13 +35,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.4437,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -52,6 +45,13 @@
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
+"confidence": 0.4437,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
 "confidence": 0.4437,
 "match_method": "canonical"
 },
@@ -98,34 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Elnathan.5",
-"type": "person",
-"preferred_label": "Elnathan",
-"confidence": 0.1771,
-"match_method": "canonical"
-},
-{
-"id": "place:Moresheth",
-"type": "place",
-"preferred_label": "Moresheth",
-"confidence": 0.1771,
-"match_method": "canonical"
-},
-{
-"id": "person:Achbor.2",
-"type": "person",
-"preferred_label": "Achbor",
-"confidence": 0.1771,
-"match_method": "canonical"
-},
-{
-"id": "person:Micah.6",
-"type": "person",
-"preferred_label": "Micah",
-"confidence": 0.1771,
-"match_method": "canonical"
-},
-{
 "id": "person:Ahikam",
 "type": "person",
 "preferred_label": "Ahikam",
@@ -147,58 +119,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shaphan",
-"type": "person",
-"preferred_label": "Shaphan",
-"confidence": 0.1688,
+"id": "place:Moresheth",
+"type": "place",
+"preferred_label": "Moresheth",
+"confidence": 0.1771,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1688,
+"id": "person:Achbor.2",
+"type": "person",
+"preferred_label": "Achbor",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Elnathan.5",
+"type": "person",
+"preferred_label": "Elnathan",
+"confidence": 0.1771,
+"match_method": "canonical"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"preferred_label": "Micah",
+"confidence": 0.1771,
 "match_method": "canonical"
 },
 {
 "id": "place:Kiriath-jearim",
 "type": "place",
 "preferred_label": "Kiriath-jearim",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "person:Josiah",
-"type": "person",
-"preferred_label": "Josiah",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"preferred_label": "Exempt",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -210,9 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Instruction",
+"preferred_label": "Fear",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Shaphan",
+"type": "person",
+"preferred_label": "Shaphan",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -224,16 +189,51 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Sandalwood",
-"type": "flora",
-"preferred_label": "Sandalwood",
-"confidence": 0.1088,
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"preferred_label": "Josiah",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1688,
 "match_method": "canonical"
 },
 {
 "id": "realia:Sword",
 "type": "realia",
 "preferred_label": "Sword",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
 "confidence": 0.1088,
 "match_method": "canonical"
 }

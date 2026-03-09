@@ -56,6 +56,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.3321,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
@@ -66,13 +73,6 @@
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
-"confidence": 0.3321,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
 "confidence": 0.3321,
 "match_method": "canonical"
 },
@@ -105,30 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
 "confidence": 0.2161,
 "match_method": "canonical"
 },
@@ -140,9 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Blood",
 "confidence": 0.2161,
 "match_method": "canonical"
 },
@@ -154,23 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DemonPossessed",
+"id": "keyterm:Proclaim",
 "type": "keyterm",
-"preferred_label": "Be Demon Possessed",
-"confidence": 0.1616,
+"preferred_label": "Proclaim",
+"confidence": 0.2161,
 "match_method": "canonical"
 },
 {
-"id": "person:Joanna",
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "person:Marymagdalene",
 "type": "person",
-"preferred_label": "Joanna",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "deity:Legion",
-"type": "deity",
-"preferred_label": "Legion",
+"preferred_label": "Mary Magdalene",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
@@ -182,16 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Susanna",
-"type": "person",
-"preferred_label": "Susanna",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "person:Chuza",
-"type": "person",
-"preferred_label": "Chuza",
+"id": "deity:Legion",
+"type": "deity",
+"preferred_label": "Legion",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
@@ -203,6 +182,34 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Joanna",
+"type": "person",
+"preferred_label": "Joanna",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Chuza",
+"type": "person",
+"preferred_label": "Chuza",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Susanna",
+"type": "person",
+"preferred_label": "Susanna",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"preferred_label": "Be Demon Possessed",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
 "id": "person:Jairus",
 "type": "person",
 "preferred_label": "Jairus",
@@ -210,23 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Marymagdalene",
-"type": "person",
-"preferred_label": "Mary Magdalene",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Peace",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Make Peace",
+"preferred_label": "Ability",
 "confidence": 0.158,
 "match_method": "canonical"
 },
 {
-"id": "person:Herod.2",
-"type": "person",
-"preferred_label": "Herod Antipas",
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
 "confidence": 0.158,
 "match_method": "canonical"
 }

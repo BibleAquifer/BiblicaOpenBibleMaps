@@ -28,6 +28,13 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4125,
+"match_method": "canonical"
+},
+{
 "id": "person:Israel",
 "type": "person",
 "preferred_label": "Israel",
@@ -35,10 +42,10 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.4125,
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.3344,
 "match_method": "canonical"
 },
 {
@@ -52,13 +59,6 @@
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
-"confidence": 0.3344,
-"match_method": "canonical"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
 "confidence": 0.3344,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moresheth",
+"id": "place:Moresheth-gath",
 "type": "place",
-"preferred_label": "Moresheth",
+"preferred_label": "Moresheth-gath",
 "confidence": 0.2031,
 "match_method": "canonical"
 },
 {
-"id": "place:Moresheth-gath",
+"id": "place:Moresheth",
 "type": "place",
-"preferred_label": "Moresheth-gath",
+"preferred_label": "Moresheth",
 "confidence": 0.2031,
 "match_method": "canonical"
 },
@@ -98,23 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Achzib",
+"id": "place:Beth-ezel",
 "type": "place",
-"preferred_label": "Achzib",
-"confidence": 0.1906,
-"match_method": "canonical"
-},
-{
-"id": "person:Micah.6",
-"type": "person",
-"preferred_label": "Micah",
-"confidence": 0.1906,
-"match_method": "canonical"
-},
-{
-"id": "place:Zaanan",
-"type": "place",
-"preferred_label": "Zaanan",
+"preferred_label": "Beth-ezel",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
@@ -126,30 +112,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beth-ezel",
+"id": "place:Zaanan",
 "type": "place",
-"preferred_label": "Beth-ezel",
+"preferred_label": "Zaanan",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
 {
-"id": "place:Gath",
+"id": "person:Micah.6",
+"type": "person",
+"preferred_label": "Micah",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "place:Achzib",
 "type": "place",
-"preferred_label": "Gath",
-"confidence": 0.1781,
+"preferred_label": "Achzib",
+"confidence": 0.1906,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "keyterm:Dispossess",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Dispossess",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
@@ -161,23 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Lachish",
-"type": "place",
-"preferred_label": "Lachish",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
-"id": "place:Adullam",
-"type": "place",
-"preferred_label": "Adullam",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
-"id": "place:Mareshah",
-"type": "place",
-"preferred_label": "Mareshah",
+"id": "person:Ahaz",
+"type": "person",
+"preferred_label": "Ahaz",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
@@ -189,23 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahaz",
-"type": "person",
-"preferred_label": "Ahaz",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dispossess",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Dispossess",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
-"id": "place:Ophrah",
-"type": "place",
-"preferred_label": "Ophrah",
+"preferred_label": "Glory",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
@@ -217,16 +175,58 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
+"id": "place:Adullam",
+"type": "place",
+"preferred_label": "Adullam",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophrah",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "place:Mareshah",
+"type": "place",
+"preferred_label": "Mareshah",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Ostrich",
+"type": "fauna",
+"preferred_label": "Ostrich",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
 {
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
+"id": "realia:Foundation",
+"type": "realia",
+"preferred_label": "Foundation",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
@@ -238,23 +238,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Ostrich",
-"type": "fauna",
-"preferred_label": "Ostrich",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Jackal",
-"type": "fauna",
-"preferred_label": "Jackal",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
 "id": "realia:Image",
 "type": "realia",
 "preferred_label": "Image",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
@@ -266,9 +259,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Foundation",
-"type": "realia",
-"preferred_label": "Foundation",
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
@@ -287,16 +280,23 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "fauna:Jackal",
+"type": "fauna",
+"preferred_label": "Jackal",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "High Place",
 "confidence": 0.1181,
 "match_method": "canonical"
 },

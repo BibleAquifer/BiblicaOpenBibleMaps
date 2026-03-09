@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.372,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "preferred_label": "Bless",
@@ -70,16 +63,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.3683,
+"preferred_label": "Covenant",
+"confidence": 0.372,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.3683,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.3683,
 "match_method": "canonical"
 },
@@ -119,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
@@ -126,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.261,
 "match_method": "canonical"
 },
@@ -147,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.261,
-"match_method": "canonical"
-},
-{
 "id": "place:Moab",
 "type": "place",
 "preferred_label": "Moab",
@@ -168,6 +168,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Arrow",
 "type": "keyterm",
 "preferred_label": "Arrow",
@@ -175,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
 "confidence": 0.2089,
 "match_method": "canonical"
 },
@@ -196,10 +203,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Naphtali",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Naphtali",
-"confidence": 0.2089,
+"preferred_label": "Judah",
+"confidence": 0.2073,
 "match_method": "canonical"
 },
 {
@@ -210,23 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"preferred_label": "The Way",
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
 "confidence": 0.2073,
 "match_method": "canonical"
 },
 {
-"id": "place:MoabPlains",
-"type": "place",
-"preferred_label": "Plains of Moab",
-"confidence": 0.2073,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Delight",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Delight",
+"preferred_label": "Holy",
 "confidence": 0.2073,
 "match_method": "canonical"
 }

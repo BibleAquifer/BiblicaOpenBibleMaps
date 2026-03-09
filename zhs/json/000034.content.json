@@ -91,6 +91,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Pray",
 "type": "keyterm",
 "preferred_label": "Pray",
@@ -105,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2838,
-"match_method": "canonical"
-},
-{
 "id": "person:Lydia",
 "type": "person",
 "preferred_label": "Lydia",
@@ -119,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Troas",
+"id": "place:Mysia",
 "type": "place",
-"preferred_label": "Troas",
+"preferred_label": "Mysia",
 "confidence": 0.2275,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mysia",
+"id": "place:Troas",
 "type": "place",
-"preferred_label": "Mysia",
+"preferred_label": "Troas",
 "confidence": 0.2275,
 "match_method": "canonical"
 },
@@ -147,23 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Javan",
-"type": "person",
-"preferred_label": "Javan",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"preferred_label": "Decided",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -175,6 +161,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Faithfulness",
 "type": "keyterm",
 "preferred_label": "Faithfulness",
@@ -182,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
 {
-"id": "place:Asia",
+"id": "place:Thyatira",
 "type": "place",
-"preferred_label": "Asia",
+"preferred_label": "Thyatira",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -203,51 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Derbe",
+"id": "place:Asia",
 "type": "place",
-"preferred_label": "Derbe",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Samothrace",
-"type": "place",
-"preferred_label": "Samothrace",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Philippi",
-"type": "place",
-"preferred_label": "Philippi",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Thyatira",
-"type": "place",
-"preferred_label": "Thyatira",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Galatia",
-"type": "place",
-"preferred_label": "Galatia",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timothy",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Bithynia",
-"type": "place",
-"preferred_label": "Bithynia",
+"preferred_label": "Asia",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -266,6 +224,48 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Philippi",
+"type": "place",
+"preferred_label": "Philippi",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Bithynia",
+"type": "place",
+"preferred_label": "Bithynia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothy",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Galatia",
+"type": "place",
+"preferred_label": "Galatia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Samothrace",
+"type": "place",
+"preferred_label": "Samothrace",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"preferred_label": "Derbe",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
 "id": "realia:Door",
 "type": "realia",
 "preferred_label": "Door",
@@ -280,58 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Peace",
 "type": "keyterm",
 "preferred_label": "Make Peace",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"preferred_label": "Worship",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"preferred_label": "Be Lawful",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -343,23 +294,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Encourage",
+"id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Encourage",
+"preferred_label": "Church",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Worship",
 "type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Worship",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -371,9 +322,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "Encourage",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -385,17 +343,52 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
 "id": "realia:Torch",
 "type": "realia",
 "preferred_label": "Torch",
 "confidence": 0.1063,
-"match_method": "canonical"
-},
-{
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
-"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
@@ -409,6 +402,13 @@
 "id": "realia:Foundation",
 "type": "realia",
 "preferred_label": "Foundation",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

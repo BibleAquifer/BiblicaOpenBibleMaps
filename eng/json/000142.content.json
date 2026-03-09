@@ -21,6 +21,13 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
+"confidence": 0.4,
+"match_method": "canonical"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "preferred_label": "LORD",
@@ -31,13 +38,6 @@
 "id": "group:Pharisee",
 "type": "group",
 "preferred_label": "Pharisees",
-"confidence": 0.4,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disaster",
-"type": "keyterm",
-"preferred_label": "Disaster",
 "confidence": 0.4,
 "match_method": "canonical"
 },
@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
+"id": "person:Jonah.2",
+"type": "person",
+"preferred_label": "Jonah",
 "confidence": 0.275,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Judgment",
+"id": "keyterm:Example",
 "type": "keyterm",
-"preferred_label": "Judgment",
+"preferred_label": "Symbol",
 "confidence": 0.275,
 "match_method": "canonical"
 },
@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jonah.2",
-"type": "person",
-"preferred_label": "Jonah",
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"preferred_label": "Judgment",
 "confidence": 0.275,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blood",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Blood",
+"preferred_label": "Sky",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -112,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CourtCase",
+"id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Court Case",
+"preferred_label": "Blood",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -126,13 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "Body",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "Love",
@@ -140,23 +133,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Body",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.215,
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"preferred_label": "Court Case",
+"confidence": 0.2167,
 "match_method": "canonical"
 },
 {
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.215,
 "match_method": "canonical"
 },
@@ -168,9 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Make Peace",
+"preferred_label": "Ability",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"preferred_label": "Clean",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"preferred_label": "Put to the Test",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -182,37 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Make Peace",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BringIn",
-"type": "keyterm",
-"preferred_label": "Bring In",
+"preferred_label": "Be a Disciple",
 "confidence": 0.1583,
 "match_method": "canonical"
 },

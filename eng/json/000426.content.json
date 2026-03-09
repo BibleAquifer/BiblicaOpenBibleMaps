@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.3969,
 "match_method": "canonical"
 },
 {
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.3969,
 "match_method": "canonical"
 },
@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rezin",
-"type": "person",
-"preferred_label": "Rezin",
-"confidence": 0.3417,
-"match_method": "canonical"
-},
-{
 "id": "person:Ahaz",
 "type": "person",
 "preferred_label": "Ahaz",
@@ -70,16 +63,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Rezin",
 "type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3375,
+"preferred_label": "Rezin",
+"confidence": 0.3417,
 "match_method": "canonical"
 },
 {
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
+"confidence": 0.3375,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3375,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3375,
 "match_method": "canonical"
 },
@@ -119,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BeFirm",
-"type": "keyterm",
-"preferred_label": "Well-Established",
-"confidence": 0.2229,
-"match_method": "canonical"
-},
-{
 "id": "place:Damascus",
 "type": "place",
 "preferred_label": "Damascus",
@@ -133,9 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.2229,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
@@ -147,16 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.2188,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
 "confidence": 0.2188,
 "match_method": "canonical"
 },
@@ -168,17 +161,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.2188,
+"match_method": "canonical"
+},
+{
 "id": "person:Isaiah",
 "type": "person",
 "preferred_label": "Isaiah",
 "confidence": 0.1677,
-"match_method": "canonical"
-},
-{
-"id": "place:WashersField",
-"type": "place",
-"preferred_label": "Launderer’s Field",
-"confidence": 0.1635,
 "match_method": "canonical"
 },
 {
@@ -196,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Tabeal",
+"id": "person:Jeberechiah",
 "type": "person",
-"preferred_label": "Tabeal",
+"preferred_label": "Jeberechiah",
 "confidence": 0.1635,
 "match_method": "canonical"
 },
 {
-"id": "person:Jeberechiah",
+"id": "person:Tabeal",
 "type": "person",
-"preferred_label": "Jeberechiah",
+"preferred_label": "Tabeal",
 "confidence": 0.1635,
 "match_method": "canonical"
 },
@@ -217,72 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit",
-"type": "keyterm",
-"preferred_label": "Necromancer",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Arrow",
-"type": "keyterm",
-"preferred_label": "Arrow",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
+"id": "place:WashersField",
 "type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "person:Uzziah",
-"type": "person",
-"preferred_label": "Uzziah",
-"confidence": 0.1594,
+"preferred_label": "Launderer’s Field",
+"confidence": 0.1635,
 "match_method": "canonical"
 },
 {
 "id": "place:Hell",
 "type": "place",
 "preferred_label": "Hell",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "person:Pekah",
-"type": "person",
-"preferred_label": "Pekah",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -294,9 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"preferred_label": "Counsel",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -304,6 +241,69 @@
 "id": "person:Jotham.2",
 "type": "person",
 "preferred_label": "Jotham",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Pekah",
+"type": "person",
+"preferred_label": "Pekah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"preferred_label": "Uzziah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit",
+"type": "keyterm",
+"preferred_label": "Necromancer",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -322,16 +322,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Hoe",
+"id": "realia:Stylus",
 "type": "realia",
-"preferred_label": "Hoe",
+"preferred_label": "Stylus",
 "confidence": 0.1035,
 "match_method": "canonical"
 },
 {
-"id": "realia:Stylus",
+"id": "realia:Hoe",
 "type": "realia",
-"preferred_label": "Stylus",
+"preferred_label": "Hoe",
 "confidence": 0.1035,
 "match_method": "canonical"
 },
@@ -357,58 +357,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bee",
-"type": "fauna",
-"preferred_label": "Bee",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
 "id": "realia:MoltenImage",
 "type": "realia",
 "preferred_label": "Molten Image",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
-"id": "flora:Sandalwood",
-"type": "flora",
-"preferred_label": "Sandalwood",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
-"id": "realia:Tablet",
-"type": "realia",
-"preferred_label": "Tablet",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.0994,
-"match_method": "canonical"
-},
-{
-"id": "realia:Arrow",
-"type": "realia",
-"preferred_label": "Arrow",
 "confidence": 0.0994,
 "match_method": "canonical"
 },
@@ -420,9 +371,58 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Arrow",
+"type": "realia",
+"preferred_label": "Arrow",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
 "id": "realia:Bow",
 "type": "realia",
 "preferred_label": "Bow",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tablet",
+"type": "realia",
+"preferred_label": "Tablet",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.0994,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bee",
+"type": "fauna",
+"preferred_label": "Bee",
 "confidence": 0.0994,
 "match_method": "canonical"
 }

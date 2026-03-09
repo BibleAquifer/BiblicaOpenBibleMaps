@@ -112,30 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Aristarchus",
-"type": "person",
-"preferred_label": "Аристарх",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "place:Adramyttium",
-"type": "place",
-"preferred_label": "Адрамитский",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
 "id": "person:Augustus",
 "type": "person",
 "preferred_label": "Август",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "place:Salmone",
-"type": "place",
-"preferred_label": "Салмон",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -147,16 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Myra",
-"type": "place",
-"preferred_label": "Мира",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "place:Cnidus",
-"type": "place",
-"preferred_label": "Книд",
+"id": "person:Aristarchus",
+"type": "person",
+"preferred_label": "Аристарх",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -168,9 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Alexandria",
+"id": "place:Myra",
 "type": "place",
-"preferred_label": "Александрия",
+"preferred_label": "Мира",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Киликия",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Salmone",
+"type": "place",
+"preferred_label": "Салмон",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -189,16 +175,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pamphylia",
+"id": "place:Phoenix",
 "type": "place",
-"preferred_label": "Памфилия",
+"preferred_label": "Финик",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
 {
-"id": "place:Cilicia",
+"id": "place:Cnidus",
 "type": "place",
-"preferred_label": "Киликия",
+"preferred_label": "Книд",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"preferred_label": "Александрия",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Памфилия",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -210,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Phoenix",
+"id": "place:Adramyttium",
 "type": "place",
-"preferred_label": "Финик",
+"preferred_label": "Адрамитский",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -231,6 +231,90 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"preferred_label": "Thessalonians",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Македонянин",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Киттим",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Fast",
 "type": "keyterm",
 "preferred_label": "Abstain from Food",
@@ -245,72 +329,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "place:Macedonia",
-"type": "place",
-"preferred_label": "Македонянин",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Priesthood",
-"type": "keyterm",
-"preferred_label": "Priesthood",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
 "id": "person:Claudius",
 "type": "person",
 "preferred_label": "Клавдий",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "group:Thessalonica",
-"type": "group",
-"preferred_label": "Thessalonians",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -322,27 +343,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cyprus",
-"type": "place",
-"preferred_label": "Киттим",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "Persuade",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
 "id": "realia:Fathom",
 "type": "realia",
 "preferred_label": "Fathom",
@@ -350,16 +350,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sail",
+"id": "realia:Rudder",
 "type": "realia",
-"preferred_label": "Sail",
+"preferred_label": "Rudder",
 "confidence": 0.1048,
 "match_method": "canonical"
 },
 {
-"id": "realia:Rudder",
+"id": "realia:Sail",
 "type": "realia",
-"preferred_label": "Rudder",
+"preferred_label": "Sail",
 "confidence": 0.1048,
 "match_method": "canonical"
 },

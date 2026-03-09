@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Пётр",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Иерусалим",
 "confidence": 0.4023,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Иерусалим",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Пётр",
 "confidence": 0.4023,
 "match_method": "canonical"
 },
@@ -119,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:CallUpon",
 "type": "keyterm",
 "preferred_label": "Call Upon",
@@ -126,23 +133,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
-"confidence": 0.2209,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Святой Дух",
-"confidence": 0.2209,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
@@ -161,9 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
@@ -171,20 +171,6 @@
 "id": "place:Straight",
 "type": "place",
 "preferred_label": "Straight Street",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "group:Tarsus",
-"type": "group",
-"preferred_label": "Тарсянин",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "group:Hellenist",
-"type": "group",
-"preferred_label": "Hellenists",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -203,6 +189,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Tarsus",
+"type": "group",
+"preferred_label": "Тарсянин",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
 "id": "person:Simon.9",
 "type": "person",
 "preferred_label": "Симон",
@@ -217,10 +210,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.1609,
+"id": "group:Hellenist",
+"type": "group",
+"preferred_label": "Hellenists",
+"confidence": 0.1651,
 "match_method": "canonical"
 },
 {
@@ -231,30 +224,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "Make Peace",
-"confidence": 0.1605,
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1609,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Израиль",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Самария",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -266,9 +245,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Good",
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "Good",
+"preferred_label": "Make Peace",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -280,58 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Галилея",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Church",
 "type": "keyterm",
 "preferred_label": "Church",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "person:Barnabas",
-"type": "person",
-"preferred_label": "Варнава",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "Body",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Самария",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"preferred_label": "Chosen",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -343,16 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Straightness",
+"id": "keyterm:Proclaim",
 "type": "keyterm",
-"preferred_label": "Straightness",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Proclaim",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -364,9 +294,79 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Израиль",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Варнава",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"preferred_label": "Straightness",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "Chosen",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
 "id": "place:Judea",
 "type": "place",
 "preferred_label": "Иудея",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Галилея",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -378,9 +378,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Cloak",
+"id": "realia:Bed",
 "type": "realia",
-"preferred_label": "Cloak",
+"preferred_label": "Bed",
+"confidence": 0.1005,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
 "confidence": 0.1005,
 "match_method": "canonical"
 },
@@ -399,16 +406,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bed",
+"id": "realia:Cloak",
 "type": "realia",
-"preferred_label": "Bed",
-"confidence": 0.1005,
-"match_method": "canonical"
-},
-{
-"id": "realia:Temple",
-"type": "realia",
-"preferred_label": "Temple",
+"preferred_label": "Cloak",
 "confidence": 0.1005,
 "match_method": "canonical"
 },

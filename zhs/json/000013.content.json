@@ -117,16 +117,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Authority",
+"preferred_label": "Fear",
 "confidence": 0.3594,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Authority",
 "confidence": 0.3594,
 "match_method": "canonical"
 },
@@ -145,16 +145,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Ask for",
+"preferred_label": "Glory",
 "confidence": 0.358,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Ask for",
 "confidence": 0.358,
 "match_method": "canonical"
 },
@@ -173,16 +173,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Salvation",
 "confidence": 0.3567,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
 "confidence": 0.3567,
 "match_method": "canonical"
 },
@@ -194,9 +194,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
 "confidence": 0.3567,
 "match_method": "canonical"
 },
@@ -215,16 +215,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Body",
-"confidence": 0.356,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.356,
 "match_method": "canonical"
 },
@@ -236,9 +229,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.356,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
 "confidence": 0.356,
 "match_method": "canonical"
 }

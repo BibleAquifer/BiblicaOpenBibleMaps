@@ -70,34 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Parable",
-"type": "keyterm",
-"preferred_label": "Parable",
-"confidence": 0.2209,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.2209,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.2209,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "Mercy",
-"confidence": 0.2209,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "Surely!",
@@ -105,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Believe",
+"preferred_label": "To Command",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
@@ -126,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Command",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "To Command",
+"preferred_label": "Always",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
@@ -147,9 +119,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Mercy",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Mercy",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
@@ -161,17 +154,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.2209,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Fast",
 "type": "keyterm",
 "preferred_label": "Abstain from Food",
 "confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.1609,
 "match_method": "canonical"
 },
 {
@@ -182,9 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1609,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:UnjustDeed",
 "type": "keyterm",
-"preferred_label": "Word",
+"preferred_label": "Unjust Deed",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -196,37 +196,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Week",
 "type": "keyterm",
 "preferred_label": "Week",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"preferred_label": "Fornication",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "person:RichYoungRuler",
-"type": "person",
-"preferred_label": "Rich Young Ruler",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -238,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Be a Disciple",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -252,16 +238,58 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:UnjustDeed",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Unjust Deed",
+"preferred_label": "Glory",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Fornication",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
+"preferred_label": "Fornication",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:RichYoungRuler",
+"type": "person",
+"preferred_label": "Rich Young Ruler",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -276,34 +304,6 @@
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "Heart",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Nazareth",
-"type": "place",
-"preferred_label": "Nazareth",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "Persuade",
 "confidence": 0.1605,
 "match_method": "canonical"
 },

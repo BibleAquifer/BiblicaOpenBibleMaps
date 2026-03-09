@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Yesus",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Yerusalem",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
@@ -63,6 +63,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "preferred_label": "tubuh",
@@ -77,37 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "nama",
-"confidence": 0.2755,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "firman",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "roh",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Petrus",
+"preferred_label": "Musa",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -119,9 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
 "type": "person",
-"preferred_label": "Musa",
+"preferred_label": "Petrus",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -133,6 +119,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "roh",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "kehidupan",
@@ -140,30 +140,16 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Emmaus",
+"type": "place",
+"preferred_label": "Emaus",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Week",
 "type": "keyterm",
 "preferred_label": "minggu",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "menyembah",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "person:Cleopas",
-"type": "person",
-"preferred_label": "Kleopas",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "person:Joanna",
-"type": "person",
-"preferred_label": "Yohana",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
@@ -182,10 +168,38 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Emmaus",
-"type": "place",
-"preferred_label": "Emaus",
+"id": "person:Cleopas",
+"type": "person",
+"preferred_label": "Kleopas",
 "confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "person:Joanna",
+"type": "person",
+"preferred_label": "Yohana",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "menyembah",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Liberation",
+"type": "keyterm",
+"preferred_label": "penebusan",
+"confidence": 0.1585,
 "match_method": "canonical"
 },
 {
@@ -196,37 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:James.3",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Yakobus",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
+"id": "keyterm:Promise",
 "type": "keyterm",
-"preferred_label": "mengampuni",
+"preferred_label": "janji",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "kemuliaan",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "harapan",
+"id": "person:Marymagdalene",
+"type": "person",
+"preferred_label": "Maria",
 "confidence": 0.1585,
 "match_method": "canonical"
 }

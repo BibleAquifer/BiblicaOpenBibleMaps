@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.4,
 "match_method": "canonical"
 },
@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeremiah.6",
-"type": "person",
-"preferred_label": "Jeremiah",
-"confidence": 0.325,
-"match_method": "canonical"
-},
-{
 "id": "person:Nebuchadnezzar",
 "type": "person",
 "preferred_label": "Nebuchadnezzar",
@@ -77,9 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rab-mag",
+"id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Rab-mag",
+"preferred_label": "Jeremiah",
+"confidence": 0.325,
+"match_method": "canonical"
+},
+{
+"id": "person:Nergal-shar-ezer.2",
+"type": "person",
+"preferred_label": "Nergal-shar-ezer",
 "confidence": 0.2722,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nergal-shar-ezer.2",
+"id": "person:Rab-mag",
 "type": "person",
-"preferred_label": "Nergal-shar-ezer",
+"preferred_label": "Rab-mag",
 "confidence": 0.2722,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Chaldea",
-"type": "group",
-"preferred_label": "Chaldeans",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.25,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
 "confidence": 0.25,
 "match_method": "canonical"
 },
@@ -126,30 +126,16 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Nebushazban",
+"type": "person",
+"preferred_label": "Nebushazban",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
 "id": "person:Nebu-sar-sekim",
 "type": "person",
 "preferred_label": "Nebu-sar-sekim",
-"confidence": 0.1861,
-"match_method": "canonical"
-},
-{
-"id": "person:Nergal-shar-ezer",
-"type": "person",
-"preferred_label": "Nergal-shar-ezer",
-"confidence": 0.1861,
-"match_method": "canonical"
-},
-{
-"id": "person:Ebed-melech",
-"type": "person",
-"preferred_label": "Ebed-melech",
-"confidence": 0.1861,
-"match_method": "canonical"
-},
-{
-"id": "person:Samgar",
-"type": "person",
-"preferred_label": "Samgar",
 "confidence": 0.1861,
 "match_method": "canonical"
 },
@@ -161,10 +147,73 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nebushazban",
+"id": "person:Nergal-shar-ezer",
 "type": "person",
-"preferred_label": "Nebushazban",
+"preferred_label": "Nergal-shar-ezer",
 "confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "person:Samgar",
+"type": "person",
+"preferred_label": "Samgar",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "person:Ebed-melech",
+"type": "person",
+"preferred_label": "Ebed-melech",
+"confidence": 0.1861,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabah",
+"type": "place",
+"preferred_label": "Arabah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Ethiopia",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Gedaliah.2",
+"type": "person",
+"preferred_label": "Gedaliah",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.175,
 "match_method": "canonical"
 },
 {
@@ -185,55 +234,6 @@
 "id": "keyterm:WordOfTheLord",
 "type": "keyterm",
 "preferred_label": "Word of the Lord",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Arabah",
-"type": "place",
-"preferred_label": "Arabah",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Ethiopia",
-"type": "place",
-"preferred_label": "Ethiopia",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Gedaliah.2",
-"type": "person",
-"preferred_label": "Gedaliah",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "group:Ethiopia",
-"type": "group",
-"preferred_label": "Ethiopians",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"preferred_label": "Trust",
 "confidence": 0.175,
 "match_method": "canonical"
 },

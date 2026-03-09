@@ -42,6 +42,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.3391,
+"match_method": "canonical"
+},
+{
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Yesus",
@@ -56,23 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "kebaikan",
-"confidence": 0.3391,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "meminta",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "harapan",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -84,16 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "kehidupan",
+"preferred_label": "meminta",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -101,6 +87,20 @@
 "id": "keyterm:Faithfulness",
 "type": "keyterm",
 "preferred_label": "kesetiaan",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -119,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "menghujat",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "keahlian",
@@ -126,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Encourage",
 "type": "keyterm",
-"preferred_label": "kekuasaan",
+"preferred_label": "menasihati",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -147,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blaspheme",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "menghujat",
-"confidence": 0.2196,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"preferred_label": "menasihati",
+"preferred_label": "kekuasaan",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -168,23 +168,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Clean",
+"type": "keyterm",
+"preferred_label": "suci",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
 "id": "person:CretanProphet",
 "type": "person",
 "preferred_label": "Cretan Prophet",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worthless",
-"type": "keyterm",
-"preferred_label": "sia, sia",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "person:Zenas",
-"type": "person",
-"preferred_label": "Zenas",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Clean",
+"id": "keyterm:Gentle",
 "type": "keyterm",
-"preferred_label": "suci",
+"preferred_label": "ramah",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worthless",
+"type": "keyterm",
+"preferred_label": "sia, sia",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
@@ -217,23 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Gentle",
-"type": "keyterm",
-"preferred_label": "ramah",
+"id": "person:Zenas",
+"type": "person",
+"preferred_label": "Zenas",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "memperdamaikan",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:HavingLoveForOnesHusband",
-"type": "keyterm",
-"preferred_label": "yang mendukung suami",
+"preferred_label": "penyunatan",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -245,37 +238,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "person:Tychicus",
+"type": "person",
+"preferred_label": "Tikhikus",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "khusus",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "kemuliaan",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "benar",
+"preferred_label": "memutuskan",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -294,107 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BeyondReproach",
-"type": "keyterm",
-"preferred_label": "tidak bercela",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "bersaksi",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:SelfCondemned",
-"type": "keyterm",
-"preferred_label": "menghukum dirinya sendiri",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "belas kasihan",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "memberitakan",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "memutuskan",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"preferred_label": "berbahagialah",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Conscience",
-"type": "keyterm",
-"preferred_label": "hati nurani",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "tidak setia",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worldly",
-"type": "keyterm",
-"preferred_label": "duniawi",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"preferred_label": "Paulus",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawless",
-"type": "keyterm",
-"preferred_label": "tak kenal hukum",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Pure",
 "type": "keyterm",
 "preferred_label": "murni",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "kasihi",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LikingWhatIsGood",
-"type": "keyterm",
-"preferred_label": "suka akan yang baik",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -406,30 +280,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Chosen",
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "orang pilihan",
+"preferred_label": "memperdamaikan",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "membersihkan",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Apollos",
-"type": "person",
-"preferred_label": "Apolos",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "berbuat dosa",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -441,6 +301,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:LikingWhatIsGood",
+"type": "keyterm",
+"preferred_label": "suka akan yang baik",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "pencemaran",
@@ -448,16 +315,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "penyunatan",
+"preferred_label": "kemuliaan",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "person:Tychicus",
-"type": "person",
-"preferred_label": "Tikhikus",
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"preferred_label": "tak kenal hukum",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"preferred_label": "hati nurani",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "tidak setia",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "berbahagialah",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SelfCondemned",
+"type": "keyterm",
+"preferred_label": "menghukum dirinya sendiri",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -469,9 +371,107 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "memberitakan",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "belas kasihan",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "benar",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Serve.2",
 "type": "keyterm",
 "preferred_label": "melayani",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "membersihkan",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "berbuat dosa",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worldly",
+"type": "keyterm",
+"preferred_label": "duniawi",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "kasihi",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Apollos",
+"type": "person",
+"preferred_label": "Apolos",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeyondReproach",
+"type": "keyterm",
+"preferred_label": "tidak bercela",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "orang pilihan",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HavingLoveForOnesHusband",
+"type": "keyterm",
+"preferred_label": "yang mendukung suami",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.1598,
 "match_method": "canonical"
 },

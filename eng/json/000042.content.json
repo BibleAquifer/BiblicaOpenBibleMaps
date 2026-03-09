@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 0.374,
-"match_method": "canonical"
-},
-{
 "id": "place:Athens",
 "type": "place",
 "preferred_label": "Athens",
@@ -98,16 +91,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.3721,
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.374,
 "match_method": "canonical"
 },
 {
 "id": "person:Javan",
 "type": "person",
 "preferred_label": "Javan",
+"confidence": 0.3721,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
 "confidence": 0.3721,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timothy",
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
 "confidence": 0.3196,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothy",
 "confidence": 0.3196,
 "match_method": "canonical"
 },
@@ -168,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Thessalonica",
-"type": "place",
-"preferred_label": "Thessalonica",
+"id": "person:Aquila",
+"type": "person",
+"preferred_label": "Aquila",
 "confidence": 0.2672,
 "match_method": "canonical"
 },
 {
-"id": "person:Aquila",
-"type": "person",
-"preferred_label": "Aquila",
+"id": "place:Thessalonica",
+"type": "place",
+"preferred_label": "Thessalonica",
 "confidence": 0.2672,
 "match_method": "canonical"
 },
@@ -189,6 +189,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Priscilla",
+"type": "person",
+"preferred_label": "Priscilla",
+"confidence": 0.2652,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Decided",
 "type": "keyterm",
 "preferred_label": "Decided",
@@ -196,10 +203,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Priscilla",
-"type": "person",
-"preferred_label": "Priscilla",
-"confidence": 0.2652,
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2632,
 "match_method": "canonical"
 },
 {
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.2632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ephesus",
 "confidence": 0.2632,
 "match_method": "canonical"
 }

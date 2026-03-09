@@ -188,16 +188,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Offering",
+"preferred_label": "Word of the Lord",
 "confidence": 0.3158,
 "match_method": "canonical"
 },
 {
-"id": "group:Syria",
-"type": "group",
-"preferred_label": "Syrians",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.3158,
 "match_method": "canonical"
 },
@@ -209,9 +209,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
 "confidence": 0.3158,
 "match_method": "canonical"
 },
@@ -223,16 +223,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
+"id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "David",
+"preferred_label": "Jeroboam",
 "confidence": 0.2618,
 "match_method": "canonical"
 },
 {
-"id": "person:Jeroboam",
-"type": "person",
-"preferred_label": "Jeroboam",
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
 "confidence": 0.2618,
 "match_method": "canonical"
 }

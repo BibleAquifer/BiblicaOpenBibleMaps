@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "Rebel",
+"preferred_label": "Hope",
 "confidence": 0.355,
 "match_method": "canonical"
 },
@@ -112,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Hope",
+"id": "keyterm:Rebel",
 "type": "keyterm",
-"preferred_label": "Hope",
+"preferred_label": "Rebel",
 "confidence": 0.355,
 "match_method": "canonical"
 },
@@ -133,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"preferred_label": "Counsel",
-"confidence": 0.3538,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:BelieveIn",
 "type": "keyterm",
 "preferred_label": "Believe In",
@@ -150,6 +143,13 @@
 "id": "keyterm:Bless",
 "type": "keyterm",
 "preferred_label": "Bless",
+"confidence": 0.3538,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"preferred_label": "Counsel",
 "confidence": 0.3538,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Safety",
+"id": "keyterm:Terror",
 "type": "keyterm",
-"preferred_label": "Safety",
+"preferred_label": "Terror",
 "confidence": 0.3525,
 "match_method": "canonical"
 },
@@ -203,20 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Teman",
-"type": "place",
-"preferred_label": "Teman",
-"confidence": 0.3525,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"preferred_label": "Terror",
-"confidence": 0.3525,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Exempt",
 "type": "keyterm",
 "preferred_label": "Exempt",
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:SoundWisdom",
+"id": "place:Teman",
+"type": "place",
+"preferred_label": "Teman",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
 "type": "keyterm",
-"preferred_label": "Sound Wisdom",
+"preferred_label": "Safety",
+"confidence": 0.3525,
+"match_method": "canonical"
+},
+{
+"id": "group:Shuhites",
+"type": "group",
+"preferred_label": "Shuhites",
 "confidence": 0.3523,
 "match_method": "canonical"
 }

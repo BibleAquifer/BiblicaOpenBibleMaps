@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.3462,
-"match_method": "canonical"
-},
-{
 "id": "group:Pharisee",
 "type": "group",
 "preferred_label": "Pharisees",
@@ -63,17 +56,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.3462,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:TaxCollector",
 "type": "keyterm",
 "preferred_label": "Tax Collector",
 "confidence": 0.2897,
-"match_method": "canonical"
-},
-{
-"id": "realia:CastingNet",
-"type": "realia",
-"preferred_label": "Casting Net",
-"confidence": 0.2862,
 "match_method": "canonical"
 },
 {
@@ -91,16 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fast",
-"type": "keyterm",
-"preferred_label": "Abstain from Food",
-"confidence": 0.2846,
+"id": "realia:CastingNet",
+"type": "realia",
+"preferred_label": "Casting Net",
+"confidence": 0.2862,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Cleanse.2",
 "type": "keyterm",
 "preferred_label": "To Cleanse",
+"confidence": 0.2846,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"preferred_label": "Abstain from Food",
 "confidence": 0.2846,
 "match_method": "canonical"
 },
@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.2246,
-"match_method": "canonical"
-},
-{
 "id": "realia:Bed",
 "type": "realia",
 "preferred_label": "Bed",
@@ -126,23 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.2231,
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2246,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
-"confidence": 0.2231,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
 "confidence": 0.2231,
 "match_method": "canonical"
 },
@@ -154,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Matthew",
-"type": "person",
-"preferred_label": "Matthew",
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
 "confidence": 0.2231,
 "match_method": "canonical"
 },
@@ -164,6 +150,20 @@
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.2231,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.2231,
+"match_method": "canonical"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"preferred_label": "Matthew",
 "confidence": 0.2231,
 "match_method": "canonical"
 },
@@ -182,6 +182,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1631,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Fish",
 "type": "fauna",
 "preferred_label": "Fish",
@@ -196,13 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Temple",
-"type": "realia",
-"preferred_label": "Temple",
-"confidence": 0.1631,
-"match_method": "canonical"
-},
-{
 "id": "realia:Skin-bottle",
 "type": "realia",
 "preferred_label": "Skin-Bottle",
@@ -210,93 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Blaspheme",
 "type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"preferred_label": "Parable",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "group:ReligiousOfficials",
-"type": "group",
-"preferred_label": "Religious Officials",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "place:Gennesaret",
-"type": "place",
-"preferred_label": "Gennesaret",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:TaxOffice",
-"type": "keyterm",
-"preferred_label": "Tax Office",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebedee",
-"type": "person",
-"preferred_label": "Zebedee",
+"preferred_label": "Blaspheme",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -308,51 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Repent",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Repent",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blaspheme",
-"type": "keyterm",
-"preferred_label": "Blaspheme",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "Heart",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "person:James",
-"type": "person",
-"preferred_label": "James",
+"preferred_label": "Serve",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -364,6 +238,34 @@
 "match_method": "canonical"
 },
 {
+"id": "group:ReligiousOfficials",
+"type": "group",
+"preferred_label": "Religious Officials",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -371,9 +273,107 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:TaxOffice",
+"type": "keyterm",
+"preferred_label": "Tax Office",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"preferred_label": "Gennesaret",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"preferred_label": "Zebedee",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
 "id": "place:Judea",
 "type": "place",
 "preferred_label": "Judea",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -392,16 +392,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Clothing",
+"id": "realia:Housetop",
 "type": "realia",
-"preferred_label": "Clothing",
+"preferred_label": "Housetop",
 "confidence": 0.1015,
 "match_method": "canonical"
 },
 {
-"id": "realia:Housetop",
+"id": "realia:Clothing",
 "type": "realia",
-"preferred_label": "Housetop",
+"preferred_label": "Clothing",
 "confidence": 0.1015,
 "match_method": "canonical"
 }

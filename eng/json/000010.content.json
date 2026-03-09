@@ -41,16 +41,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.398,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
 "confidence": 0.398,
 "match_method": "canonical"
 },
@@ -153,6 +153,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.268,
+"match_method": "canonical"
+},
+{
 "id": "place:Galilee",
 "type": "place",
 "preferred_label": "Galilee",
@@ -160,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "keyterm:Register",
+"type": "keyterm",
+"preferred_label": "Register",
 "confidence": 0.268,
 "match_method": "canonical"
 },
@@ -174,13 +181,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
-"confidence": 0.268,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -188,9 +188,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Register",
-"type": "keyterm",
-"preferred_label": "Register",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
 "confidence": 0.268,
 "match_method": "canonical"
 },
@@ -216,13 +216,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.212,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
@@ -233,6 +226,13 @@
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
+"confidence": 0.212,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.212,
 "match_method": "canonical"
 }

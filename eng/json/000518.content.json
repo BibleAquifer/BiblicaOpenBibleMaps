@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Manasseh",
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Manasseh",
+"preferred_label": "Ephraim",
 "confidence": 0.4818,
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
+"id": "person:Manasseh",
 "type": "person",
-"preferred_label": "Ephraim",
+"preferred_label": "Manasseh",
 "confidence": 0.4818,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
+"id": "person:Isaac",
 "type": "person",
-"preferred_label": "Abraham",
+"preferred_label": "Isaac",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
 {
-"id": "person:Isaac",
+"id": "person:Abraham",
 "type": "person",
-"preferred_label": "Isaac",
+"preferred_label": "Abraham",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
 {
-"id": "person:Rachel",
-"type": "person",
-"preferred_label": "Rachel",
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -112,16 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -140,17 +133,31 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehem",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
 "id": "person:Reuben",
 "type": "person",
 "preferred_label": "Reuben",
 "confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
+"confidence": 0.1105,
 "match_method": "canonical"
 },
 {
@@ -161,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -182,16 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bed",
-"type": "realia",
-"preferred_label": "Bed",
-"confidence": 0.1105,
-"match_method": "canonical"
-},
-{
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
 "confidence": 0.1105,
 "match_method": "canonical"
 }

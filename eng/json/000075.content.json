@@ -49,13 +49,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "preferred_label": "Moses",
@@ -63,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Resurrection",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Resurrection",
+"preferred_label": "Serve",
 "confidence": 0.2333,
 "match_method": "canonical"
 },
@@ -77,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -84,65 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"preferred_label": "Beloved",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptist",
-"type": "keyterm",
-"preferred_label": "Baptist",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "Mercy",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "Surely!",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:PollTax",
-"type": "keyterm",
-"preferred_label": "Poll Tax",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -154,23 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
+"id": "person:John.2",
 "type": "person",
 "preferred_label": "John",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:James",
-"type": "person",
-"preferred_label": "James",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -182,9 +112,79 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PollTax",
+"type": "keyterm",
+"preferred_label": "Poll Tax",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"preferred_label": "Beloved",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
 "type": "person",
 "preferred_label": "John",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -192,13 +192,6 @@
 "id": "realia:Fishhook",
 "type": "realia",
 "preferred_label": "Fishhook",
-"confidence": 0.1141,
-"match_method": "canonical"
-},
-{
-"id": "realia:Stater",
-"type": "realia",
-"preferred_label": "Stater",
 "confidence": 0.1141,
 "match_method": "canonical"
 },
@@ -217,16 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Clothing",
+"id": "realia:Stater",
 "type": "realia",
-"preferred_label": "Clothing",
+"preferred_label": "Stater",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"preferred_label": "Fish",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
 {
-"id": "flora:Grain",
-"type": "flora",
-"preferred_label": "Grain",
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
@@ -238,16 +238,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Fish",
-"type": "fauna",
-"preferred_label": "Fish",
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
 "confidence": 0.1067,
 "match_method": "canonical"
 }

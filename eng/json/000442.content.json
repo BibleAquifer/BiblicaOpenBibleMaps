@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
 "confidence": 0.4308,
 "match_method": "canonical"
 },
 {
-"id": "person:Jeremiah.6",
-"type": "person",
-"preferred_label": "Jeremiah",
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
 "confidence": 0.4308,
 "match_method": "canonical"
 },
@@ -98,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3462,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -112,10 +105,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zedekiah.3",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Zedekiah",
-"confidence": 0.2846,
+"preferred_label": "Israel",
+"confidence": 0.3462,
 "match_method": "canonical"
 },
 {
@@ -126,10 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.2231,
+"id": "person:Zedekiah.3",
+"type": "person",
+"preferred_label": "Zedekiah",
+"confidence": 0.2846,
 "match_method": "canonical"
 },
 {
@@ -147,6 +140,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2231,
+"match_method": "canonical"
+},
+{
 "id": "person:Azzur.2",
 "type": "person",
 "preferred_label": "Azzur",
@@ -154,16 +154,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:LeanOn",
 "type": "keyterm",
-"preferred_label": "Peace",
+"preferred_label": "Trust",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -175,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -196,20 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
 "id": "place:Gibeon",
 "type": "place",
 "preferred_label": "Gibeon",
@@ -217,23 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Josiah",
-"type": "person",
-"preferred_label": "Josiah",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:PracticeDivination",
+"id": "keyterm:Truth",
 "type": "keyterm",
-"preferred_label": "Practice Divination",
+"preferred_label": "Truth",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -252,9 +224,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:LeanOn",
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"preferred_label": "Josiah",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PracticeDivination",
 "type": "keyterm",
-"preferred_label": "Trust",
+"preferred_label": "Practice Divination",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
 "confidence": 0.1615,
 "match_method": "canonical"
 }

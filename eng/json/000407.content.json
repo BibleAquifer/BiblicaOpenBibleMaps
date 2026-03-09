@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Hazael",
+"type": "person",
+"preferred_label": "Hazael",
+"confidence": 0.2524,
+"match_method": "canonical"
+},
+{
 "id": "person:Jehu.2",
 "type": "person",
 "preferred_label": "Jehu",
@@ -77,10 +84,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hazael",
+"id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Hazael",
-"confidence": 0.2524,
+"preferred_label": "Jezebel",
+"confidence": 0.2429,
 "match_method": "canonical"
 },
 {
@@ -98,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jezebel",
-"type": "person",
-"preferred_label": "Jezebel",
-"confidence": 0.2429,
-"match_method": "canonical"
-},
-{
 "id": "flora:Broom",
 "type": "flora",
 "preferred_label": "Broom",
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Altar",
 "confidence": 0.1829,
 "match_method": "canonical"
 },
 {
-"id": "realia:Clothing",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Clothing",
+"preferred_label": "Stone Altar",
 "confidence": 0.1829,
 "match_method": "canonical"
 },
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:Clothing",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Clothing",
 "confidence": 0.1829,
 "match_method": "canonical"
 },
@@ -168,34 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahab",
-"type": "person",
-"preferred_label": "Ahab",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "place:SinaiMount",
-"type": "place",
-"preferred_label": "Mount Sinai",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -203,16 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Ahab",
 "type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1714,
-"match_method": "canonical"
-},
-{
-"id": "place:Beersheba",
-"type": "place",
-"preferred_label": "Beersheba",
+"preferred_label": "Ahab",
 "confidence": 0.1714,
 "match_method": "canonical"
 },
@@ -224,6 +189,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:SinaiMount",
+"type": "place",
+"preferred_label": "Mount Sinai",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
 "id": "deity:Baal",
 "type": "deity",
 "preferred_label": "Baal",
@@ -231,9 +203,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:ClayJar",
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1714,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Clay Jar",
+"preferred_label": "Sword",
 "confidence": 0.1114,
 "match_method": "canonical"
 },
@@ -245,9 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
+"id": "realia:ClayJar",
 "type": "realia",
-"preferred_label": "Sword",
+"preferred_label": "Clay Jar",
 "confidence": 0.1114,
 "match_method": "canonical"
 }

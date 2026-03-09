@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
 "confidence": 0.4747,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.4747,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.3217,
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.3217,
 "match_method": "canonical"
 },
@@ -154,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2108,
-"match_method": "canonical"
-},
-{
 "id": "group:Amorites",
 "type": "group",
 "preferred_label": "Amorites",
@@ -168,9 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Passover",
-"type": "keyterm",
-"preferred_label": "Passover",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.2108,
 "match_method": "canonical"
 },
@@ -182,6 +175,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
@@ -189,23 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Foreskin",
+"id": "keyterm:UncircumcisedPerson",
 "type": "keyterm",
-"preferred_label": "Foreskin",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proscribe.2",
-"type": "keyterm",
-"preferred_label": "Set Apart for Destruction",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "place:Zarethan",
-"type": "place",
-"preferred_label": "Zarethan",
+"preferred_label": "Uncircumcised Person",
 "confidence": 0.1578,
 "match_method": "canonical"
 },
@@ -217,6 +203,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Foreskin",
+"type": "keyterm",
+"preferred_label": "Foreskin",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
 "id": "place:Adam",
 "type": "place",
 "preferred_label": "Adam",
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Perizzites",
-"type": "group",
-"preferred_label": "Perizzites",
+"id": "place:Zarethan",
+"type": "place",
+"preferred_label": "Zarethan",
 "confidence": 0.1578,
 "match_method": "canonical"
 }

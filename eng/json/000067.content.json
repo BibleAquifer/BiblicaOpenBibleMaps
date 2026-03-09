@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
 "confidence": 0.336,
 "match_method": "canonical"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
 "confidence": 0.336,
 "match_method": "canonical"
 },
@@ -63,23 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.277,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
-"confidence": 0.277,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CourtCase",
-"type": "keyterm",
-"preferred_label": "Court Case",
 "confidence": 0.277,
 "match_method": "canonical"
 },
@@ -91,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Demons",
+"id": "deity:Lord",
 "type": "deity",
-"preferred_label": "Demons",
+"preferred_label": "LORD",
 "confidence": 0.277,
 "match_method": "canonical"
 },
@@ -105,17 +91,24 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"preferred_label": "Court Case",
+"confidence": 0.277,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.277,
+"match_method": "canonical"
+},
+{
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
 "confidence": 0.276,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"preferred_label": "Condemn",
-"confidence": 0.222,
 "match_method": "canonical"
 },
 {
@@ -126,30 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
+"id": "keyterm:Condemn",
 "type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.218,
+"preferred_label": "Condemn",
+"confidence": 0.222,
 "match_method": "canonical"
 },
 {
 "id": "group:Gentile",
 "type": "group",
 "preferred_label": "Gentiles",
-"confidence": 0.218,
-"match_method": "canonical"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
-"confidence": 0.218,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
 "confidence": 0.218,
 "match_method": "canonical"
 },
@@ -168,9 +147,30 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.218,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.218,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "Heart",
+"confidence": 0.218,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.218,
 "match_method": "canonical"
 },
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Nineveh",
-"type": "group",
-"preferred_label": "Ninevites",
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
 "confidence": 0.163,
 "match_method": "canonical"
 },
@@ -196,44 +196,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blaspheme",
-"type": "keyterm",
-"preferred_label": "Blaspheme",
+"id": "group:Nineveh",
+"type": "group",
+"preferred_label": "Ninevites",
 "confidence": 0.163,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Word",
+"preferred_label": "Ability",
 "confidence": 0.159,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"preferred_label": "Be Demon Possessed",
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
 "confidence": 0.159,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Hope",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Hope",
+"preferred_label": "To Command",
 "confidence": 0.159,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Beloved",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Beloved",
+"preferred_label": "Offering",
 "confidence": 0.159,
 "match_method": "canonical"
 },
 {
-"id": "place:Nineveh",
-"type": "place",
-"preferred_label": "Nineveh",
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -245,9 +252,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "place:Nineveh",
+"type": "place",
+"preferred_label": "Nineveh",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Sky",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -266,30 +294,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"preferred_label": "Repent",
+"preferred_label": "Word",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -301,30 +308,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Command",
-"type": "keyterm",
-"preferred_label": "To Command",
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
 "confidence": 0.159,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Beloved",
 "type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
+"preferred_label": "Beloved",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -336,23 +329,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Idle",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "Useless",
+"preferred_label": "Hope",
 "confidence": 0.159,
 "match_method": "canonical"
 },
 {
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Isaiah",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -360,6 +346,20 @@
 "id": "keyterm:Law",
 "type": "keyterm",
 "preferred_label": "Law",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"preferred_label": "Be Demon Possessed",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Idle",
+"type": "keyterm",
+"preferred_label": "Useless",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -378,30 +378,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lamp",
-"type": "realia",
-"preferred_label": "Lamp",
-"confidence": 0.099,
-"match_method": "canonical"
-},
-{
-"id": "flora:Grain",
-"type": "flora",
-"preferred_label": "Grain",
-"confidence": 0.099,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Cobra",
+"id": "fauna:Snake",
 "type": "fauna",
-"preferred_label": "Cobra",
-"confidence": 0.099,
-"match_method": "canonical"
-},
-{
-"id": "flora:Reed",
-"type": "flora",
-"preferred_label": "Reed",
+"preferred_label": "Snake",
 "confidence": 0.099,
 "match_method": "canonical"
 },
@@ -413,9 +392,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Snake",
-"type": "fauna",
-"preferred_label": "Snake",
+"id": "flora:Reed",
+"type": "flora",
+"preferred_label": "Reed",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
 "confidence": 0.099,
 "match_method": "canonical"
 },
@@ -423,6 +409,20 @@
 "id": "realia:Synagogue",
 "type": "realia",
 "preferred_label": "Synagogue",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"preferred_label": "Cobra",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
 "confidence": 0.099,
 "match_method": "canonical"
 }

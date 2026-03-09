@@ -98,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Libni",
-"type": "person",
-"preferred_label": "Libni",
-"confidence": 0.2735,
-"match_method": "canonical"
-},
-{
 "id": "person:Meraioth",
 "type": "person",
 "preferred_label": "Meraioth",
@@ -112,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amram",
+"id": "person:Libni",
 "type": "person",
-"preferred_label": "Amram",
+"preferred_label": "Libni",
 "confidence": 0.2735,
 "match_method": "canonical"
 },
@@ -122,6 +115,13 @@
 "id": "person:Abishua",
 "type": "person",
 "preferred_label": "Abishua",
+"confidence": 0.2735,
+"match_method": "canonical"
+},
+{
+"id": "person:Amram",
+"type": "person",
+"preferred_label": "Amram",
 "confidence": 0.2735,
 "match_method": "canonical"
 },
@@ -140,16 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2705,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahimaaz.2",
-"type": "person",
-"preferred_label": "Ahimaaz",
+"preferred_label": "Eleazar",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
@@ -161,9 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Eleazar.2",
+"id": "person:Ahimaaz.2",
 "type": "person",
-"preferred_label": "Eleazar",
+"preferred_label": "Ahimaaz",
+"confidence": 0.2705,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
@@ -182,30 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahimoth",
+"id": "person:Zerah.4",
 "type": "person",
-"preferred_label": "Ahimoth",
+"preferred_label": "Zerah",
 "confidence": 0.2197,
 "match_method": "canonical"
 },
 {
-"id": "person:Elihu",
+"id": "person:Joah.2",
 "type": "person",
-"preferred_label": "Elihu",
-"confidence": 0.2197,
-"match_method": "canonical"
-},
-{
-"id": "person:Zuph",
-"type": "person",
-"preferred_label": "Zuph",
-"confidence": 0.2197,
-"match_method": "canonical"
-},
-{
-"id": "person:Shaul.3",
-"type": "person",
-"preferred_label": "Shaul",
+"preferred_label": "Joah",
 "confidence": 0.2197,
 "match_method": "canonical"
 },
@@ -217,7 +203,21 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Iddo.4",
+"type": "person",
+"preferred_label": "Iddo",
+"confidence": 0.2197,
+"match_method": "canonical"
+},
+{
 "id": "person:Azariah.7",
+"type": "person",
+"preferred_label": "Azariah",
+"confidence": 0.2197,
+"match_method": "canonical"
+},
+{
+"id": "person:Azariah.6",
 "type": "person",
 "preferred_label": "Azariah",
 "confidence": 0.2197,

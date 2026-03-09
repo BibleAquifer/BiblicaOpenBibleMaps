@@ -91,6 +91,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.3593,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "Surely!",
@@ -105,20 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.3593,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"preferred_label": "To Command",
-"confidence": 0.3583,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Parable",
 "type": "keyterm",
 "preferred_label": "Parable",
@@ -126,10 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.358,
+"preferred_label": "To Command",
+"confidence": 0.3583,
 "match_method": "canonical"
 },
 {
@@ -143,6 +136,13 @@
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.358,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
 "confidence": 0.358,
 "match_method": "canonical"
 },
@@ -175,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
 "confidence": 0.3573,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
 "confidence": 0.3573,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.356,
 "match_method": "canonical"
 }

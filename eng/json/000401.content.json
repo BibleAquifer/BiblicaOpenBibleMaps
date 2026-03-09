@@ -125,16 +125,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shebna",
+"id": "person:Amoz",
 "type": "person",
-"preferred_label": "Shebna",
+"preferred_label": "Amoz",
 "confidence": 0.3187,
 "match_method": "canonical"
 },
 {
-"id": "person:Amoz",
+"id": "person:Shebna",
 "type": "person",
-"preferred_label": "Amoz",
+"preferred_label": "Shebna",
 "confidence": 0.3187,
 "match_method": "canonical"
 },
@@ -167,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.2626,
 "match_method": "canonical"
 },
@@ -181,16 +181,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hoshea",
-"type": "person",
-"preferred_label": "Hoshea",
-"confidence": 0.2626,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.2626,
 "match_method": "canonical"
 },
@@ -198,6 +191,13 @@
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "person:Hoshea",
+"type": "person",
+"preferred_label": "Hoshea",
 "confidence": 0.2626,
 "match_method": "canonical"
 },
@@ -216,16 +216,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ivvah",
+"id": "place:Hena",
 "type": "place",
-"preferred_label": "Ivvah",
+"preferred_label": "Hena",
 "confidence": 0.2121,
 "match_method": "canonical"
 },
 {
-"id": "place:Hena",
+"id": "place:Ivvah",
 "type": "place",
-"preferred_label": "Hena",
+"preferred_label": "Ivvah",
 "confidence": 0.2121,
 "match_method": "canonical"
 },

@@ -35,9 +35,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3294,
 "match_method": "canonical"
 },
@@ -49,9 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
 "confidence": 0.3294,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3294,
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "place:East",
+"type": "place",
+"preferred_label": "East",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
@@ -91,10 +91,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:East",
-"type": "place",
-"preferred_label": "East",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "place:Teman",
+"type": "place",
+"preferred_label": "Teman",
+"confidence": 0.1882,
 "match_method": "canonical"
 },
 {
@@ -112,23 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Teman",
+"id": "place:Beth-jeshimoth",
 "type": "place",
-"preferred_label": "Teman",
-"confidence": 0.1882,
-"match_method": "canonical"
-},
-{
-"id": "place:Seir",
-"type": "place",
-"preferred_label": "Seir",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
+"preferred_label": "Beth-jeshimoth",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -140,16 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-jeshimoth",
+"id": "place:Seir",
 "type": "place",
-"preferred_label": "Beth-jeshimoth",
+"preferred_label": "Seir",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -168,6 +154,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Camel",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Camel",
+"preferred_label": "Goat",
 "confidence": 0.1165,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "fauna:Camel",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Camel",
 "confidence": 0.1165,
 "match_method": "canonical"
 }

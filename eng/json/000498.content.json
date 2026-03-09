@@ -105,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -115,13 +122,6 @@
 "id": "realia:Money",
 "type": "realia",
 "preferred_label": "Money",
-"confidence": 0.115,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
 "confidence": 0.115,
 "match_method": "canonical"
 },

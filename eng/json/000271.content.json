@@ -77,23 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Leah",
-"type": "person",
-"preferred_label": "Leah",
-"confidence": 0.276,
-"match_method": "canonical"
-},
-{
-"id": "person:Rachel",
-"type": "person",
-"preferred_label": "Rachel",
-"confidence": 0.276,
-"match_method": "canonical"
-},
-{
-"id": "place:Seir",
-"type": "place",
-"preferred_label": "Seir",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -105,9 +91,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
+"id": "person:Leah",
+"type": "person",
+"preferred_label": "Leah",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"preferred_label": "Rachel",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jabbok",
-"type": "place",
-"preferred_label": "Jabbok",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
 "id": "place:Shechem",
 "type": "place",
 "preferred_label": "Shechem",
@@ -168,30 +161,23 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jabbok",
+"type": "place",
+"preferred_label": "Jabbok",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
-"id": "place:Paddan-aram",
-"type": "place",
-"preferred_label": "Paddan-aram",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appease",
-"type": "keyterm",
-"preferred_label": "Appease",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
@@ -203,16 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hamor",
-"type": "person",
-"preferred_label": "Hamor",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "person:Laban",
-"type": "person",
-"preferred_label": "Laban",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"preferred_label": "Appease",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
+"id": "person:Shechem",
+"type": "person",
+"preferred_label": "Shechem",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
 "confidence": 0.1587,
 "match_method": "canonical"
 }

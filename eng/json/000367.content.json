@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zadok.2",
-"type": "person",
-"preferred_label": "Zadok",
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
 "confidence": 0.245,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
 "confidence": 0.245,
 "match_method": "canonical"
 },
@@ -70,16 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Baana.2",
+"id": "person:Uri.2",
 "type": "person",
-"preferred_label": "Baana",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Ben-deker",
-"type": "person",
-"preferred_label": "Ben-deker",
+"preferred_label": "Uri",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -91,93 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hesed",
-"type": "person",
-"preferred_label": "Hesed",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Ben-geber",
-"type": "person",
-"preferred_label": "Ben-geber",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "place:Abel-meholah",
+"id": "place:Dor",
 "type": "place",
-"preferred_label": "Abel-meholah",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahishar",
-"type": "person",
-"preferred_label": "Ahishar",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahijah",
-"type": "person",
-"preferred_label": "Ahijah",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Elihoreph",
-"type": "person",
-"preferred_label": "Elihoreph",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Deker",
-"type": "person",
-"preferred_label": "Deker",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Geber",
-"type": "person",
-"preferred_label": "Geber",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "place:Makaz",
-"type": "place",
-"preferred_label": "Makaz",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahimaaz.3",
-"type": "person",
-"preferred_label": "Ahimaaz",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "place:Argob",
-"type": "place",
-"preferred_label": "Argob",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "place:Zarethan",
-"type": "place",
-"preferred_label": "Zarethan",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Hur",
-"type": "person",
-"preferred_label": "Hur",
+"preferred_label": "Dor",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -189,93 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Elonbeth-hanan",
-"type": "place",
-"preferred_label": "Elon-beth-hanan",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Taphath",
+"id": "person:Hur",
 "type": "person",
-"preferred_label": "Taphath",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "place:Arubboth",
-"type": "place",
-"preferred_label": "Arubboth",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Abda",
-"type": "person",
-"preferred_label": "Abda",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Zabud",
-"type": "person",
-"preferred_label": "Zabud",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoshaphat.2",
-"type": "person",
-"preferred_label": "Jehoshaphat",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Iddo.3",
-"type": "person",
-"preferred_label": "Iddo",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Azariah.3",
-"type": "person",
-"preferred_label": "Azariah",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "place:Dor",
-"type": "place",
-"preferred_label": "Dor",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Ben-hur",
-"type": "person",
-"preferred_label": "Ben-hur",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Basemath.2",
-"type": "person",
-"preferred_label": "Basemath",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "person:Adoram",
-"type": "person",
-"preferred_label": "Adoram",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "place:Shaalbim",
-"type": "place",
-"preferred_label": "Shaalbim",
+"preferred_label": "Hur",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -294,9 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Azariah.2",
+"id": "person:Abinadab.4",
 "type": "person",
-"preferred_label": "Azariah",
+"preferred_label": "Abinadab",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Arubboth",
+"type": "place",
+"preferred_label": "Arubboth",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -308,37 +140,44 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Seraiah",
+"id": "person:Ahijah",
 "type": "person",
-"preferred_label": "Seraiah",
+"preferred_label": "Ahijah",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "place:Socoh.3",
-"type": "place",
-"preferred_label": "Socoh",
+"id": "person:Iddo.3",
+"type": "person",
+"preferred_label": "Iddo",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "person:Uri.2",
+"id": "person:Zabud",
 "type": "person",
-"preferred_label": "Uri",
+"preferred_label": "Zabud",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "person:Ben-abinadab",
+"id": "person:Adoram",
 "type": "person",
-"preferred_label": "Ben-abinadab",
+"preferred_label": "Adoram",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "person:Abinadab.4",
+"id": "person:Jehoshaphat.2",
 "type": "person",
-"preferred_label": "Abinadab",
+"preferred_label": "Jehoshaphat",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Elihoreph",
+"type": "person",
+"preferred_label": "Elihoreph",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -350,9 +189,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hepher",
+"id": "person:Basemath.2",
+"type": "person",
+"preferred_label": "Basemath",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Ben-abinadab",
+"type": "person",
+"preferred_label": "Ben-abinadab",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Shaalbim",
 "type": "place",
-"preferred_label": "Hepher",
+"preferred_label": "Shaalbim",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Makaz",
+"type": "place",
+"preferred_label": "Makaz",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -364,65 +224,149 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nathan.2",
+"id": "person:Ben-deker",
 "type": "person",
-"preferred_label": "Nathan",
-"confidence": 0.1725,
+"preferred_label": "Ben-deker",
+"confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "person:Issachar",
+"id": "person:Ben-hur",
 "type": "person",
-"preferred_label": "Issachar",
-"confidence": 0.1725,
+"preferred_label": "Ben-hur",
+"confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoiada",
-"type": "person",
-"preferred_label": "Jehoiada",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Asher",
-"type": "person",
-"preferred_label": "Asher",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "place:Mahanaim",
+"id": "place:Socoh.3",
 "type": "place",
-"preferred_label": "Mahanaim",
-"confidence": 0.1725,
+"preferred_label": "Socoh",
+"confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "group:Asher",
-"type": "group",
-"preferred_label": "Tribe of Asher",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Hushai",
+"id": "person:Baana.2",
 "type": "person",
-"preferred_label": "Hushai",
+"preferred_label": "Baana",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Deker",
+"type": "person",
+"preferred_label": "Deker",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Geber",
+"type": "person",
+"preferred_label": "Geber",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Abel-meholah",
+"type": "place",
+"preferred_label": "Abel-meholah",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Azariah.2",
+"type": "person",
+"preferred_label": "Azariah",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Taphath",
+"type": "person",
+"preferred_label": "Taphath",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Abda",
+"type": "person",
+"preferred_label": "Abda",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahimaaz.3",
+"type": "person",
+"preferred_label": "Ahimaaz",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Hepher",
+"type": "place",
+"preferred_label": "Hepher",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Azariah.3",
+"type": "person",
+"preferred_label": "Azariah",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Ben-geber",
+"type": "person",
+"preferred_label": "Ben-geber",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Elonbeth-hanan",
+"type": "place",
+"preferred_label": "Elon-beth-hanan",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Hesed",
+"type": "person",
+"preferred_label": "Hesed",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Zarethan",
+"type": "place",
+"preferred_label": "Zarethan",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Argob",
+"type": "place",
+"preferred_label": "Argob",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahishar",
+"type": "person",
+"preferred_label": "Ahishar",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "person:Seraiah",
+"type": "person",
+"preferred_label": "Seraiah",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -430,6 +374,13 @@
 "id": "person:Abiathar",
 "type": "person",
 "preferred_label": "Abiathar",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -448,16 +399,107 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Taanach",
-"type": "place",
-"preferred_label": "Taanach",
+"id": "person:Sihon",
+"type": "person",
+"preferred_label": "Sihon",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
 {
-"id": "person:Sihon",
+"id": "person:Benaiah",
 "type": "person",
-"preferred_label": "Sihon",
+"preferred_label": "Benaiah",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Hushai",
+"type": "person",
+"preferred_label": "Hushai",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"preferred_label": "Asher",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Jair.2",
+"type": "person",
+"preferred_label": "Jair",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Og",
+"type": "person",
+"preferred_label": "Og",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"preferred_label": "Ramoth-gilead",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "place:Megiddo",
+"type": "place",
+"preferred_label": "Megiddo",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -469,9 +511,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Megiddo",
+"id": "place:Baalath-beer",
 "type": "place",
-"preferred_label": "Megiddo",
+"preferred_label": "Baalath-beer",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"preferred_label": "Tribe of Issachar",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "place:Taanach",
+"type": "place",
+"preferred_label": "Taanach",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -490,16 +560,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Baalath-beer",
-"type": "place",
-"preferred_label": "Baalath-beer",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
+"id": "group:Asher",
+"type": "group",
+"preferred_label": "Tribe of Asher",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -511,93 +574,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Naphtali",
-"type": "person",
-"preferred_label": "Naphtali",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "place:Ramoth-gilead",
-"type": "place",
-"preferred_label": "Ramoth-gilead",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasseh",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Og",
-"type": "person",
-"preferred_label": "Og",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "group:Issachar",
-"type": "group",
-"preferred_label": "Tribe of Issachar",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Jair.2",
-"type": "person",
-"preferred_label": "Jair",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Benaiah",
-"type": "person",
-"preferred_label": "Benaiah",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
 "id": "group:Manasseh",
 "type": "group",
 "preferred_label": "Tribe of Manasseh",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"preferred_label": "Jehoiada",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Nathan.2",
+"type": "person",
+"preferred_label": "Nathan",
 "confidence": 0.1725,
 "match_method": "canonical"
 }

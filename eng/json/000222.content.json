@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.4162,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.4162,
 "match_method": "canonical"
 },
@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
-"confidence": 0.2897,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -98,10 +91,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Berea",
-"type": "place",
-"preferred_label": "Berea",
-"confidence": 0.2324,
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2897,
 "match_method": "canonical"
 },
 {
@@ -119,10 +112,31 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Berea",
+"type": "place",
+"preferred_label": "Berea",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
 "id": "realia:Synagogue",
 "type": "realia",
 "preferred_label": "Synagogue",
 "confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timothy",
+"confidence": 0.2265,
 "match_method": "canonical"
 },
 {
@@ -140,20 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timothy",
-"confidence": 0.2265,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.2265,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "Life",
@@ -161,9 +161,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Divine",
+"id": "keyterm:Discern",
 "type": "keyterm",
-"preferred_label": "Divine",
+"preferred_label": "Discern",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "group:Stoic",
+"type": "group",
+"preferred_label": "Stoics",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "group:Epicurean",
+"type": "group",
+"preferred_label": "Epicureans",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -182,23 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Epicurean",
+"id": "group:Areopagus",
 "type": "group",
-"preferred_label": "Epicureans",
+"preferred_label": "Areopagites",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
+"id": "keyterm:Divine",
 "type": "keyterm",
-"preferred_label": "Discern",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "group:Stoic",
-"type": "group",
-"preferred_label": "Stoics",
+"preferred_label": "Divine",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -210,20 +224,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Areopagus",
-"type": "group",
-"preferred_label": "Areopagites",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "person:Dionysius",
-"type": "person",
-"preferred_label": "Dionysius",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
 "id": "person:Damaris",
 "type": "person",
 "preferred_label": "Damaris",
@@ -231,9 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
+"id": "person:Dionysius",
+"type": "person",
+"preferred_label": "Dionysius",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -252,9 +252,58 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BringToTheAttentionOf",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Bring to the Attention Of",
+"preferred_label": "Serve",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ought",
+"type": "keyterm",
+"preferred_label": "Obligated",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -273,37 +322,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Claudius",
-"type": "person",
-"preferred_label": "Claudius",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ought",
-"type": "keyterm",
-"preferred_label": "Obligated",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:ObjectOfWorship",
 "type": "keyterm",
 "preferred_label": "Object of Worship",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringToTheAttentionOf",
+"type": "keyterm",
+"preferred_label": "Bring to the Attention Of",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -315,13 +343,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
 "id": "deity:Demons",
 "type": "deity",
 "preferred_label": "Demons",
@@ -329,31 +350,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Claudius",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "Persuade",
-"confidence": 0.1632,
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1032,
 "match_method": "canonical"
 },
 {
@@ -367,13 +374,6 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:Temple",
-"type": "realia",
-"preferred_label": "Temple",
 "confidence": 0.1032,
 "match_method": "canonical"
 }

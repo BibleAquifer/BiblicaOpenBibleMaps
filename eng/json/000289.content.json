@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Eleazar",
 "confidence": 0.4333,
 "match_method": "canonical"
 },
 {
-"id": "person:Eleazar.2",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Eleazar",
+"preferred_label": "Israel",
 "confidence": 0.4333,
 "match_method": "canonical"
 },
@@ -98,23 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Balaam",
-"type": "person",
-"preferred_label": "Balaam",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Pure",
 "type": "keyterm",
 "preferred_label": "Pure",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -126,6 +112,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Balaam",
+"type": "person",
+"preferred_label": "Balaam",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
 "id": "person:Levi.3",
 "type": "person",
 "preferred_label": "Levi",
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zur.2",
+"id": "person:Evi",
 "type": "person",
-"preferred_label": "Zur",
+"preferred_label": "Evi",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -147,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Evi",
+"id": "person:Reba",
 "type": "person",
-"preferred_label": "Evi",
+"preferred_label": "Reba",
+"confidence": 0.162,
+"match_method": "canonical"
+},
+{
+"id": "person:Zur.2",
+"type": "person",
+"preferred_label": "Zur",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -161,30 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Reba",
-"type": "person",
-"preferred_label": "Reba",
-"confidence": 0.162,
-"match_method": "canonical"
-},
-{
-"id": "person:Beor.2",
-"type": "person",
-"preferred_label": "Beor",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Blow",
 "type": "keyterm",
 "preferred_label": "Plague",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appease",
-"type": "keyterm",
-"preferred_label": "Appease",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -196,9 +182,30 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Phinehas",
+"type": "person",
+"preferred_label": "Phinehas",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Unfaithful",
 "type": "keyterm",
 "preferred_label": "Be Unfaithful",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"preferred_label": "Appease",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Midian",
-"type": "group",
-"preferred_label": "Midianites",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "person:Phinehas",
+"id": "person:Beor.2",
 "type": "person",
-"preferred_label": "Phinehas",
+"preferred_label": "Beor",
 "confidence": 0.1583,
 "match_method": "canonical"
 }

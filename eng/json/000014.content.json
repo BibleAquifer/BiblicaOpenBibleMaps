@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CourtCase",
+"id": "keyterm:Judgment",
 "type": "keyterm",
-"preferred_label": "Court Case",
+"preferred_label": "Judgment",
 "confidence": 0.3426,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Judgment",
+"id": "keyterm:CourtCase",
 "type": "keyterm",
-"preferred_label": "Judgment",
+"preferred_label": "Court Case",
 "confidence": 0.3426,
 "match_method": "canonical"
 },
@@ -98,27 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "preferred_label": "Moses",
@@ -126,16 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Resurrection",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.2191,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
+"preferred_label": "Decided",
 "confidence": 0.2191,
 "match_method": "canonical"
 },
@@ -147,10 +119,66 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Decided",
+"preferred_label": "Always",
 "confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"preferred_label": "Sheep Gate",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethesda",
+"type": "place",
+"preferred_label": "Bethesda",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.1638,
 "match_method": "canonical"
 },
 {
@@ -168,34 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethesda",
-"type": "place",
-"preferred_label": "Bethesda",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"preferred_label": "Sheep Gate",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
 "id": "realia:Pool",
 "type": "realia",
 "preferred_label": "Pool",
@@ -203,30 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Friendship",
-"type": "keyterm",
-"preferred_label": "Friendship",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
+"preferred_label": "Serve",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -238,30 +217,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Good",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Good",
+"preferred_label": "Name",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Serve",
+"preferred_label": "Ask for",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Friendship",
 "type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"preferred_label": "Be Lawful",
+"preferred_label": "Friendship",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -280,16 +252,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Love",
+"preferred_label": "Word",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Lawful",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Be Lawful",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -301,10 +273,31 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Grave",
-"type": "realia",
-"preferred_label": "Grave",
-"confidence": 0.0996,
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
@@ -318,6 +311,13 @@
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
 "confidence": 0.0996,
 "match_method": "canonical"
 }

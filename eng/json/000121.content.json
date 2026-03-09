@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Elizabeth",
+"id": "person:Zechariah",
 "type": "person",
-"preferred_label": "Elizabeth",
+"preferred_label": "Zechariah",
 "confidence": 0.4025,
 "match_method": "canonical"
 },
 {
-"id": "person:Zechariah",
+"id": "person:Elizabeth",
 "type": "person",
-"preferred_label": "Zechariah",
+"preferred_label": "Elizabeth",
 "confidence": 0.4025,
 "match_method": "canonical"
 },
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3781,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3781,
 "match_method": "canonical"
 },
@@ -119,23 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Always",
+"preferred_label": "Bless",
 "confidence": 0.2669,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Spirit",
-"confidence": 0.2669,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2669,
 "match_method": "canonical"
 },
@@ -147,9 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Always",
+"confidence": 0.2669,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2669,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
 "confidence": 0.2669,
 "match_method": "canonical"
 },
@@ -164,13 +171,6 @@
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "Heart",
-"confidence": 0.2669,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2669,
 "match_method": "canonical"
 },
@@ -203,13 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
-"confidence": 0.2112,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -220,6 +213,13 @@
 "id": "keyterm:Pray",
 "type": "keyterm",
 "preferred_label": "Pray",
+"confidence": 0.2112,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
 "confidence": 0.2112,
 "match_method": "canonical"
 },

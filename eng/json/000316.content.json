@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Smear",
 "type": "keyterm",
 "preferred_label": "Smear",
@@ -133,10 +126,45 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
 "id": "flora:Vine",
 "type": "flora",
 "preferred_label": "Vine",
 "confidence": 0.2137,
+"match_method": "canonical"
+},
+{
+"id": "place:DivinersOak",
+"type": "place",
+"preferred_label": "Diviners’ Oak",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal-berith",
+"type": "deity",
+"preferred_label": "Baal-Berith",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:Arumah",
+"type": "place",
+"preferred_label": "Arumah",
+"confidence": 0.1614,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophrah.2",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.1614,
 "match_method": "canonical"
 },
 {
@@ -154,37 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Baal-berith",
-"type": "deity",
-"preferred_label": "Baal-Berith",
-"confidence": 0.1614,
-"match_method": "canonical"
-},
-{
-"id": "place:DivinersOak",
-"type": "place",
-"preferred_label": "Diviners’ Oak",
-"confidence": 0.1614,
-"match_method": "canonical"
-},
-{
-"id": "place:Ophrah.2",
-"type": "place",
-"preferred_label": "Ophrah",
-"confidence": 0.1614,
-"match_method": "canonical"
-},
-{
 "id": "place:Thebez",
 "type": "place",
 "preferred_label": "Thebez",
-"confidence": 0.1614,
-"match_method": "canonical"
-},
-{
-"id": "place:Arumah",
-"type": "place",
-"preferred_label": "Arumah",
 "confidence": 0.1614,
 "match_method": "canonical"
 },
@@ -196,37 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:SeekfindRefuge",
-"type": "keyterm",
-"preferred_label": "Seek Refugue",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
-"id": "person:Hamor",
-"type": "person",
-"preferred_label": "Hamor",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Midian",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Deceit",
 "type": "keyterm",
 "preferred_label": "Deceit",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "place:Beeroth",
+"type": "place",
+"preferred_label": "Beeroth",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1579,
 "match_method": "canonical"
 }

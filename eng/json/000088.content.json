@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
 "confidence": 0.245,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.245,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:BowDown",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Bow Down",
 "confidence": 0.245,
 "match_method": "canonical"
 },
@@ -112,23 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"preferred_label": "Ability",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -140,16 +126,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Always",
+"preferred_label": "To Command",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"preferred_label": "Mary Magdalene",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Always",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -161,23 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Command",
-"type": "keyterm",
-"preferred_label": "To Command",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
 "preferred_label": "Name",
-"confidence": 0.1725,
-"match_method": "canonical"
-},
-{
-"id": "person:Marymagdalene",
-"type": "person",
-"preferred_label": "Mary Magdalene",
 "confidence": 0.1725,
 "match_method": "canonical"
 },
@@ -196,16 +182,30 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
-"confidence": 0.1125,
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.1725,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1725,
 "match_method": "canonical"
 },
 {
 "id": "realia:Cross",
 "type": "realia",
 "preferred_label": "Cross",
+"confidence": 0.1125,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.1125,
 "match_method": "canonical"
 }

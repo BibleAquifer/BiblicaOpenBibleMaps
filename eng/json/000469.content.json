@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.2865,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -56,10 +49,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sackcloth",
-"type": "realia",
-"preferred_label": "Sackcloth",
-"confidence": 0.2265,
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2865,
 "match_method": "canonical"
 },
 {
@@ -77,10 +70,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Vow",
-"type": "keyterm",
-"preferred_label": "Vow",
-"confidence": 0.2243,
+"id": "realia:Sackcloth",
+"type": "realia",
+"preferred_label": "Sackcloth",
+"confidence": 0.2265,
 "match_method": "canonical"
 },
 {
@@ -91,16 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Joppa",
-"type": "place",
-"preferred_label": "Joppa",
-"confidence": 0.1676,
+"id": "keyterm:Vow",
+"type": "keyterm",
+"preferred_label": "Vow",
+"confidence": 0.2243,
 "match_method": "canonical"
 },
 {
 "id": "person:Amittai",
 "type": "person",
 "preferred_label": "Amittai",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"preferred_label": "Joppa",
 "confidence": 0.1676,
 "match_method": "canonical"
 },
@@ -112,44 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
 "id": "group:Hebrews",
 "type": "group",
 "preferred_label": "Hebrews",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Tarshish",
-"type": "place",
-"preferred_label": "Tarshish",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"preferred_label": "Exempt",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -161,9 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Praise",
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
 "type": "keyterm",
-"preferred_label": "Praise",
+"preferred_label": "Believe In",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -175,23 +154,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Praise",
+"type": "keyterm",
+"preferred_label": "Praise",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "flora:Cattails",
-"type": "flora",
-"preferred_label": "Cattails",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -206,6 +192,20 @@
 "id": "realia:Throne",
 "type": "realia",
 "preferred_label": "Throne",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
 "confidence": 0.1022,
 "match_method": "canonical"
 }

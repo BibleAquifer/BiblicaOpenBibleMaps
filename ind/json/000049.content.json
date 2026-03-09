@@ -83,6 +83,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
+"confidence": 0.3707,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:InChrist",
 "type": "keyterm",
 "preferred_label": "dalam kristus",
@@ -93,13 +100,6 @@
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "selama, lamanya",
-"confidence": 0.3707,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "keahlian",
 "confidence": 0.3707,
 "match_method": "canonical"
 },
@@ -118,6 +118,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
+"confidence": 0.3638,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "meminta",
@@ -128,13 +135,6 @@
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "preferred_label": "belas kasihan",
-"confidence": 0.3638,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
 "confidence": 0.3638,
 "match_method": "canonical"
 },
@@ -188,23 +188,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "injil",
-"confidence": 0.3092,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Promise",
 "type": "keyterm",
 "preferred_label": "janji",
-"confidence": 0.3092,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "berbuat dosa",
 "confidence": 0.3092,
 "match_method": "canonical"
 },
@@ -216,9 +202,23 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "berbuat dosa",
+"confidence": 0.3092,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.3092,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "injil",
 "confidence": 0.3092,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Savior",
 "type": "keyterm",
-"preferred_label": "hati",
+"preferred_label": "juruselamat",
 "confidence": 0.3092,
 "match_method": "canonical"
 }

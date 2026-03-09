@@ -42,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.4625,
 "match_method": "canonical"
 },
@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.4625,
 "match_method": "canonical"
 },
@@ -91,30 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeah.2",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
 "id": "group:Hebrews",
 "type": "group",
 "preferred_label": "Hebrews",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -126,23 +105,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahimaaz",
-"type": "person",
-"preferred_label": "Ahimaaz",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Malchi-shua",
-"type": "person",
-"preferred_label": "Malchi-shua",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Migron",
+"id": "place:Gibeah.2",
 "type": "place",
-"preferred_label": "Migron",
+"preferred_label": "Gibeah",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Seneh",
+"type": "place",
+"preferred_label": "Seneh",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -154,51 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bozez",
-"type": "place",
-"preferred_label": "Bozez",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Zobah",
-"type": "place",
-"preferred_label": "Zobah",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Seneh",
-"type": "place",
-"preferred_label": "Seneh",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
 "id": "person:Kish",
 "type": "person",
 "preferred_label": "Kish",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahitub",
-"type": "person",
-"preferred_label": "Ahitub",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahinoam",
-"type": "person",
-"preferred_label": "Ahinoam",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Abiel.2",
-"type": "person",
-"preferred_label": "Abiel",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -210,6 +154,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ahitub",
+"type": "person",
+"preferred_label": "Ahitub",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
 "id": "person:Phinehas.2",
 "type": "person",
 "preferred_label": "Phinehas",
@@ -217,16 +168,65 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
+"id": "person:Ahinoam",
+"type": "person",
+"preferred_label": "Ahinoam",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Malchi-shua",
+"type": "person",
+"preferred_label": "Malchi-shua",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Bozez",
 "type": "place",
-"preferred_label": "Edom",
+"preferred_label": "Bozez",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahimaaz",
+"type": "person",
+"preferred_label": "Ahimaaz",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Migron",
+"type": "place",
+"preferred_label": "Migron",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Zobah",
+"type": "place",
+"preferred_label": "Zobah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiel.2",
+"type": "person",
+"preferred_label": "Abiel",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"preferred_label": "Uncircumcised Person",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "person:Abinadab.2",
-"type": "person",
-"preferred_label": "Abinadab",
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
 "confidence": 0.1587,
 "match_method": "canonical"
 }

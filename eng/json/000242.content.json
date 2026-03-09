@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CallUpon",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Call Upon",
+"preferred_label": "Decided",
 "confidence": 0.3667,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
+"id": "keyterm:CallUpon",
 "type": "keyterm",
-"preferred_label": "Decided",
+"preferred_label": "Call Upon",
 "confidence": 0.3667,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
@@ -133,16 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1667,
+"preferred_label": "Forgive",
+"confidence": 0.2333,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Condemn",
+"id": "keyterm:Discern",
 "type": "keyterm",
-"preferred_label": "Condemn",
+"preferred_label": "Discern",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -154,23 +147,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Discern",
+"preferred_label": "Ask for",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decision",
-"type": "keyterm",
-"preferred_label": "Decision",
+"id": "person:Felix",
+"type": "person",
+"preferred_label": "Felix",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Condemn",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Condemn",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -182,9 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Felix",
-"type": "person",
-"preferred_label": "Felix",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decision",
+"type": "keyterm",
+"preferred_label": "Decision",
 "confidence": 0.1667,
 "match_method": "canonical"
 },

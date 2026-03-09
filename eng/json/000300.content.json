@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Israel",
+"id": "person:Joshua.2",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Joshua",
 "confidence": 0.5652,
 "match_method": "canonical"
 },
 {
-"id": "person:Joshua.2",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Joshua",
+"preferred_label": "Israel",
 "confidence": 0.5652,
 "match_method": "canonical"
 },
@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proscribe.2",
-"type": "keyterm",
-"preferred_label": "Set Apart for Destruction",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.3783,
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
 "confidence": 0.3783,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Merom",
+"id": "place:MizpehValley",
 "type": "place",
-"preferred_label": "Waters of Merom",
+"preferred_label": "Valley of Mizpeh",
 "confidence": 0.2565,
 "match_method": "canonical"
 },
 {
-"id": "place:MizpehValley",
+"id": "place:Merom",
 "type": "place",
-"preferred_label": "Valley of Mizpeh",
+"preferred_label": "Waters of Merom",
 "confidence": 0.2565,
 "match_method": "canonical"
 },
@@ -95,13 +95,6 @@
 "type": "fauna",
 "preferred_label": "Horse",
 "confidence": 0.2487,
-"match_method": "canonical"
-},
-{
-"id": "place:HermonMount",
-"type": "place",
-"preferred_label": "Mount Hermon",
-"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
@@ -126,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shephelah",
+"id": "place:HermonMount",
 "type": "place",
-"preferred_label": "Shephelah",
+"preferred_label": "Mount Hermon",
 "confidence": 0.2391,
 "match_method": "canonical"
 },
@@ -140,6 +133,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Shephelah",
+"type": "place",
+"preferred_label": "Shephelah",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
 "id": "place:Madon",
 "type": "place",
 "preferred_label": "Madon",
@@ -147,23 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dor",
-"type": "place",
-"preferred_label": "Dor",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "person:Jobab.3",
+"id": "person:Jabin",
 "type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "place:Achshaph",
-"type": "place",
-"preferred_label": "Achshaph",
+"preferred_label": "Jabin",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -182,6 +168,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jobab.3",
+"type": "person",
+"preferred_label": "Jobab",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Dor",
+"type": "place",
+"preferred_label": "Dor",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Misrephoth-maim",
+"type": "place",
+"preferred_label": "Misrephoth-maim",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
 "id": "place:HalakMount",
 "type": "place",
 "preferred_label": "Mount Halak",
@@ -196,13 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Misrephoth-maim",
-"type": "place",
-"preferred_label": "Misrephoth-maim",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
 "id": "place:Anab",
 "type": "place",
 "preferred_label": "Anab",
@@ -210,79 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jabin",
-"type": "person",
-"preferred_label": "Jabin",
+"id": "place:Achshaph",
+"type": "place",
+"preferred_label": "Achshaph",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
 {
-"id": "place:Goshen.2",
+"id": "place:Chinnereth",
 "type": "place",
-"preferred_label": "Goshen",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Seir",
-"type": "place",
-"preferred_label": "Seir",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Ashdod",
-"type": "place",
-"preferred_label": "Ashdod",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"preferred_label": "Hittites",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
+"preferred_label": "Chinnereth",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -294,58 +231,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Hebron",
 "type": "place",
-"preferred_label": "Sidon",
+"preferred_label": "Hebron",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeon",
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
 "type": "place",
-"preferred_label": "Gibeon",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Negeb",
-"type": "place",
-"preferred_label": "Negev",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Debir",
-"type": "place",
-"preferred_label": "Debir",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Chinnereth",
-"type": "place",
-"preferred_label": "Chinnereth",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Canaan",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -357,9 +266,79 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Jebusites",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Goshen.2",
+"type": "place",
+"preferred_label": "Goshen",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
 "type": "group",
-"preferred_label": "Jebusites",
+"preferred_label": "Canaanites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Ashdod",
+"type": "place",
+"preferred_label": "Ashdod",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"preferred_label": "Gaza",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -367,6 +346,27 @@
 "id": "group:Perizzites",
 "type": "group",
 "preferred_label": "Perizzites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Debir",
+"type": "place",
+"preferred_label": "Debir",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
 "confidence": 0.1696,
 "match_method": "canonical"
 },

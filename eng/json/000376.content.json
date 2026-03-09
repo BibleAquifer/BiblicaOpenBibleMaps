@@ -112,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Altar",
 "confidence": 0.3267,
 "match_method": "canonical"
 },
@@ -126,16 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Stone Altar",
 "confidence": 0.3267,
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:TempleAltar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Temple Altar",
 "confidence": 0.3267,
 "match_method": "canonical"
 },
@@ -144,6 +144,13 @@
 "type": "keyterm",
 "preferred_label": "To Sin",
 "confidence": 0.3184,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.3176,
 "match_method": "canonical"
 },
 {
@@ -157,13 +164,6 @@
 "id": "realia:HighPlace",
 "type": "realia",
 "preferred_label": "High Place",
-"confidence": 0.3176,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
 "confidence": 0.3176,
 "match_method": "canonical"
 },
@@ -182,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.2638,
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
 "confidence": 0.2638,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.2092,
 "match_method": "canonical"
 }

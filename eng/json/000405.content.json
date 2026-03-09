@@ -62,6 +62,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.4094,
+"match_method": "canonical"
+},
+{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -72,13 +79,6 @@
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
-"confidence": 0.4094,
-"match_method": "canonical"
-},
-{
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
 "confidence": 0.4094,
 "match_method": "canonical"
 },
@@ -111,16 +111,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoahaz.3",
+"id": "person:Nebuzaradan",
 "type": "person",
-"preferred_label": "Jehoahaz",
-"confidence": 0.2792,
-"match_method": "canonical"
-},
-{
-"id": "place:Persia",
-"type": "place",
-"preferred_label": "Persia",
+"preferred_label": "Nebuzaradan",
 "confidence": 0.2792,
 "match_method": "canonical"
 },
@@ -132,17 +125,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nebuzaradan",
-"type": "person",
-"preferred_label": "Nebuzaradan",
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
 "confidence": 0.2792,
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.2755,
+"id": "person:Jehoahaz.3",
+"type": "person",
+"preferred_label": "Jehoahaz",
+"confidence": 0.2792,
 "match_method": "canonical"
 },
 {
@@ -160,17 +153,17 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
 "id": "person:Cyrus",
 "type": "person",
 "preferred_label": "Cyrus",
 "confidence": 0.2245,
-"match_method": "canonical"
-},
-{
-"id": "person:Ishmael.2",
-"type": "person",
-"preferred_label": "Ishmael",
-"confidence": 0.2208,
 "match_method": "canonical"
 },
 {
@@ -181,37 +174,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "Israel",
-"confidence": 0.217,
+"preferred_label": "Ishmael",
+"confidence": 0.2208,
 "match_method": "canonical"
 },
 {
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "place:Mizpah",
-"type": "place",
-"preferred_label": "Mizpah",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -230,9 +202,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Kareah",
+"id": "place:Mizpah",
+"type": "place",
+"preferred_label": "Mizpah",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Kareah",
+"preferred_label": "Israel",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Evil-merodach",
+"type": "person",
+"preferred_label": "Evil-merodach",
 "confidence": 0.1623,
 "match_method": "canonical"
 }

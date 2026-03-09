@@ -56,6 +56,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.331,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "Always",
@@ -70,16 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.331,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -119,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:James.3",
-"type": "person",
-"preferred_label": "James",
-"confidence": 0.1612,
-"match_method": "canonical"
-},
-{
 "id": "person:Jude",
 "type": "person",
 "preferred_label": "Jude",
@@ -136,6 +129,13 @@
 "id": "keyterm:Disbelieve",
 "type": "keyterm",
 "preferred_label": "Disbelieve",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "James",
 "confidence": 0.1612,
 "match_method": "canonical"
 },
@@ -154,34 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:StumblingBlock",
-"type": "keyterm",
-"preferred_label": "Stumbling Block",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.4",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.1578,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "Surely!",
@@ -189,9 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happy",
+"id": "keyterm:StumblingBlock",
 "type": "keyterm",
-"preferred_label": "Happy",
+"preferred_label": "Stumbling Block",
 "confidence": 0.1578,
 "match_method": "canonical"
 },
@@ -203,9 +175,23 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Lawless",
 "type": "keyterm",
 "preferred_label": "Lawless",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
 "confidence": 0.1578,
 "match_method": "canonical"
 },
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Grass",
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1578,
+"match_method": "canonical"
+},
+{
+"id": "flora:Boxthorn",
 "type": "flora",
-"preferred_label": "Grass",
+"preferred_label": "Boxthorn",
 "confidence": 0.1555,
 "match_method": "canonical"
 }

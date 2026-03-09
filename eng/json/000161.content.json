@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
 "confidence": 0.4125,
 "match_method": "canonical"
 },
 {
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
 "confidence": 0.4125,
 "match_method": "canonical"
 },
@@ -63,23 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.2931,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "Surely!",
-"confidence": 0.2931,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
 "confidence": 0.2931,
 "match_method": "canonical"
 },
@@ -91,6 +77,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.2931,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2931,
+"match_method": "canonical"
+},
+{
 "id": "person:Nicodemus",
 "type": "person",
 "preferred_label": "Nicodemus",
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Baptism",
+"preferred_label": "Ability",
 "confidence": 0.2875,
 "match_method": "canonical"
 },
@@ -112,17 +112,24 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.2875,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "Life",
 "confidence": 0.2875,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2875,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.225,
 "match_method": "canonical"
 },
 {
@@ -147,10 +154,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
+"id": "group:Judea",
+"type": "group",
+"preferred_label": "Judeans",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heavenly",
 "type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.225,
+"preferred_label": "Heavenly",
+"confidence": 0.1681,
 "match_method": "canonical"
 },
 {
@@ -175,37 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judea",
-"type": "group",
-"preferred_label": "Judeans",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heavenly",
-"type": "keyterm",
-"preferred_label": "Heavenly",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
+"preferred_label": "Moses",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -217,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CourtCase",
+"id": "keyterm:Example",
 "type": "keyterm",
-"preferred_label": "Court Case",
+"preferred_label": "Symbol",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -238,6 +224,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
@@ -245,16 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Body",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "Judgment",
+"preferred_label": "Word",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -266,16 +252,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Cleanse.2",
+"id": "keyterm:Judgment",
 "type": "keyterm",
-"preferred_label": "To Cleanse",
+"preferred_label": "Judgment",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -287,23 +287,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"preferred_label": "Court Case",
 "confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "realia:Prison",
-"type": "realia",
-"preferred_label": "Prison",
-"confidence": 0.1025,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Snake",
 "type": "fauna",
 "preferred_label": "Snake",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
 "confidence": 0.1025,
 "match_method": "canonical"
 }

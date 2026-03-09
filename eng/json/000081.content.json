@@ -21,6 +21,13 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
+"confidence": 0.3941,
+"match_method": "canonical"
+},
+{
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Jesus",
@@ -28,10 +35,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.3941,
+"preferred_label": "Surely!",
+"confidence": 0.2765,
 "match_method": "canonical"
 },
 {
@@ -45,13 +52,6 @@
 "id": "keyterm:Example",
 "type": "keyterm",
 "preferred_label": "Symbol",
-"confidence": 0.2765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
 "confidence": 0.2765,
 "match_method": "canonical"
 },
@@ -70,30 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -105,9 +84,30 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Name",
 "type": "keyterm",
 "preferred_label": "Name",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -126,20 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Portent",
 "type": "keyterm",
 "preferred_label": "Portent",
@@ -154,9 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Parable",
+"id": "keyterm:Disaster",
 "type": "keyterm",
-"preferred_label": "Parable",
+"preferred_label": "Disaster",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
@@ -168,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"preferred_label": "Lawless",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "Always",
@@ -175,23 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
+"preferred_label": "Holy",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
@@ -210,9 +196,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disaster",
+"id": "keyterm:Proclaim",
 "type": "keyterm",
-"preferred_label": "Disaster",
+"preferred_label": "Proclaim",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.1588,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
 "confidence": 0.1588,
 "match_method": "canonical"
 },
@@ -220,13 +227,6 @@
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "preferred_label": "Body",
-"confidence": 0.1588,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawless",
-"type": "keyterm",
-"preferred_label": "Lawless",
 "confidence": 0.1588,
 "match_method": "canonical"
 }

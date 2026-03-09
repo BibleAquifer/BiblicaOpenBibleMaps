@@ -48,9 +48,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
+"id": "group:Reuben",
+"type": "group",
+"preferred_label": "Tribe of Reuben",
 "confidence": 0.4134,
 "match_method": "canonical"
 },
@@ -62,16 +62,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Tribe of Reuben",
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
 "confidence": 0.4134,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
 "confidence": 0.4134,
 "match_method": "canonical"
 },
@@ -132,13 +132,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.3254,
-"match_method": "canonical"
-},
-{
 "id": "person:Joshua.2",
 "type": "person",
 "preferred_label": "Joshua",
@@ -146,16 +139,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Machir",
-"type": "person",
-"preferred_label": "Machir",
-"confidence": 0.2718,
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.3254,
 "match_method": "canonical"
 },
 {
 "id": "place:Argob",
 "type": "place",
 "preferred_label": "Argob",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "person:Machir",
+"type": "person",
+"preferred_label": "Machir",
 "confidence": 0.2718,
 "match_method": "canonical"
 },
@@ -181,23 +181,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Baal-meon",
-"type": "place",
-"preferred_label": "Baal-meon",
-"confidence": 0.2183,
-"match_method": "canonical"
-},
-{
-"id": "place:Ataroth",
-"type": "place",
-"preferred_label": "Ataroth",
-"confidence": 0.2183,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-nimrah",
-"type": "place",
-"preferred_label": "Beth-nimrah",
+"id": "person:Jair.2",
+"type": "person",
+"preferred_label": "Jair",
 "confidence": 0.2183,
 "match_method": "canonical"
 },
@@ -209,23 +195,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jair.2",
-"type": "person",
-"preferred_label": "Jair",
+"id": "place:Baal-meon",
+"type": "place",
+"preferred_label": "Baal-meon",
 "confidence": 0.2183,
 "match_method": "canonical"
 },
 {
-"id": "place:Elealeh",
+"id": "place:Beth-nimrah",
 "type": "place",
-"preferred_label": "Elealeh",
-"confidence": 0.2155,
+"preferred_label": "Beth-nimrah",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Ataroth",
+"type": "place",
+"preferred_label": "Ataroth",
+"confidence": 0.2183,
 "match_method": "canonical"
 },
 {
 "id": "place:Pisgah",
 "type": "place",
 "preferred_label": "Pisgah",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "place:Dibon",
+"type": "place",
+"preferred_label": "Dibon",
 "confidence": 0.2155,
 "match_method": "canonical"
 },

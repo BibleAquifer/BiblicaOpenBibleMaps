@@ -111,16 +111,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
+"id": "realia:Craftsman",
+"type": "realia",
+"preferred_label": "Craftsman",
 "confidence": 0.3122,
 "match_method": "canonical"
 },
 {
-"id": "realia:Craftsman",
-"type": "realia",
-"preferred_label": "Craftsman",
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
 "confidence": 0.3122,
 "match_method": "canonical"
 },
@@ -132,23 +132,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.309,
-"match_method": "canonical"
-},
-{
 "id": "realia:Altar",
 "type": "realia",
 "preferred_label": "Altar",
-"confidence": 0.309,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
 "confidence": 0.309,
 "match_method": "canonical"
 },
@@ -160,16 +146,30 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:DatePalm",
-"type": "flora",
-"preferred_label": "Date Palm",
-"confidence": 0.3058,
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.309,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.309,
 "match_method": "canonical"
 },
 {
 "id": "flora:Pomegranate",
 "type": "flora",
 "preferred_label": "Pomegranate",
+"confidence": 0.3058,
+"match_method": "canonical"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"preferred_label": "Date Palm",
 "confidence": 0.3058,
 "match_method": "canonical"
 },
@@ -202,16 +202,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Lily",
+"id": "flora:PineTree",
 "type": "flora",
-"preferred_label": "Lily",
+"preferred_label": "Aleppo Pine",
 "confidence": 0.2541,
 "match_method": "canonical"
 },
 {
-"id": "flora:PineTree",
+"id": "flora:Lily",
 "type": "flora",
-"preferred_label": "Aleppo Pine",
+"preferred_label": "Lily",
 "confidence": 0.2541,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zarethan",
-"type": "place",
-"preferred_label": "Zarethan",
+"id": "keyterm:BreadOfDisplay",
+"type": "keyterm",
+"preferred_label": "Bread of Display",
 "confidence": 0.2077,
 "match_method": "canonical"
 }

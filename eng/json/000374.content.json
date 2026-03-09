@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
-"confidence": 0.3419,
-"match_method": "canonical"
-},
-{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
@@ -105,9 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joab",
-"type": "person",
-"preferred_label": "Joab",
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.3419,
+"match_method": "canonical"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"preferred_label": "Edomites",
 "confidence": 0.2814,
 "match_method": "canonical"
 },
@@ -115,13 +115,6 @@
 "id": "place:Sidon",
 "type": "place",
 "preferred_label": "Sidon",
-"confidence": 0.2814,
-"match_method": "canonical"
-},
-{
-"id": "group:Edom",
-"type": "group",
-"preferred_label": "Edomites",
 "confidence": 0.2814,
 "match_method": "canonical"
 },
@@ -147,6 +140,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
 "id": "person:Ahijah.2",
 "type": "person",
 "preferred_label": "Ahijah",
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Ashtoreth",
-"type": "deity",
-"preferred_label": "Ashtoreth",
+"id": "person:Tahpenes",
+"type": "person",
+"preferred_label": "Tahpenes",
 "confidence": 0.2302,
 "match_method": "canonical"
 },
 {
-"id": "person:Tahpenes",
-"type": "person",
-"preferred_label": "Tahpenes",
+"id": "deity:Ashtoreth",
+"type": "deity",
+"preferred_label": "Ashtoreth",
 "confidence": 0.2302,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"preferred_label": "The Way",
+"id": "deity:Chemosh",
+"type": "deity",
+"preferred_label": "Chemosh",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
 {
-"id": "deity:Chemosh",
-"type": "deity",
-"preferred_label": "Chemosh",
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"preferred_label": "The Way",
 "confidence": 0.2209,
 "match_method": "canonical"
 },
@@ -193,6 +193,27 @@
 "type": "keyterm",
 "preferred_label": "Love",
 "confidence": 0.2209,
+"match_method": "canonical"
+},
+{
+"id": "place:Zeredah.2",
+"type": "place",
+"preferred_label": "Zeredah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruah",
+"type": "person",
+"preferred_label": "Zeruah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Eliada.2",
+"type": "person",
+"preferred_label": "Eliada",
+"confidence": 0.1651,
 "match_method": "canonical"
 },
 {
@@ -210,23 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rezon",
+"id": "person:Nebat",
 "type": "person",
-"preferred_label": "Rezon",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Eliada.2",
-"type": "person",
-"preferred_label": "Eliada",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "place:Zeredah.2",
-"type": "place",
-"preferred_label": "Zeredah",
+"preferred_label": "Nebat",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -238,13 +245,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nebat",
-"type": "person",
-"preferred_label": "Nebat",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
 "id": "person:Shishak",
 "type": "person",
 "preferred_label": "Shishak",
@@ -252,9 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zeruah",
+"id": "person:Rezon",
 "type": "person",
-"preferred_label": "Zeruah",
+"preferred_label": "Rezon",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -273,16 +273,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Paran",
-"type": "place",
-"preferred_label": "Paran",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BeFirm",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "Well-Established",
+"preferred_label": "Favor",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -294,37 +287,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
 "id": "group:Hittite",
 "type": "group",
 "preferred_label": "Hittites",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Shiloh",
-"type": "place",
-"preferred_label": "Shiloh",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Millo",
-"type": "place",
-"preferred_label": "Millo",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Midian",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -336,23 +301,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
 "id": "person:Hadadezer",
 "type": "person",
 "preferred_label": "Hadadezer",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Zobah",
-"type": "place",
-"preferred_label": "Zobah",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -364,16 +322,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.10",
+"id": "person:Heth",
 "type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"preferred_label": "Heth",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -385,10 +336,66 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Millo",
+"type": "place",
+"preferred_label": "Millo",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Paran",
+"type": "place",
+"preferred_label": "Paran",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
 "id": "person:Ephraim",
 "type": "person",
 "preferred_label": "Ephraim",
 "confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Zobah",
+"type": "place",
+"preferred_label": "Zobah",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1005,
 "match_method": "canonical"
 },
 {
@@ -402,13 +409,6 @@
 "id": "realia:Lamp",
 "type": "realia",
 "preferred_label": "Lamp",
-"confidence": 0.1005,
-"match_method": "canonical"
-},
-{
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
 "confidence": 0.1005,
 "match_method": "canonical"
 }

@@ -28,13 +28,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3,
-"match_method": "canonical"
-},
-{
 "id": "person:Moses",
 "type": "person",
 "preferred_label": "Moses",
@@ -42,16 +35,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Miriam",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Miriam",
-"confidence": 0.2407,
+"preferred_label": "Israel",
+"confidence": 0.3,
 "match_method": "canonical"
 },
 {
 "id": "place:RedSea",
 "type": "place",
 "preferred_label": "Red Sea",
+"confidence": 0.2407,
+"match_method": "canonical"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"preferred_label": "Miriam",
 "confidence": 0.2407,
 "match_method": "canonical"
 },
@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shur",
-"type": "place",
-"preferred_label": "Shur",
-"confidence": 0.1741,
-"match_method": "canonical"
-},
-{
 "id": "place:Elim",
 "type": "place",
 "preferred_label": "Elim",
@@ -105,6 +98,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Marah",
+"type": "place",
+"preferred_label": "Marah",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"preferred_label": "Shur",
+"confidence": 0.1741,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Leader",
 "type": "keyterm",
 "preferred_label": "Leader",
@@ -112,10 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Marah",
-"type": "place",
-"preferred_label": "Marah",
-"confidence": 0.1741,
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.1733,
 "match_method": "canonical"
 },
 {
@@ -126,10 +133,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Chariot",
-"type": "realia",
-"preferred_label": "Chariot",
-"confidence": 0.1733,
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1667,
 "match_method": "canonical"
 },
 {
@@ -147,37 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Mighty",
-"type": "keyterm",
-"preferred_label": "Mighty",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Terror",
 "type": "keyterm",
 "preferred_label": "Terror",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -189,16 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Fear",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -217,30 +196,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Salvation",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
+"id": "keyterm:Mighty",
 "type": "keyterm",
-"preferred_label": "Dispossess",
+"preferred_label": "Mighty",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "flora:DatePalm",
-"type": "flora",
-"preferred_label": "Date Palm",
-"confidence": 0.1141,
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1667,
 "match_method": "canonical"
 },
 {
 "id": "realia:Drum",
 "type": "realia",
 "preferred_label": "Drum",
+"confidence": 0.1141,
+"match_method": "canonical"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"preferred_label": "Date Palm",
 "confidence": 0.1141,
 "match_method": "canonical"
 },

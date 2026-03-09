@@ -42,6 +42,20 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
@@ -56,20 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hittite",
-"type": "group",
-"preferred_label": "Hittites",
-"confidence": 0.2273,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
-"confidence": 0.2273,
-"match_method": "canonical"
-},
-{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
 "confidence": 0.2273,
 "match_method": "canonical"
 },
 {
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
 "confidence": 0.2273,
 "match_method": "canonical"
 },
@@ -112,44 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
 "id": "group:Amorites",
 "type": "group",
 "preferred_label": "Amorites",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -161,23 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"preferred_label": "Exempt",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "preferred_label": "Bless",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -196,9 +147,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Jebusites",
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
 "type": "group",
-"preferred_label": "Jebusites",
+"preferred_label": "Philistines",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -210,6 +182,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
 "id": "place:Euphrates",
 "type": "place",
 "preferred_label": "Euphrates River",
@@ -217,16 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:SacredPillar",
-"type": "realia",
-"preferred_label": "Sacred Pillar",
-"confidence": 0.1097,
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1636,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Kid",
 "type": "fauna",
 "preferred_label": "Kid",
+"confidence": 0.1097,
+"match_method": "canonical"
+},
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"preferred_label": "Sacred Pillar",
 "confidence": 0.1097,
 "match_method": "canonical"
 },
@@ -245,16 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:OliveTree",
-"type": "flora",
-"preferred_label": "Olive Tree",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "flora:Cattails",
-"type": "flora",
-"preferred_label": "Cattails",
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"preferred_label": "Unleavened Bread",
 "confidence": 0.1036,
 "match_method": "canonical"
 },
@@ -273,9 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:UnleavenedBread",
-"type": "realia",
-"preferred_label": "Unleavened Bread",
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
 "confidence": 0.1036,
 "match_method": "canonical"
 },
@@ -283,6 +276,13 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
 "confidence": 0.1036,
 "match_method": "canonical"
 }

@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptist",
-"type": "keyterm",
-"preferred_label": "Baptist",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
 "confidence": 0.225,
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
 "confidence": 0.225,
 "match_method": "canonical"
 },
@@ -98,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Prison",
-"type": "realia",
-"preferred_label": "Prison",
-"confidence": 0.1706,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Fish",
 "type": "fauna",
 "preferred_label": "Fish",
@@ -112,30 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:HavingLittleFaith",
-"type": "keyterm",
-"preferred_label": "Having Little Faith",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "person:DaughterOfHerodias",
-"type": "person",
-"preferred_label": "Daughter of Herodias",
-"confidence": 0.1681,
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.1706,
 "match_method": "canonical"
 },
 {
 "id": "place:Gennesaret",
 "type": "place",
 "preferred_label": "Gennesaret",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "person:Philip.2",
-"type": "person",
-"preferred_label": "Philip",
 "confidence": 0.1681,
 "match_method": "canonical"
 },
@@ -147,6 +126,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"preferred_label": "Having Little Faith",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip.2",
+"type": "person",
+"preferred_label": "Philip",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "person:DaughterOfHerodias",
+"type": "person",
+"preferred_label": "Daughter of Herodias",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
 "id": "realia:Plate.2",
 "type": "realia",
 "preferred_label": "Plate",
@@ -154,23 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
+"preferred_label": "Serve",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -182,44 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"preferred_label": "Be Lawful",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Bless",
 "type": "keyterm",
 "preferred_label": "Bless",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Affection",
-"type": "keyterm",
-"preferred_label": "Affection",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -231,6 +182,55 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
 "id": "realia:Basket",
 "type": "realia",
 "preferred_label": "Basket",
@@ -238,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Grass",
-"type": "flora",
-"preferred_label": "Grass",
+"id": "realia:Tassel",
+"type": "realia",
+"preferred_label": "Tassel",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -252,16 +252,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Cloak",
-"type": "realia",
-"preferred_label": "Cloak",
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
 {
-"id": "realia:Tassel",
+"id": "realia:Cloak",
 "type": "realia",
-"preferred_label": "Tassel",
+"preferred_label": "Cloak",
 "confidence": 0.1025,
 "match_method": "canonical"
 }

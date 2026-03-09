@@ -83,16 +83,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Jebusites",
-"type": "group",
-"preferred_label": "Jebusites",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3909,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
 "confidence": 0.3909,
 "match_method": "canonical"
 },
@@ -101,6 +101,13 @@
 "type": "realia",
 "preferred_label": "Threshing Floor",
 "confidence": 0.3673,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3473,
 "match_method": "canonical"
 },
 {
@@ -125,23 +132,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3473,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Blow",
 "type": "keyterm",
 "preferred_label": "Plague",
-"confidence": 0.3327,
-"match_method": "canonical"
-},
-{
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
 "confidence": 0.3327,
 "match_method": "canonical"
 },
@@ -153,16 +146,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
 "confidence": 0.3327,
 "match_method": "canonical"
 },
 {
-"id": "place:Beersheba",
-"type": "place",
-"preferred_label": "Beersheba",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3327,
 "match_method": "canonical"
 },
@@ -177,6 +170,13 @@
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "To Sin",
+"confidence": 0.3327,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
 "confidence": 0.3327,
 "match_method": "canonical"
 },
@@ -209,13 +209,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
 "id": "place:Kadesh",
 "type": "place",
 "preferred_label": "Tahtim-hodshi",
@@ -223,16 +216,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
+"id": "place:Tyre",
 "type": "place",
-"preferred_label": "Canaan",
+"preferred_label": "Tyre",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
 "confidence": 0.1582,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.1582,
 "match_method": "canonical"
 }

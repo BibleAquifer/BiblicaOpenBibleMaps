@@ -118,6 +118,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Saul.2",
+"type": "person",
+"preferred_label": "Saul",
+"confidence": 0.3674,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
@@ -128,13 +135,6 @@
 "id": "group:Philistine",
 "type": "group",
 "preferred_label": "Philistines",
-"confidence": 0.3674,
-"match_method": "canonical"
-},
-{
-"id": "person:Saul.2",
-"type": "person",
-"preferred_label": "Saul",
 "confidence": 0.3674,
 "match_method": "canonical"
 },
@@ -181,16 +181,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nathan.2",
+"id": "person:Heman.3",
 "type": "person",
-"preferred_label": "Nathan",
+"preferred_label": "Heman",
 "confidence": 0.3129,
 "match_method": "canonical"
 },
 {
-"id": "person:Heman.3",
+"id": "person:Nathan.2",
 "type": "person",
-"preferred_label": "Heman",
+"preferred_label": "Nathan",
 "confidence": 0.3129,
 "match_method": "canonical"
 },

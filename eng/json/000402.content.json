@@ -111,16 +111,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.3808,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
 "confidence": 0.3808,
 "match_method": "canonical"
 },
@@ -167,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Altar",
 "confidence": 0.3285,
 "match_method": "canonical"
 },
@@ -181,16 +181,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Stone Altar",
 "confidence": 0.3285,
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:TempleAltar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Temple Altar",
 "confidence": 0.3285,
 "match_method": "canonical"
 },
@@ -216,9 +216,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.3154,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
 "confidence": 0.3154,
 "match_method": "canonical"
 }

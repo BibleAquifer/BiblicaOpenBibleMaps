@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
 "confidence": 0.2273,
 "match_method": "canonical"
 },
@@ -70,16 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hittite",
-"type": "group",
-"preferred_label": "Hittites",
-"confidence": 0.2273,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephron.2",
+"id": "person:Abraham",
 "type": "person",
-"preferred_label": "Ephron",
+"preferred_label": "Abraham",
 "confidence": 0.2273,
 "match_method": "canonical"
 },
@@ -91,6 +84,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ephron.2",
+"type": "person",
+"preferred_label": "Ephron",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
 "id": "place:Machpelah",
 "type": "place",
 "preferred_label": "Machpelah",
@@ -98,30 +98,23 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Gad",
+"type": "person",
+"preferred_label": "Gad",
+"confidence": 0.1697,
+"match_method": "canonical"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"preferred_label": "Asher",
+"confidence": 0.1697,
+"match_method": "canonical"
+},
+{
 "id": "person:Leah",
 "type": "person",
 "preferred_label": "Leah",
-"confidence": 0.1697,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebulun",
-"type": "person",
-"preferred_label": "Zebulun",
-"confidence": 0.1697,
-"match_method": "canonical"
-},
-{
-"id": "person:Rebekah",
-"type": "person",
-"preferred_label": "Rebekah",
-"confidence": 0.1697,
-"match_method": "canonical"
-},
-{
-"id": "person:Issachar",
-"type": "person",
-"preferred_label": "Issachar",
 "confidence": 0.1697,
 "match_method": "canonical"
 },
@@ -140,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Gad",
+"id": "person:Zebulun",
 "type": "person",
-"preferred_label": "Gad",
+"preferred_label": "Zebulun",
 "confidence": 0.1697,
 "match_method": "canonical"
 },
 {
-"id": "person:Asher",
+"id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Asher",
+"preferred_label": "Rebekah",
 "confidence": 0.1697,
 "match_method": "canonical"
 },
@@ -161,17 +154,10 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.1673,
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
+"confidence": 0.1697,
 "match_method": "canonical"
 },
 {
@@ -189,10 +175,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.1636,
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
@@ -203,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -217,9 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Naphtali",
-"type": "person",
-"preferred_label": "Naphtali",
+"id": "keyterm:Delight",
+"type": "keyterm",
+"preferred_label": "Delight",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -227,6 +227,27 @@
 "id": "person:Sarah",
 "type": "person",
 "preferred_label": "Sarah",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -252,9 +273,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Strength",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -266,44 +294,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mamre",
-"type": "place",
-"preferred_label": "Mamre",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"preferred_label": "Delight",
-"confidence": 0.1636,
+"id": "fauna:Viper",
+"type": "fauna",
+"preferred_label": "Viper",
+"confidence": 0.1097,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Lion",
 "type": "fauna",
 "preferred_label": "Lion",
-"confidence": 0.1097,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Viper",
-"type": "fauna",
-"preferred_label": "Viper",
 "confidence": 0.1097,
 "match_method": "canonical"
 },
@@ -322,44 +322,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sheepfold",
+"id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Sheepfold",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "realia:Rod",
-"type": "realia",
-"preferred_label": "Rod",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Snake",
-"type": "fauna",
-"preferred_label": "Snake",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "realia:Ship",
-"type": "realia",
-"preferred_label": "Ship",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "realia:Arrow",
-"type": "realia",
-"preferred_label": "Arrow",
+"preferred_label": "Sword",
 "confidence": 0.1036,
 "match_method": "canonical"
 },
@@ -371,23 +336,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bull",
+"id": "fauna:Snake",
 "type": "fauna",
-"preferred_label": "Cattle",
+"preferred_label": "Snake",
 "confidence": 0.1036,
 "match_method": "canonical"
 },
 {
-"id": "realia:Bow",
+"id": "realia:Arrow",
 "type": "realia",
-"preferred_label": "Bow",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Deer",
-"type": "fauna",
-"preferred_label": "Deer",
+"preferred_label": "Arrow",
 "confidence": 0.1036,
 "match_method": "canonical"
 },
@@ -399,6 +357,34 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Ship",
+"type": "realia",
+"preferred_label": "Ship",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"preferred_label": "Deer",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Horse",
 "type": "fauna",
 "preferred_label": "Horse",
@@ -406,9 +392,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sheepfold",
 "type": "realia",
-"preferred_label": "Sword",
+"preferred_label": "Sheepfold",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
 "confidence": 0.1036,
 "match_method": "canonical"
 }

@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
@@ -91,9 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Circumcision",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -101,6 +108,13 @@
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -119,31 +133,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "Circumcision",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
 "confidence": 0.2155,
-"match_method": "canonical"
-},
-{
-"id": "group:Relatives",
-"type": "group",
-"preferred_label": "Relatives",
-"confidence": 0.1623,
 "match_method": "canonical"
 },
 {
@@ -161,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nicodemus",
-"type": "person",
-"preferred_label": "Nicodemus",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Just",
 "type": "keyterm",
 "preferred_label": "Be (Or Show Oneself) Just",
@@ -175,23 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Javan",
+"id": "group:Relatives",
+"type": "group",
+"preferred_label": "Relatives",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "Javan",
-"confidence": 0.1585,
+"preferred_label": "Nicodemus",
+"confidence": 0.1623,
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
@@ -203,30 +189,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Good",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Good",
+"preferred_label": "Be a Disciple",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
+"id": "keyterm:Happen",
 "type": "keyterm",
-"preferred_label": "Symbol",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CourtCase",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Court Case",
+"preferred_label": "Fear",
 "confidence": 0.1585,
 "match_method": "canonical"
 }

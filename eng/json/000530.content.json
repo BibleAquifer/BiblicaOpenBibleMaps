@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Potiphera",
+"id": "person:Asenath",
 "type": "person",
-"preferred_label": "Potiphera",
+"preferred_label": "Asenath",
 "confidence": 0.2228,
 "match_method": "canonical"
 },
 {
-"id": "person:Asenath",
+"id": "person:Potiphera",
 "type": "person",
-"preferred_label": "Asenath",
+"preferred_label": "Potiphera",
 "confidence": 0.2228,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
 "confidence": 0.1579,
 "match_method": "canonical"
 },
 {
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
 "confidence": 0.1579,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Appoint",
+"preferred_label": "Peace",
 "confidence": 0.1579,
 "match_method": "canonical"
 },
@@ -154,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Prison",
+"id": "realia:Chariot",
 "type": "realia",
-"preferred_label": "Prison",
+"preferred_label": "Chariot",
 "confidence": 0.0979,
 "match_method": "canonical"
 },
@@ -168,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Chariot",
+"id": "realia:Prison",
 "type": "realia",
-"preferred_label": "Chariot",
+"preferred_label": "Prison",
 "confidence": 0.0979,
 "match_method": "canonical"
 }

@@ -70,9 +70,30 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Peleg",
+"type": "person",
+"preferred_label": "Peleg",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "person:Shelah.2",
+"type": "person",
+"preferred_label": "Shelah",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
 "id": "person:Nahor",
 "type": "person",
 "preferred_label": "Nahor",
+"confidence": 0.3385,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.3385,
 "match_method": "canonical"
 },
@@ -94,27 +115,6 @@
 "id": "person:Serug",
 "type": "person",
 "preferred_label": "Serug",
-"confidence": 0.3385,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.3385,
-"match_method": "canonical"
-},
-{
-"id": "person:Peleg",
-"type": "person",
-"preferred_label": "Peleg",
-"confidence": 0.3385,
-"match_method": "canonical"
-},
-{
-"id": "person:Shelah.2",
-"type": "person",
-"preferred_label": "Shelah",
 "confidence": 0.3385,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Chaldea",
-"type": "group",
-"preferred_label": "Chaldeans",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.2212,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
 "confidence": 0.2212,
 "match_method": "canonical"
 },
@@ -196,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
+"id": "person:Iscah",
+"type": "person",
+"preferred_label": "Iscah",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moreh",
+"id": "place:Shechem",
 "type": "place",
-"preferred_label": "Oak of Moreh",
+"preferred_label": "Shechem",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "place:Shechem",
-"type": "place",
-"preferred_label": "Shechem",
+"id": "person:Milcah",
+"type": "person",
+"preferred_label": "Milcah",
 "confidence": 0.1625,
 "match_method": "canonical"
 }

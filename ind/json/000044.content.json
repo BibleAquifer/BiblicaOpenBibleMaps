@@ -118,16 +118,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
+"id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "injil",
+"preferred_label": "hati",
 "confidence": 0.3617,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "hati",
+"preferred_label": "injil",
 "confidence": 0.3617,
 "match_method": "canonical"
 },
@@ -174,13 +174,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "selama, lamanya",
-"confidence": 0.3584,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Hope",
 "type": "keyterm",
 "preferred_label": "harapan",
@@ -195,16 +188,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "berbuat dosa",
-"confidence": 0.3578,
+"preferred_label": "selama, lamanya",
+"confidence": 0.3584,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "keselamatan",
+"confidence": 0.3578,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "berbuat dosa",
 "confidence": 0.3578,
 "match_method": "canonical"
 },
@@ -216,9 +216,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Conscience",
+"id": "keyterm:Proclaim",
 "type": "keyterm",
-"preferred_label": "hati nurani",
+"preferred_label": "memberitakan",
 "confidence": 0.3565,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:Conscience",
 "type": "keyterm",
-"preferred_label": "memberitakan",
+"preferred_label": "hati nurani",
 "confidence": 0.3565,
 "match_method": "canonical"
 }

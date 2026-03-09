@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Agag.2",
-"type": "person",
-"preferred_label": "Agag",
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
 "confidence": 0.3635,
 "match_method": "canonical"
 },
 {
-"id": "place:Persia",
-"type": "place",
-"preferred_label": "Persia",
+"id": "person:Agag.2",
+"type": "person",
+"preferred_label": "Agag",
 "confidence": 0.3635,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
-"confidence": 0.3062,
-"match_method": "canonical"
-},
-{
 "id": "flora:Vine",
 "type": "flora",
 "preferred_label": "Vine",
@@ -161,17 +154,17 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.3062,
+"match_method": "canonical"
+},
+{
 "id": "person:Hegai",
 "type": "person",
 "preferred_label": "Hegai",
 "confidence": 0.2641,
-"match_method": "canonical"
-},
-{
-"id": "person:Memucan",
-"type": "person",
-"preferred_label": "Memucan",
-"confidence": 0.2617,
 "match_method": "canonical"
 },
 {
@@ -182,10 +175,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericServants",
-"type": "group",
-"preferred_label": "Servants",
-"confidence": 0.2581,
+"id": "person:Memucan",
+"type": "person",
+"preferred_label": "Memucan",
+"confidence": 0.2617,
 "match_method": "canonical"
 },
 {
@@ -196,16 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Crown",
-"type": "realia",
-"preferred_label": "Crown",
-"confidence": 0.252,
+"id": "group:GenericServants",
+"type": "group",
+"preferred_label": "Servants",
+"confidence": 0.2581,
 "match_method": "canonical"
 },
 {
 "id": "realia:Sackcloth",
 "type": "realia",
 "preferred_label": "Sackcloth",
+"confidence": 0.252,
+"match_method": "canonical"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"preferred_label": "Crown",
 "confidence": 0.252,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abihail.5",
+"id": "person:Teresh",
 "type": "person",
-"preferred_label": "Abihail",
+"preferred_label": "Teresh",
 "confidence": 0.2078,
 "match_method": "canonical"
 },
 {
-"id": "person:Teresh",
-"type": "person",
-"preferred_label": "Teresh",
+"id": "place:India",
+"type": "place",
+"preferred_label": "India",
 "confidence": 0.2078,
 "match_method": "canonical"
 }

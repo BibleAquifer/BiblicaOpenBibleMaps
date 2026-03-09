@@ -34,16 +34,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Judah",
 "confidence": 0.5553,
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Israel",
 "confidence": 0.5553,
 "match_method": "canonical"
 },
@@ -97,16 +97,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
+"id": "place:Samaria",
 "type": "place",
-"preferred_label": "Edom",
+"preferred_label": "Samaria",
 "confidence": 0.3895,
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
+"id": "place:Edom",
 "type": "place",
-"preferred_label": "Samaria",
+"preferred_label": "Edom",
 "confidence": 0.3895,
 "match_method": "canonical"
 },
@@ -125,13 +125,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:CornerGate",
-"type": "place",
-"preferred_label": "Corner Gate",
-"confidence": 0.2228,
-"match_method": "canonical"
-},
-{
 "id": "place:SaltValley",
 "type": "place",
 "preferred_label": "Valley of Salt",
@@ -139,9 +132,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoaddan",
-"type": "person",
-"preferred_label": "Jehoaddan",
+"id": "place:CornerGate",
+"type": "place",
+"preferred_label": "Corner Gate",
 "confidence": 0.2228,
 "match_method": "canonical"
 },
@@ -153,10 +146,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Lachish",
-"type": "place",
-"preferred_label": "Lachish",
-"confidence": 0.2193,
+"id": "person:Jehoaddan",
+"type": "person",
+"preferred_label": "Jehoaddan",
+"confidence": 0.2228,
 "match_method": "canonical"
 },
 {
@@ -167,37 +160,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Seir",
+"id": "place:Lachish",
 "type": "place",
-"preferred_label": "Seir",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehu.2",
-"type": "person",
-"preferred_label": "Jehu",
-"confidence": 0.2158,
+"preferred_label": "Lachish",
+"confidence": 0.2193,
 "match_method": "canonical"
 },
 {
 "id": "place:Hamath",
 "type": "place",
 "preferred_label": "Hamath",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
 "confidence": 0.2158,
 "match_method": "canonical"
 },
@@ -209,9 +181,30 @@
 "match_method": "canonical"
 },
 {
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehu.2",
+"type": "person",
+"preferred_label": "Jehu",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
 "id": "group:Edom",
 "type": "group",
 "preferred_label": "Edomites",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.2158,
 "match_method": "canonical"
 },
@@ -223,9 +216,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahaziah.2",
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Ahaziah",
+"preferred_label": "Ephraim",
 "confidence": 0.2158,
 "match_method": "canonical"
 },

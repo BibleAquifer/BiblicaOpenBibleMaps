@@ -28,9 +28,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.4019,
 "match_method": "canonical"
 },
@@ -42,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
 "confidence": 0.4019,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Register",
+"type": "keyterm",
+"preferred_label": "Register",
 "confidence": 0.276,
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Register",
-"type": "keyterm",
-"preferred_label": "Register",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "fauna:Lamb",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Sheep",
 "confidence": 0.2746,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Sheep",
+"preferred_label": "Goat",
 "confidence": 0.2746,
 "match_method": "canonical"
 },
@@ -154,34 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "Make Peace",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.4",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
@@ -189,16 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -210,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -220,6 +185,41 @@
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.2173,
 "match_method": "canonical"
 },

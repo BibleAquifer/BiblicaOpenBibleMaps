@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zalmunna",
+"id": "person:Zebah",
 "type": "person",
-"preferred_label": "Zalmunna",
+"preferred_label": "Zebah",
 "confidence": 0.39,
 "match_method": "canonical"
 },
 {
-"id": "person:Zebah",
+"id": "person:Zalmunna",
 "type": "person",
-"preferred_label": "Zebah",
+"preferred_label": "Zalmunna",
 "confidence": 0.39,
 "match_method": "canonical"
 },
@@ -74,13 +74,6 @@
 "type": "deity",
 "preferred_label": "An Angel",
 "confidence": 0.3815,
-"match_method": "canonical"
-},
-{
-"id": "place:Succoth",
-"type": "place",
-"preferred_label": "Succoth",
-"confidence": 0.377,
 "match_method": "canonical"
 },
 {
@@ -94,6 +87,13 @@
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.377,
+"match_method": "canonical"
+},
+{
+"id": "place:Succoth",
+"type": "place",
+"preferred_label": "Succoth",
 "confidence": 0.377,
 "match_method": "canonical"
 },
@@ -112,16 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.3215,
-"match_method": "canonical"
-},
-{
-"id": "realia:RamsHorn",
-"type": "realia",
-"preferred_label": "Rams Horn",
+"preferred_label": "Altar",
 "confidence": 0.3215,
 "match_method": "canonical"
 },
@@ -133,9 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:RamsHorn",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Rams Horn",
 "confidence": 0.3215,
 "match_method": "canonical"
 },
@@ -143,6 +136,13 @@
 "id": "realia:StoneAltar",
 "type": "realia",
 "preferred_label": "Stone Altar",
+"confidence": 0.3215,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
 "confidence": 0.3215,
 "match_method": "canonical"
 },
@@ -168,6 +168,48 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "place:Penuel",
+"type": "place",
+"preferred_label": "Penuel",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2635,
+"match_method": "canonical"
+},
+{
 "id": "group:Ephraim",
 "type": "group",
 "preferred_label": "Tribe of Ephraim",
@@ -182,51 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Amalek",
-"type": "place",
-"preferred_label": "Amalek",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
-"id": "group:Amalek",
-"type": "group",
-"preferred_label": "Amalekites",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
 "id": "person:Ephraim",
 "type": "person",
 "preferred_label": "Ephraim",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
-"id": "place:Penuel",
-"type": "place",
-"preferred_label": "Penuel",
-"confidence": 0.2635,
-"match_method": "canonical"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasseh",
 "confidence": 0.2635,
 "match_method": "canonical"
 }

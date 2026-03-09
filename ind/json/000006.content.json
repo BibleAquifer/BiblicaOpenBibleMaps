@@ -41,16 +41,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Yesus",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
 "confidence": 0.398,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Yerusalem",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
 "confidence": 0.398,
 "match_method": "canonical"
 },
@@ -153,6 +153,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "menggenapi",
+"confidence": 0.268,
+"match_method": "canonical"
+},
+{
 "id": "place:Galilee",
 "type": "place",
 "preferred_label": "Galilea",
@@ -160,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
+"id": "keyterm:Register",
+"type": "keyterm",
+"preferred_label": "mendaftarkan",
 "confidence": 0.268,
 "match_method": "canonical"
 },
@@ -174,13 +181,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "menggenapi",
-"confidence": 0.268,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "takut",
@@ -188,9 +188,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Register",
-"type": "keyterm",
-"preferred_label": "mendaftarkan",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.268,
 "match_method": "canonical"
 },
@@ -216,13 +216,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "meminta",
-"confidence": 0.212,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "kebaikan",
@@ -233,6 +226,13 @@
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "persembahan",
+"confidence": 0.212,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
 "confidence": 0.212,
 "match_method": "canonical"
 }

@@ -76,6 +76,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Supplication",
+"type": "keyterm",
+"preferred_label": "Plea for Mercy",
+"confidence": 0.364,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "To Sin",
@@ -93,13 +100,6 @@
 "id": "place:Tyre",
 "type": "place",
 "preferred_label": "Tyre",
-"confidence": 0.364,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Supplication",
-"type": "keyterm",
-"preferred_label": "Plea for Mercy",
 "confidence": 0.364,
 "match_method": "canonical"
 },
@@ -195,16 +195,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TabernacleAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Tabernacle Altar",
+"preferred_label": "Altar",
 "confidence": 0.3074,
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:TabernacleAltar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Tabernacle Altar",
 "confidence": 0.3074,
 "match_method": "canonical"
 },

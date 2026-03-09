@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
+"id": "keyterm:Kindness",
 "type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Kindness",
 "confidence": 0.3269,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Swear",
 "confidence": 0.3269,
 "match_method": "canonical"
 },
@@ -147,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Blameless",
 "type": "keyterm",
 "preferred_label": "Be Blameless",
@@ -157,13 +164,6 @@
 "id": "person:Sarah",
 "type": "person",
 "preferred_label": "Sarah",
-"confidence": 0.2134,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
 "confidence": 0.2134,
 "match_method": "canonical"
 },
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:MotherOfRebekah",
-"type": "person",
-"preferred_label": "Mother of Rebekah",
+"id": "place:Beer-lahai-roi",
+"type": "place",
+"preferred_label": "Beer-lahai-roi",
 "confidence": 0.1597,
 "match_method": "canonical"
 },
@@ -196,10 +196,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beer-lahai-roi",
-"type": "place",
-"preferred_label": "Beer-lahai-roi",
+"id": "person:MotherOfRebekah",
+"type": "person",
+"preferred_label": "Mother of Rebekah",
 "confidence": 0.1597,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.1567,
 "match_method": "canonical"
 },
 {
@@ -220,13 +227,6 @@
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "Love",
-"confidence": 0.1567,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
 "confidence": 0.1567,
 "match_method": "canonical"
 }

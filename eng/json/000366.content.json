@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3391,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.3391,
 "match_method": "canonical"
 },
@@ -109,6 +109,20 @@
 "type": "person",
 "preferred_label": "Abishag",
 "confidence": 0.2837,
+"match_method": "canonical"
+},
+{
+"id": "person:Bathsheba",
+"type": "person",
+"preferred_label": "Bathsheba",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "group:Shunammites",
+"type": "group",
+"preferred_label": "Shunammites",
+"confidence": 0.2793,
 "match_method": "canonical"
 },
 {
@@ -122,20 +136,6 @@
 "id": "keyterm:Swear",
 "type": "keyterm",
 "preferred_label": "Swear",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "group:Shunammites",
-"type": "group",
-"preferred_label": "Shunammites",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "person:Bathsheba",
-"type": "person",
-"preferred_label": "Bathsheba",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -161,16 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Absalom",
-"type": "person",
-"preferred_label": "Absalom",
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
 {
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
+"id": "person:Abner",
+"type": "person",
+"preferred_label": "Abner",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -189,17 +196,24 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abner",
-"type": "person",
-"preferred_label": "Abner",
-"confidence": 0.2196,
-"match_method": "canonical"
-},
-{
 "id": "realia:Tent",
 "type": "realia",
 "preferred_label": "Tent",
 "confidence": 0.2193,
+"match_method": "canonical"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"preferred_label": "Maoch",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "place:Anathoth",
+"type": "place",
+"preferred_label": "Anathoth",
+"confidence": 0.1641,
 "match_method": "canonical"
 },
 {
@@ -217,13 +231,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Anathoth",
-"type": "place",
-"preferred_label": "Anathoth",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
 "id": "person:Barzillai",
 "type": "person",
 "preferred_label": "Barzillai",
@@ -231,51 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Maoch",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Maoch",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "place:Mahanaim",
-"type": "place",
-"preferred_label": "Mahanaim",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"preferred_label": "The Way",
+"preferred_label": "Moses",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -287,72 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Shiloh",
-"type": "place",
-"preferred_label": "Shiloh",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "group:Gilead",
-"type": "group",
-"preferred_label": "Gileadites",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:PronounceInnocent",
-"type": "keyterm",
-"preferred_label": "Pronounce Innocent",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Zadok.2",
-"type": "person",
-"preferred_label": "Zadok",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Haggith",
-"type": "person",
-"preferred_label": "Haggith",
+"preferred_label": "Ability",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -364,37 +266,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kidron",
+"id": "place:Hebron",
 "type": "place",
-"preferred_label": "Kidron",
+"preferred_label": "Hebron",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "person:Eli",
-"type": "person",
-"preferred_label": "Eli",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CovenantBox",
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Covenant Box",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:HaveInsight",
-"type": "keyterm",
-"preferred_label": "Have Insight",
+"preferred_label": "Bless",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -406,9 +287,121 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
+"id": "place:Kidron",
+"type": "place",
+"preferred_label": "Kidron",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:Gilead",
+"type": "group",
+"preferred_label": "Gileadites",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Haggith",
+"type": "person",
+"preferred_label": "Haggith",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:TheWay",
 "type": "keyterm",
-"preferred_label": "Instruction",
+"preferred_label": "The Way",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HaveInsight",
+"type": "keyterm",
+"preferred_label": "Have Insight",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PronounceInnocent",
+"type": "keyterm",
+"preferred_label": "Pronounce Innocent",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Eli",
+"type": "person",
+"preferred_label": "Eli",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -420,10 +413,31 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
@@ -455,23 +469,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:HornsOfAltar",
 "type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
+"preferred_label": "Horns of Altar",
 "confidence": 0.0998,
 "match_method": "canonical"
 },
@@ -490,16 +490,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HornsOfAltar",
+"id": "realia:Throne",
 "type": "realia",
-"preferred_label": "Horns of Altar",
+"preferred_label": "Throne",
 "confidence": 0.0998,
 "match_method": "canonical"
 },
 {
-"id": "realia:Throne",
-"type": "realia",
-"preferred_label": "Throne",
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
 "confidence": 0.0998,
 "match_method": "canonical"
 }

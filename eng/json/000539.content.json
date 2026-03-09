@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:Decree",
 "type": "keyterm",
-"preferred_label": "Peace",
+"preferred_label": "Decree",
 "confidence": 0.2333,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decree",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Decree",
+"preferred_label": "Peace",
 "confidence": 0.2333,
 "match_method": "canonical"
 },
@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zipporah",
-"type": "person",
-"preferred_label": "Zipporah",
-"confidence": 0.1741,
-"match_method": "canonical"
-},
-{
 "id": "person:Eliezer.3",
 "type": "person",
 "preferred_label": "Eliezer",
@@ -105,30 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1667,
+"id": "person:Zipporah",
+"type": "person",
+"preferred_label": "Zipporah",
+"confidence": 0.1741,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:TheWay",
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "The Way",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Midian",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
+"preferred_label": "Bless",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -140,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Fear",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -154,9 +133,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:TheWay",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "The Way",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
 "confidence": 0.1667,
 "match_method": "canonical"
 },

@@ -15,7 +15,7 @@
           "name": "Biblica Inc.",
           "url": "https://www.biblica.com/"
         },
-        "statement": "Biblica Open Bible Maps, © 2023–2025 Biblica, Inc. This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/).<br/>More Information: https://docs.google.com/document/d/1Pp44yZ0Zdnd59vJHTrt2rPYq0SppfX5rZbPBt6mz37U/edit?tab=t.0#heading=h.oev9aj1ksvk2"
+        "statement": "Biblica Open Bible Maps, © 2023–2025 Biblica, Inc. This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</a>).<br/>More Information: <a href=\"https://docs.google.com/document/d/1Pp44yZ0Zdnd59vJHTrt2rPYq0SppfX5rZbPBt6mz37U/edit?tab=t.0#heading=h.oev9aj1ksvk2\">https://docs.google.com/document/d/1Pp44yZ0Zdnd59vJHTrt2rPYq0SppfX5rZbPBt6mz37U/edit?tab=t.0#heading=h.oev9aj1ksvk2</a>"
       },
       "licenses": [
         {
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-03-09T06:06:42.610226"
+      "dateCreated": "2026-03-09T07:58:35.448357"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "BiblicaOpenBibleMaps": {
-            "timestamp": "2026-03-09T06:06:42.610226"
+            "timestamp": "2026-03-09T07:58:35.448357"
           }
         }
       },
@@ -305,215 +305,215 @@
       },
       "md/000001.content.md": {
         "mimeType": "text/markdown",
-        "size": 577
+        "size": 769
       },
       "md/000002.content.md": {
         "mimeType": "text/markdown",
-        "size": 586
+        "size": 778
       },
       "md/000003.content.md": {
         "mimeType": "text/markdown",
-        "size": 574
+        "size": 766
       },
       "md/000004.content.md": {
         "mimeType": "text/markdown",
-        "size": 571
+        "size": 763
       },
       "md/000005.content.md": {
         "mimeType": "text/markdown",
-        "size": 595
+        "size": 787
       },
       "md/000006.content.md": {
         "mimeType": "text/markdown",
-        "size": 1589
+        "size": 1776
       },
       "md/000007.content.md": {
         "mimeType": "text/markdown",
-        "size": 1597
+        "size": 1789
       },
       "md/000008.content.md": {
         "mimeType": "text/markdown",
-        "size": 1628
+        "size": 1822
       },
       "md/000009.content.md": {
         "mimeType": "text/markdown",
-        "size": 1655
+        "size": 1829
       },
       "md/000010.content.md": {
         "mimeType": "text/markdown",
-        "size": 1610
+        "size": 1808
       },
       "md/000011.content.md": {
         "mimeType": "text/markdown",
-        "size": 1613
+        "size": 1813
       },
       "md/000012.content.md": {
         "mimeType": "text/markdown",
-        "size": 1686
+        "size": 1872
       },
       "md/000013.content.md": {
         "mimeType": "text/markdown",
-        "size": 1679
+        "size": 1874
       },
       "md/000014.content.md": {
         "mimeType": "text/markdown",
-        "size": 598
+        "size": 790
       },
       "md/000015.content.md": {
         "mimeType": "text/markdown",
-        "size": 598
+        "size": 790
       },
       "md/000016.content.md": {
         "mimeType": "text/markdown",
-        "size": 1582
+        "size": 1774
       },
       "md/000017.content.md": {
         "mimeType": "text/markdown",
-        "size": 598
+        "size": 790
       },
       "md/000018.content.md": {
         "mimeType": "text/markdown",
-        "size": 595
+        "size": 787
       },
       "md/000019.content.md": {
         "mimeType": "text/markdown",
-        "size": 598
+        "size": 790
       },
       "md/000020.content.md": {
         "mimeType": "text/markdown",
-        "size": 598
+        "size": 790
       },
       "md/000021.content.md": {
         "mimeType": "text/markdown",
-        "size": 601
+        "size": 793
       },
       "md/000022.content.md": {
         "mimeType": "text/markdown",
-        "size": 595
+        "size": 787
       },
       "md/000023.content.md": {
         "mimeType": "text/markdown",
-        "size": 3103
+        "size": 3295
       },
       "md/000024.content.md": {
         "mimeType": "text/markdown",
-        "size": 2066
+        "size": 2258
       },
       "md/000025.content.md": {
         "mimeType": "text/markdown",
-        "size": 1620
+        "size": 1812
       },
       "md/000026.content.md": {
         "mimeType": "text/markdown",
-        "size": 2282
+        "size": 2474
       },
       "md/000027.content.md": {
         "mimeType": "text/markdown",
-        "size": 2479
+        "size": 2671
       },
       "md/000028.content.md": {
         "mimeType": "text/markdown",
-        "size": 1572
+        "size": 1764
       },
       "md/000029.content.md": {
         "mimeType": "text/markdown",
-        "size": 2451
+        "size": 2643
       },
       "md/000030.content.md": {
         "mimeType": "text/markdown",
-        "size": 2063
+        "size": 2255
       },
       "md/000031.content.md": {
         "mimeType": "text/markdown",
-        "size": 1619
+        "size": 1813
       },
       "md/000032.content.md": {
         "mimeType": "text/markdown",
-        "size": 2170
+        "size": 2362
       },
       "md/000033.content.md": {
         "mimeType": "text/markdown",
-        "size": 2582
+        "size": 2774
       },
       "md/000034.content.md": {
         "mimeType": "text/markdown",
-        "size": 2450
+        "size": 2642
       },
       "md/000035.content.md": {
         "mimeType": "text/markdown",
-        "size": 1618
+        "size": 1815
       },
       "md/000036.content.md": {
         "mimeType": "text/markdown",
-        "size": 2625
+        "size": 2817
       },
       "md/000037.content.md": {
         "mimeType": "text/markdown",
-        "size": 1617
+        "size": 1814
       },
       "md/000038.content.md": {
         "mimeType": "text/markdown",
-        "size": 2742
+        "size": 2934
       },
       "md/000039.content.md": {
         "mimeType": "text/markdown",
-        "size": 1876
+        "size": 2068
       },
       "md/000040.content.md": {
         "mimeType": "text/markdown",
-        "size": 2245
+        "size": 2437
       },
       "md/000041.content.md": {
         "mimeType": "text/markdown",
-        "size": 2226
+        "size": 2418
       },
       "md/000042.content.md": {
         "mimeType": "text/markdown",
-        "size": 1921
+        "size": 2113
       },
       "md/000043.content.md": {
         "mimeType": "text/markdown",
-        "size": 1599
+        "size": 1791
       },
       "md/000044.content.md": {
         "mimeType": "text/markdown",
-        "size": 1648
+        "size": 1840
       },
       "md/000045.content.md": {
         "mimeType": "text/markdown",
-        "size": 1608
+        "size": 1800
       },
       "md/000046.content.md": {
         "mimeType": "text/markdown",
-        "size": 1616
+        "size": 1808
       },
       "md/000047.content.md": {
         "mimeType": "text/markdown",
-        "size": 1641
+        "size": 1821
       },
       "md/000048.content.md": {
         "mimeType": "text/markdown",
-        "size": 1657
+        "size": 1846
       },
       "md/000049.content.md": {
         "mimeType": "text/markdown",
-        "size": 1646
+        "size": 1831
       },
       "md/000050.content.md": {
         "mimeType": "text/markdown",
-        "size": 2937
+        "size": 3129
       },
       "md/000051.content.md": {
         "mimeType": "text/markdown",
-        "size": 1607
+        "size": 1806
       },
       "md/000052.content.md": {
         "mimeType": "text/markdown",
-        "size": 1626
+        "size": 1821
       },
       "md/000053.content.md": {
         "mimeType": "text/markdown",
-        "size": 1587
+        "size": 1810
       }
     },
     "copyright": {

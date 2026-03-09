@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.3886,
+"match_method": "canonical"
+},
+{
 "id": "place:Babylon",
 "type": "place",
 "preferred_label": "Babylon",
@@ -80,13 +87,6 @@
 "id": "keyterm:WordOfTheLord",
 "type": "keyterm",
 "preferred_label": "Word of the Lord",
-"confidence": 0.3886,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
 "confidence": 0.3886,
 "match_method": "canonical"
 },
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
+"id": "place:Anathoth",
+"type": "place",
+"preferred_label": "Anathoth",
 "confidence": 0.2693,
 "match_method": "canonical"
 },
 {
-"id": "place:Anathoth",
-"type": "place",
-"preferred_label": "Anathoth",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2693,
 "match_method": "canonical"
 },
@@ -168,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
 "confidence": 0.2693,
 "match_method": "canonical"
 },
@@ -203,23 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
+"id": "keyterm:Kindness",
 "type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.2129,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Safety",
-"type": "keyterm",
-"preferred_label": "Safety",
+"preferred_label": "Kindness",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
 "confidence": 0.2129,
 "match_method": "canonical"
 }

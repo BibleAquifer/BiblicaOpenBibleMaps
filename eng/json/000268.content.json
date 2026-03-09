@@ -119,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2641,
-"match_method": "canonical"
-},
-{
 "id": "person:Hagar",
 "type": "person",
 "preferred_label": "Hagar",
@@ -133,16 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gerar",
-"type": "place",
-"preferred_label": "Gerar",
-"confidence": 0.2135,
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2641,
 "match_method": "canonical"
 },
 {
 "id": "person:Phicol",
 "type": "person",
 "preferred_label": "Phicol",
+"confidence": 0.2135,
+"match_method": "canonical"
+},
+{
+"id": "place:Gerar",
+"type": "place",
+"preferred_label": "Gerar",
 "confidence": 0.2135,
 "match_method": "canonical"
 },
@@ -168,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mamre",
-"type": "place",
-"preferred_label": "Mamre",
-"confidence": 0.2115,
-"match_method": "canonical"
-},
-{
 "id": "person:Milcah",
 "type": "person",
 "preferred_label": "Milcah",
@@ -182,37 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
+"id": "place:Mamre",
 "type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.2094,
+"preferred_label": "Mamre",
+"confidence": 0.2115,
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.2094,
-"match_method": "canonical"
-},
-{
-"id": "person:Nahor.2",
-"type": "person",
-"preferred_label": "Nahor",
-"confidence": 0.2094,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.2094,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
 "confidence": 0.2094,
 "match_method": "canonical"
 },
@@ -224,9 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
+"confidence": 0.2094,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Covenant",
+"confidence": 0.2094,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.2094,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2094,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.2094,
 "match_method": "canonical"
 }

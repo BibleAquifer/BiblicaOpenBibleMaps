@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahab",
-"type": "person",
-"preferred_label": "Ahab",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.3829,
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
 "confidence": 0.3829,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2665,
-"match_method": "canonical"
-},
-{
 "id": "place:Jordan",
 "type": "place",
 "preferred_label": "Jordan River",
@@ -154,16 +147,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericProphets",
-"type": "group",
-"preferred_label": "Prophets",
-"confidence": 0.2159,
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2665,
 "match_method": "canonical"
 },
 {
 "id": "place:Ramoth-gilead",
 "type": "place",
 "preferred_label": "Ramoth-gilead",
+"confidence": 0.2159,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericProphets",
+"type": "group",
+"preferred_label": "Prophets",
 "confidence": 0.2159,
 "match_method": "canonical"
 },
@@ -182,37 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:InfectiousSkinDisease",
-"type": "keyterm",
-"preferred_label": "Infectious Skin Disease",
-"confidence": 0.211,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.211,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.211,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
+"id": "place:Damascus",
 "type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.211,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
+"preferred_label": "Damascus",
 "confidence": 0.211,
 "match_method": "canonical"
 },
@@ -224,9 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Damascus",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Damascus",
+"preferred_label": "Jerusalem",
+"confidence": 0.211,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.211,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.211,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.211,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.211,
 "match_method": "canonical"
 }

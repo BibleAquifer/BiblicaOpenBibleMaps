@@ -35,34 +35,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
-"confidence": 0.3625,
-"match_method": "canonical"
-},
-{
-"id": "person:Nahor",
-"type": "person",
-"preferred_label": "Nahor",
-"confidence": 0.3625,
-"match_method": "canonical"
-},
-{
-"id": "person:Reu",
-"type": "person",
-"preferred_label": "Reu",
-"confidence": 0.3625,
-"match_method": "canonical"
-},
-{
-"id": "person:Serug",
-"type": "person",
-"preferred_label": "Serug",
-"confidence": 0.3625,
-"match_method": "canonical"
-},
-{
 "id": "person:Peleg",
 "type": "person",
 "preferred_label": "Peleg",
@@ -77,10 +49,31 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.3563,
+"id": "person:Nahor",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Serug",
+"type": "person",
+"preferred_label": "Serug",
+"confidence": 0.3625,
+"match_method": "canonical"
+},
+{
+"id": "person:Reu",
+"type": "person",
+"preferred_label": "Reu",
+"confidence": 0.3625,
 "match_method": "canonical"
 },
 {
@@ -98,10 +91,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nahor.2",
-"type": "person",
-"preferred_label": "Nahor",
-"confidence": 0.2984,
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.3563,
 "match_method": "canonical"
 },
 {
@@ -112,10 +105,24 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Nahor.2",
+"type": "person",
+"preferred_label": "Nahor",
+"confidence": 0.2984,
+"match_method": "canonical"
+},
+{
 "id": "place:Ur",
 "type": "place",
 "preferred_label": "Ur",
 "confidence": 0.2406,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.2344,
 "match_method": "canonical"
 },
 {
@@ -133,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Haran",
-"type": "place",
-"preferred_label": "Haran",
-"confidence": 0.2344,
-"match_method": "canonical"
-},
-{
 "id": "place:Chaldea",
 "type": "place",
 "preferred_label": "Chaldea",
@@ -151,6 +151,13 @@
 "type": "person",
 "preferred_label": "Shem",
 "confidence": 0.2281,
+"match_method": "canonical"
+},
+{
+"id": "person:Iscah",
+"type": "person",
+"preferred_label": "Iscah",
+"confidence": 0.1703,
 "match_method": "canonical"
 },
 {
@@ -171,13 +178,6 @@
 "id": "person:Milcah",
 "type": "person",
 "preferred_label": "Milcah",
-"confidence": 0.1703,
-"match_method": "canonical"
-},
-{
-"id": "person:Iscah",
-"type": "person",
-"preferred_label": "Iscah",
 "confidence": 0.1703,
 "match_method": "canonical"
 },

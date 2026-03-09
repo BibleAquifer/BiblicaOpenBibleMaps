@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3212,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -108,6 +101,13 @@
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3212,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Possess",
+"id": "keyterm:Kindness",
 "type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"preferred_label": "Kindness",
 "confidence": 0.2659,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
+"id": "keyterm:Possess",
 "type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "To Cause to Possess",
 "confidence": 0.2659,
 "match_method": "canonical"
 },
@@ -158,6 +158,13 @@
 "type": "realia",
 "preferred_label": "Threshing Floor",
 "confidence": 0.2612,
+"match_method": "canonical"
+},
+{
+"id": "person:Orpah",
+"type": "person",
+"preferred_label": "Orpah",
+"confidence": 0.2153,
 "match_method": "canonical"
 },
 {
@@ -171,13 +178,6 @@
 "id": "person:KinsmanRedeemer",
 "type": "person",
 "preferred_label": "Kinsman Redeemer",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "person:Orpah",
-"type": "person",
-"preferred_label": "Orpah",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -196,20 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amminadab",
-"type": "person",
-"preferred_label": "Amminadab",
-"confidence": 0.2106,
-"match_method": "canonical"
-},
-{
-"id": "person:Perez",
-"type": "person",
-"preferred_label": "Perez",
-"confidence": 0.2106,
-"match_method": "canonical"
-},
-{
 "id": "person:Jesse",
 "type": "person",
 "preferred_label": "Jesse",
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephrathah",
-"type": "group",
-"preferred_label": "Ephrathites",
+"id": "person:Amminadab",
+"type": "person",
+"preferred_label": "Amminadab",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "person:Perez",
+"type": "person",
+"preferred_label": "Perez",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephrathah",
+"type": "person",
+"preferred_label": "Ephrathah",
 "confidence": 0.1576,
 "match_method": "canonical"
 }

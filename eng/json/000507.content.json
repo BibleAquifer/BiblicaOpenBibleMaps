@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "person:Abimelech",
+"type": "person",
+"preferred_label": "Abimelech",
 "confidence": 0.44,
 "match_method": "canonical"
 },
 {
-"id": "person:Abimelech",
-"type": "person",
-"preferred_label": "Abimelech",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.44,
 "match_method": "canonical"
 },
@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.4143,
 "match_method": "canonical"
 },
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.4143,
 "match_method": "canonical"
 },
@@ -84,16 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Fear",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -105,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Peace",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -119,24 +112,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Beeri",
-"type": "person",
-"preferred_label": "Beeri",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Sitnah",
-"type": "place",
-"preferred_label": "Sitnah",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "person:Elon",
-"type": "person",
-"preferred_label": "Elon",
-"confidence": 0.1686,
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.2257,
 "match_method": "canonical"
 },
 {
@@ -150,6 +129,34 @@
 "id": "group:Hittite",
 "type": "group",
 "preferred_label": "Hittites",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Phicol",
+"type": "person",
+"preferred_label": "Phicol",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Elon",
+"type": "person",
+"preferred_label": "Elon",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Sitnah",
+"type": "place",
+"preferred_label": "Sitnah",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Esek",
+"type": "place",
+"preferred_label": "Esek",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -168,16 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Phicol",
+"id": "person:Beeri",
 "type": "person",
-"preferred_label": "Phicol",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Esek",
-"type": "place",
-"preferred_label": "Esek",
+"preferred_label": "Beeri",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -196,30 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Esau",
-"type": "person",
-"preferred_label": "Esau",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Zealous",
 "type": "keyterm",
 "preferred_label": "Be Zealous",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -231,9 +210,30 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
 "id": "person:Adah.2",
 "type": "person",
 "preferred_label": "Adah",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -245,23 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:Window",
-"type": "realia",
-"preferred_label": "Window",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Altar",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -273,9 +259,30 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Window",
+"type": "realia",
+"preferred_label": "Window",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
 "id": "realia:Tent",
 "type": "realia",
 "preferred_label": "Tent",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -290,13 +297,6 @@
 "id": "fauna:Bull",
 "type": "fauna",
 "preferred_label": "Cattle",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
 "confidence": 0.1029,
 "match_method": "canonical"
 }

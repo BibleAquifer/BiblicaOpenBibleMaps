@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PlayTheProstitute",
-"type": "keyterm",
-"preferred_label": "Play the Prostitute",
-"confidence": 0.3959,
-"match_method": "canonical"
-},
-{
 "id": "place:Assyria",
 "type": "place",
 "preferred_label": "Assyria",
@@ -56,9 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"preferred_label": "Play the Prostitute",
 "confidence": 0.3959,
 "match_method": "canonical"
 },
@@ -66,6 +59,13 @@
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "Defilement",
+"confidence": 0.3959,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.3959,
 "match_method": "canonical"
 },
@@ -119,6 +119,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearTheConsequencesOf",
+"type": "keyterm",
+"preferred_label": "Bear the Consequences Of",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
@@ -140,23 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearTheConsequencesOf",
-"type": "keyterm",
-"preferred_label": "Bear the Consequences Of",
-"confidence": 0.2184,
-"match_method": "canonical"
-},
-{
-"id": "place:Samaria",
+"id": "place:Koa",
 "type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.2184,
-"match_method": "canonical"
-},
-{
-"id": "place:Shoa",
-"type": "place",
-"preferred_label": "Shoa",
+"preferred_label": "Koa",
 "confidence": 0.1633,
 "match_method": "canonical"
 },
@@ -168,37 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Koa",
+"id": "place:Shoa",
 "type": "place",
-"preferred_label": "Koa",
+"preferred_label": "Shoa",
 "confidence": 0.1633,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1592,
 "match_method": "canonical"
 },
 {
 "id": "person:Sheba",
 "type": "person",
 "preferred_label": "Sheba",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -217,6 +196,34 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
+"confidence": 0.1584,
+"match_method": "canonical"
+},
+{
 "id": "realia:Sword",
 "type": "realia",
 "preferred_label": "Sword",
@@ -231,37 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bed",
+"id": "realia:AnointingOil",
 "type": "realia",
-"preferred_label": "Bed",
-"confidence": 0.1584,
-"match_method": "canonical"
-},
-{
-"id": "realia:Helmet",
-"type": "realia",
-"preferred_label": "Helmet",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:Wagon",
-"type": "realia",
-"preferred_label": "Wagon",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:Crown",
-"type": "realia",
-"preferred_label": "Crown",
+"preferred_label": "Anointing Oil",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -273,23 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:Belt",
+"id": "realia:Helmet",
 "type": "realia",
-"preferred_label": "Belt",
-"confidence": 0.0992,
-"match_method": "canonical"
-},
-{
-"id": "realia:PurpleCloth",
-"type": "realia",
-"preferred_label": "Purple Cloth",
+"preferred_label": "Helmet",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -308,9 +273,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:AnointingOil",
+"id": "realia:PurpleCloth",
 "type": "realia",
-"preferred_label": "Anointing Oil",
+"preferred_label": "Purple Cloth",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"preferred_label": "Crown",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"preferred_label": "Wagon",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
 "confidence": 0.0992,
 "match_method": "canonical"
 }

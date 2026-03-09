@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
 "id": "person:Aaron",
 "type": "person",
 "preferred_label": "Aaron",
@@ -84,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Solomon",
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Solomon",
+"preferred_label": "Ephraim",
 "confidence": 0.2391,
 "match_method": "canonical"
 },
@@ -98,10 +105,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.2391,
+"id": "realia:Trumpet",
+"type": "realia",
+"preferred_label": "Trumpet",
+"confidence": 0.1791,
 "match_method": "canonical"
 },
 {
@@ -112,16 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Trumpet",
-"type": "realia",
-"preferred_label": "Trumpet",
-"confidence": 0.1791,
-"match_method": "canonical"
-},
-{
-"id": "person:Uriel.3",
-"type": "person",
-"preferred_label": "Uriel",
+"id": "place:Gibeah",
+"type": "place",
+"preferred_label": "Gibeah",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -140,51 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeah",
-"type": "place",
-"preferred_label": "Gibeah",
+"id": "person:Uriel.3",
+"type": "person",
+"preferred_label": "Uriel",
 "confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.1696,
 "match_method": "canonical"
 },
 {
 "id": "place:Bethel",
 "type": "place",
 "preferred_label": "Bethel",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Nebat",
-"type": "person",
-"preferred_label": "Nebat",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -196,16 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rehoboam",
-"type": "person",
-"preferred_label": "Rehoboam",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Zemaraim",
-"type": "place",
-"preferred_label": "Zemaraim",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -224,6 +182,48 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Zemaraim",
+"type": "place",
+"preferred_label": "Zemaraim",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Wickedness",
 "type": "keyterm",
 "preferred_label": "Wickedness",
@@ -231,9 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -252,13 +252,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lamp",
-"type": "realia",
-"preferred_label": "Lamp",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
@@ -269,6 +262,13 @@
 "id": "realia:Lampstand.2",
 "type": "realia",
 "preferred_label": "Lampstand",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
 "confidence": 0.1096,
 "match_method": "canonical"
 }

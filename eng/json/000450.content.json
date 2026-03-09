@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
+"id": "place:Elam",
 "type": "place",
-"preferred_label": "Edom",
+"preferred_label": "Elam",
 "confidence": 0.4192,
 "match_method": "canonical"
 },
 {
-"id": "place:Elam",
+"id": "place:Edom",
 "type": "place",
-"preferred_label": "Elam",
+"preferred_label": "Edom",
 "confidence": 0.4192,
 "match_method": "canonical"
 },
@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
 "confidence": 0.2846,
 "match_method": "canonical"
 },
 {
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "Damascus",
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
 "confidence": 0.2846,
 "match_method": "canonical"
 },
@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bozrah.2",
-"type": "place",
-"preferred_label": "Bozrah",
-"confidence": 0.2282,
-"match_method": "canonical"
-},
-{
 "id": "place:Teman",
 "type": "place",
 "preferred_label": "Teman",
@@ -91,24 +84,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
+"id": "place:Bozrah.2",
 "type": "place",
-"preferred_label": "Babylon",
-"confidence": 0.2231,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2231,
-"match_method": "canonical"
-},
-{
-"id": "group:Edom",
-"type": "group",
-"preferred_label": "Edomites",
-"confidence": 0.2231,
+"preferred_label": "Bozrah",
+"confidence": 0.2282,
 "match_method": "canonical"
 },
 {
@@ -133,9 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Molech",
-"type": "deity",
-"preferred_label": "Molech",
+"id": "group:Edom",
+"type": "group",
+"preferred_label": "Edomites",
+"confidence": 0.2231,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
 "confidence": 0.2231,
 "match_method": "canonical"
 },
@@ -143,6 +129,20 @@
 "id": "keyterm:Appoint",
 "type": "keyterm",
 "preferred_label": "Appoint",
+"confidence": 0.2231,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2231,
+"match_method": "canonical"
+},
+{
+"id": "deity:Molech",
+"type": "deity",
+"preferred_label": "Molech",
 "confidence": 0.2231,
 "match_method": "canonical"
 },
@@ -168,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Camel",
+"id": "fauna:Vulture",
 "type": "fauna",
-"preferred_label": "Camel",
+"preferred_label": "Vulture",
 "confidence": 0.1631,
 "match_method": "canonical"
 },
@@ -182,16 +182,30 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Vulture",
+"id": "fauna:Camel",
 "type": "fauna",
-"preferred_label": "Vulture",
+"preferred_label": "Camel",
 "confidence": 0.1631,
 "match_method": "canonical"
 },
 {
-"id": "person:Ben-hadad",
-"type": "person",
-"preferred_label": "Ben-hadad",
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -206,83 +220,6 @@
 "id": "person:Zedekiah.3",
 "type": "person",
 "preferred_label": "Zedekiah",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"preferred_label": "Be Blameless",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "place:Gomorrah",
-"type": "place",
-"preferred_label": "Gomorrah",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "person:Jeremiah.6",
-"type": "person",
-"preferred_label": "Jeremiah",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Safety",
-"type": "keyterm",
-"preferred_label": "Safety",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -308,16 +245,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sodom",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Sodom",
+"preferred_label": "Jordan River",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "person:Ben-hadad",
+"type": "person",
+"preferred_label": "Ben-hadad",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -329,6 +266,69 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jeremiah.6",
+"type": "person",
+"preferred_label": "Jeremiah",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"preferred_label": "Gomorrah",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"preferred_label": "Be Blameless",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
 "id": "realia:GoatHairStrips",
 "type": "realia",
 "preferred_label": "Goat Hair Strips",
@@ -336,44 +336,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sheepfold",
-"type": "realia",
-"preferred_label": "Sheepfold",
-"confidence": 0.1015,
-"match_method": "canonical"
-},
-{
-"id": "flora:Cattails",
-"type": "flora",
-"preferred_label": "Cattails",
-"confidence": 0.1015,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.1015,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Jackal",
-"type": "fauna",
-"preferred_label": "Jackal",
-"confidence": 0.1015,
-"match_method": "canonical"
-},
-{
-"id": "realia:Sackcloth",
-"type": "realia",
-"preferred_label": "Sackcloth",
-"confidence": 0.1015,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.1015,
+"match_method": "canonical"
+},
+{
+"id": "realia:LinenStrips",
+"type": "realia",
+"preferred_label": "Linen Strips",
 "confidence": 0.1015,
 "match_method": "canonical"
 },
@@ -392,9 +364,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:LinenStrips",
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.1015,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sackcloth",
 "type": "realia",
-"preferred_label": "Linen Strips",
+"preferred_label": "Sackcloth",
+"confidence": 0.1015,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"preferred_label": "Jackal",
+"confidence": 0.1015,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sheepfold",
+"type": "realia",
+"preferred_label": "Sheepfold",
+"confidence": 0.1015,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
 "confidence": 0.1015,
 "match_method": "canonical"
 }

@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Samaritan",
-"type": "group",
-"preferred_label": "Samaritans",
-"confidence": 0.2787,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Yerusalem",
@@ -105,10 +98,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.275,
+"id": "group:Samaritan",
+"type": "group",
+"preferred_label": "Samaritans",
+"confidence": 0.2787,
 "match_method": "canonical"
 },
 {
@@ -119,17 +112,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Yehuda",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.275,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "baptisan",
-"confidence": 0.2167,
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Yehuda",
+"confidence": 0.275,
 "match_method": "canonical"
 },
 {
@@ -147,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "roh",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Example",
 "type": "keyterm",
 "preferred_label": "tanda",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "bersaksi",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -175,9 +154,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Galilee",
-"type": "group",
-"preferred_label": "Galileans",
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "roh",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"preferred_label": "Kana",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cana",
-"type": "place",
-"preferred_label": "Kana",
+"id": "group:Galilee",
+"type": "group",
+"preferred_label": "Galileans",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -203,13 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericOfficial",
-"type": "person",
-"preferred_label": "Public Official",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "keahlian",
@@ -217,16 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Kapernaum",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "person:GenericOfficial",
+"type": "person",
+"preferred_label": "Public Official",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worshiper",
 "type": "keyterm",
-"preferred_label": "keselamatan",
+"preferred_label": "penyembah, penyembah",
 "confidence": 0.1583,
 "match_method": "canonical"
 }

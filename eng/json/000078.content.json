@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Idle",
-"type": "keyterm",
-"preferred_label": "Useless",
-"confidence": 0.2324,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -56,16 +49,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "keyterm:Idle",
 "type": "keyterm",
-"preferred_label": "Kingdom",
+"preferred_label": "Useless",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Mercy",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
-"preferred_label": "Mercy",
+"preferred_label": "Kingdom",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Command",
+"id": "keyterm:Mercy",
 "type": "keyterm",
-"preferred_label": "To Command",
+"preferred_label": "Mercy",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -91,65 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
 "id": "group:Gentile",
 "type": "group",
 "preferred_label": "Gentiles",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"preferred_label": "Condemn",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"preferred_label": "Be Lawful",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:ActWickedly",
-"type": "keyterm",
-"preferred_label": "To Act Wickedly",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebedee",
-"type": "person",
-"preferred_label": "Zebedee",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -161,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Affection",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Affection",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -175,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -189,6 +133,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
 "id": "place:Jericho",
 "type": "place",
 "preferred_label": "Jericho",
@@ -196,9 +154,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Condemn",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Condemn",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -206,6 +185,27 @@
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "Life",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"preferred_label": "Zebedee",
 "confidence": 0.1632,
 "match_method": "canonical"
 },

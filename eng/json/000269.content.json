@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gerar",
-"type": "place",
-"preferred_label": "Gerar",
-"confidence": 0.3635,
-"match_method": "canonical"
-},
-{
 "id": "person:Ishmael",
 "type": "person",
 "preferred_label": "Ishmael",
@@ -105,16 +98,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.3624,
+"id": "place:Gerar",
+"type": "place",
+"preferred_label": "Gerar",
+"confidence": 0.3635,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "Love",
+"confidence": 0.3624,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.3624,
 "match_method": "canonical"
 },
@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Oath",
-"type": "keyterm",
-"preferred_label": "Oath",
-"confidence": 0.311,
-"match_method": "canonical"
-},
-{
 "id": "person:Laban",
 "type": "person",
 "preferred_label": "Laban",
@@ -161,9 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
+"id": "keyterm:Oath",
 "type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Oath",
+"confidence": 0.311,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
 "confidence": 0.3099,
 "match_method": "canonical"
 },
@@ -175,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
 "confidence": 0.3099,
 "match_method": "canonical"
 },
@@ -189,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
 "confidence": 0.3024,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.3024,
 "match_method": "canonical"
 },

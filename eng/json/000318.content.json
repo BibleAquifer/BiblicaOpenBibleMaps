@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.4469,
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.4469,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "place:Timnah",
+"type": "place",
+"preferred_label": "Timnah",
 "confidence": 0.2708,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Timnah",
-"type": "place",
-"preferred_label": "Timnah",
-"confidence": 0.2708,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "Defilement",
@@ -119,9 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lion",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2708,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Kid",
 "type": "fauna",
-"preferred_label": "Lion",
+"preferred_label": "Kid",
 "confidence": 0.2677,
 "match_method": "canonical"
 },
@@ -133,10 +133,17 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Kid",
+"id": "fauna:Lion",
 "type": "fauna",
-"preferred_label": "Kid",
+"preferred_label": "Lion",
 "confidence": 0.2677,
+"match_method": "canonical"
+},
+{
+"id": "person:WifeOfManoah",
+"type": "person",
+"preferred_label": "Manoah's Wife",
+"confidence": 0.22,
 "match_method": "canonical"
 },
 {
@@ -150,13 +157,6 @@
 "id": "place:Zorah",
 "type": "place",
 "preferred_label": "Zorah",
-"confidence": 0.22,
-"match_method": "canonical"
-},
-{
-"id": "person:WifeOfManoah",
-"type": "person",
-"preferred_label": "Manoah's Wife",
 "confidence": 0.22,
 "match_method": "canonical"
 },
@@ -175,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
-"confidence": 0.2108,
-"match_method": "canonical"
-},
-{
 "id": "realia:Wine",
 "type": "realia",
 "preferred_label": "Wine",
@@ -189,9 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mahaneh-dan",
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.2108,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramath-lehi",
 "type": "place",
-"preferred_label": "Mahaneh-dan",
+"preferred_label": "Ramath-lehi",
 "confidence": 0.16,
 "match_method": "canonical"
 },
@@ -203,9 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ramath-lehi",
+"id": "person:FatherInLawOfSamson",
+"type": "person",
+"preferred_label": "Father-in-Law of Samson",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahaneh-dan",
 "type": "place",
-"preferred_label": "Ramath-lehi",
+"preferred_label": "Mahaneh-dan",
 "confidence": 0.16,
 "match_method": "canonical"
 },
@@ -213,13 +220,6 @@
 "id": "person:Informant",
 "type": "person",
 "preferred_label": "An Informant",
-"confidence": 0.16,
-"match_method": "canonical"
-},
-{
-"id": "person:FatherInLawOfSamson",
-"type": "person",
-"preferred_label": "Father-in-Law of Samson",
 "confidence": 0.16,
 "match_method": "canonical"
 },

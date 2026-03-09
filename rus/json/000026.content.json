@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.4113,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Иерусалим",
@@ -56,10 +49,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.4062,
+"preferred_label": "Good News",
+"confidence": 0.4113,
 "match_method": "canonical"
 },
 {
@@ -70,16 +63,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.345,
+"preferred_label": "Baptism",
+"confidence": 0.4062,
 "match_method": "canonical"
 },
 {
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Иисус",
+"confidence": 0.345,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
 "confidence": 0.345,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericOfficial",
-"type": "person",
-"preferred_label": "Public Official",
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
+"id": "person:GenericOfficial",
+"type": "person",
+"preferred_label": "Public Official",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
@@ -126,20 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Church",
 "type": "keyterm",
 "preferred_label": "Church",
@@ -147,9 +133,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Scripture",
 "type": "keyterm",
 "preferred_label": "Written",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Исаия",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -168,17 +175,24 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
 "id": "realia:Money",
 "type": "realia",
 "preferred_label": "Money",
 "confidence": 0.1675,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Ефиопия",
+"confidence": 0.1663,
 "match_method": "canonical"
 },
 {
@@ -196,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ethiopia",
+"id": "place:Gaza",
 "type": "place",
-"preferred_label": "Ефиопия",
+"preferred_label": "Газа",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -210,20 +224,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Газа",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "group:Ethiopia",
-"type": "group",
-"preferred_label": "Ethiopians",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
 "id": "place:Judea",
 "type": "place",
 "preferred_label": "Иудея",
@@ -231,30 +231,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Declare",
+"id": "keyterm:UnjustDeed",
 "type": "keyterm",
-"preferred_label": "Declare",
+"preferred_label": "Unjust Deed",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "Иоанн",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -273,30 +266,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Declare",
 "type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "person:Simon.9",
-"type": "person",
-"preferred_label": "Симон",
+"preferred_label": "Declare",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -308,9 +287,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:UnjustDeed",
+"id": "keyterm:Pray",
 "type": "keyterm",
-"preferred_label": "Unjust Deed",
+"preferred_label": "Pray",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Кесария",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"preferred_label": "Симон",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -329,37 +336,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "Иоанн",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
+"id": "keyterm:BowDown",
 "type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Bow Down",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Кесария",
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "realia:Prison",
-"type": "realia",
-"preferred_label": "Prison",
-"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
 "confidence": 0.1013,
 "match_method": "canonical"
 },
@@ -371,9 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Temple",
+"id": "realia:Prison",
 "type": "realia",
-"preferred_label": "Temple",
+"preferred_label": "Prison",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

@@ -42,9 +42,23 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
+"confidence": 0.2935,
+"match_method": "canonical"
+},
+{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
+"confidence": 0.2935,
+"match_method": "canonical"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
 "confidence": 0.2935,
 "match_method": "canonical"
 },
@@ -70,20 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Amalek",
-"type": "place",
-"preferred_label": "Amalek",
-"confidence": 0.2935,
-"match_method": "canonical"
-},
-{
-"id": "group:Amalek",
-"type": "group",
-"preferred_label": "Amalekites",
-"confidence": 0.2935,
-"match_method": "canonical"
-},
-{
 "id": "place:Carmel",
 "type": "place",
 "preferred_label": "Carmel",
@@ -105,51 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bor-ashan",
-"type": "place",
-"preferred_label": "Bor-ashan",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "group:Jerahmeel",
-"type": "group",
-"preferred_label": "Jerahmeelites",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "place:Athach",
-"type": "place",
-"preferred_label": "Athach",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
 "id": "place:Aroer.3",
 "type": "place",
 "preferred_label": "Aroer",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "group:Cherethite",
-"type": "group",
-"preferred_label": "Cherethites",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "place:Siphmoth",
-"type": "place",
-"preferred_label": "Siphmoth",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "person:Jerahmeel",
-"type": "person",
-"preferred_label": "Jerahmeel",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -168,16 +126,58 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jattir",
+"id": "person:Jerahmeel",
+"type": "person",
+"preferred_label": "Jerahmeel",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Athach",
 "type": "place",
-"preferred_label": "Jattir",
+"preferred_label": "Athach",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Bor-ashan",
+"type": "place",
+"preferred_label": "Bor-ashan",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"preferred_label": "Cherethites",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "group:Jerahmeel",
+"type": "group",
+"preferred_label": "Jerahmeelites",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Siphmoth",
+"type": "place",
+"preferred_label": "Siphmoth",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Zephath",
+"type": "place",
+"preferred_label": "Zephath",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Ahimelech",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Ahimelech",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -189,86 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Zephath",
-"type": "place",
-"preferred_label": "Zephath",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Nabal",
-"type": "person",
-"preferred_label": "Nabal",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Abiathar",
-"type": "person",
-"preferred_label": "Abiathar",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
 "id": "group:Kenite",
 "type": "group",
 "preferred_label": "Kenites",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Eshtemoa",
-"type": "place",
-"preferred_label": "Eshtemoa",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -280,15 +203,43 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Carmel",
-"type": "group",
-"preferred_label": "Carmelites",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "group:Jezreel",
+"id": "group:Philistine",
 "type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Eshtemoa",
+"type": "place",
+"preferred_label": "Eshtemoa",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"preferred_label": "Baalath-beer",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel",
+"type": "place",
 "preferred_label": "Jezreel",
 "confidence": 0.1645,
 "match_method": "canonical"
@@ -301,23 +252,16 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Jezreel",
+"type": "group",
+"preferred_label": "Jezreel",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
 "id": "person:Abigail",
 "type": "person",
 "preferred_label": "Abigail",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahimelech",
-"type": "person",
-"preferred_label": "Ahimelech",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Wickedness",
-"type": "keyterm",
-"preferred_label": "Wickedness",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -329,9 +273,65 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Baalath-beer",
+"id": "person:Nabal",
+"type": "person",
+"preferred_label": "Nabal",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel.2",
 "type": "place",
-"preferred_label": "Baalath-beer",
+"preferred_label": "Jezreel",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Carmel",
+"type": "group",
+"preferred_label": "Carmelites",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Jattir",
+"type": "place",
+"preferred_label": "Jattir",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -350,6 +350,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Ephod",
+"type": "realia",
+"preferred_label": "Ephod",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -364,13 +371,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Camel",
-"type": "fauna",
-"preferred_label": "Camel",
-"confidence": 0.1045,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Goat",
 "type": "fauna",
 "preferred_label": "Goat",
@@ -378,9 +378,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Ephod",
-"type": "realia",
-"preferred_label": "Ephod",
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
 "confidence": 0.1045,
 "match_method": "canonical"
 },
