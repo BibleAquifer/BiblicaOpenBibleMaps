@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3667,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3667,
 "match_method": "canonical"
 },
@@ -77,6 +77,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ahab",
+"type": "person",
+"preferred_label": "Ahab",
+"confidence": 0.2407,
+"match_method": "canonical"
+},
+{
 "id": "person:Joram.3",
 "type": "person",
 "preferred_label": "Joram",
@@ -84,10 +91,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahab",
-"type": "person",
-"preferred_label": "Ahab",
-"confidence": 0.2407,
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.2333,
 "match_method": "canonical"
 },
 {
@@ -105,23 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.2333,
+"id": "person:Shaphat.2",
+"type": "person",
+"preferred_label": "Shaphat",
+"confidence": 0.1741,
 "match_method": "canonical"
 },
 {
 "id": "person:Mesha.2",
 "type": "person",
 "preferred_label": "Mesha",
-"confidence": 0.1741,
-"match_method": "canonical"
-},
-{
-"id": "person:Shaphat.2",
-"type": "person",
-"preferred_label": "Shaphat",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
+"id": "place:Kir",
+"type": "place",
+"preferred_label": "Kir",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -147,37 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Elijah",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Kir",
-"type": "place",
-"preferred_label": "Kir",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
 "id": "person:Jeroboam",
 "type": "person",
 "preferred_label": "Jeroboam",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -189,16 +168,37 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1067,
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.1667,
 "match_method": "canonical"
 },
 {
 "id": "realia:SacredPillar",
 "type": "realia",
 "preferred_label": "Sacred Pillar",
+"confidence": 0.1067,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wool",
+"type": "realia",
+"preferred_label": "Wool",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
@@ -210,16 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Horse",
+"id": "fauna:Lamb",
 "type": "fauna",
-"preferred_label": "Horse",
+"preferred_label": "Sheep",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
 {
-"id": "realia:Wool",
-"type": "realia",
-"preferred_label": "Wool",
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
 "confidence": 0.1067,
 "match_method": "canonical"
 },

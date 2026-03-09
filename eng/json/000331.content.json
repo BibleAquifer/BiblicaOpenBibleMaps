@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.3087,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
 "confidence": 0.3087,
 "match_method": "canonical"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.3087,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Spear",
+"id": "realia:Axe",
 "type": "realia",
-"preferred_label": "Spear",
+"preferred_label": "Axe",
 "confidence": 0.1791,
 "match_method": "canonical"
 },
 {
-"id": "realia:Axe",
+"id": "realia:Spear",
 "type": "realia",
-"preferred_label": "Axe",
+"preferred_label": "Spear",
 "confidence": 0.1791,
 "match_method": "canonical"
 },
@@ -161,13 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ophrah",
-"type": "place",
-"preferred_label": "Ophrah",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
 "id": "place:ZeboimValley",
 "type": "place",
 "preferred_label": "Valley of Zeboim",
@@ -182,17 +175,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1696,
+"id": "place:Ophrah",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.1783,
 "match_method": "canonical"
 },
 {
@@ -203,16 +189,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
+"id": "place:Beth-horonLower",
 "type": "place",
-"preferred_label": "Jordan River",
+"preferred_label": "Lower Beth-horon",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
 {
-"id": "place:Beth-horonLower",
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
 "type": "place",
-"preferred_label": "Lower Beth-horon",
+"preferred_label": "Bethel",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -238,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethel",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Bethel",
+"preferred_label": "Jordan River",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -259,20 +259,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Thistle",
-"type": "flora",
-"preferred_label": "Thistle",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
-"id": "realia:Pit",
-"type": "realia",
-"preferred_label": "Pit",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
 "id": "realia:RamsHorn",
 "type": "realia",
 "preferred_label": "Rams Horn",
@@ -287,6 +273,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
 "id": "realia:Craftsman",
 "type": "realia",
 "preferred_label": "Craftsman",
@@ -294,9 +287,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Chariot",
+"id": "flora:Thistle",
+"type": "flora",
+"preferred_label": "Thistle",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Pit",
 "type": "realia",
-"preferred_label": "Chariot",
+"preferred_label": "Pit",
 "confidence": 0.1096,
 "match_method": "canonical"
 }

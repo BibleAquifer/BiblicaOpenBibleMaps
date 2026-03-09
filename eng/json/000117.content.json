@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.6",
+"id": "person:Mary.2",
 "type": "person",
-"preferred_label": "Joseph",
+"preferred_label": "Mary",
 "confidence": 0.2234,
 "match_method": "canonical"
 },
 {
-"id": "person:Mary.2",
+"id": "person:Joseph.6",
 "type": "person",
-"preferred_label": "Mary",
+"preferred_label": "Joseph",
 "confidence": 0.2234,
 "match_method": "canonical"
 },
@@ -112,51 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Golgotha",
-"type": "place",
-"preferred_label": "Golgotha",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.3",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "person:Alexander",
-"type": "person",
-"preferred_label": "Alexander",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
 "id": "person:Centurion.3",
 "type": "person",
 "preferred_label": "Centurion at Crucifixion",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "person:Rufus",
-"type": "person",
-"preferred_label": "Rufus",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "place:Cyrene",
-"type": "place",
-"preferred_label": "Cyrene",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "person:Simon.5",
-"type": "person",
-"preferred_label": "Simon",
 "confidence": 0.1638,
 "match_method": "canonical"
 },
@@ -175,9 +133,51 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Rufus",
+"type": "person",
+"preferred_label": "Rufus",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.3",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Alexander",
+"type": "person",
+"preferred_label": "Alexander",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"preferred_label": "Golgotha",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.5",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
 "id": "place:Arimathea",
 "type": "place",
 "preferred_label": "Arimathea",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Cyrene",
 "confidence": 0.1638,
 "match_method": "canonical"
 },
@@ -189,37 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"preferred_label": "Priests",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -231,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:True",
+"id": "keyterm:DayBeforeTheSabbath",
 "type": "keyterm",
-"preferred_label": "True",
+"preferred_label": "Day Before the Sabbath",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "group:GenericElders",
-"type": "group",
-"preferred_label": "Elders",
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -252,6 +224,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Serve",
 "type": "keyterm",
 "preferred_label": "Serve",
@@ -259,9 +238,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "group:GenericElders",
+"type": "group",
+"preferred_label": "Elders",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"preferred_label": "Priests",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -273,16 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DayBeforeTheSabbath",
-"type": "keyterm",
-"preferred_label": "Day Before the Sabbath",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "Body",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -308,16 +308,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Myrrh",
-"type": "flora",
-"preferred_label": "Myrrh",
+"id": "realia:MyrrhedWine",
+"type": "realia",
+"preferred_label": "Myrrhed Wine",
 "confidence": 0.1038,
 "match_method": "canonical"
 },
 {
-"id": "realia:MyrrhedWine",
-"type": "realia",
-"preferred_label": "Myrrhed Wine",
+"id": "flora:Myrrh",
+"type": "flora",
+"preferred_label": "Myrrh",
 "confidence": 0.1038,
 "match_method": "canonical"
 },
@@ -329,42 +329,7 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Courtyard",
-"type": "realia",
-"preferred_label": "Courtyard",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Acacia",
-"type": "flora",
-"preferred_label": "Acacia",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Boxthorn",
-"type": "flora",
-"preferred_label": "Boxthorn",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
 "id": "realia:Crown",
-"type": "realia",
-"preferred_label": "Crown",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Grave",
-"type": "realia",
-"preferred_label": "Grave",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Crown.2",
 "type": "realia",
 "preferred_label": "Crown",
 "confidence": 0.0996,
@@ -385,9 +350,23 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Brier",
-"type": "flora",
-"preferred_label": "Brier",
+"id": "realia:Curtain",
+"type": "realia",
+"preferred_label": "Curtain",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"preferred_label": "Grave",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Courtyard",
+"type": "realia",
+"preferred_label": "Courtyard",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -399,9 +378,30 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Curtain",
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"preferred_label": "Acacia",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Crown.2",
 "type": "realia",
-"preferred_label": "Curtain",
+"preferred_label": "Crown",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"preferred_label": "Boxthorn",
 "confidence": 0.0996,
 "match_method": "canonical"
 }

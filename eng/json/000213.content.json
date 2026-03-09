@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Complete",
+"id": "keyterm:UncircumcisedPerson",
 "type": "keyterm",
-"preferred_label": "Complete",
+"preferred_label": "Uncircumcised Person",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:UncircumcisedPerson",
+"id": "keyterm:Complete",
 "type": "keyterm",
-"preferred_label": "Uncircumcised Person",
+"preferred_label": "Complete",
 "confidence": 0.1741,
 "match_method": "canonical"
 }

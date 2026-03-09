@@ -42,23 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"preferred_label": "Counsel",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -70,37 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zoan",
-"type": "place",
-"preferred_label": "Zoan",
-"confidence": 0.2196,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
+"id": "keyterm:Counsel",
 "type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.2196,
+"preferred_label": "Counsel",
+"confidence": 0.2793,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "Glory",
-"confidence": 0.2196,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Woe.2",
-"type": "keyterm",
-"preferred_label": "Woe",
-"confidence": 0.2196,
-"match_method": "canonical"
-},
-{
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "Damascus",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -112,9 +84,37 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"preferred_label": "Woe",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
+"id": "place:Zoan",
+"type": "place",
+"preferred_label": "Zoan",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
+"id": "keyterm:Spirit",
 "type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Necromancer",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -154,30 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fool",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Fool",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Holy",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -189,9 +168,93 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"preferred_label": "Vow",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
 "id": "group:Assyria",
 "type": "group",
 "preferred_label": "Assyrians",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Memphis",
+"type": "place",
+"preferred_label": "Memphis",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fool",
+"type": "keyterm",
+"preferred_label": "Fool",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -210,9 +273,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "keyterm:Lot",
+"type": "keyterm",
+"preferred_label": "Lot",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -224,44 +294,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Memphis",
-"type": "place",
-"preferred_label": "Memphis",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lot",
-"type": "keyterm",
-"preferred_label": "Lot",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Cush.2",
-"type": "place",
-"preferred_label": "Cush",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Aroer",
-"type": "place",
-"preferred_label": "Aroer",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit",
-"type": "keyterm",
-"preferred_label": "Necromancer",
+"id": "person:Ephraim",
+"type": "person",
+"preferred_label": "Ephraim",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -273,51 +308,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
+"id": "place:Aroer",
+"type": "place",
+"preferred_label": "Aroer",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Vow",
-"type": "keyterm",
-"preferred_label": "Vow",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "realia:Fortress",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Fortress",
+"preferred_label": "Stone Altar",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -329,9 +336,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Fortress",
 "type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Fortress",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -350,16 +357,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "flora:Thistle",
+"id": "flora:Cattails",
 "type": "flora",
-"preferred_label": "Thistle",
+"preferred_label": "Cattails",
 "confidence": 0.1041,
 "match_method": "canonical"
 },
@@ -378,9 +378,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Cattails",
+"id": "flora:Thistle",
 "type": "flora",
-"preferred_label": "Cattails",
+"preferred_label": "Thistle",
 "confidence": 0.1041,
 "match_method": "canonical"
 },
@@ -392,65 +392,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Grass",
-"type": "flora",
-"preferred_label": "Grass",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "flora:DatePalm",
-"type": "flora",
-"preferred_label": "Date Palm",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "realia:CastingNet",
-"type": "realia",
-"preferred_label": "Casting Net",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "realia:RamsHorn",
-"type": "realia",
-"preferred_label": "Rams Horn",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "flora:Flax",
-"type": "flora",
-"preferred_label": "Flax",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "flora:Reed",
-"type": "flora",
-"preferred_label": "Reed",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "flora:Barley",
-"type": "flora",
-"preferred_label": "Barley",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Locust",
-"type": "fauna",
-"preferred_label": "Locust",
 "confidence": 0.0998,
 "match_method": "canonical"
 },
@@ -462,13 +406,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Standard",
-"type": "realia",
-"preferred_label": "Standard",
-"confidence": 0.0998,
-"match_method": "canonical"
-},
-{
 "id": "flora:OliveTree",
 "type": "flora",
 "preferred_label": "Olive Tree",
@@ -476,16 +413,23 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
 "confidence": 0.0998,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Vulture",
-"type": "fauna",
-"preferred_label": "Vulture",
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Harpoon",
+"type": "realia",
+"preferred_label": "Harpoon",
 "confidence": 0.0998,
 "match_method": "canonical"
 },
@@ -497,6 +441,27 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"preferred_label": "Casting Net",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"preferred_label": "Standard",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
 "id": "flora:Grain",
 "type": "flora",
 "preferred_label": "Grain",
@@ -504,9 +469,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Harpoon",
-"type": "realia",
-"preferred_label": "Harpoon",
+"id": "flora:DatePalm",
+"type": "flora",
+"preferred_label": "Date Palm",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"preferred_label": "Reed",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "flora:Flax",
+"type": "flora",
+"preferred_label": "Flax",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"preferred_label": "Locust",
+"confidence": 0.0998,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"preferred_label": "Vulture",
 "confidence": 0.0998,
 "match_method": "canonical"
 }

@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mahalath",
+"id": "person:Hori",
 "type": "person",
-"preferred_label": "Mahalath",
+"preferred_label": "Hori",
 "confidence": 0.4116,
 "match_method": "canonical"
 },
 {
-"id": "person:Hori",
+"id": "person:Mahalath",
 "type": "person",
-"preferred_label": "Hori",
+"preferred_label": "Mahalath",
 "confidence": 0.4116,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeush",
+"id": "person:Anah",
 "type": "person",
-"preferred_label": "Jeush",
+"preferred_label": "Anah",
 "confidence": 0.2953,
 "match_method": "canonical"
 },
 {
-"id": "person:Anah",
+"id": "person:Jeush",
 "type": "person",
-"preferred_label": "Anah",
+"preferred_label": "Jeush",
 "confidence": 0.2953,
 "match_method": "canonical"
 },
@@ -112,23 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Teman",
+"id": "person:Anah.2",
 "type": "person",
-"preferred_label": "Teman",
-"confidence": 0.2907,
-"match_method": "canonical"
-},
-{
-"id": "person:Ezer",
-"type": "person",
-"preferred_label": "Ezer",
-"confidence": 0.2907,
-"match_method": "canonical"
-},
-{
-"id": "person:Dishon",
-"type": "person",
-"preferred_label": "Dishon",
+"preferred_label": "Anah",
 "confidence": 0.2907,
 "match_method": "canonical"
 },
@@ -140,6 +126,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Dishan",
+"type": "person",
+"preferred_label": "Dishan",
+"confidence": 0.2907,
+"match_method": "canonical"
+},
+{
 "id": "person:Lotan",
 "type": "person",
 "preferred_label": "Lotan",
@@ -147,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Anah.2",
+"id": "person:Ezer",
 "type": "person",
-"preferred_label": "Anah",
+"preferred_label": "Ezer",
 "confidence": 0.2907,
 "match_method": "canonical"
 },
 {
-"id": "person:Dishan",
+"id": "person:Teman",
 "type": "person",
-"preferred_label": "Dishan",
+"preferred_label": "Teman",
 "confidence": 0.2907,
 "match_method": "canonical"
 },
@@ -168,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.2814,
+"id": "person:Dishon",
+"type": "person",
+"preferred_label": "Dishon",
+"confidence": 0.2907,
 "match_method": "canonical"
 },
 {
-"id": "group:Hori",
-"type": "group",
-"preferred_label": "Horites",
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
 "confidence": 0.2814,
 "match_method": "canonical"
 },
@@ -189,6 +182,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Hori",
+"type": "group",
+"preferred_label": "Horites",
+"confidence": 0.2814,
+"match_method": "canonical"
+},
+{
 "id": "person:Baal-hanan",
 "type": "person",
 "preferred_label": "Baal-hanan",
@@ -196,65 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Husham",
-"type": "person",
-"preferred_label": "Husham",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Nahath",
-"type": "person",
-"preferred_label": "Nahath",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Hadad",
-"type": "person",
-"preferred_label": "Hadad",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Samlah",
-"type": "person",
-"preferred_label": "Samlah",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Bela.2",
-"type": "person",
-"preferred_label": "Bela",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Zibeon",
-"type": "person",
-"preferred_label": "Zibeon",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Mizzah",
-"type": "person",
-"preferred_label": "Mizzah",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
 "id": "person:Kenaz",
 "type": "person",
 "preferred_label": "Kenaz",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Zepho",
-"type": "person",
-"preferred_label": "Zepho",
 "confidence": 0.2302,
 "match_method": "canonical"
 },
@@ -266,16 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Seir",
+"id": "person:Husham",
 "type": "person",
-"preferred_label": "Seir",
-"confidence": 0.2302,
-"match_method": "canonical"
-},
-{
-"id": "person:Omar",
-"type": "person",
-"preferred_label": "Omar",
+"preferred_label": "Husham",
 "confidence": 0.2302,
 "match_method": "canonical"
 },
@@ -287,9 +224,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Achbor",
+"id": "person:Nahath",
 "type": "person",
-"preferred_label": "Achbor",
+"preferred_label": "Nahath",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Amalek",
+"type": "person",
+"preferred_label": "Amalek",
 "confidence": 0.2302,
 "match_method": "canonical"
 },
@@ -301,6 +245,41 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Hadad",
+"type": "person",
+"preferred_label": "Hadad",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Seir",
+"type": "person",
+"preferred_label": "Seir",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Achbor",
+"type": "person",
+"preferred_label": "Achbor",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Zibeon",
+"type": "person",
+"preferred_label": "Zibeon",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Bela.2",
+"type": "person",
+"preferred_label": "Bela",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
 "id": "person:Shammah.2",
 "type": "person",
 "preferred_label": "Shammah",
@@ -308,9 +287,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amalek",
+"id": "person:Omar",
 "type": "person",
-"preferred_label": "Amalek",
+"preferred_label": "Omar",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Samlah",
+"type": "person",
+"preferred_label": "Samlah",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Zepho",
+"type": "person",
+"preferred_label": "Zepho",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Mizzah",
+"type": "person",
+"preferred_label": "Mizzah",
 "confidence": 0.2302,
 "match_method": "canonical"
 },
@@ -329,51 +329,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Aiah",
-"type": "person",
-"preferred_label": "Aiah",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
 "id": "person:Timna.3",
 "type": "person",
 "preferred_label": "Timna",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Iram",
-"type": "person",
-"preferred_label": "Iram",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Zaavan",
-"type": "person",
-"preferred_label": "Zaavan",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Zerah.2",
-"type": "person",
-"preferred_label": "Zerah",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Akan",
-"type": "person",
-"preferred_label": "Akan",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Elah",
-"type": "person",
-"preferred_label": "Elah",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -385,114 +343,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pau",
-"type": "place",
-"preferred_label": "Pau",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Aran",
+"id": "person:Iram",
 "type": "person",
-"preferred_label": "Aran",
+"preferred_label": "Iram",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
 {
-"id": "person:Shepho",
+"id": "person:Zerah.2",
 "type": "person",
-"preferred_label": "Shepho",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "place:Dinhabah",
-"type": "place",
-"preferred_label": "Dinhabah",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Bedad",
-"type": "person",
-"preferred_label": "Bedad",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "place:Masrekah",
-"type": "place",
-"preferred_label": "Masrekah",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Mezahab",
-"type": "person",
-"preferred_label": "Mezahab",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Uz.3",
-"type": "person",
-"preferred_label": "Uz",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Anah.3",
-"type": "person",
-"preferred_label": "Anah",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Onam",
-"type": "person",
-"preferred_label": "Onam",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Hemdan",
-"type": "person",
-"preferred_label": "Hemdan",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Jetheth",
-"type": "person",
-"preferred_label": "Jetheth",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Ebal",
-"type": "person",
-"preferred_label": "Ebal",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Korah.2",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Oholibamah.2",
-"type": "person",
-"preferred_label": "Oholibamah",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Alvah",
-"type": "person",
-"preferred_label": "Alvah",
+"preferred_label": "Zerah",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -504,37 +364,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hemam",
+"id": "person:Magdiel",
 "type": "person",
-"preferred_label": "Hemam",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Kenaz.2",
-"type": "person",
-"preferred_label": "Kenaz",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Timna",
-"type": "person",
-"preferred_label": "Timna",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Matred",
-"type": "person",
-"preferred_label": "Matred",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Beor",
-"type": "person",
-"preferred_label": "Beor",
+"preferred_label": "Magdiel",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -546,6 +378,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Bedad",
+"type": "person",
+"preferred_label": "Bedad",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Kenaz.2",
+"type": "person",
+"preferred_label": "Kenaz",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
 "id": "person:Cheran",
 "type": "person",
 "preferred_label": "Cheran",
@@ -553,86 +399,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Avith",
-"type": "place",
-"preferred_label": "Avith",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Timna.2",
+"id": "person:Onam",
 "type": "person",
-"preferred_label": "Timna",
+"preferred_label": "Onam",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
 {
-"id": "person:Dishon.2",
+"id": "person:Akan",
 "type": "person",
-"preferred_label": "Dishon",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Pinon",
-"type": "person",
-"preferred_label": "Pinon",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Alvan",
-"type": "person",
-"preferred_label": "Alvan",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Ithran",
-"type": "person",
-"preferred_label": "Ithran",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Mehetabel",
-"type": "person",
-"preferred_label": "Mehetabel",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Mibzar",
-"type": "person",
-"preferred_label": "Mibzar",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Hadad.2",
-"type": "person",
-"preferred_label": "Hadad",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "place:Rehoboth.2",
-"type": "place",
-"preferred_label": "Rehoboth",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Bilhan",
-"type": "person",
-"preferred_label": "Bilhan",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "person:Magdiel",
-"type": "person",
-"preferred_label": "Magdiel",
+"preferred_label": "Akan",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -644,17 +420,227 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
-"confidence": 0.1605,
+"id": "place:Masrekah",
+"type": "place",
+"preferred_label": "Masrekah",
+"confidence": 0.1651,
 "match_method": "canonical"
 },
 {
-"id": "group:Teman",
-"type": "group",
-"preferred_label": "Temanites",
-"confidence": 0.1605,
+"id": "person:Bilhan",
+"type": "person",
+"preferred_label": "Bilhan",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Dishon.2",
+"type": "person",
+"preferred_label": "Dishon",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "place:Pau",
+"type": "place",
+"preferred_label": "Pau",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Uz.3",
+"type": "person",
+"preferred_label": "Uz",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Mehetabel",
+"type": "person",
+"preferred_label": "Mehetabel",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Alvah",
+"type": "person",
+"preferred_label": "Alvah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Anah.3",
+"type": "person",
+"preferred_label": "Anah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Pinon",
+"type": "person",
+"preferred_label": "Pinon",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Elah",
+"type": "person",
+"preferred_label": "Elah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Matred",
+"type": "person",
+"preferred_label": "Matred",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Alvan",
+"type": "person",
+"preferred_label": "Alvan",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Mibzar",
+"type": "person",
+"preferred_label": "Mibzar",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Hemdan",
+"type": "person",
+"preferred_label": "Hemdan",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "place:Avith",
+"type": "place",
+"preferred_label": "Avith",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Oholibamah.2",
+"type": "person",
+"preferred_label": "Oholibamah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Timna.2",
+"type": "person",
+"preferred_label": "Timna",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Timna",
+"type": "person",
+"preferred_label": "Timna",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "place:Rehoboth.2",
+"type": "place",
+"preferred_label": "Rehoboth",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Aiah",
+"type": "person",
+"preferred_label": "Aiah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Mezahab",
+"type": "person",
+"preferred_label": "Mezahab",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Jetheth",
+"type": "person",
+"preferred_label": "Jetheth",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Ithran",
+"type": "person",
+"preferred_label": "Ithran",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "place:Dinhabah",
+"type": "place",
+"preferred_label": "Dinhabah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Korah.2",
+"type": "person",
+"preferred_label": "Korah",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Shepho",
+"type": "person",
+"preferred_label": "Shepho",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Ebal",
+"type": "person",
+"preferred_label": "Ebal",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Beor",
+"type": "person",
+"preferred_label": "Beor",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Zaavan",
+"type": "person",
+"preferred_label": "Zaavan",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Hadad.2",
+"type": "person",
+"preferred_label": "Hadad",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Hemam",
+"type": "person",
+"preferred_label": "Hemam",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Aran",
+"type": "person",
+"preferred_label": "Aran",
+"confidence": 0.1651,
 "match_method": "canonical"
 },
 {
@@ -665,16 +651,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Midian",
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
 {
-"id": "group:Israel",
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "group:Teman",
 "type": "group",
-"preferred_label": "Israelites",
+"preferred_label": "Temanites",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -693,23 +686,16 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
 "id": "person:Nebaioth",
 "type": "person",
 "preferred_label": "Nebaioth",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"preferred_label": "Euphrates River",
-"confidence": 0.1605,
-"match_method": "canonical"
-},
-{
-"id": "place:Teman",
-"type": "place",
-"preferred_label": "Teman",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -721,23 +707,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
+"id": "place:Teman",
+"type": "place",
+"preferred_label": "Teman",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
-"confidence": 0.1005,
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
+"confidence": 0.1605,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.1605,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.1005,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
 "confidence": 0.1005,
 "match_method": "canonical"
 },

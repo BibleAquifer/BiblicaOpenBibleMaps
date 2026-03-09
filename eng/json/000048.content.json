@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
 "id": "group:Jews",
 "type": "group",
 "preferred_label": "Jews",
@@ -91,23 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Rhegium",
-"type": "place",
-"preferred_label": "Rhegium",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "place:ForumOfAppius",
-"type": "place",
-"preferred_label": "Forum of Appius",
-"confidence": 0.171,
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
+"confidence": 0.229,
 "match_method": "canonical"
 },
 {
 "id": "place:ThreeTaverns",
 "type": "place",
 "preferred_label": "Three Taverns",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "place:Malta",
+"type": "place",
+"preferred_label": "Malta",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -126,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Rhegium",
+"type": "place",
+"preferred_label": "Rhegium",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
 "id": "place:Syracuse",
 "type": "place",
 "preferred_label": "Syracuse",
@@ -133,58 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Malta",
+"id": "place:ForumOfAppius",
 "type": "place",
-"preferred_label": "Malta",
+"preferred_label": "Forum of Appius",
 "confidence": 0.171,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Declare",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Declare",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disbelieve",
-"type": "keyterm",
-"preferred_label": "Disbelieve",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Claudius",
-"type": "person",
-"preferred_label": "Claudius",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Isaiah",
+"preferred_label": "Word",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -196,9 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:Declare",
 "type": "keyterm",
-"preferred_label": "Proclaim",
+"preferred_label": "Declare",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -210,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Hope",
 "type": "keyterm",
 "preferred_label": "Hope",
@@ -224,51 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Think",
-"type": "keyterm",
-"preferred_label": "Think",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "Heart",
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -280,9 +196,51 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Claudius",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Claudius",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"preferred_label": "Disbelieve",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"preferred_label": "Think",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -301,16 +259,58 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Discern",
+"preferred_label": "Name",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -329,9 +329,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Snake",
-"type": "fauna",
-"preferred_label": "Snake",
+"id": "realia:Inn",
+"type": "realia",
+"preferred_label": "Inn",
 "confidence": 0.1045,
 "match_method": "canonical"
 },
@@ -343,13 +343,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Ship",
-"type": "realia",
-"preferred_label": "Ship",
-"confidence": 0.1045,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Cobra",
 "type": "fauna",
 "preferred_label": "Cobra",
@@ -357,9 +350,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Inn",
+"id": "realia:Ship",
 "type": "realia",
-"preferred_label": "Inn",
+"preferred_label": "Ship",
+"confidence": 0.1045,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
 "confidence": 0.1045,
 "match_method": "canonical"
 }

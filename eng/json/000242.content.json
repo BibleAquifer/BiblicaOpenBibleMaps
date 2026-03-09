@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.4667,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.4667,
 "match_method": "canonical"
 },
@@ -105,23 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Forgive",
 "type": "keyterm",
 "preferred_label": "Forgive",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
 "confidence": 0.2333,
 "match_method": "canonical"
 },
@@ -133,10 +126,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.1667,
+"preferred_label": "Life",
+"confidence": 0.2333,
 "match_method": "canonical"
 },
 {
@@ -147,9 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Condemn",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Condemn",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -157,6 +164,13 @@
 "id": "keyterm:Decision",
 "type": "keyterm",
 "preferred_label": "Decision",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -175,23 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Condemn",
+"id": "keyterm:Law",
 "type": "keyterm",
-"preferred_label": "Condemn",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Discern",
-"type": "keyterm",
-"preferred_label": "Discern",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
+"preferred_label": "Law",
 "confidence": 0.1667,
 "match_method": "canonical"
 },

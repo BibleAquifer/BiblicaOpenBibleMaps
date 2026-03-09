@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Surely!",
 "confidence": 0.363,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Ability",
 "confidence": 0.363,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3584,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.3584,
 "match_method": "canonical"
 },
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Parable",
+"id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "Parable",
+"preferred_label": "Heart",
 "confidence": 0.3571,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Parable",
 "type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Parable",
 "confidence": 0.3571,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3567,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.3567,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3558,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happen",
+"id": "keyterm:BowDown",
 "type": "keyterm",
-"preferred_label": "To Cause to Happen",
+"preferred_label": "Bow Down",
 "confidence": 0.3558,
 "match_method": "canonical"
 }

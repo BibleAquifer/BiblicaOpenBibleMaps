@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "kehidupan",
+"preferred_label": "tubuh",
 "confidence": 0.3858,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "tubuh",
+"preferred_label": "kehidupan",
 "confidence": 0.3858,
 "match_method": "canonical"
 },
@@ -168,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "penyunatan",
-"confidence": 0.3625,
-"match_method": "canonical"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "preferred_label": "Israel",
@@ -182,10 +175,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.3614,
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "penyunatan",
+"confidence": 0.3625,
 "match_method": "canonical"
 },
 {
@@ -196,10 +189,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "belas kasihan",
-"confidence": 0.3609,
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.3614,
 "match_method": "canonical"
 },
 {
@@ -210,16 +203,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Mercy",
 "type": "keyterm",
-"preferred_label": "memperdamaikan",
-"confidence": 0.3604,
+"preferred_label": "belas kasihan",
+"confidence": 0.3609,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
 "preferred_label": "kebangkitan",
+"confidence": 0.3604,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "memperdamaikan",
 "confidence": 0.3604,
 "match_method": "canonical"
 },

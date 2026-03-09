@@ -28,6 +28,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.4304,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "preferred_label": "Believe",
@@ -38,13 +45,6 @@
 "id": "person:Paul",
 "type": "person",
 "preferred_label": "Павел",
-"confidence": 0.4304,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
 "confidence": 0.4304,
 "match_method": "canonical"
 },
@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.2982,
+"match_method": "canonical"
+},
+{
 "id": "person:Barnabas",
 "type": "person",
 "preferred_label": "Варнава",
@@ -80,13 +87,6 @@
 "id": "keyterm:GoodNews",
 "type": "keyterm",
 "preferred_label": "Good News",
-"confidence": 0.2982,
-"match_method": "canonical"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
 "confidence": 0.2982,
 "match_method": "canonical"
 },
@@ -119,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
@@ -140,38 +133,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Church",
+"type": "keyterm",
+"preferred_label": "Church",
+"confidence": 0.2321,
+"match_method": "canonical"
+},
+{
 "id": "group:Lycaonia",
 "type": "group",
 "preferred_label": "Lycaonians",
 "confidence": 0.1804,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:DoGood",
-"type": "keyterm",
-"preferred_label": "Do Good",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "deity:Hermes",
-"type": "deity",
-"preferred_label": "Ермия",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "place:Perga",
-"type": "place",
-"preferred_label": "Пергия",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "place:Pisidia",
-"type": "place",
-"preferred_label": "Писидийская",
-"confidence": 0.1732,
 "match_method": "canonical"
 },
 {
@@ -182,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pamphylia",
+"id": "place:Perga",
 "type": "place",
-"preferred_label": "Памфилия",
+"preferred_label": "Пергия",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -203,23 +175,37 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Hermes",
+"type": "deity",
+"preferred_label": "Ермия",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"preferred_label": "Do Good",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Pisidia",
+"type": "place",
+"preferred_label": "Писидийская",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Памфилия",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
 "id": "person:Javan",
 "type": "person",
 "preferred_label": "Иаван",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "Persuade",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Portent",
-"type": "keyterm",
-"preferred_label": "Portent",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -231,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:FromHeaven",
+"id": "keyterm:Portent",
 "type": "keyterm",
-"preferred_label": "From Heaven",
+"preferred_label": "Portent",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Example",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Symbol",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -248,20 +234,6 @@
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Antioch",
-"type": "place",
-"preferred_label": "Антиохия",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -280,6 +252,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:FromHeaven",
+"type": "keyterm",
+"preferred_label": "From Heaven",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "preferred_label": "Sky",
@@ -294,16 +287,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
+"id": "place:Antioch",
+"type": "place",
+"preferred_label": "Антиохия",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
 "type": "keyterm",
-"preferred_label": "Symbol",
+"preferred_label": "Persuade",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -322,9 +322,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Synagogue",
+"id": "realia:Door",
 "type": "realia",
-"preferred_label": "Synagogue",
+"preferred_label": "Door",
 "confidence": 0.1061,
 "match_method": "canonical"
 },
@@ -343,9 +343,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Door",
+"id": "realia:Synagogue",
 "type": "realia",
-"preferred_label": "Door",
+"preferred_label": "Synagogue",
 "confidence": 0.1061,
 "match_method": "canonical"
 }

@@ -153,16 +153,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3697,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.3697,
 "match_method": "canonical"
 },
@@ -188,9 +188,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
+"preferred_label": "Offering",
 "confidence": 0.3158,
 "match_method": "canonical"
 },
@@ -202,16 +202,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:Smear",
 "type": "keyterm",
-"preferred_label": "Offering",
+"preferred_label": "Smear",
 "confidence": 0.3158,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Smear",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Smear",
+"preferred_label": "Word of the Lord",
 "confidence": 0.3158,
 "match_method": "canonical"
 },
@@ -223,16 +223,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.2618,
 "match_method": "canonical"
 },
 {
-"id": "person:Elijah",
+"id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "Elijah",
+"preferred_label": "Jeroboam",
 "confidence": 0.2618,
 "match_method": "canonical"
 }

@@ -91,9 +91,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2214,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "Surely!",
+"confidence": 0.2214,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
 "confidence": 0.2214,
 "match_method": "canonical"
 },
@@ -112,31 +126,10 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.2214,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.2214,
-"match_method": "canonical"
-},
-{
 "id": "realia:Sheepfold",
 "type": "realia",
 "preferred_label": "Sheepfold",
 "confidence": 0.1662,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.1655,
 "match_method": "canonical"
 },
 {
@@ -147,30 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1607,
+"preferred_label": "Jordan River",
+"confidence": 0.1655,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Word",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
@@ -189,41 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:DemonPossessed",
 "type": "keyterm",
 "preferred_label": "Be Demon Possessed",
@@ -238,6 +182,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Example",
 "type": "keyterm",
 "preferred_label": "Symbol",
@@ -245,9 +196,58 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Authority.2",
 "type": "keyterm",
 "preferred_label": "Authority",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.1607,
 "match_method": "canonical"
 },

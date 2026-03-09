@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Reu",
+"id": "person:Nahor",
 "type": "person",
-"preferred_label": "Reu",
+"preferred_label": "Nahor",
 "confidence": 0.3625,
 "match_method": "canonical"
 },
 {
-"id": "person:Nahor",
+"id": "person:Reu",
 "type": "person",
-"preferred_label": "Nahor",
+"preferred_label": "Reu",
 "confidence": 0.3625,
 "match_method": "canonical"
 },
@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Arpachshad",
-"type": "person",
-"preferred_label": "Arpachshad",
-"confidence": 0.3563,
-"match_method": "canonical"
-},
-{
 "id": "person:Eber",
 "type": "person",
 "preferred_label": "Eber",
@@ -98,16 +91,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Sarah",
+"id": "person:Arpachshad",
 "type": "person",
-"preferred_label": "Sarah",
-"confidence": 0.2984,
+"preferred_label": "Arpachshad",
+"confidence": 0.3563,
 "match_method": "canonical"
 },
 {
 "id": "person:Nahor.2",
 "type": "person",
 "preferred_label": "Nahor",
+"confidence": 0.2984,
+"match_method": "canonical"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
 "confidence": 0.2984,
 "match_method": "canonical"
 },
@@ -119,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Haran",
-"type": "place",
-"preferred_label": "Haran",
-"confidence": 0.2344,
-"match_method": "canonical"
-},
-{
 "id": "group:Chaldea",
 "type": "group",
 "preferred_label": "Chaldeans",
@@ -133,16 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Chaldea",
-"type": "place",
-"preferred_label": "Chaldea",
+"id": "person:Lot",
+"type": "person",
+"preferred_label": "Lot",
 "confidence": 0.2344,
 "match_method": "canonical"
 },
 {
-"id": "person:Lot",
-"type": "person",
-"preferred_label": "Lot",
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
+"confidence": 0.2344,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
 "confidence": 0.2344,
 "match_method": "canonical"
 },

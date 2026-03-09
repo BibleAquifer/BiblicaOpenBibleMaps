@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Sadducee",
+"id": "group:Jews",
 "type": "group",
-"preferred_label": "Sadducees",
+"preferred_label": "Jews",
 "confidence": 0.2886,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
+"id": "group:Sadducee",
 "type": "group",
-"preferred_label": "Jews",
+"preferred_label": "Sadducees",
 "confidence": 0.2886,
 "match_method": "canonical"
 },
@@ -67,13 +67,6 @@
 "type": "place",
 "preferred_label": "Римлянин",
 "confidence": 0.2314,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.2257,
 "match_method": "canonical"
 },
 {
@@ -98,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
 "id": "place:Caesarea",
 "type": "place",
 "preferred_label": "Кесария",
@@ -112,24 +98,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CheerUp",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Cheer Up",
-"confidence": 0.1686,
+"preferred_label": "Decided",
+"confidence": 0.2257,
 "match_method": "canonical"
 },
 {
-"id": "place:Cilicia",
-"type": "place",
-"preferred_label": "Киликия",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "person:Lysias",
-"type": "person",
-"preferred_label": "Лисий",
-"confidence": 0.1686,
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.2257,
 "match_method": "canonical"
 },
 {
@@ -147,9 +126,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disobey",
+"id": "person:Lysias",
+"type": "person",
+"preferred_label": "Лисий",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Киликия",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CheerUp",
 "type": "keyterm",
-"preferred_label": "Disobey",
+"preferred_label": "Cheer Up",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:MilitaryMember",
+"type": "person",
+"preferred_label": "Military Member",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -161,51 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "Persuade",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Иерусалим",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decision",
-"type": "keyterm",
-"preferred_label": "Decision",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rescue",
-"type": "keyterm",
-"preferred_label": "Rescue",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Hope",
 "type": "keyterm",
 "preferred_label": "Hope",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Иисус",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -217,13 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Promise",
-"type": "keyterm",
-"preferred_label": "Promise",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:BearWitness",
 "type": "keyterm",
 "preferred_label": "Bear Witness",
@@ -231,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Herod",
-"type": "person",
-"preferred_label": "Ирод",
+"id": "keyterm:Decision",
+"type": "keyterm",
+"preferred_label": "Decision",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Salvation",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -252,6 +210,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"preferred_label": "Rescue",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Live.3",
 "type": "keyterm",
 "preferred_label": "Live",
@@ -259,16 +224,51 @@
 "match_method": "canonical"
 },
 {
-"id": "person:MilitaryMember",
+"id": "person:Herod",
 "type": "person",
-"preferred_label": "Military Member",
+"preferred_label": "Ирод",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Иисус",
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "Promise",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Иерусалим",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disobey",
+"type": "keyterm",
+"preferred_label": "Disobey",
 "confidence": 0.1629,
 "match_method": "canonical"
 },

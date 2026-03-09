@@ -49,6 +49,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.4077,
+"match_method": "canonical"
+},
+{
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
@@ -59,13 +66,6 @@
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
-"confidence": 0.4077,
-"match_method": "canonical"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
 "confidence": 0.4077,
 "match_method": "canonical"
 },
@@ -133,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.3231,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
@@ -147,10 +140,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Eliakim.3",
-"type": "person",
-"preferred_label": "Eliakim",
-"confidence": 0.2724,
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.3231,
 "match_method": "canonical"
 },
 {
@@ -175,6 +168,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Eliakim.3",
+"type": "person",
+"preferred_label": "Eliakim",
+"confidence": 0.2724,
+"match_method": "canonical"
+},
+{
+"id": "person:Shebna",
+"type": "person",
+"preferred_label": "Shebna",
+"confidence": 0.2699,
+"match_method": "canonical"
+},
+{
 "id": "place:Sepharvaim",
 "type": "place",
 "preferred_label": "Sepharvaim",
@@ -189,10 +196,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shebna",
-"type": "person",
-"preferred_label": "Shebna",
-"confidence": 0.2699,
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.2673,
 "match_method": "canonical"
 },
 {
@@ -203,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
 "confidence": 0.2673,
 "match_method": "canonical"
 },
@@ -213,13 +220,6 @@
 "id": "keyterm:Instruction",
 "type": "keyterm",
 "preferred_label": "Instruction",
-"confidence": 0.2673,
-"match_method": "canonical"
-},
-{
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
 "confidence": 0.2673,
 "match_method": "canonical"
 },

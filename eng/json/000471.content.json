@@ -49,6 +49,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Deceit",
 "type": "keyterm",
 "preferred_label": "Deceit",
@@ -63,30 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -112,44 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Miriam",
+"id": "person:Beor.2",
 "type": "person",
-"preferred_label": "Miriam",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
+"preferred_label": "Beor",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -161,79 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"preferred_label": "Trust",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Shittim",
-"type": "place",
-"preferred_label": "Shittim",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Visitation",
-"type": "keyterm",
-"preferred_label": "Visitation",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LoyalPerson",
-"type": "keyterm",
-"preferred_label": "Loyal Person",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Beor.2",
+"id": "person:Balak",
 "type": "person",
-"preferred_label": "Beor",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"preferred_label": "Decree",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahab",
-"type": "person",
-"preferred_label": "Ahab",
+"preferred_label": "Balak",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -245,51 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Balaam",
+"id": "person:Ahab",
 "type": "person",
-"preferred_label": "Balaam",
+"preferred_label": "Ahab",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BelieveIn",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"preferred_label": "Euphrates River",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Omri",
-"type": "person",
-"preferred_label": "Omri",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
+"preferred_label": "Swear",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -301,6 +161,76 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Balaam",
+"type": "person",
+"preferred_label": "Balaam",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Shittim",
+"type": "place",
+"preferred_label": "Shittim",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"preferred_label": "Miriam",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
 "id": "place:Bashan",
 "type": "place",
 "preferred_label": "Bashan",
@@ -308,9 +238,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Balak",
-"type": "person",
-"preferred_label": "Balak",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Visitation",
+"type": "keyterm",
+"preferred_label": "Visitation",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -322,10 +259,66 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Net",
-"type": "realia",
-"preferred_label": "Net",
-"confidence": 0.1081,
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"preferred_label": "Decree",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LoyalPerson",
+"type": "keyterm",
+"preferred_label": "Loyal Person",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Omri",
+"type": "person",
+"preferred_label": "Omri",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.1625,
 "match_method": "canonical"
 },
 {
@@ -336,72 +329,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
+"id": "realia:Net",
 "type": "realia",
-"preferred_label": "Wine",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "realia:ThornHedge",
-"type": "realia",
-"preferred_label": "Thorn Hedge",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "flora:Sandalwood",
-"type": "flora",
-"preferred_label": "Sandalwood",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Snake",
-"type": "fauna",
-"preferred_label": "Snake",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bag",
-"type": "realia",
-"preferred_label": "Bag",
-"confidence": 0.1025,
+"preferred_label": "Net",
+"confidence": 0.1081,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "flora:Barley",
-"type": "flora",
-"preferred_label": "Barley",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "realia:Ephah",
-"type": "realia",
-"preferred_label": "Ephah",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"preferred_label": "Staff",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "flora:Fig",
-"type": "flora",
-"preferred_label": "Fig",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -413,16 +350,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
 {
-"id": "realia:Must",
-"type": "realia",
-"preferred_label": "Must",
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -434,9 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Rod",
+"id": "realia:Ephah",
 "type": "realia",
-"preferred_label": "Rod",
+"preferred_label": "Ephah",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -448,9 +385,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "flora:Sandalwood",
+"type": "flora",
+"preferred_label": "Sandalwood",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Wine",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"preferred_label": "Fig",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"preferred_label": "Bag",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -462,13 +434,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Mule",
-"type": "fauna",
-"preferred_label": "Mule",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
 "id": "realia:Foundation",
 "type": "realia",
 "preferred_label": "Foundation",
@@ -476,9 +441,44 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Brier",
-"type": "flora",
-"preferred_label": "Brier",
+"id": "realia:Must",
+"type": "realia",
+"preferred_label": "Must",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"preferred_label": "Staff",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:ThornHedge",
+"type": "realia",
+"preferred_label": "Thorn Hedge",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
 "confidence": 0.1025,
 "match_method": "canonical"
 }

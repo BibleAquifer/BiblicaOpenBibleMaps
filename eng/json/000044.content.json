@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
 "confidence": 0.3785,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
 "confidence": 0.3785,
 "match_method": "canonical"
 },
@@ -126,30 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Javan",
-"type": "person",
-"preferred_label": "Javan",
-"confidence": 0.2671,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.2671,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.2671,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
 "confidence": 0.2671,
 "match_method": "canonical"
 },
@@ -161,6 +140,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2671,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Encourage",
 "type": "keyterm",
 "preferred_label": "Encourage",
@@ -168,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.2671,
 "match_method": "canonical"
 },
@@ -189,13 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Aristarchus",
-"type": "person",
-"preferred_label": "Aristarchus",
-"confidence": 0.2139,
-"match_method": "canonical"
-},
-{
 "id": "place:Troas",
 "type": "place",
 "preferred_label": "Troas",
@@ -210,9 +203,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "person:Aristarchus",
+"type": "person",
+"preferred_label": "Aristarchus",
+"confidence": 0.2139,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Proclaim",
+"preferred_label": "Blood",
+"confidence": 0.2114,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
 "confidence": 0.2114,
 "match_method": "canonical"
 },
@@ -220,13 +227,6 @@
 "id": "keyterm:TheWay",
 "type": "keyterm",
 "preferred_label": "The Way",
-"confidence": 0.2114,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
 "confidence": 0.2114,
 "match_method": "canonical"
 }

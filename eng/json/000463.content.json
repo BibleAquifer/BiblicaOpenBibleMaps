@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Daniel.3",
-"type": "person",
-"preferred_label": "Daniel",
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
 "confidence": 0.3975,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
+"id": "person:Daniel.3",
+"type": "person",
+"preferred_label": "Daniel",
 "confidence": 0.3975,
 "match_method": "canonical"
 },
@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.3668,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Rebel",
 "type": "keyterm",
 "preferred_label": "Rebel",
@@ -84,6 +77,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.3668,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Supplication",
 "type": "keyterm",
 "preferred_label": "Plea for Mercy",
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Persia",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Persia",
+"preferred_label": "Jerusalem",
 "confidence": 0.364,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
+"id": "place:Persia",
 "type": "place",
-"preferred_label": "Jerusalem",
+"preferred_label": "Persia",
 "confidence": 0.364,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:Delight",
+"type": "keyterm",
+"preferred_label": "Delight",
 "confidence": 0.3112,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Delight",
-"type": "keyterm",
-"preferred_label": "Delight",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.3112,
 "match_method": "canonical"
 },
@@ -154,37 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DetestedThing",
-"type": "keyterm",
-"preferred_label": "Detested Thing",
-"confidence": 0.2584,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.2584,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:ActWickedly",
-"type": "keyterm",
-"preferred_label": "To Act Wickedly",
-"confidence": 0.2584,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
 "preferred_label": "Passion",
-"confidence": 0.2584,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
 "confidence": 0.2584,
 "match_method": "canonical"
 },
@@ -196,9 +168,37 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.2584,
+"match_method": "canonical"
+},
+{
 "id": "person:Israel",
 "type": "person",
 "preferred_label": "Israel",
+"confidence": 0.2584,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"preferred_label": "Detested Thing",
+"confidence": 0.2584,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
+"confidence": 0.2584,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2584,
 "match_method": "canonical"
 },

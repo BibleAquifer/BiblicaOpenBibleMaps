@@ -91,16 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.3212,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Israel",
 "confidence": 0.3212,
 "match_method": "canonical"
 },
@@ -112,9 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Judah",
+"confidence": 0.3212,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
 "confidence": 0.3212,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:KinsmanRedeemer",
-"type": "person",
-"preferred_label": "Kinsman Redeemer",
+"id": "group:GenericFemales",
+"type": "group",
+"preferred_label": "Women",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
 {
-"id": "group:GenericFemales",
-"type": "group",
-"preferred_label": "Women",
+"id": "person:KinsmanRedeemer",
+"type": "person",
+"preferred_label": "Kinsman Redeemer",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -182,13 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hezron.2",
-"type": "person",
-"preferred_label": "Hezron",
-"confidence": 0.2129,
-"match_method": "canonical"
-},
-{
 "id": "person:Salmon",
 "type": "person",
 "preferred_label": "Salmon",
@@ -196,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
+"id": "person:Hezron.2",
 "type": "person",
-"preferred_label": "David",
-"confidence": 0.2106,
+"preferred_label": "Hezron",
+"confidence": 0.2129,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesse",
+"id": "person:Amminadab",
 "type": "person",
-"preferred_label": "Jesse",
+"preferred_label": "Amminadab",
 "confidence": 0.2106,
 "match_method": "canonical"
 },
@@ -217,16 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amminadab",
+"id": "person:Jesse",
 "type": "person",
-"preferred_label": "Amminadab",
+"preferred_label": "Jesse",
 "confidence": 0.2106,
 "match_method": "canonical"
 },
 {
-"id": "person:Ephrathah",
+"id": "person:David",
 "type": "person",
-"preferred_label": "Ephrathah",
+"preferred_label": "David",
+"confidence": 0.2106,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephrathah",
+"type": "group",
+"preferred_label": "Ephrathites",
 "confidence": 0.1576,
 "match_method": "canonical"
 }

@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Body",
 "confidence": 0.2755,
 "match_method": "canonical"
 },
@@ -77,10 +77,38 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Body",
+"preferred_label": "Name",
 "confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.217,
 "match_method": "canonical"
 },
 {
@@ -105,20 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "Life",
@@ -126,51 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "Spirit",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "place:Emmaus",
-"type": "place",
-"preferred_label": "Emmaus",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "person:Cleopas",
-"type": "person",
-"preferred_label": "Cleopas",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Week",
 "type": "keyterm",
 "preferred_label": "Week",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Bethany",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
@@ -182,6 +154,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Cleopas",
+"type": "person",
+"preferred_label": "Cleopas",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
 "id": "person:Joanna",
 "type": "person",
 "preferred_label": "Joanna",
@@ -189,30 +168,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
+"id": "place:Bethany",
 "type": "place",
-"preferred_label": "Galilee",
+"preferred_label": "Bethany",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "place:Emmaus",
+"type": "place",
+"preferred_label": "Emmaus",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "Witness",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Height",
-"type": "keyterm",
-"preferred_label": "Height",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Forgive",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
 "confidence": 0.1585,
 "match_method": "canonical"
 }

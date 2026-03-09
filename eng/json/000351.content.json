@@ -48,16 +48,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
 "confidence": 0.4271,
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.4271,
 "match_method": "canonical"
 },
@@ -90,9 +90,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Syria",
-"type": "group",
-"preferred_label": "Syrians",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.3514,
 "match_method": "canonical"
 },
@@ -104,9 +104,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
 "confidence": 0.3514,
 "match_method": "canonical"
 },
@@ -132,37 +132,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahilud",
-"type": "person",
-"preferred_label": "Ahilud",
-"confidence": 0.2371,
-"match_method": "canonical"
-},
-{
-"id": "place:SaltValley",
-"type": "place",
-"preferred_label": "Valley of Salt",
-"confidence": 0.2371,
-"match_method": "canonical"
-},
-{
 "id": "person:Rehob",
 "type": "person",
 "preferred_label": "Rehob",
-"confidence": 0.2371,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
-"confidence": 0.2371,
-"match_method": "canonical"
-},
-{
-"id": "place:Betah",
-"type": "place",
-"preferred_label": "Betah",
 "confidence": 0.2371,
 "match_method": "canonical"
 },
@@ -174,9 +146,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Seraiah",
-"type": "person",
-"preferred_label": "Seraiah",
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
 "confidence": 0.2371,
 "match_method": "canonical"
 },
@@ -188,16 +160,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zadok.2",
-"type": "person",
-"preferred_label": "Zadok",
-"confidence": 0.2314,
+"id": "place:SaltValley",
+"type": "place",
+"preferred_label": "Valley of Salt",
+"confidence": 0.2371,
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoshaphat",
+"id": "place:Betah",
+"type": "place",
+"preferred_label": "Betah",
+"confidence": 0.2371,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahilud",
 "type": "person",
-"preferred_label": "Jehoshaphat",
+"preferred_label": "Ahilud",
+"confidence": 0.2371,
+"match_method": "canonical"
+},
+{
+"id": "person:Seraiah",
+"type": "person",
+"preferred_label": "Seraiah",
+"confidence": 0.2371,
+"match_method": "canonical"
+},
+{
+"id": "group:Pelethites",
+"type": "group",
+"preferred_label": "Pelethites",
 "confidence": 0.2314,
 "match_method": "canonical"
 },
@@ -205,13 +198,6 @@
 "id": "place:Gath",
 "type": "place",
 "preferred_label": "Gath",
-"confidence": 0.2314,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahitub.2",
-"type": "person",
-"preferred_label": "Ahitub",
 "confidence": 0.2314,
 "match_method": "canonical"
 },
@@ -230,9 +216,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pelethites",
-"type": "group",
-"preferred_label": "Pelethites",
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
 "confidence": 0.2314,
 "match_method": "canonical"
 },
@@ -244,59 +230,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Berothah",
-"type": "place",
-"preferred_label": "Berothah",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "person:Benaiah",
+"id": "person:Ahitub.2",
 "type": "person",
-"preferred_label": "Benaiah",
-"confidence": 0.2257,
+"preferred_label": "Ahitub",
+"confidence": 0.2314,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoiada",
+"id": "person:Jehoshaphat",
 "type": "person",
-"preferred_label": "Jehoiada",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"preferred_label": "Euphrates River",
-"confidence": 0.2257,
+"preferred_label": "Jehoshaphat",
+"confidence": 0.2314,
 "match_method": "canonical"
 },
 {
@@ -314,9 +258,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -324,6 +268,62 @@
 "id": "person:Abiathar",
 "type": "person",
 "preferred_label": "Abiathar",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Berothah",
+"type": "place",
+"preferred_label": "Berothah",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"preferred_label": "Benaiah",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"preferred_label": "Jehoiada",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -342,16 +342,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishai",
+"id": "person:Solomon",
 "type": "person",
-"preferred_label": "Abishai",
+"preferred_label": "Solomon",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
 {
-"id": "person:Solomon",
+"id": "person:Abishai",
 "type": "person",
-"preferred_label": "Solomon",
+"preferred_label": "Abishai",
 "confidence": 0.1629,
 "match_method": "canonical"
 },

@@ -84,20 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.2725,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
-"confidence": 0.2725,
-"match_method": "canonical"
-},
-{
 "id": "person:Leah",
 "type": "person",
 "preferred_label": "Leah",
@@ -112,10 +98,31 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.2725,
+"match_method": "canonical"
+},
+{
 "id": "person:Benjamin",
 "type": "person",
 "preferred_label": "Benjamin",
 "confidence": 0.2283,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2183,
 "match_method": "canonical"
 },
 {
@@ -126,10 +133,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethlehem",
+"id": "place:Paddan-aram",
 "type": "place",
-"preferred_label": "Bethlehem",
-"confidence": 0.2183,
+"preferred_label": "Paddan-aram",
+"confidence": 0.215,
 "match_method": "canonical"
 },
 {
@@ -147,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Paddan-aram",
-"type": "place",
-"preferred_label": "Paddan-aram",
-"confidence": 0.215,
-"match_method": "canonical"
-},
-{
 "id": "person:Bilhah",
 "type": "person",
 "preferred_label": "Bilhah",
@@ -165,6 +165,13 @@
 "type": "person",
 "preferred_label": "Esau",
 "confidence": 0.215,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.2125,
 "match_method": "canonical"
 },
 {
@@ -189,23 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.2125,
+"id": "place:Allon-bacuth",
+"type": "place",
+"preferred_label": "Allon-bachuth",
+"confidence": 0.1608,
 "match_method": "canonical"
 },
 {
 "id": "place:TowerOfEder",
 "type": "place",
 "preferred_label": "Tower of Eder",
-"confidence": 0.1608,
-"match_method": "canonical"
-},
-{
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Deborah",
 "confidence": 0.1608,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Allon-bacuth",
+"id": "place:Mamre",
 "type": "place",
-"preferred_label": "Allon-bachuth",
+"preferred_label": "Mamre",
 "confidence": 0.1608,
 "match_method": "canonical"
 },
 {
-"id": "person:GenericMidwife",
+"id": "person:Deborah",
 "type": "person",
-"preferred_label": "A Midwife",
+"preferred_label": "Deborah",
 "confidence": 0.1608,
 "match_method": "canonical"
 }

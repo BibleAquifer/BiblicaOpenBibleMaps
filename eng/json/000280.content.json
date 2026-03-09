@@ -196,13 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:RedSea",
-"type": "place",
-"preferred_label": "Red Sea",
-"confidence": 0.2574,
-"match_method": "canonical"
-},
-{
 "id": "place:Rephidim",
 "type": "place",
 "preferred_label": "Rephidim",
@@ -210,23 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.2557,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.2557,
+"id": "place:RedSea",
+"type": "place",
+"preferred_label": "Red Sea",
+"confidence": 0.2574,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Work",
 "type": "keyterm",
 "preferred_label": "Work",
+"confidence": 0.2557,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.2557,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.2557,
 "match_method": "canonical"
 }

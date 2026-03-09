@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hirah",
-"type": "person",
-"preferred_label": "Hirah",
-"confidence": 0.2433,
-"match_method": "canonical"
-},
-{
 "id": "place:Enaim",
 "type": "place",
 "preferred_label": "Enaim",
@@ -108,6 +101,13 @@
 "id": "person:Shua",
 "type": "person",
 "preferred_label": "Shua",
+"confidence": 0.2433,
+"match_method": "canonical"
+},
+{
+"id": "person:Hirah",
+"type": "person",
+"preferred_label": "Hirah",
 "confidence": 0.2433,
 "match_method": "canonical"
 },
@@ -133,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zerah.3",
-"type": "person",
-"preferred_label": "Zerah",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
 "id": "person:Perez",
 "type": "person",
 "preferred_label": "Perez",
@@ -147,16 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:MeasuringReed",
-"type": "realia",
-"preferred_label": "Measuring Reed",
-"confidence": 0.17,
+"id": "person:Zerah.3",
+"type": "person",
+"preferred_label": "Zerah",
+"confidence": 0.1717,
 "match_method": "canonical"
 },
 {
 "id": "realia:Rod",
 "type": "realia",
 "preferred_label": "Rod",
+"confidence": 0.17,
+"match_method": "canonical"
+},
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"preferred_label": "Measuring Reed",
 "confidence": 0.17,
 "match_method": "canonical"
 },

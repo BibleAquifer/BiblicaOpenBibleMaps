@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:ClayJar",
+"id": "realia:TempleAltar",
 "type": "realia",
-"preferred_label": "Clay Jar",
+"preferred_label": "Temple Altar",
 "confidence": 0.2657,
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:ClayJar",
 "type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Clay Jar",
 "confidence": 0.2657,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cherith",
+"id": "place:Zarephath",
 "type": "place",
-"preferred_label": "Cherith",
+"preferred_label": "Zarephath",
 "confidence": 0.2157,
 "match_method": "canonical"
 },
 {
-"id": "place:Zarephath",
+"id": "place:Cherith",
 "type": "place",
-"preferred_label": "Zarephath",
+"preferred_label": "Cherith",
 "confidence": 0.2157,
 "match_method": "canonical"
 },
@@ -161,13 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 0.2093,
-"match_method": "canonical"
-},
-{
 "id": "realia:AnointingOil",
 "type": "realia",
 "preferred_label": "Anointing Oil",
@@ -175,17 +168,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tishbe",
-"type": "place",
-"preferred_label": "Tishbe",
-"confidence": 0.1593,
-"match_method": "canonical"
-},
-{
-"id": "place:Kishon",
-"type": "place",
-"preferred_label": "Kishon",
-"confidence": 0.1593,
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.2093,
 "match_method": "canonical"
 },
 {
@@ -210,23 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1564,
+"id": "place:Tishbe",
+"type": "place",
+"preferred_label": "Tishbe",
+"confidence": 0.1593,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1564,
+"id": "place:Kishon",
+"type": "place",
+"preferred_label": "Kishon",
+"confidence": 0.1593,
 "match_method": "canonical"
 },
 {
 "id": "person:Abraham",
 "type": "person",
 "preferred_label": "Abraham",
+"confidence": 0.1564,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.1564,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.1564,
 "match_method": "canonical"
 }

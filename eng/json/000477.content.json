@@ -98,41 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nod",
-"type": "place",
-"preferred_label": "Nod",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Mehujael",
-"type": "person",
-"preferred_label": "Mehujael",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Methushael",
-"type": "person",
-"preferred_label": "Methushael",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Eve",
-"type": "person",
-"preferred_label": "Eve",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
 "id": "person:Jubal",
 "type": "person",
 "preferred_label": "Jubal",
@@ -140,30 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jabal",
-"type": "person",
-"preferred_label": "Jabal",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Enosh",
-"type": "person",
-"preferred_label": "Enosh",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Irad",
-"type": "person",
-"preferred_label": "Irad",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Tubal-cain",
-"type": "person",
-"preferred_label": "Tubal-cain",
+"id": "place:Nod",
+"type": "place",
+"preferred_label": "Nod",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -175,24 +119,66 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jabal",
+"type": "person",
+"preferred_label": "Jabal",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Tubal-cain",
+"type": "person",
+"preferred_label": "Tubal-cain",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Eve",
+"type": "person",
+"preferred_label": "Eve",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Enosh",
+"type": "person",
+"preferred_label": "Enosh",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Methushael",
+"type": "person",
+"preferred_label": "Methushael",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Irad",
+"type": "person",
+"preferred_label": "Irad",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Mehujael",
+"type": "person",
+"preferred_label": "Mehujael",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Goat",
 "type": "fauna",
 "preferred_label": "Goat",
 "confidence": 0.1746,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
-"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
@@ -203,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Eden.2",
-"type": "place",
-"preferred_label": "Garden of Eden",
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -217,10 +203,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Flute",
-"type": "realia",
-"preferred_label": "Flute",
-"confidence": 0.115,
+"id": "place:Eden.2",
+"type": "place",
+"preferred_label": "Garden of Eden",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
@@ -231,9 +224,23 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Flute",
+"type": "realia",
+"preferred_label": "Flute",
+"confidence": 0.115,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "flora:Sorghum",
+"type": "flora",
+"preferred_label": "Sorghum",
 "confidence": 0.1073,
 "match_method": "canonical"
 },
@@ -248,13 +255,6 @@
 "id": "flora:Wheat",
 "type": "flora",
 "preferred_label": "Wheat",
-"confidence": 0.1073,
-"match_method": "canonical"
-},
-{
-"id": "flora:Sorghum",
-"type": "flora",
-"preferred_label": "Sorghum",
 "confidence": 0.1073,
 "match_method": "canonical"
 }

@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:True",
 "type": "keyterm",
-"preferred_label": "Law",
+"preferred_label": "True",
 "confidence": 0.334,
 "match_method": "canonical"
 },
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:True",
+"id": "keyterm:Law",
 "type": "keyterm",
-"preferred_label": "True",
+"preferred_label": "Law",
 "confidence": 0.334,
 "match_method": "canonical"
 },
@@ -98,27 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "Circumcision",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -133,6 +112,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "Circumcision",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
@@ -140,23 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"preferred_label": "Unjust Deed",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Just",
-"type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
 "id": "group:Relatives",
 "type": "group",
 "preferred_label": "Relatives",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"preferred_label": "Unjust Deed",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
@@ -175,10 +168,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Affection",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Affection",
-"confidence": 0.1585,
+"preferred_label": "Be (Or Show Oneself) Just",
+"confidence": 0.1623,
 "match_method": "canonical"
 },
 {
@@ -196,27 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Belly",
-"type": "keyterm",
-"preferred_label": "Internal Organs",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "Judgment",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
 "id": "deity:HolySpirit",
 "type": "deity",
 "preferred_label": "Holy Spirit",
@@ -224,9 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "group:ReligiousOfficials",
+"type": "group",
+"preferred_label": "Religious Officials",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"preferred_label": "Court Case",
 "confidence": 0.1585,
 "match_method": "canonical"
 }

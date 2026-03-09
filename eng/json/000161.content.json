@@ -35,9 +35,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John",
+"id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "John",
+"preferred_label": "Jesus",
 "confidence": 0.4125,
 "match_method": "canonical"
 },
@@ -49,9 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
+"id": "person:John",
 "type": "person",
-"preferred_label": "Jesus",
+"preferred_label": "John",
 "confidence": 0.4125,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Love",
+"preferred_label": "Always",
 "confidence": 0.2931,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Love",
 "confidence": 0.2931,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Always",
+"preferred_label": "Sky",
 "confidence": 0.2931,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.2875,
 "match_method": "canonical"
 },
@@ -119,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.2875,
 "match_method": "canonical"
 },
@@ -129,6 +129,13 @@
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
 "confidence": 0.225,
 "match_method": "canonical"
 },
@@ -147,10 +154,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "place:Salim",
+"type": "place",
+"preferred_label": "Salim",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.225,
+"preferred_label": "Spirit",
+"confidence": 0.1681,
 "match_method": "canonical"
 },
 {
@@ -168,66 +182,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Salim",
-"type": "place",
-"preferred_label": "Salim",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Heavenly",
 "type": "keyterm",
 "preferred_label": "Heavenly",
 "confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "Spirit",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "Judgment",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.1625,
 "match_method": "canonical"
 },
 {
@@ -238,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -252,16 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Cleanse.2",
+"id": "keyterm:CauseOfJoy",
 "type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
+"preferred_label": "Cause of Joy",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -280,9 +231,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -294,16 +252,58 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Snake",
-"type": "fauna",
-"preferred_label": "Snake",
-"confidence": 0.1025,
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"preferred_label": "Judgment",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1625,
 "match_method": "canonical"
 },
 {
 "id": "realia:Prison",
 "type": "realia",
 "preferred_label": "Prison",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
 "confidence": 0.1025,
 "match_method": "canonical"
 }

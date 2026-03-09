@@ -132,6 +132,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.309,
+"match_method": "canonical"
+},
+{
 "id": "realia:Altar",
 "type": "realia",
 "preferred_label": "Altar",
@@ -146,24 +153,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.309,
-"match_method": "canonical"
-},
-{
 "id": "realia:Shovel",
 "type": "realia",
 "preferred_label": "Shovel",
 "confidence": 0.309,
-"match_method": "canonical"
-},
-{
-"id": "flora:Pomegranate",
-"type": "flora",
-"preferred_label": "Pomegranate",
-"confidence": 0.3058,
 "match_method": "canonical"
 },
 {
@@ -174,16 +167,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.2595,
+"id": "flora:Pomegranate",
+"type": "flora",
+"preferred_label": "Pomegranate",
+"confidence": 0.3058,
 "match_method": "canonical"
 },
 {
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
+"confidence": 0.2595,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.2595,
 "match_method": "canonical"
 },
@@ -216,16 +216,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:OliveTree",
-"type": "flora",
-"preferred_label": "Olive Tree",
+"id": "realia:HewnStone",
+"type": "realia",
+"preferred_label": "Hewn Stone",
 "confidence": 0.2527,
 "match_method": "canonical"
 },
 {
-"id": "realia:HewnStone",
-"type": "realia",
-"preferred_label": "Hewn Stone",
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
 "confidence": 0.2527,
 "match_method": "canonical"
 },

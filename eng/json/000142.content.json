@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disaster",
-"type": "keyterm",
-"preferred_label": "Disaster",
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
 "confidence": 0.4,
 "match_method": "canonical"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
 "confidence": 0.4,
 "match_method": "canonical"
 },
@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Satan",
-"type": "deity",
-"preferred_label": "Satan",
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
 "confidence": 0.275,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jonah.2",
-"type": "person",
-"preferred_label": "Jonah",
+"id": "deity:Satan",
+"type": "deity",
+"preferred_label": "Satan",
 "confidence": 0.275,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
+"id": "person:Jonah.2",
+"type": "person",
+"preferred_label": "Jonah",
 "confidence": 0.275,
 "match_method": "canonical"
 },
@@ -98,16 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"preferred_label": "Happy",
+"preferred_label": "Blood",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -119,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "Sky",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:CourtCase",
 "type": "keyterm",
 "preferred_label": "Court Case",
@@ -133,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blood",
+"id": "keyterm:Happy",
 "type": "keyterm",
-"preferred_label": "Blood",
+"preferred_label": "Happy",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -143,6 +129,20 @@
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "preferred_label": "Body",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2167,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "Sky",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -168,9 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "Persuade",
+"preferred_label": "Make Peace",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "Witness",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -182,34 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "person:Abel",
-"type": "person",
-"preferred_label": "Abel",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
 "id": "deity:HolySpirit",
 "type": "deity",
 "preferred_label": "Holy Spirit",
@@ -217,16 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PutToTheTest",
+"id": "keyterm:BringIn",
 "type": "keyterm",
-"preferred_label": "Put to the Test",
+"preferred_label": "Bring In",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "person:QueenOfSheba",
+"type": "person",
+"preferred_label": "Queen of Sheba",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
 "confidence": 0.1583,
 "match_method": "canonical"
 }

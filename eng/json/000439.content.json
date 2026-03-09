@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.455,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.455,
 "match_method": "canonical"
 },
@@ -56,6 +56,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jehoiachin",
+"type": "person",
+"preferred_label": "Jehoiachin",
+"confidence": 0.295,
+"match_method": "canonical"
+},
+{
 "id": "person:David",
 "type": "person",
 "preferred_label": "David",
@@ -70,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoiachin",
-"type": "person",
-"preferred_label": "Jehoiachin",
-"confidence": 0.295,
-"match_method": "canonical"
-},
-{
 "id": "person:Jehoiakim",
 "type": "person",
 "preferred_label": "Jehoiakim",
@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Exempt",
+"id": "keyterm:EnticedToServe",
 "type": "keyterm",
-"preferred_label": "Exempt",
+"preferred_label": "Force to Serve",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Exempt",
 "type": "keyterm",
-"preferred_label": "Love",
+"preferred_label": "Exempt",
 "confidence": 0.23,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "Force to Serve",
+"preferred_label": "Love",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -126,51 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Intention",
-"type": "keyterm",
-"preferred_label": "Intention",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
+"id": "place:Babylon",
 "type": "place",
-"preferred_label": "Jerusalem",
+"preferred_label": "Babylon",
 "confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Woe.2",
-"type": "keyterm",
-"preferred_label": "Woe",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:KindlyDisposed",
-"type": "keyterm",
-"preferred_label": "To Be Kindly Disposed",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
+"preferred_label": "Holy",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -182,16 +147,51 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Chaldea",
-"type": "place",
-"preferred_label": "Chaldea",
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"preferred_label": "Woe",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"preferred_label": "Majesty",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:KindlyDisposed",
+"type": "keyterm",
+"preferred_label": "To Be Kindly Disposed",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Bashan",
 "type": "place",
-"preferred_label": "Gilead",
+"preferred_label": "Bashan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"preferred_label": "Intention",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -210,51 +210,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Babylon",
+"id": "place:Gilead",
 "type": "place",
-"preferred_label": "Babylon",
+"preferred_label": "Gilead",
 "confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Majesty",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Majesty",
+"preferred_label": "Covenant",
 "confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "place:Bashan",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Bashan",
+"preferred_label": "Jerusalem",
 "confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "realia:Window",
-"type": "realia",
-"preferred_label": "Window",
-"confidence": 0.105,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.105,
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.165,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Window",
+"type": "realia",
+"preferred_label": "Window",
 "confidence": 0.105,
 "match_method": "canonical"
 },
@@ -266,13 +259,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Horse",
-"type": "fauna",
-"preferred_label": "Horse",
-"confidence": 0.105,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Goat",
 "type": "fauna",
 "preferred_label": "Goat",
@@ -280,9 +266,23 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
 "id": "realia:Chariot",
 "type": "realia",
 "preferred_label": "Chariot",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
 "confidence": 0.105,
 "match_method": "canonical"
 }

@@ -28,13 +28,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.4125,
-"match_method": "canonical"
-},
-{
 "id": "person:Israel",
 "type": "person",
 "preferred_label": "Israel",
@@ -42,16 +35,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.3344,
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.4125,
 "match_method": "canonical"
 },
 {
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
+"confidence": 0.3344,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3344,
 "match_method": "canonical"
 },
@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2562,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Rebel",
 "type": "keyterm",
 "preferred_label": "Rebel",
@@ -77,16 +70,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moresheth-gath",
-"type": "place",
-"preferred_label": "Moresheth-gath",
-"confidence": 0.2031,
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2562,
 "match_method": "canonical"
 },
 {
 "id": "place:Moresheth",
 "type": "place",
 "preferred_label": "Moresheth",
+"confidence": 0.2031,
+"match_method": "canonical"
+},
+{
+"id": "place:Moresheth-gath",
+"type": "place",
+"preferred_label": "Moresheth-gath",
 "confidence": 0.2031,
 "match_method": "canonical"
 },
@@ -98,30 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Maroth",
-"type": "place",
-"preferred_label": "Maroth",
-"confidence": 0.1906,
-"match_method": "canonical"
-},
-{
 "id": "place:Achzib",
 "type": "place",
 "preferred_label": "Achzib",
-"confidence": 0.1906,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-ezel",
-"type": "place",
-"preferred_label": "Beth-ezel",
-"confidence": 0.1906,
-"match_method": "canonical"
-},
-{
-"id": "place:Zaanan",
-"type": "place",
-"preferred_label": "Zaanan",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
@@ -133,16 +112,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hezekiah",
-"type": "person",
-"preferred_label": "Hezekiah",
-"confidence": 0.1781,
+"id": "place:Zaanan",
+"type": "place",
+"preferred_label": "Zaanan",
+"confidence": 0.1906,
 "match_method": "canonical"
 },
 {
-"id": "place:Ophrah",
+"id": "place:Maroth",
 "type": "place",
-"preferred_label": "Ophrah",
+"preferred_label": "Maroth",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-ezel",
+"type": "place",
+"preferred_label": "Beth-ezel",
+"confidence": 0.1906,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
@@ -154,20 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahaz",
-"type": "person",
-"preferred_label": "Ahaz",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
-"id": "person:Jotham.2",
-"type": "person",
-"preferred_label": "Jotham",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "Glory",
@@ -175,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Adullam",
-"type": "place",
-"preferred_label": "Adullam",
+"id": "person:Hezekiah",
+"type": "person",
+"preferred_label": "Hezekiah",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
@@ -189,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gath",
+"id": "place:Adullam",
 "type": "place",
-"preferred_label": "Gath",
+"preferred_label": "Adullam",
 "confidence": 0.1781,
 "match_method": "canonical"
 },
@@ -210,6 +189,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ahaz",
+"type": "person",
+"preferred_label": "Ahaz",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Dispossess",
 "type": "keyterm",
 "preferred_label": "Dispossess",
@@ -217,24 +203,17 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
-"confidence": 0.1181,
+"id": "place:Ophrah",
+"type": "place",
+"preferred_label": "Ophrah",
+"confidence": 0.1781,
 "match_method": "canonical"
 },
 {
-"id": "realia:Image",
-"type": "realia",
-"preferred_label": "Image",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Ostrich",
-"type": "fauna",
-"preferred_label": "Ostrich",
-"confidence": 0.1181,
+"id": "person:Jotham.2",
+"type": "person",
+"preferred_label": "Jotham",
+"confidence": 0.1781,
 "match_method": "canonical"
 },
 {
@@ -259,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Horse",
+"id": "fauna:Ostrich",
 "type": "fauna",
-"preferred_label": "Horse",
+"preferred_label": "Ostrich",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
@@ -273,23 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Vulture",
-"type": "fauna",
-"preferred_label": "Vulture",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
-"id": "realia:House",
+"id": "realia:Image",
 "type": "realia",
-"preferred_label": "House",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
-"id": "realia:Foundation",
-"type": "realia",
-"preferred_label": "Foundation",
+"preferred_label": "Image",
 "confidence": 0.1181,
 "match_method": "canonical"
 },
@@ -301,9 +266,44 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Foundation",
+"type": "realia",
+"preferred_label": "Foundation",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Owl",
 "type": "fauna",
 "preferred_label": "Owl",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"preferred_label": "Vulture",
 "confidence": 0.1181,
 "match_method": "canonical"
 }

@@ -77,23 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "place:Mamre",
-"type": "place",
-"preferred_label": "Mamre",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
+"preferred_label": "To Sin",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -105,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Favor",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -115,6 +101,20 @@
 "id": "keyterm:TheWay",
 "type": "keyterm",
 "preferred_label": "The Way",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
 "confidence": 0.1636,
 "match_method": "canonical"
 },

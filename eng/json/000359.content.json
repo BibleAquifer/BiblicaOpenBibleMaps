@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.3019,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -91,10 +84,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Cherethite",
-"type": "group",
-"preferred_label": "Cherethites",
-"confidence": 0.2423,
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3019,
 "match_method": "canonical"
 },
 {
@@ -105,10 +98,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishai",
-"type": "person",
-"preferred_label": "Abishai",
-"confidence": 0.2346,
+"id": "group:Cherethite",
+"type": "group",
+"preferred_label": "Cherethites",
+"confidence": 0.2423,
 "match_method": "canonical"
 },
 {
@@ -116,6 +109,41 @@
 "type": "keyterm",
 "preferred_label": "To Cause to Possess",
 "confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "group:Bichri",
+"type": "group",
+"preferred_label": "Bichrites",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Jair",
+"type": "group",
+"preferred_label": "Jairites",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Ira",
+"type": "person",
+"preferred_label": "Ira",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Jair.2",
+"type": "person",
+"preferred_label": "Jair",
+"confidence": 0.175,
 "match_method": "canonical"
 },
 {
@@ -136,34 +164,6 @@
 "id": "person:Ahilud",
 "type": "person",
 "preferred_label": "Ahilud",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Ira",
-"type": "person",
-"preferred_label": "Ira",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Jair.2",
-"type": "person",
-"preferred_label": "Jair",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "group:Jair",
-"type": "group",
-"preferred_label": "Jairites",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "group:Bichri",
-"type": "group",
-"preferred_label": "Bichrites",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -189,41 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "person:Benaiah",
-"type": "person",
-"preferred_label": "Benaiah",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "person:Zadok.2",
-"type": "person",
-"preferred_label": "Zadok",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:IntactState",
 "type": "keyterm",
 "preferred_label": "Peace",
@@ -231,23 +196,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Wickedness",
-"type": "keyterm",
-"preferred_label": "Wickedness",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Faithfulness",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Absalom",
+"type": "person",
+"preferred_label": "Absalom",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Faithfulness",
+"preferred_label": "Ability",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -273,9 +266,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
+"id": "person:Zadok.2",
 "type": "person",
-"preferred_label": "Benjamin",
+"preferred_label": "Zadok",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"preferred_label": "Benaiah",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -287,37 +294,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Absalom",
-"type": "person",
-"preferred_label": "Absalom",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
+"id": "keyterm:Faithfulness",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Faithfulness",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
 {
-"id": "person:Abiathar",
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Abiathar",
+"preferred_label": "Ephraim",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.1673,
 "match_method": "canonical"
 },

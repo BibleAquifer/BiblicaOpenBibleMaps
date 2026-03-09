@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kiriath-jearim",
-"type": "place",
-"preferred_label": "Kiriath-jearim",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
 {
-"id": "deity:Ashtoreth",
-"type": "deity",
-"preferred_label": "Ashtoreth",
+"id": "place:Kiriath-jearim",
+"type": "place",
+"preferred_label": "Kiriath-jearim",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
+"id": "deity:Ashtoreth",
+"type": "deity",
+"preferred_label": "Ashtoreth",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "realia:ArkOfTheCovenant",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Ark of the Covenant",
 "confidence": 0.1929,
 "match_method": "canonical"
 },
 {
-"id": "realia:ArkOfTheCovenant",
+"id": "realia:House",
 "type": "realia",
-"preferred_label": "Ark of the Covenant",
+"preferred_label": "House",
 "confidence": 0.1929,
 "match_method": "canonical"
 },
@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beth-car",
+"id": "place:Shen",
 "type": "place",
-"preferred_label": "Beth-car",
+"preferred_label": "Shen",
 "confidence": 0.1882,
 "match_method": "canonical"
 },
 {
-"id": "place:Shen",
+"id": "place:Beth-car",
 "type": "place",
-"preferred_label": "Shen",
+"preferred_label": "Beth-car",
 "confidence": 0.1882,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "place:Ebenezer",
+"type": "place",
+"preferred_label": "Ebenezer",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -154,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ebenezer",
-"type": "place",
-"preferred_label": "Ebenezer",
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -168,44 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ekron",
-"type": "place",
-"preferred_label": "Ekron",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
 "id": "place:Ramah",
 "type": "place",
 "preferred_label": "Ramah",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -217,16 +182,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Ekron",
+"type": "place",
+"preferred_label": "Ekron",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.1165,
 "match_method": "canonical"
 },
@@ -234,6 +234,13 @@
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1165,
 "match_method": "canonical"
 },
@@ -248,13 +255,6 @@
 "id": "realia:Altar",
 "type": "realia",
 "preferred_label": "Altar",
-"confidence": 0.1165,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
 "confidence": 0.1165,
 "match_method": "canonical"
 }

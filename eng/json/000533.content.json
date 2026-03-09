@@ -35,6 +35,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3114,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Swear",
 "type": "keyterm",
 "preferred_label": "Swear",
@@ -45,13 +52,6 @@
 "id": "person:Moses",
 "type": "person",
 "preferred_label": "Moses",
-"confidence": 0.3114,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
 "confidence": 0.3114,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
 {
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -98,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Etham",
+"type": "place",
+"preferred_label": "Etham",
+"confidence": 0.1795,
+"match_method": "canonical"
+},
+{
 "id": "place:RedSea",
 "type": "place",
 "preferred_label": "Red Sea",
@@ -112,51 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Etham",
-"type": "place",
-"preferred_label": "Etham",
-"confidence": 0.1795,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
+"id": "keyterm:EnticedToServe",
 "type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.10",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Jebusites",
-"type": "group",
-"preferred_label": "Jebusites",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
+"preferred_label": "Force to Serve",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -168,23 +133,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
 "id": "group:Hittite",
 "type": "group",
 "preferred_label": "Hittites",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -203,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -217,9 +189,37 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -231,9 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Cattails",
-"type": "flora",
-"preferred_label": "Cattails",
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1105,
 "match_method": "canonical"
 }

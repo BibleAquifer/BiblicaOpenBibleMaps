@@ -117,16 +117,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "takut",
+"preferred_label": "kekuasaan",
 "confidence": 0.3594,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "kekuasaan",
+"preferred_label": "takut",
 "confidence": 0.3594,
 "match_method": "canonical"
 },
@@ -173,9 +173,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "amin!",
+"confidence": 0.3567,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "keselamatan",
+"confidence": 0.3567,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "Yohanes",
 "confidence": 0.3567,
 "match_method": "canonical"
 },
@@ -194,38 +208,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "amin!",
-"confidence": 0.3567,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "Yohanes",
-"confidence": 0.3567,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "preferred_label": "belas kasihan",
 "confidence": 0.3563,
-"match_method": "canonical"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
-"confidence": 0.356,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "yang baik",
-"confidence": 0.356,
 "match_method": "canonical"
 },
 {
@@ -239,6 +225,20 @@
 "id": "person:David",
 "type": "person",
 "preferred_label": "Daud",
+"confidence": 0.356,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Petrus",
+"confidence": 0.356,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
 "confidence": 0.356,
 "match_method": "canonical"
 }

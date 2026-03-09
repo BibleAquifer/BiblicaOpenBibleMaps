@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PleasingOdor",
+"id": "keyterm:BearTheConsequencesOf",
 "type": "keyterm",
-"preferred_label": "Pleasing Odor",
+"preferred_label": "Bear the Consequences Of",
 "confidence": 0.3589,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearTheConsequencesOf",
+"id": "keyterm:PleasingOdor",
 "type": "keyterm",
-"preferred_label": "Bear the Consequences Of",
+"preferred_label": "Pleasing Odor",
 "confidence": 0.3589,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
+"id": "person:Nun",
+"type": "person",
+"preferred_label": "Nun",
 "confidence": 0.3582,
 "match_method": "canonical"
 },
 {
-"id": "person:Nun",
-"type": "person",
-"preferred_label": "Nun",
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.3582,
 "match_method": "canonical"
 },
@@ -182,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pure",
+"id": "keyterm:Ardour",
 "type": "keyterm",
-"preferred_label": "Pure",
-"confidence": 0.3577,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Passion",
 "confidence": 0.3577,
 "match_method": "canonical"
 },
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Passion",
+"preferred_label": "Glory",
+"confidence": 0.3577,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
 "confidence": 0.3577,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.3564,
 "match_method": "canonical"
 }

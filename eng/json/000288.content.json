@@ -126,9 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.3181,
 "match_method": "canonical"
 },
@@ -136,6 +136,13 @@
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
+"confidence": 0.3181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.3181,
 "match_method": "canonical"
 },
@@ -150,13 +157,6 @@
 "id": "realia:Altar",
 "type": "realia",
 "preferred_label": "Altar",
-"confidence": 0.3181,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
 "confidence": 0.3181,
 "match_method": "canonical"
 },
@@ -210,23 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Agag",
-"type": "person",
-"preferred_label": "Agag",
+"id": "place:Zophim",
+"type": "place",
+"preferred_label": "Zophim",
 "confidence": 0.1568,
 "match_method": "canonical"
 },
 {
-"id": "place:Kiriath-huzoth",
+"id": "place:Pethor",
 "type": "place",
-"preferred_label": "Kiriath-huzoth",
+"preferred_label": "Pethor",
 "confidence": 0.1568,
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
+"id": "place:Bamoth-baal",
 "type": "place",
-"preferred_label": "Jericho",
+"preferred_label": "Bamoth-baal",
 "confidence": 0.1568,
 "match_method": "canonical"
 }

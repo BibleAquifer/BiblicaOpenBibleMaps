@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
 "confidence": 0.3563,
 "match_method": "canonical"
 },
 {
-"id": "place:Sodom",
-"type": "place",
-"preferred_label": "Sodom",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3563,
 "match_method": "canonical"
 },

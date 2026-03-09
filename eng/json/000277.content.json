@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
 "confidence": 0.3222,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.3222,
 "match_method": "canonical"
 },
@@ -109,13 +109,6 @@
 "type": "person",
 "preferred_label": "Judah",
 "confidence": 0.2691,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephron.2",
-"type": "person",
-"preferred_label": "Ephron",
-"confidence": 0.2667,
 "match_method": "canonical"
 },
 {
@@ -129,6 +122,13 @@
 "id": "person:Pharaoh.4",
 "type": "person",
 "preferred_label": "Pharaoh",
+"confidence": 0.2667,
+"match_method": "canonical"
+},
+{
+"id": "person:Ephron.2",
+"type": "person",
+"preferred_label": "Ephron",
 "confidence": 0.2667,
 "match_method": "canonical"
 },
@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Atad",
-"type": "place",
-"preferred_label": "Atad",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
 "id": "person:Simeon.5",
 "type": "person",
 "preferred_label": "Simeon",
@@ -161,16 +154,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
+"id": "place:Atad",
 "type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.2111,
+"preferred_label": "Atad",
+"confidence": 0.2136,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Appoint",
 "type": "keyterm",
 "preferred_label": "Appoint",
+"confidence": 0.2111,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.2111,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.2111,
 "match_method": "canonical"
 },
@@ -189,23 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
-"confidence": 0.2111,
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.2067,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
-"confidence": 0.2067,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
 "confidence": 0.2067,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Paddan-aram",
-"type": "place",
-"preferred_label": "Paddan-aram",
+"id": "person:Asher",
+"type": "person",
+"preferred_label": "Asher",
 "confidence": 0.158,
 "match_method": "canonical"
 }

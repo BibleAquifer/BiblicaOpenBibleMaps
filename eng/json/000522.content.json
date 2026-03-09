@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.10",
-"type": "person",
-"preferred_label": "Joseph",
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
 "confidence": 0.3114,
 "match_method": "canonical"
 },
 {
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
 "confidence": 0.3114,
 "match_method": "canonical"
 },
@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "Egyptians",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
+"id": "person:Puah.3",
+"type": "person",
+"preferred_label": "Puah",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
 {
-"id": "person:Puah.3",
-"type": "person",
-"preferred_label": "Puah",
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
@@ -112,16 +112,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Issachar",
+"id": "person:Naphtali",
 "type": "person",
-"preferred_label": "Issachar",
+"preferred_label": "Naphtali",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
+"id": "person:Zebulun",
 "type": "person",
-"preferred_label": "Levi",
+"preferred_label": "Zebulun",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -133,9 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Simeon.5",
+"id": "person:Benjamin",
 "type": "person",
-"preferred_label": "Simeon",
+"preferred_label": "Benjamin",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"preferred_label": "Dan",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -147,9 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
+"id": "person:Simeon.5",
 "type": "person",
-"preferred_label": "Benjamin",
+"preferred_label": "Simeon",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -175,30 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nile",
-"type": "place",
-"preferred_label": "Nile River",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "person:Dan",
+"id": "person:Levi.3",
 "type": "person",
-"preferred_label": "Dan",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "person:Naphtali",
-"type": "person",
-"preferred_label": "Naphtali",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebulun",
-"type": "person",
-"preferred_label": "Zebulun",
+"preferred_label": "Levi",
 "confidence": 0.1705,
 "match_method": "canonical"
 },

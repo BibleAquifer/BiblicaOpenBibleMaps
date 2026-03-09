@@ -84,16 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Timnah",
-"type": "place",
-"preferred_label": "Timnah",
-"confidence": 0.2708,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.2708,
 "match_method": "canonical"
 },
@@ -112,10 +105,24 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "place:Timnah",
+"type": "place",
+"preferred_label": "Timnah",
 "confidence": 0.2708,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2708,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.2677,
 "match_method": "canonical"
 },
 {
@@ -133,10 +140,10 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.2677,
+"id": "place:Etam",
+"type": "place",
+"preferred_label": "Etam",
+"confidence": 0.22,
 "match_method": "canonical"
 },
 {
@@ -150,13 +157,6 @@
 "id": "person:WifeOfManoah",
 "type": "person",
 "preferred_label": "Manoah's Wife",
-"confidence": 0.22,
-"match_method": "canonical"
-},
-{
-"id": "place:Etam",
-"type": "place",
-"preferred_label": "Etam",
 "confidence": 0.22,
 "match_method": "canonical"
 },
@@ -175,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
-"confidence": 0.2108,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -189,10 +182,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ramath-lehi",
-"type": "place",
-"preferred_label": "Ramath-lehi",
-"confidence": 0.16,
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
+"confidence": 0.2108,
 "match_method": "canonical"
 },
 {
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:FatherInLawOfSamson",
-"type": "person",
-"preferred_label": "Father-in-Law of Samson",
+"id": "group:Timnites",
+"type": "group",
+"preferred_label": "Timnites",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramath-lehi",
+"type": "place",
+"preferred_label": "Ramath-lehi",
 "confidence": 0.16,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:En-hakkore",
-"type": "place",
-"preferred_label": "En-hakkore",
+"id": "person:FatherInLawOfSamson",
+"type": "person",
+"preferred_label": "Father-in-Law of Samson",
 "confidence": 0.16,
 "match_method": "canonical"
 },
 {
-"id": "group:Timnites",
-"type": "group",
-"preferred_label": "Timnites",
+"id": "place:En-hakkore",
+"type": "place",
+"preferred_label": "En-hakkore",
 "confidence": 0.16,
 "match_method": "canonical"
 }

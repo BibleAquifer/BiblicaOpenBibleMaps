@@ -182,13 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2581,
-"match_method": "canonical"
-},
-{
 "id": "group:GenericServants",
 "type": "group",
 "preferred_label": "Servants",
@@ -196,16 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sackcloth",
-"type": "realia",
-"preferred_label": "Sackcloth",
-"confidence": 0.252,
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2581,
 "match_method": "canonical"
 },
 {
 "id": "realia:Crown",
 "type": "realia",
 "preferred_label": "Crown",
+"confidence": 0.252,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"preferred_label": "Sackcloth",
 "confidence": 0.252,
 "match_method": "canonical"
 },

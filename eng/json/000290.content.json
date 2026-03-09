@@ -48,16 +48,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
 "confidence": 0.4134,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Gilead",
+"preferred_label": "Jordan River",
 "confidence": 0.4134,
 "match_method": "canonical"
 },
@@ -69,9 +69,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
 "confidence": 0.4134,
 "match_method": "canonical"
 },
@@ -97,13 +97,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Tribe of Manasseh",
-"confidence": 0.388,
-"match_method": "canonical"
-},
-{
 "id": "person:Manasseh",
 "type": "person",
 "preferred_label": "Manasseh",
@@ -111,16 +104,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
-"confidence": 0.3817,
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
+"confidence": 0.388,
 "match_method": "canonical"
 },
 {
 "id": "group:Amorites",
 "type": "group",
 "preferred_label": "Amorites",
+"confidence": 0.3817,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
 "confidence": 0.3817,
 "match_method": "canonical"
 },
@@ -181,16 +181,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beth-nimrah",
+"id": "place:Baal-meon",
 "type": "place",
-"preferred_label": "Beth-nimrah",
+"preferred_label": "Baal-meon",
 "confidence": 0.2183,
 "match_method": "canonical"
 },
 {
-"id": "person:Jair.2",
-"type": "person",
-"preferred_label": "Jair",
+"id": "place:Ataroth",
+"type": "place",
+"preferred_label": "Ataroth",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-nimrah",
+"type": "place",
+"preferred_label": "Beth-nimrah",
 "confidence": 0.2183,
 "match_method": "canonical"
 },
@@ -202,16 +209,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Baal-meon",
-"type": "place",
-"preferred_label": "Baal-meon",
-"confidence": 0.2183,
-"match_method": "canonical"
-},
-{
-"id": "place:Ataroth",
-"type": "place",
-"preferred_label": "Ataroth",
+"id": "person:Jair.2",
+"type": "person",
+"preferred_label": "Jair",
 "confidence": 0.2183,
 "match_method": "canonical"
 },

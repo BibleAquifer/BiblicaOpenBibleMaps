@@ -49,6 +49,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
 "id": "deity:Lord",
 "type": "deity",
 "preferred_label": "LORD",
@@ -70,24 +77,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3087,
-"match_method": "canonical"
-},
-{
 "id": "person:Joseph.4",
 "type": "person",
 "preferred_label": "Joseph",
 "confidence": 0.2478,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
@@ -105,23 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nazareth",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Nazareth",
-"confidence": 0.1783,
+"preferred_label": "Jerusalem",
+"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:CauseOfJoy",
 "type": "keyterm",
 "preferred_label": "Cause of Joy",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "person:Archelaus",
-"type": "person",
-"preferred_label": "Archelaus",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -133,17 +119,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1696,
+"id": "person:Archelaus",
+"type": "person",
+"preferred_label": "Archelaus",
+"confidence": 0.1783,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1696,
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.1783,
 "match_method": "canonical"
 },
 {
@@ -154,65 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mary",
-"type": "person",
-"preferred_label": "Mary",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericPriest",
-"type": "person",
-"preferred_label": "A Priest",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Ramah.2",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericPriests",
-"type": "group",
-"preferred_label": "Priests",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"preferred_label": "Encourage",
+"preferred_label": "Ask for",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -231,23 +161,79 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Myrrh",
-"type": "flora",
-"preferred_label": "Myrrh",
-"confidence": 0.1183,
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"preferred_label": "Priests",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericPriest",
+"type": "person",
+"preferred_label": "A Priest",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "Encourage",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1696,
 "match_method": "canonical"
 },
 {
 "id": "realia:MoneyBox",
 "type": "realia",
 "preferred_label": "Money Box",
-"confidence": 0.1183,
-"match_method": "canonical"
-},
-{
-"id": "flora:Frankincense",
-"type": "flora",
-"preferred_label": "Frankincense",
 "confidence": 0.1183,
 "match_method": "canonical"
 },
@@ -259,9 +245,30 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Frankincense",
+"type": "flora",
+"preferred_label": "Frankincense",
+"confidence": 0.1183,
+"match_method": "canonical"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"preferred_label": "Myrrh",
+"confidence": 0.1183,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Incense",
+"type": "realia",
+"preferred_label": "Incense",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
@@ -276,13 +283,6 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
-"id": "realia:Incense",
-"type": "realia",
-"preferred_label": "Incense",
 "confidence": 0.1096,
 "match_method": "canonical"
 }

@@ -132,16 +132,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
 "confidence": 0.3605,
 "match_method": "canonical"
 },
 {
-"id": "place:Lebanon",
-"type": "place",
-"preferred_label": "Lebanon",
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
 "confidence": 0.3605,
 "match_method": "canonical"
 },
@@ -195,6 +195,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.3074,
+"match_method": "canonical"
+},
+{
 "id": "realia:Altar",
 "type": "realia",
 "preferred_label": "Altar",
@@ -205,13 +212,6 @@
 "id": "realia:StoneAltar",
 "type": "realia",
 "preferred_label": "Stone Altar",
-"confidence": 0.3074,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
 "confidence": 0.3074,
 "match_method": "canonical"
 },

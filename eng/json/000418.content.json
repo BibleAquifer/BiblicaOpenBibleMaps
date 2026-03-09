@@ -35,9 +35,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.4371,
 "match_method": "canonical"
 },
@@ -49,9 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.4371,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Israel",
 "confidence": 0.3581,
 "match_method": "canonical"
 },
@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Judah",
 "confidence": 0.3581,
 "match_method": "canonical"
 },
@@ -112,16 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dishonor",
-"type": "keyterm",
-"preferred_label": "To Dishonor",
-"confidence": 0.229,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
+"id": "place:Ashdod",
 "type": "place",
-"preferred_label": "Ammon",
+"preferred_label": "Ashdod",
 "confidence": 0.229,
 "match_method": "canonical"
 },
@@ -133,16 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ashdod",
+"id": "place:Ammon",
 "type": "place",
-"preferred_label": "Ashdod",
+"preferred_label": "Ammon",
 "confidence": 0.229,
 "match_method": "canonical"
 },
 {
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
 "confidence": 0.229,
 "match_method": "canonical"
 },
@@ -154,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.229,
+"match_method": "canonical"
+},
+{
 "id": "person:Eliashib.8",
 "type": "person",
 "preferred_label": "Eliashib",
@@ -161,16 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joiada.2",
+"id": "person:Pedaiah.7",
 "type": "person",
-"preferred_label": "Joiada",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "person:Shelemiah.5",
-"type": "person",
-"preferred_label": "Shelemiah",
+"preferred_label": "Pedaiah",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -182,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mattaniah.10",
+"id": "person:Zaccur.8",
 "type": "person",
-"preferred_label": "Mattaniah",
+"preferred_label": "Zaccur",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -196,9 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Pedaiah.7",
+"id": "person:Mattaniah.10",
 "type": "person",
-"preferred_label": "Pedaiah",
+"preferred_label": "Mattaniah",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "person:Shelemiah.5",
+"type": "person",
+"preferred_label": "Shelemiah",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -210,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zaccur.8",
+"id": "person:Joiada.2",
 "type": "person",
-"preferred_label": "Zaccur",
+"preferred_label": "Joiada",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -231,20 +231,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Must",
-"type": "realia",
-"preferred_label": "Must",
-"confidence": 0.169,
-"match_method": "canonical"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"preferred_label": "Anointing Oil",
-"confidence": 0.169,
-"match_method": "canonical"
-},
-{
 "id": "flora:Grain",
 "type": "flora",
 "preferred_label": "Grain",
@@ -252,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Mule",
-"type": "fauna",
-"preferred_label": "Mule",
+"id": "realia:Must",
+"type": "realia",
+"preferred_label": "Must",
 "confidence": 0.169,
 "match_method": "canonical"
 },
@@ -266,135 +252,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1645,
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
+"confidence": 0.169,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1645,
+"id": "realia:AnointingOil",
+"type": "realia",
+"preferred_label": "Anointing Oil",
+"confidence": 0.169,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Sanballat",
-"type": "person",
-"preferred_label": "Sanballat",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Priesthood",
-"type": "keyterm",
-"preferred_label": "Priesthood",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BeFirm",
-"type": "keyterm",
-"preferred_label": "Well-Established",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Artaxerxes",
-"type": "person",
-"preferred_label": "Artaxerxes",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Tyre",
-"type": "group",
-"preferred_label": "Tyrians",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Balaam",
-"type": "person",
-"preferred_label": "Balaam",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "place:Tyre",
+"id": "place:Babylon",
 "type": "place",
-"preferred_label": "Tyre",
+"preferred_label": "Babylon",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -406,6 +280,55 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"preferred_label": "Tyrians",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Balaam",
+"type": "person",
+"preferred_label": "Balaam",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
 "id": "group:Ammon",
 "type": "group",
 "preferred_label": "Ammonites",
@@ -413,10 +336,94 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
 "confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Sanballat",
+"type": "person",
+"preferred_label": "Sanballat",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"preferred_label": "Artaxerxes",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
+"confidence": 0.1045,
 "match_method": "canonical"
 },
 {
@@ -427,9 +434,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
+"id": "realia:Winepress",
+"type": "realia",
+"preferred_label": "Winepress",
 "confidence": 0.1045,
 "match_method": "canonical"
 },
@@ -451,13 +458,6 @@
 "id": "realia:Scroll",
 "type": "realia",
 "preferred_label": "Scroll",
-"confidence": 0.1045,
-"match_method": "canonical"
-},
-{
-"id": "realia:Winepress",
-"type": "realia",
-"preferred_label": "Winepress",
 "confidence": 0.1045,
 "match_method": "canonical"
 }

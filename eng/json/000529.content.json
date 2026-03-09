@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3581,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.3581,
 "match_method": "canonical"
 },
@@ -84,58 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"preferred_label": "Appoint",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Foreskin",
-"type": "keyterm",
-"preferred_label": "Foreskin",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:InfectiousSkinDisease",
 "type": "keyterm",
 "preferred_label": "Infectious Skin Disease",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Jethro",
-"type": "person",
-"preferred_label": "Jethro",
-"confidence": 0.1645,
-"match_method": "canonical"
-},
-{
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Isaac",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -147,23 +98,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Circumcision",
+"preferred_label": "Peace",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "keyterm:Foreskin",
+"type": "keyterm",
+"preferred_label": "Foreskin",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
 {
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Midian",
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"preferred_label": "Jethro",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -175,9 +140,44 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
 "id": "place:Nile",
 "type": "place",
 "preferred_label": "Nile River",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "Circumcision",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -189,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Snake",
+"id": "fauna:Donkey",
 "type": "fauna",
-"preferred_label": "Snake",
+"preferred_label": "Donkey",
 "confidence": 0.1045,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
+"id": "fauna:Snake",
 "type": "fauna",
-"preferred_label": "Donkey",
+"preferred_label": "Snake",
 "confidence": 0.1045,
 "match_method": "canonical"
 }

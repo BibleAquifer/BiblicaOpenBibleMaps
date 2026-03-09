@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
-"confidence": 0.3636,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Kindness",
 "type": "keyterm",
 "preferred_label": "Kindness",
@@ -133,16 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.3614,
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.3636,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
 "preferred_label": "Slaughtering",
+"confidence": 0.3614,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
 "confidence": 0.3614,
 "match_method": "canonical"
 },
@@ -196,20 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3014,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.3014,
-"match_method": "canonical"
-},
-{
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3014,
+"match_method": "canonical"
+},
+{
 "id": "realia:Image",
 "type": "realia",
 "preferred_label": "Image",
+"confidence": 0.3014,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.3014,
 "match_method": "canonical"
 }

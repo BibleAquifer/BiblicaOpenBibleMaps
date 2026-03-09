@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Covenant",
 "confidence": 0.372,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Covenant",
+"preferred_label": "Bless",
 "confidence": 0.372,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
+"id": "keyterm:Complete",
 "type": "keyterm",
-"preferred_label": "Dispossess",
+"preferred_label": "Complete",
 "confidence": 0.3146,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Complete",
+"id": "keyterm:Dispossess",
 "type": "keyterm",
-"preferred_label": "Complete",
+"preferred_label": "Dispossess",
 "confidence": 0.3146,
 "match_method": "canonical"
 },
@@ -119,6 +119,27 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
 "id": "person:Levi.3",
 "type": "person",
 "preferred_label": "Levi",
@@ -133,30 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
-"confidence": 0.261,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
-"confidence": 0.261,
-"match_method": "canonical"
-},
-{
 "id": "place:Moab",
 "type": "place",
 "preferred_label": "Moab",
-"confidence": 0.261,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
 "confidence": 0.261,
 "match_method": "canonical"
 },
@@ -168,9 +168,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
 "id": "group:Dan",
 "type": "group",
 "preferred_label": "Tribe of Dan",
+"confidence": 0.2089,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
 "confidence": 0.2089,
 "match_method": "canonical"
 },
@@ -189,23 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Arrow",
-"type": "keyterm",
-"preferred_label": "Arrow",
-"confidence": 0.2089,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"preferred_label": "Be Zealous",
-"confidence": 0.2089,
-"match_method": "canonical"
-},
-{
-"id": "place:MoabPlains",
+"id": "place:Dan",
 "type": "place",
-"preferred_label": "Plains of Moab",
+"preferred_label": "Dan",
 "confidence": 0.2073,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Tribe of Manasseh",
+"id": "place:MoabPlains",
+"type": "place",
+"preferred_label": "Plains of Moab",
 "confidence": 0.2073,
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "keyterm:Delight",
+"type": "keyterm",
+"preferred_label": "Delight",
 "confidence": 0.2073,
 "match_method": "canonical"
 }

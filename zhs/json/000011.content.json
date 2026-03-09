@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
-"confidence": 0.3708,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.3708,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
 "confidence": 0.3662,
 "match_method": "canonical"
 },
@@ -98,30 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
 "confidence": 0.3662,
-"match_method": "canonical"
-},
-{
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.3638,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Decided",
 "type": "keyterm",
 "preferred_label": "Decided",
-"confidence": 0.3638,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
 "confidence": 0.3638,
 "match_method": "canonical"
 },
@@ -133,10 +119,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.3626,
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.3638,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.3638,
 "match_method": "canonical"
 },
 {
@@ -147,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.3615,
+"preferred_label": "Be a Disciple",
+"confidence": 0.3626,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Truth",
+"preferred_label": "Ask for",
 "confidence": 0.3615,
 "match_method": "canonical"
 },
@@ -171,6 +164,13 @@
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "Glory",
+"confidence": 0.3615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
 "confidence": 0.3615,
 "match_method": "canonical"
 },
@@ -203,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Flock",
+"preferred_label": "Goat",
 "confidence": 0.3015,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "fauna:Flock",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Flock",
 "confidence": 0.3015,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Written",
+"preferred_label": "Word",
 "confidence": 0.2569,
 "match_method": "canonical"
 }

@@ -56,6 +56,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.4294,
+"match_method": "canonical"
+},
+{
 "id": "place:Tirzah",
 "type": "place",
 "preferred_label": "Tirzah",
@@ -63,10 +70,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeroboam",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.4162,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Jeroboam",
-"confidence": 0.4294,
+"preferred_label": "Judah",
+"confidence": 0.4162,
 "match_method": "canonical"
 },
 {
@@ -80,20 +94,6 @@
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "To Sin",
-"confidence": 0.4162,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.4162,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
 "confidence": 0.4162,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ginath",
+"id": "person:Tibni",
 "type": "person",
-"preferred_label": "Ginath",
+"preferred_label": "Tibni",
 "confidence": 0.2382,
 "match_method": "canonical"
 },
 {
-"id": "person:Tibni",
+"id": "person:Ginath",
 "type": "person",
-"preferred_label": "Tibni",
+"preferred_label": "Ginath",
 "confidence": 0.2382,
 "match_method": "canonical"
 },
@@ -182,6 +182,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Segub",
+"type": "person",
+"preferred_label": "Segub",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "person:Hiel",
+"type": "person",
+"preferred_label": "Hiel",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "person:Arza",
+"type": "person",
+"preferred_label": "Arza",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
 "id": "person:Shemer",
 "type": "person",
 "preferred_label": "Shemer",
@@ -203,27 +224,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Segub",
-"type": "person",
-"preferred_label": "Segub",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "person:Arza",
-"type": "person",
-"preferred_label": "Arza",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "person:Hiel",
-"type": "person",
-"preferred_label": "Hiel",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
 "id": "person:Ethbaal",
 "type": "person",
 "preferred_label": "Ethbaal",
@@ -231,9 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -252,23 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joshua.2",
-"type": "person",
-"preferred_label": "Joshua",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "group:Sidon",
-"type": "group",
-"preferred_label": "Sidonians",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -280,16 +266,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
+"id": "place:Sidon",
 "type": "place",
-"preferred_label": "Philistia",
+"preferred_label": "Sidon",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
-"type": "place",
-"preferred_label": "Sidon",
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -301,30 +287,30 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Dog",
 "type": "fauna",
 "preferred_label": "Dog",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
 "confidence": 0.1032,
 "match_method": "canonical"
 },
@@ -336,16 +322,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:TempleAltar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Temple Altar",
 "confidence": 0.1032,
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Money",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Money",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
 "confidence": 0.1032,
 "match_method": "canonical"
 },
@@ -360,6 +353,13 @@
 "id": "realia:Talent",
 "type": "realia",
 "preferred_label": "Talent",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
 "confidence": 0.1032,
 "match_method": "canonical"
 }

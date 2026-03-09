@@ -49,6 +49,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
 "id": "person:Moses",
 "type": "person",
 "preferred_label": "Moses",
@@ -77,23 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Beloved",
 "type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
+"preferred_label": "Beloved",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -105,6 +98,27 @@
 "match_method": "canonical"
 },
 {
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "Surely!",
@@ -112,9 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "John",
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -122,48 +136,6 @@
 "id": "keyterm:PollTax",
 "type": "keyterm",
 "preferred_label": "Poll Tax",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Capernaum",
-"type": "place",
-"preferred_label": "Capernaum",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:James",
-"type": "person",
-"preferred_label": "James",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"preferred_label": "Beloved",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -182,16 +154,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "Mercy",
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "realia:Two-drachmaPiece",
+"id": "person:John",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fishhook",
 "type": "realia",
-"preferred_label": "Two-Drachma Piece",
+"preferred_label": "Fishhook",
 "confidence": 0.1141,
 "match_method": "canonical"
 },
@@ -203,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Mustard",
-"type": "flora",
-"preferred_label": "Mustard",
+"id": "realia:Two-drachmaPiece",
+"type": "realia",
+"preferred_label": "Two-Drachma Piece",
 "confidence": 0.1141,
 "match_method": "canonical"
 },
 {
-"id": "realia:Fishhook",
-"type": "realia",
-"preferred_label": "Fishhook",
+"id": "flora:Mustard",
+"type": "flora",
+"preferred_label": "Mustard",
 "confidence": 0.1141,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Fish",
-"type": "fauna",
-"preferred_label": "Fish",
+"id": "flora:Grain",
+"type": "flora",
+"preferred_label": "Grain",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
@@ -238,16 +238,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
+"id": "fauna:Fish",
+"type": "fauna",
+"preferred_label": "Fish",
 "confidence": 0.1067,
 "match_method": "canonical"
 },
 {
-"id": "flora:Grain",
-"type": "flora",
-"preferred_label": "Grain",
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.1067,
 "match_method": "canonical"
 }

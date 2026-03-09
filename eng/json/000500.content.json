@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -119,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -154,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "Egyptians",
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "Witness",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -168,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
+"id": "keyterm:Kindness",
 "type": "keyterm",
-"preferred_label": "Appoint",
+"preferred_label": "Kindness",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -189,16 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Witness",
-"type": "keyterm",
-"preferred_label": "Witness",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -206,6 +199,13 @@
 "id": "keyterm:Dispossess",
 "type": "keyterm",
 "preferred_label": "Dispossess",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
 "confidence": 0.1632,
 "match_method": "canonical"
 },

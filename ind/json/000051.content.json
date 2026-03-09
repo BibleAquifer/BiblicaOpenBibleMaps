@@ -55,16 +55,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
+"preferred_label": "kebaikan",
 "confidence": 0.3825,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "kebaikan",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah",
 "confidence": 0.3825,
 "match_method": "canonical"
 },
@@ -146,13 +146,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "penghakiman",
-"confidence": 0.3663,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "selama, lamanya",
@@ -160,9 +153,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"preferred_label": "penghakiman",
+"confidence": 0.3663,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:DoGood",
 "type": "keyterm",
 "preferred_label": "lakukan baik",
+"confidence": 0.3648,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "janji",
 "confidence": 0.3648,
 "match_method": "canonical"
 },
@@ -181,16 +188,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Promise",
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "janji",
-"confidence": 0.3648,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Savior",
-"type": "keyterm",
-"preferred_label": "juruselamat",
+"preferred_label": "memperdamaikan",
 "confidence": 0.3636,
 "match_method": "canonical"
 },
@@ -202,13 +202,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "memperdamaikan",
-"confidence": 0.3636,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "hati",
@@ -216,16 +209,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
+"id": "keyterm:Savior",
 "type": "keyterm",
-"preferred_label": "memutuskan",
-"confidence": 0.3108,
+"preferred_label": "juruselamat",
+"confidence": 0.3636,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
 "preferred_label": "injil",
+"confidence": 0.3108,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "memutuskan",
 "confidence": 0.3108,
 "match_method": "canonical"
 },

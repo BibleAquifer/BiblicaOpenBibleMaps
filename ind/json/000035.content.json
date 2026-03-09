@@ -77,6 +77,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.374,
+"match_method": "canonical"
+},
+{
 "id": "place:Athens",
 "type": "place",
 "preferred_label": "Atena",
@@ -91,23 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 0.374,
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
+"confidence": 0.3721,
 "match_method": "canonical"
 },
 {
 "id": "person:Javan",
 "type": "person",
 "preferred_label": "Yunani",
-"confidence": 0.3721,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "meminta",
 "confidence": 0.3721,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "kitab suci",
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
 "confidence": 0.3196,
 "match_method": "canonical"
 },
 {
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timotius",
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "kitab suci",
 "confidence": 0.3196,
 "match_method": "canonical"
 },
@@ -203,6 +203,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "keselamatan",
@@ -210,23 +217,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
+"confidence": 0.2632,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Sabbath",
 "type": "keyterm",
 "preferred_label": "sabat",
-"confidence": 0.2632,
-"match_method": "canonical"
-},
-{
-"id": "place:Ephesus",
-"type": "place",
-"preferred_label": "Efesus",
-"confidence": 0.2632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "berdoa",
 "confidence": 0.2632,
 "match_method": "canonical"
 }

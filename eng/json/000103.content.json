@@ -70,6 +70,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Resurrection",
 "type": "keyterm",
 "preferred_label": "Resurrection",
@@ -84,20 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Fish",
 "type": "fauna",
 "preferred_label": "Fish",
@@ -105,30 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Affection",
-"type": "keyterm",
-"preferred_label": "Affection",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.3",
+"id": "person:DaughterOfHerodias",
 "type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disbelieve",
-"type": "keyterm",
-"preferred_label": "Disbelieve",
-"confidence": 0.1616,
-"match_method": "canonical"
-},
-{
-"id": "person:Philip.2",
-"type": "person",
-"preferred_label": "Philip",
+"preferred_label": "Daughter of Herodias",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
@@ -147,16 +126,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:DaughterOfHerodias",
-"type": "person",
-"preferred_label": "Daughter of Herodias",
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"preferred_label": "Disbelieve",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
 {
-"id": "place:Bethsaida",
-"type": "place",
-"preferred_label": "Bethsaida",
+"id": "person:Philip.2",
+"type": "person",
+"preferred_label": "Philip",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.3",
+"type": "person",
+"preferred_label": "Joseph",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
@@ -168,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Bethsaida",
+"type": "place",
+"preferred_label": "Bethsaida",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
 "id": "realia:Plate.2",
 "type": "realia",
 "preferred_label": "Plate",
@@ -175,37 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Haste",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Haste",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CheerUp",
-"type": "keyterm",
-"preferred_label": "Cheer Up",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptist",
-"type": "keyterm",
-"preferred_label": "Baptist",
+"preferred_label": "Holy",
 "confidence": 0.158,
 "match_method": "canonical"
 },
@@ -217,9 +189,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:CheerUp",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Cheer Up",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"preferred_label": "Baptist",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
 "confidence": 0.158,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
 "confidence": 0.158,
 "match_method": "canonical"
 }

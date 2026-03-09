@@ -84,6 +84,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Bamoth",
+"type": "place",
+"preferred_label": "Bamoth",
+"confidence": 0.2371,
+"match_method": "canonical"
+},
+{
 "id": "place:Oboth",
 "type": "place",
 "preferred_label": "Oboth",
@@ -94,13 +101,6 @@
 "id": "place:Mattanah",
 "type": "place",
 "preferred_label": "Mattanah",
-"confidence": 0.2371,
-"match_method": "canonical"
-},
-{
-"id": "place:Bamoth",
-"type": "place",
-"preferred_label": "Bamoth",
 "confidence": 0.2371,
 "match_method": "canonical"
 },
@@ -147,51 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Og",
-"type": "person",
-"preferred_label": "Og",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Waheb",
+"id": "place:Iye-abarim",
 "type": "place",
-"preferred_label": "Waheb",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Medeba",
-"type": "place",
-"preferred_label": "Medeba",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Zered",
-"type": "place",
-"preferred_label": "Valley of Zered",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Jazer",
-"type": "place",
-"preferred_label": "Jazer",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:KingsHighway",
-"type": "place",
-"preferred_label": "King’s Highway",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Bashan",
-"type": "place",
-"preferred_label": "Bashan",
+"preferred_label": "Iye-abarim",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -210,6 +168,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:KingsHighway",
+"type": "place",
+"preferred_label": "King’s Highway",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
 "id": "place:Beer",
 "type": "place",
 "preferred_label": "Beer",
@@ -217,30 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jahaz",
+"id": "place:Zered",
 "type": "place",
-"preferred_label": "Jahaz",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Iye-abarim",
-"type": "place",
-"preferred_label": "Iye-abarim",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "deity:Chemosh",
-"type": "deity",
-"preferred_label": "Chemosh",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Dibon",
-"type": "place",
-"preferred_label": "Dibon",
+"preferred_label": "Valley of Zered",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -259,9 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Suphah",
+"id": "deity:Chemosh",
+"type": "deity",
+"preferred_label": "Chemosh",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Bashan",
 "type": "place",
-"preferred_label": "Suphah",
+"preferred_label": "Bashan",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -273,6 +224,55 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jazer",
+"type": "place",
+"preferred_label": "Jazer",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Dibon",
+"type": "place",
+"preferred_label": "Dibon",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Medeba",
+"type": "place",
+"preferred_label": "Medeba",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Og",
+"type": "person",
+"preferred_label": "Og",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Waheb",
+"type": "place",
+"preferred_label": "Waheb",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Suphah",
+"type": "place",
+"preferred_label": "Suphah",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Jahaz",
+"type": "place",
+"preferred_label": "Jahaz",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
 "id": "realia:Standard",
 "type": "realia",
 "preferred_label": "Standard",
@@ -280,30 +280,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zephath",
+"id": "place:Edom",
 "type": "place",
-"preferred_label": "Zephath",
+"preferred_label": "Edom",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
 {
-"id": "place:Arad",
+"id": "place:HorMount",
 "type": "place",
-"preferred_label": "Arad",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Pisgah",
-"type": "place",
-"preferred_label": "Pisgah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Mount Hor",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -315,16 +301,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
+"id": "place:Zephath",
 "type": "place",
-"preferred_label": "Edom",
+"preferred_label": "Zephath",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
+"id": "keyterm:Vow",
+"type": "keyterm",
+"preferred_label": "Vow",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Jabbok",
+"type": "place",
+"preferred_label": "Jabbok",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -336,23 +329,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:RedSea",
+"id": "place:Egypt",
 "type": "place",
-"preferred_label": "Red Sea",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Kenath",
-"type": "place",
-"preferred_label": "Kenath",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Vow",
-"type": "keyterm",
-"preferred_label": "Vow",
+"preferred_label": "Egypt",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -371,16 +350,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:HorMount",
+"id": "place:RedSea",
 "type": "place",
-"preferred_label": "Mount Hor",
+"preferred_label": "Red Sea",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
 {
-"id": "place:Jabbok",
+"id": "place:Kenath",
 "type": "place",
-"preferred_label": "Jabbok",
+"preferred_label": "Kenath",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -392,16 +385,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
+"id": "place:Pisgah",
 "type": "place",
-"preferred_label": "Egypt",
+"preferred_label": "Pisgah",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
 {
-"id": "realia:Staff",
+"id": "place:Arad",
+"type": "place",
+"preferred_label": "Arad",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rod",
 "type": "realia",
-"preferred_label": "Staff",
+"preferred_label": "Rod",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -420,16 +420,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Rod",
+"id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Rod",
+"preferred_label": "Sword",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
+"id": "realia:Staff",
 "type": "realia",
-"preferred_label": "Sword",
+"preferred_label": "Staff",
 "confidence": 0.1029,
 "match_method": "canonical"
 }

@@ -35,6 +35,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.3841,
+"match_method": "canonical"
+},
+{
 "id": "group:GenericGroup",
 "type": "group",
 "preferred_label": "A Group of People",
@@ -45,13 +52,6 @@
 "id": "person:Barabbas",
 "type": "person",
 "preferred_label": "Barabbas",
-"confidence": 0.3841,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
 "confidence": 0.3841,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
@@ -109,13 +109,6 @@
 "type": "keyterm",
 "preferred_label": "Body",
 "confidence": 0.2705,
-"match_method": "canonical"
-},
-{
-"id": "person:Joseph.6",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.2167,
 "match_method": "canonical"
 },
 {
@@ -133,31 +126,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "Persuade",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "person:Elijah",
+"id": "person:Joseph.6",
 "type": "person",
-"preferred_label": "Elijah",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.2136,
+"preferred_label": "Joseph",
+"confidence": 0.2167,
 "match_method": "canonical"
 },
 {
@@ -171,6 +143,34 @@
 "id": "keyterm:Holy",
 "type": "keyterm",
 "preferred_label": "Holy",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
 "confidence": 0.2136,
 "match_method": "canonical"
 },
@@ -189,16 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Golgotha",
-"type": "place",
-"preferred_label": "Golgotha",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebedee",
+"id": "person:Joseph.5",
 "type": "person",
-"preferred_label": "Zebedee",
+"preferred_label": "Joseph",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -210,9 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cyrene",
-"type": "place",
-"preferred_label": "Cyrene",
+"id": "person:Zebedee",
+"type": "person",
+"preferred_label": "Zebedee",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:James.4",
+"type": "person",
+"preferred_label": "James",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:James.4",
-"type": "person",
-"preferred_label": "James",
+"id": "place:Golgotha",
+"type": "place",
+"preferred_label": "Golgotha",
 "confidence": 0.1598,
 "match_method": "canonical"
 }

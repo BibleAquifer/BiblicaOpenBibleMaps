@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.4513,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
 "confidence": 0.4513,
 "match_method": "canonical"
 },
@@ -84,44 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
-"preferred_label": "Nazareth",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericServant",
-"type": "person",
-"preferred_label": "A Servant",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Passover",
-"type": "keyterm",
-"preferred_label": "Passover",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -133,16 +98,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lawful",
+"id": "keyterm:Truth",
 "type": "keyterm",
-"preferred_label": "Be Lawful",
-"confidence": 0.1663,
+"preferred_label": "Truth",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"preferred_label": "A Servant",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.2225,
 "match_method": "canonical"
 },
 {
 "id": "person:Malchus",
 "type": "person",
 "preferred_label": "Malchus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -168,16 +168,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
-"preferred_label": "Law",
+"preferred_label": "Kingdom",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kingdom",
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"preferred_label": "Kidron",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Kingdom",
+"preferred_label": "Name",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -196,23 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
 "id": "group:GenericOfficials",
 "type": "group",
 "preferred_label": "Public Officials",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -224,16 +224,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kidron",
-"type": "place",
-"preferred_label": "Kidron",
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "realia:Lantern",
+"id": "realia:Sheath",
 "type": "realia",
-"preferred_label": "Lantern",
+"preferred_label": "Sheath",
 "confidence": 0.1063,
 "match_method": "canonical"
 },
@@ -245,30 +245,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sheath",
+"id": "realia:Lantern",
 "type": "realia",
-"preferred_label": "Sheath",
+"preferred_label": "Lantern",
 "confidence": 0.1063,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Rooster",
+"type": "fauna",
+"preferred_label": "Rooster",
+"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
 "id": "realia:Courtyard",
 "type": "realia",
 "preferred_label": "Courtyard",
-"confidence": 0.1013,
-"match_method": "canonical"
-},
-{
-"id": "realia:Synagogue",
-"type": "realia",
-"preferred_label": "Synagogue",
-"confidence": 0.1013,
-"match_method": "canonical"
-},
-{
-"id": "realia:Temple",
-"type": "realia",
-"preferred_label": "Temple",
 "confidence": 0.1013,
 "match_method": "canonical"
 },
@@ -280,9 +273,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Rooster",
-"type": "fauna",
-"preferred_label": "Rooster",
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"preferred_label": "Synagogue",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

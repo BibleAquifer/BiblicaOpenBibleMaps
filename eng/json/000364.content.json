@@ -63,27 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:IntactState",
 "type": "keyterm",
 "preferred_label": "Peace",
@@ -91,37 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Insight",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Insight",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Word of the Lord",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -133,16 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decree",
-"type": "keyterm",
-"preferred_label": "Decree",
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
 {
-"id": "group:Sidon",
-"type": "group",
-"preferred_label": "Sidonians",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -154,9 +112,44 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
-"type": "place",
-"preferred_label": "Sidon",
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Insight",
+"type": "keyterm",
+"preferred_label": "Insight",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"preferred_label": "Decree",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -168,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
 "id": "realia:Nail",
 "type": "realia",
 "preferred_label": "Nail",
@@ -175,16 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Cedar",
-"type": "flora",
-"preferred_label": "Cedar",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:Craftsman",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Craftsman",
+"preferred_label": "Stone Altar",
 "confidence": 0.1137,
 "match_method": "canonical"
 },
@@ -196,23 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TabernacleAltar",
+"id": "realia:ArkOfTheCovenant",
 "type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Ark of the Covenant",
 "confidence": 0.1137,
 "match_method": "canonical"
 },
@@ -224,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:ArkOfTheCovenant",
+"id": "realia:TabernacleAltar",
 "type": "realia",
-"preferred_label": "Ark of the Covenant",
+"preferred_label": "Tabernacle Altar",
 "confidence": 0.1137,
 "match_method": "canonical"
 },
@@ -234,6 +213,27 @@
 "id": "realia:Talent",
 "type": "realia",
 "preferred_label": "Talent",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "realia:Craftsman",
+"type": "realia",
+"preferred_label": "Craftsman",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"preferred_label": "Cedar",
 "confidence": 0.1137,
 "match_method": "canonical"
 }

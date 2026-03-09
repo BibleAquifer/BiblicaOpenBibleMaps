@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Joshua.2",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Joshua",
+"preferred_label": "Israel",
 "confidence": 0.5652,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Joshua.2",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Joshua",
 "confidence": 0.5652,
 "match_method": "canonical"
 },
@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
 "confidence": 0.3783,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proscribe.2",
-"type": "keyterm",
-"preferred_label": "Set Apart for Destruction",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.3783,
 "match_method": "canonical"
 },
@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Horse",
-"type": "fauna",
-"preferred_label": "Horse",
-"confidence": 0.2487,
-"match_method": "canonical"
-},
-{
 "id": "realia:Chariot",
 "type": "realia",
 "preferred_label": "Chariot",
@@ -98,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
-"confidence": 0.2391,
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.2487,
 "match_method": "canonical"
 },
 {
-"id": "person:Anak",
-"type": "person",
-"preferred_label": "Anak",
+"id": "place:HermonMount",
+"type": "place",
+"preferred_label": "Mount Hermon",
 "confidence": 0.2391,
 "match_method": "canonical"
 },
@@ -119,16 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shephelah",
-"type": "place",
-"preferred_label": "Shephelah",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
-"id": "place:HermonMount",
-"type": "place",
-"preferred_label": "Mount Hermon",
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
 "confidence": 0.2391,
 "match_method": "canonical"
 },
@@ -140,30 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Anab",
+"id": "place:Shephelah",
 "type": "place",
-"preferred_label": "Anab",
-"confidence": 0.1783,
+"preferred_label": "Shephelah",
+"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
-"id": "place:Misrephoth-maim",
-"type": "place",
-"preferred_label": "Misrephoth-maim",
-"confidence": 0.1783,
+"id": "person:Anak",
+"type": "person",
+"preferred_label": "Anak",
+"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
-"id": "place:HalakMount",
+"id": "place:Madon",
 "type": "place",
-"preferred_label": "Mount Halak",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "place:Achshaph",
-"type": "place",
-"preferred_label": "Achshaph",
+"preferred_label": "Madon",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -175,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:LebanonValley",
-"type": "place",
-"preferred_label": "Valley of Lebanon",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
 "id": "person:Jobab.3",
 "type": "person",
 "preferred_label": "Jobab",
@@ -189,23 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Madon",
+"id": "place:Achshaph",
 "type": "place",
-"preferred_label": "Madon",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "person:Jabin",
-"type": "person",
-"preferred_label": "Jabin",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"preferred_label": "Achshaph",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -217,65 +175,58 @@
 "match_method": "canonical"
 },
 {
+"id": "place:LebanonValley",
+"type": "place",
+"preferred_label": "Valley of Lebanon",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:HalakMount",
+"type": "place",
+"preferred_label": "Mount Halak",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Misrephoth-maim",
+"type": "place",
+"preferred_label": "Misrephoth-maim",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Anab",
+"type": "place",
+"preferred_label": "Anab",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "person:Jabin",
+"type": "person",
+"preferred_label": "Jabin",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "place:Goshen.2",
+"type": "place",
+"preferred_label": "Goshen",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Chinnereth",
-"type": "place",
-"preferred_label": "Chinnereth",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Perizzites",
-"type": "group",
-"preferred_label": "Perizzites",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Jebusites",
-"type": "group",
-"preferred_label": "Jebusites",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"preferred_label": "Hittites",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Debir",
-"type": "place",
-"preferred_label": "Debir",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -287,30 +238,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeon",
+"id": "place:Seir",
 "type": "place",
-"preferred_label": "Gibeon",
+"preferred_label": "Seir",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
 {
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -322,9 +259,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Seir",
-"type": "place",
-"preferred_label": "Seir",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -343,9 +301,51 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
 "id": "person:Heth",
 "type": "person",
 "preferred_label": "Heth",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"preferred_label": "Gaza",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Debir",
+"type": "place",
+"preferred_label": "Debir",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Chinnereth",
+"type": "place",
+"preferred_label": "Chinnereth",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -357,16 +357,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Goshen.2",
-"type": "place",
-"preferred_label": "Goshen",
+"id": "group:Jebusites",
+"type": "group",
+"preferred_label": "Jebusites",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
 {
-"id": "place:Negeb",
-"type": "place",
-"preferred_label": "Negev",
+"id": "group:Perizzites",
+"type": "group",
+"preferred_label": "Perizzites",
 "confidence": 0.1696,
 "match_method": "canonical"
 },

@@ -56,20 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.2273,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephron.2",
-"type": "person",
-"preferred_label": "Ephron",
-"confidence": 0.2273,
-"match_method": "canonical"
-},
-{
 "id": "person:Abraham",
 "type": "person",
 "preferred_label": "Abraham",
@@ -77,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.10",
-"type": "person",
-"preferred_label": "Joseph",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.2273,
 "match_method": "canonical"
 },
@@ -91,6 +77,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ephron.2",
+"type": "person",
+"preferred_label": "Ephron",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
 "id": "place:Machpelah",
 "type": "place",
 "preferred_label": "Machpelah",
@@ -98,9 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Issachar",
+"id": "person:Leah",
 "type": "person",
-"preferred_label": "Issachar",
+"preferred_label": "Leah",
+"confidence": 0.1697,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"preferred_label": "Zebulun",
 "confidence": 0.1697,
 "match_method": "canonical"
 },
@@ -112,9 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Leah",
+"id": "person:Issachar",
 "type": "person",
-"preferred_label": "Leah",
+"preferred_label": "Issachar",
+"confidence": 0.1697,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
 "confidence": 0.1697,
 "match_method": "canonical"
 },
@@ -147,23 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
-"type": "place",
-"preferred_label": "Sidon",
-"confidence": 0.1697,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebulun",
-"type": "person",
-"preferred_label": "Zebulun",
-"confidence": 0.1697,
-"match_method": "canonical"
-},
-{
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -175,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -196,79 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Sarah",
-"type": "person",
-"preferred_label": "Sarah",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Dishonor",
-"type": "keyterm",
-"preferred_label": "To Dishonor",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"preferred_label": "Delight",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "place:Mamre",
-"type": "place",
-"preferred_label": "Mamre",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Isaac",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -280,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Arrow",
-"type": "keyterm",
-"preferred_label": "Arrow",
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -294,10 +224,73 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Viper",
-"type": "fauna",
-"preferred_label": "Viper",
-"confidence": 0.1097,
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"preferred_label": "Delight",
+"confidence": 0.1636,
 "match_method": "canonical"
 },
 {
@@ -308,30 +301,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sheepfold",
-"type": "realia",
-"preferred_label": "Sheepfold",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Snake",
+"id": "fauna:Viper",
 "type": "fauna",
-"preferred_label": "Snake",
-"confidence": 0.1036,
+"preferred_label": "Viper",
+"confidence": 0.1097,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Wolf",
 "type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bow",
-"type": "realia",
-"preferred_label": "Bow",
+"preferred_label": "Wolf",
 "confidence": 0.1036,
 "match_method": "canonical"
 },
@@ -343,6 +322,27 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Sheepfold",
+"type": "realia",
+"preferred_label": "Sheepfold",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"preferred_label": "Snake",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
 "id": "realia:Ship",
 "type": "realia",
 "preferred_label": "Ship",
@@ -350,9 +350,44 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Wolf",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Wolf",
+"preferred_label": "Goat",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"preferred_label": "Arrow",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.1036,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"preferred_label": "Deer",
 "confidence": 0.1036,
 "match_method": "canonical"
 },
@@ -367,41 +402,6 @@
 "id": "fauna:Horse",
 "type": "fauna",
 "preferred_label": "Horse",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "realia:Rod",
-"type": "realia",
-"preferred_label": "Rod",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Deer",
-"type": "fauna",
-"preferred_label": "Deer",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "realia:Arrow",
-"type": "realia",
-"preferred_label": "Arrow",
 "confidence": 0.1036,
 "match_method": "canonical"
 },

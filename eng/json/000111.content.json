@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "To Command",
 "confidence": 0.276,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Command",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "To Command",
+"preferred_label": "Life",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -74,27 +74,6 @@
 "type": "person",
 "preferred_label": "James",
 "confidence": 0.2212,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
-"confidence": 0.2173,
 "match_method": "canonical"
 },
 {
@@ -108,48 +87,6 @@
 "id": "keyterm:Baptism",
 "type": "keyterm",
 "preferred_label": "Baptism",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "John",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -168,9 +105,72 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Mercy",
 "type": "keyterm",
 "preferred_label": "Mercy",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -203,30 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Believe",
+"preferred_label": "Glory",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
+"id": "keyterm:Condemn",
 "type": "keyterm",
-"preferred_label": "Good News",
+"preferred_label": "Condemn",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Ability",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CheerUp",
-"type": "keyterm",
-"preferred_label": "Cheer Up",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
 "confidence": 0.1587,
 "match_method": "canonical"
 }

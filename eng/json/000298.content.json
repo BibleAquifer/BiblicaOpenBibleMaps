@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.3821,
-"match_method": "canonical"
-},
-{
 "id": "place:Hebron",
 "type": "place",
 "preferred_label": "Hebron",
@@ -105,16 +98,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
-"confidence": 0.3286,
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.3821,
 "match_method": "canonical"
 },
 {
 "id": "place:Libnah.2",
 "type": "place",
 "preferred_label": "Libnah",
+"confidence": 0.3286,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
 "confidence": 0.3286,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3257,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3257,
 "match_method": "canonical"
 },
@@ -161,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Adoni-zedek",
+"type": "person",
+"preferred_label": "Adoni-zedek",
+"confidence": 0.2186,
+"match_method": "canonical"
+},
+{
 "id": "place:Beth-horonLower",
 "type": "place",
 "preferred_label": "Lower Beth-horon",
@@ -175,17 +182,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Adoni-zedek",
-"type": "person",
-"preferred_label": "Adoni-zedek",
-"confidence": 0.2186,
-"match_method": "canonical"
-},
-{
 "id": "place:Azekah",
 "type": "place",
 "preferred_label": "Azekah",
 "confidence": 0.2157,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2129,
 "match_method": "canonical"
 },
 {
@@ -199,13 +206,6 @@
 "id": "group:Hivites",
 "type": "group",
 "preferred_label": "Hivites",
-"confidence": 0.2129,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Horam",
+"id": "person:Jashar",
 "type": "person",
-"preferred_label": "Horam",
+"preferred_label": "Jashar",
 "confidence": 0.1593,
 "match_method": "canonical"
 }

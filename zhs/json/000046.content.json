@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.376,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "preferred_label": "Body",
@@ -77,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Persuade",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "Persuade",
+"preferred_label": "Life",
 "confidence": 0.376,
 "match_method": "canonical"
 },
@@ -91,17 +84,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.376,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:CauseOfJoy",
 "type": "keyterm",
 "preferred_label": "Cause of Joy",
 "confidence": 0.3736,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.3716,
 "match_method": "canonical"
 },
 {
@@ -112,10 +105,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.3173,
+"preferred_label": "Believe",
+"confidence": 0.3716,
 "match_method": "canonical"
 },
 {
@@ -126,79 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.263,
+"preferred_label": "Love",
+"confidence": 0.3173,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Priesthood",
-"type": "keyterm",
-"preferred_label": "Priesthood",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pure",
-"type": "keyterm",
-"preferred_label": "Pure",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Peace",
-"type": "keyterm",
-"preferred_label": "Make Peace",
-"confidence": 0.263,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Live.3",
-"type": "keyterm",
-"preferred_label": "Live",
 "confidence": 0.263,
 "match_method": "canonical"
 },
@@ -217,9 +147,79 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "Live",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Spirit.2",
 "type": "keyterm",
 "preferred_label": "Spirit",
+"confidence": 0.263,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
 "confidence": 0.263,
 "match_method": "canonical"
 },

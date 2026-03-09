@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.2807,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Authority.2",
 "type": "keyterm",
 "preferred_label": "Authority",
@@ -98,9 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nazareth",
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
+"confidence": 0.2807,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
 "type": "place",
-"preferred_label": "Nazareth",
+"preferred_label": "Galilee",
 "confidence": 0.225,
 "match_method": "canonical"
 },
@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
 "id": "place:Capernaum",
 "type": "place",
 "preferred_label": "Capernaum",
@@ -126,23 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Elijah",
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Elijah",
-"confidence": 0.2205,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.2205,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Israel",
 "confidence": 0.2205,
 "match_method": "canonical"
 },
@@ -154,9 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
 "confidence": 0.2205,
 "match_method": "canonical"
 },
@@ -168,30 +161,16 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.2205,
+"match_method": "canonical"
+},
+{
 "id": "person:Naaman.3",
 "type": "person",
 "preferred_label": "Naaman",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "place:Zarephath",
-"type": "place",
-"preferred_label": "Zarephath",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "group:Syria",
-"type": "group",
-"preferred_label": "Syrians",
-"confidence": 0.1648,
-"match_method": "canonical"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
 "confidence": 0.1648,
 "match_method": "canonical"
 },
@@ -203,6 +182,27 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Zarephath",
+"type": "place",
+"preferred_label": "Zarephath",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
+"confidence": 0.1648,
+"match_method": "canonical"
+},
+{
 "id": "realia:Scroll",
 "type": "realia",
 "preferred_label": "Scroll",
@@ -210,16 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Holy",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -231,30 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Isaiah",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -273,51 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Anointed",
-"type": "keyterm",
-"preferred_label": "Anointed",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.1602,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
+"id": "person:Joseph.4",
+"type": "person",
+"preferred_label": "Joseph",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -329,9 +259,58 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.4",
-"type": "person",
-"preferred_label": "Joseph",
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Protect",
+"type": "keyterm",
+"preferred_label": "Protect",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
@@ -350,23 +329,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Protect",
+"id": "keyterm:Anointed",
 "type": "keyterm",
-"preferred_label": "Protect",
+"preferred_label": "Anointed",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Defilement",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Defilement",
 "confidence": 0.1602,
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Sidon",
+"preferred_label": "Jerusalem",
+"confidence": 0.1602,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.1602,
 "match_method": "canonical"
 },

@@ -42,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pure",
-"type": "keyterm",
-"preferred_label": "Pure",
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "realia:Chariot",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Chariot",
 "confidence": 0.1775,
 "match_method": "canonical"
 },
 {
-"id": "realia:Chariot",
+"id": "realia:House",
 "type": "realia",
-"preferred_label": "Chariot",
+"preferred_label": "House",
 "confidence": 0.1775,
 "match_method": "canonical"
 },
@@ -98,100 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Greece",
-"type": "place",
-"preferred_label": "Greece",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "place:Tarshish",
-"type": "place",
-"preferred_label": "Tarshish",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "person:Lud",
-"type": "person",
-"preferred_label": "Lud",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:NewMoonFestival",
-"type": "keyterm",
-"preferred_label": "New Moon Festival",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "place:Put",
-"type": "place",
-"preferred_label": "Put",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Mischief",
 "type": "keyterm",
 "preferred_label": "Mischief",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -203,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DetestedThing",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Detested Thing",
+"preferred_label": "Peace",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -217,9 +126,86 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"preferred_label": "Detested Thing",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Lud",
+"type": "person",
+"preferred_label": "Lud",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"preferred_label": "Greece",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Sabbath",
 "type": "keyterm",
 "preferred_label": "Sabbath",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Put",
+"type": "place",
+"preferred_label": "Put",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -231,6 +217,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"preferred_label": "New Moon Festival",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Mouse",
 "type": "fauna",
 "preferred_label": "Mouse",
@@ -238,23 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Grass",
-"type": "flora",
-"preferred_label": "Grass",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bow",
+"id": "realia:Wagon",
 "type": "realia",
-"preferred_label": "Bow",
+"preferred_label": "Wagon",
 "confidence": 0.1088,
 "match_method": "canonical"
 },
@@ -266,44 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wagon",
-"type": "realia",
-"preferred_label": "Wagon",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Horse",
-"type": "fauna",
-"preferred_label": "Horse",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Maggot",
-"type": "fauna",
-"preferred_label": "Worm",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "flora:GreenVegetation",
+"id": "flora:Grass",
 "type": "flora",
-"preferred_label": "Green Vegetation",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Mule",
-"type": "fauna",
-"preferred_label": "Mule",
+"preferred_label": "Grass",
 "confidence": 0.1088,
 "match_method": "canonical"
 },
@@ -322,9 +273,58 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Maggot",
+"type": "fauna",
+"preferred_label": "Worm",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"preferred_label": "Green Vegetation",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
 "id": "flora:Frankincense",
 "type": "flora",
 "preferred_label": "Frankincense",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
 "confidence": 0.1088,
 "match_method": "canonical"
 },

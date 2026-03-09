@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3958,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3958,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeon",
-"type": "place",
-"preferred_label": "Gibeon",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.3305,
 "match_method": "canonical"
 },
@@ -119,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
 "confidence": 0.3305,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amalek",
-"type": "group",
-"preferred_label": "Amalekites",
+"id": "place:Amalek",
+"type": "place",
+"preferred_label": "Amalek",
 "confidence": 0.2729,
 "match_method": "canonical"
 },
 {
-"id": "place:Amalek",
-"type": "place",
-"preferred_label": "Amalek",
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
 "confidence": 0.2729,
 "match_method": "canonical"
 },
@@ -154,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishai",
+"id": "person:Ner.2",
 "type": "person",
-"preferred_label": "Abishai",
+"preferred_label": "Ner",
 "confidence": 0.2186,
 "match_method": "canonical"
 },
@@ -168,30 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ner.2",
+"id": "person:Abishai",
 "type": "person",
-"preferred_label": "Ner",
+"preferred_label": "Abishai",
 "confidence": 0.2186,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.2153,
 "match_method": "canonical"
 },
 {
 "id": "place:Jabesh-gilead",
 "type": "place",
 "preferred_label": "Jabesh-gilead",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -203,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Anointed",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "Anointed",
+"preferred_label": "Love",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -217,16 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lamentation",
+"id": "keyterm:Smear",
 "type": "keyterm",
-"preferred_label": "Lamentation",
+"preferred_label": "Smear",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"preferred_label": "Anointed",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "person:Jashar",
+"type": "person",
+"preferred_label": "Jashar",
 "confidence": 0.161,
 "match_method": "canonical"
 },
 {
-"id": "place:Ammah",
-"type": "place",
-"preferred_label": "Ammah",
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"preferred_label": "Lamentation",
 "confidence": 0.161,
 "match_method": "canonical"
 }

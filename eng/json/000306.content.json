@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasseh",
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
 "confidence": 0.3897,
 "match_method": "canonical"
 },
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Tribe of Manasseh",
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
 "confidence": 0.3897,
 "match_method": "canonical"
 },
@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.3781,
+"match_method": "canonical"
+},
+{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -80,13 +87,6 @@
 "id": "person:Joshua.2",
 "type": "person",
 "preferred_label": "Joshua",
-"confidence": 0.3781,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
 "confidence": 0.3781,
 "match_method": "canonical"
 },
@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bashan",
-"type": "place",
-"preferred_label": "Bashan",
-"confidence": 0.3649,
-"match_method": "canonical"
-},
-{
 "id": "group:Reuben",
 "type": "group",
 "preferred_label": "Tribe of Reuben",
@@ -161,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
+"id": "place:Bashan",
+"type": "place",
+"preferred_label": "Bashan",
 "confidence": 0.3649,
 "match_method": "canonical"
 },
@@ -175,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
-"confidence": 0.3632,
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.3649,
 "match_method": "canonical"
 },
 {
-"id": "group:Asher",
-"type": "group",
-"preferred_label": "Tribe of Asher",
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
 "confidence": 0.3632,
 "match_method": "canonical"
 },
@@ -199,6 +192,13 @@
 "id": "person:Asher",
 "type": "person",
 "preferred_label": "Asher",
+"confidence": 0.3632,
+"match_method": "canonical"
+},
+{
+"id": "group:Asher",
+"type": "group",
+"preferred_label": "Tribe of Asher",
 "confidence": 0.3632,
 "match_method": "canonical"
 },

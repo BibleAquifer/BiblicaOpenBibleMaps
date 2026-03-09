@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4684,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4684,
 "match_method": "canonical"
 },
@@ -98,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.3474,
-"match_method": "canonical"
-},
-{
 "id": "person:Jeroboam",
 "type": "person",
 "preferred_label": "Jeroboam",
@@ -115,6 +108,13 @@
 "id": "person:Nebat",
 "type": "person",
 "preferred_label": "Nebat",
+"confidence": 0.3474,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.3474,
 "match_method": "canonical"
 },
@@ -168,16 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amaziah",
-"type": "person",
-"preferred_label": "Amaziah",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
+"id": "place:Tirzah",
 "type": "place",
-"preferred_label": "Jerusalem",
+"preferred_label": "Tirzah",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
@@ -189,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeroboam.2",
+"id": "person:Amaziah",
 "type": "person",
-"preferred_label": "Jeroboam",
+"preferred_label": "Amaziah",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
 {
-"id": "place:Tirzah",
-"type": "place",
-"preferred_label": "Tirzah",
+"id": "person:Jeroboam.2",
+"type": "person",
+"preferred_label": "Jeroboam",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
@@ -210,58 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Elah.3",
-"type": "person",
-"preferred_label": "Elah",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "person:Argob",
-"type": "person",
-"preferred_label": "Argob",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "place:Abel-beth-maacah",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Abel-beth-maacah",
-"confidence": 0.1671,
+"preferred_label": "Jerusalem",
+"confidence": 0.2237,
 "match_method": "canonical"
 },
 {
 "id": "person:Zadok.3",
 "type": "person",
 "preferred_label": "Zadok",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "place:Tiphsah.2",
-"type": "place",
-"preferred_label": "Tiphsah",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "place:Ijon",
-"type": "place",
-"preferred_label": "Ijon",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "person:Arieh",
-"type": "person",
-"preferred_label": "Arieh",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "person:Jerusha",
-"type": "person",
-"preferred_label": "Jerusha",
 "confidence": 0.1671,
 "match_method": "canonical"
 },
@@ -273,6 +224,34 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Elah.3",
+"type": "person",
+"preferred_label": "Elah",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Jerusha",
+"type": "person",
+"preferred_label": "Jerusha",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"preferred_label": "Abel-beth-maacah",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "place:Ijon",
+"type": "place",
+"preferred_label": "Ijon",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
 "id": "place:Janoah",
 "type": "place",
 "preferred_label": "Janoah",
@@ -280,10 +259,24 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
-"confidence": 0.1637,
+"id": "place:Tiphsah.2",
+"type": "place",
+"preferred_label": "Tiphsah",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Arieh",
+"type": "person",
+"preferred_label": "Arieh",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
+"id": "person:Argob",
+"type": "person",
+"preferred_label": "Argob",
+"confidence": 0.1671,
 "match_method": "canonical"
 },
 {
@@ -301,9 +294,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Naphtali",
-"type": "group",
-"preferred_label": "Tribe of Naphtali",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"preferred_label": "Infectious Skin Disease",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Ibleam",
+"type": "place",
+"preferred_label": "Ibleam",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -315,9 +322,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahaz",
+"id": "person:Rezin",
 "type": "person",
-"preferred_label": "Ahaz",
+"preferred_label": "Rezin",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Hazor",
+"type": "place",
+"preferred_label": "Hazor",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -336,23 +357,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hazor",
-"type": "place",
-"preferred_label": "Hazor",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "person:Rezin",
+"id": "person:Jehu.2",
 "type": "person",
-"preferred_label": "Rezin",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:InfectiousSkinDisease",
-"type": "keyterm",
-"preferred_label": "Infectious Skin Disease",
+"preferred_label": "Jehu",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -364,16 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Naphtali",
+"id": "person:Ahaz",
 "type": "person",
-"preferred_label": "Naphtali",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehu.2",
-"type": "person",
-"preferred_label": "Jehu",
+"preferred_label": "Ahaz",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -385,23 +385,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ibleam",
-"type": "place",
-"preferred_label": "Ibleam",
+"id": "group:Naphtali",
+"type": "group",
+"preferred_label": "Tribe of Naphtali",
 "confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "realia:Shekel",
-"type": "realia",
-"preferred_label": "Shekel",
-"confidence": 0.1018,
 "match_method": "canonical"
 },
 {
 "id": "realia:Talent",
 "type": "realia",
 "preferred_label": "Talent",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Shekel",
+"type": "realia",
+"preferred_label": "Shekel",
 "confidence": 0.1018,
 "match_method": "canonical"
 }

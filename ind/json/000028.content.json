@@ -140,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "baptisan",
-"confidence": 0.3686,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "pencemaran",
-"confidence": 0.3686,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "takut",
 "confidence": 0.3686,
 "match_method": "canonical"
 },
@@ -171,6 +157,20 @@
 "id": "keyterm:Word",
 "type": "keyterm",
 "preferred_label": "firman",
+"confidence": 0.3686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
+"confidence": 0.3686,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "takut",
 "confidence": 0.3686,
 "match_method": "canonical"
 },
@@ -210,16 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Yehuda",
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "khusus",
 "confidence": 0.3149,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "khusus",
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Yehuda",
 "confidence": 0.3149,
 "match_method": "canonical"
 },

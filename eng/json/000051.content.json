@@ -146,16 +146,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Serve",
 "confidence": 0.3604,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "Serve",
+"preferred_label": "Life",
 "confidence": 0.3604,
 "match_method": "canonical"
 },
@@ -174,6 +174,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.3584,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Hope",
 "type": "keyterm",
 "preferred_label": "Hope",
@@ -188,23 +195,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.3584,
+"preferred_label": "To Sin",
+"confidence": 0.3578,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
-"confidence": 0.3578,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
 "confidence": 0.3578,
 "match_method": "canonical"
 },
@@ -216,9 +216,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
+"id": "keyterm:Conscience",
 "type": "keyterm",
-"preferred_label": "Proclaim",
+"preferred_label": "Conscience",
 "confidence": 0.3565,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Conscience",
+"id": "keyterm:Proclaim",
 "type": "keyterm",
-"preferred_label": "Conscience",
+"preferred_label": "Proclaim",
 "confidence": 0.3565,
 "match_method": "canonical"
 }

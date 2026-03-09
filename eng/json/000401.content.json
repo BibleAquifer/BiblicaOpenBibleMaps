@@ -104,16 +104,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.371,
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.371,
 "match_method": "canonical"
 },
@@ -174,16 +174,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.2626,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.2626,
 "match_method": "canonical"
 },
@@ -195,9 +188,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2626,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gozan",
+"id": "place:Arpad",
 "type": "place",
-"preferred_label": "Gozan",
+"preferred_label": "Arpad",
 "confidence": 0.2103,
 "match_method": "canonical"
 }

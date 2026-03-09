@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.575,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.575,
 "match_method": "canonical"
 },
@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3692,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3692,
 "match_method": "canonical"
 },
@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"preferred_label": "Covenant",
+"preferred_label": "To Sin",
 "confidence": 0.2346,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Covenant",
 "confidence": 0.2346,
 "match_method": "canonical"
 },
@@ -137,13 +137,6 @@
 "type": "realia",
 "preferred_label": "Clothing",
 "confidence": 0.1823,
-"match_method": "canonical"
-},
-{
-"id": "group:Zerah",
-"type": "group",
-"preferred_label": "Zerahites",
-"confidence": 0.175,
 "match_method": "canonical"
 },
 {
@@ -161,79 +154,16 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Zerah",
+"type": "group",
+"preferred_label": "Zerahites",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Shinar",
-"type": "place",
-"preferred_label": "Shinar",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Praise",
-"type": "keyterm",
-"preferred_label": "Praise",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Foolish",
-"type": "keyterm",
-"preferred_label": "Foolish",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -245,9 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -259,6 +196,55 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"preferred_label": "Shinar",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"preferred_label": "Foolish",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:CovenantBox",
 "type": "keyterm",
 "preferred_label": "Covenant Box",
@@ -266,10 +252,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Shekel",
-"type": "realia",
-"preferred_label": "Shekel",
-"confidence": 0.1073,
+"id": "keyterm:Praise",
+"type": "keyterm",
+"preferred_label": "Praise",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
@@ -283,6 +276,13 @@
 "id": "fauna:Donkey",
 "type": "fauna",
 "preferred_label": "Donkey",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
 "confidence": 0.1073,
 "match_method": "canonical"
 },
@@ -301,9 +301,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:ArkOfTheCovenant",
+"id": "realia:Shekel",
 "type": "realia",
-"preferred_label": "Ark of the Covenant",
+"preferred_label": "Shekel",
 "confidence": 0.1073,
 "match_method": "canonical"
 }

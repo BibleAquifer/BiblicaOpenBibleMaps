@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
 "confidence": 0.2886,
 "match_method": "canonical"
 },
 {
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.2886,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Scroll",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Scroll",
+"preferred_label": "Stone Altar",
 "confidence": 0.1657,
 "match_method": "canonical"
 },
@@ -126,13 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.1657,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Bull",
 "type": "fauna",
 "preferred_label": "Cattle",
@@ -140,37 +133,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Scroll",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Scroll",
 "confidence": 0.1657,
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.1629,
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1657,
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
+"id": "place:Arabah",
 "type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
+"preferred_label": "Arabah",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -182,13 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Arabah",
-"type": "place",
-"preferred_label": "Arabah",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
@@ -196,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -206,6 +178,27 @@
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -220,6 +213,13 @@
 "id": "keyterm:CovenantBox",
 "type": "keyterm",
 "preferred_label": "Covenant Box",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
 "confidence": 0.1629,
 "match_method": "canonical"
 },

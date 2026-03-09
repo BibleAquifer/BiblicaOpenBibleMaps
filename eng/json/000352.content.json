@@ -98,20 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1846,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1846,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -122,6 +108,20 @@
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.1846,
 "match_method": "canonical"
 },

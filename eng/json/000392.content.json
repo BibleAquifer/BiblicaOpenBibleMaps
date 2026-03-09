@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4674,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4674,
 "match_method": "canonical"
 },
@@ -67,6 +67,27 @@
 "type": "person",
 "preferred_label": "David",
 "confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
@@ -84,34 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
-"id": "person:Aaron",
-"type": "person",
-"preferred_label": "Aaron",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
-"id": "realia:Trumpet",
-"type": "realia",
-"preferred_label": "Trumpet",
-"confidence": 0.1791,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Bull",
 "type": "fauna",
 "preferred_label": "Cattle",
@@ -119,10 +112,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Iddo.5",
-"type": "person",
-"preferred_label": "Iddo",
-"confidence": 0.1783,
+"id": "realia:Trumpet",
+"type": "realia",
+"preferred_label": "Trumpet",
+"confidence": 0.1791,
 "match_method": "canonical"
 },
 {
@@ -140,6 +133,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Iddo.5",
+"type": "person",
+"preferred_label": "Iddo",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
 "id": "place:Gibeah",
 "type": "place",
 "preferred_label": "Gibeah",
@@ -147,58 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pure",
-"type": "keyterm",
-"preferred_label": "Pure",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Rehoboam",
-"type": "person",
-"preferred_label": "Rehoboam",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Zemaraim",
-"type": "place",
-"preferred_label": "Zemaraim",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Strength",
 "type": "keyterm",
 "preferred_label": "Strength",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -217,9 +168,44 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
 "id": "person:Nebat",
 "type": "person",
 "preferred_label": "Nebat",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Zemaraim",
+"type": "place",
+"preferred_label": "Zemaraim",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -231,9 +217,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Wickedness",
 "type": "keyterm",
 "preferred_label": "Wickedness",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -242,6 +242,13 @@
 "type": "realia",
 "preferred_label": "Bread of Display",
 "confidence": 0.1183,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.1096,
 "match_method": "canonical"
 },
 {
@@ -255,13 +262,6 @@
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
-"id": "realia:MoltenImage",
-"type": "realia",
-"preferred_label": "Molten Image",
 "confidence": 0.1096,
 "match_method": "canonical"
 },

@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mary.3",
-"type": "person",
-"preferred_label": "Maria",
-"confidence": 0.3916,
-"match_method": "canonical"
-},
-{
 "id": "person:Martha",
 "type": "person",
 "preferred_label": "Marta",
@@ -70,16 +63,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "kemuliaan",
-"confidence": 0.3794,
+"id": "person:Mary.3",
+"type": "person",
+"preferred_label": "Maria",
+"confidence": 0.3916,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "keahlian",
+"confidence": 0.3794,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "kemuliaan",
 "confidence": 0.3794,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "kehidupan",
-"confidence": 0.3168,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Yerusalem",
@@ -122,6 +115,13 @@
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "selama, lamanya",
+"confidence": 0.3168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
 "confidence": 0.3168,
 "match_method": "canonical"
 },
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Yesaya",
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "tanda",
 "confidence": 0.2626,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "tanda",
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Yesaya",
 "confidence": 0.2626,
 "match_method": "canonical"
 },
@@ -182,13 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Filipus",
-"confidence": 0.2103,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Passover",
 "type": "keyterm",
 "preferred_label": "paskah",
@@ -196,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "memutuskan",
-"confidence": 0.2084,
+"id": "person:Philip",
+"type": "person",
+"preferred_label": "Filipus",
+"confidence": 0.2103,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "kasihi",
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
 "confidence": 0.2084,
 "match_method": "canonical"
 },
@@ -217,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "nama",
+"preferred_label": "memutuskan",
 "confidence": 0.2084,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "keyterm:Serve",
 "type": "keyterm",
 "preferred_label": "melayani",
+"confidence": 0.2084,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "kasihi",
 "confidence": 0.2084,
 "match_method": "canonical"
 }

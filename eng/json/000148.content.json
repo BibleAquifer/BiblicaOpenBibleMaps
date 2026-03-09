@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Name",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Sky",
 "confidence": 0.2855,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Name",
 "confidence": 0.2855,
 "match_method": "canonical"
 },
@@ -49,6 +49,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
@@ -63,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "Heart",
@@ -77,30 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
+"id": "keyterm:DailyLife",
 "type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disaster",
-"type": "keyterm",
-"preferred_label": "Disaster",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Daily Life",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -112,65 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"preferred_label": "Parable",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:DailyLife",
-"type": "keyterm",
-"preferred_label": "Daily Life",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Liberation",
-"type": "keyterm",
-"preferred_label": "Liberation",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:DreadfulEventOrSight",
-"type": "keyterm",
-"preferred_label": "Dreadful Event",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -182,9 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:OlivesMount",
-"type": "place",
-"preferred_label": "Mount of Olives",
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -196,9 +133,72 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Liberation",
+"type": "keyterm",
+"preferred_label": "Liberation",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DreadfulEventOrSight",
+"type": "keyterm",
+"preferred_label": "Dreadful Event",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:OfThisLife",
 "type": "keyterm",
 "preferred_label": "Everyday Matters",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"preferred_label": "Mount of Olives",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -207,6 +207,27 @@
 "type": "realia",
 "preferred_label": "Lepton",
 "confidence": 0.1071,
+"match_method": "canonical"
+},
+{
+"id": "realia:Treasury",
+"type": "realia",
+"preferred_label": "Treasury",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"preferred_label": "Prison",
+"confidence": 0.1018,
 "match_method": "canonical"
 },
 {
@@ -224,30 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:OliveTree",
-"type": "flora",
-"preferred_label": "Olive Tree",
-"confidence": 0.1018,
-"match_method": "canonical"
-},
-{
 "id": "realia:Synagogue",
 "type": "realia",
 "preferred_label": "Synagogue",
-"confidence": 0.1018,
-"match_method": "canonical"
-},
-{
-"id": "realia:Treasury",
-"type": "realia",
-"preferred_label": "Treasury",
-"confidence": 0.1018,
-"match_method": "canonical"
-},
-{
-"id": "realia:Prison",
-"type": "realia",
-"preferred_label": "Prison",
 "confidence": 0.1018,
 "match_method": "canonical"
 }

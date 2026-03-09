@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
+"id": "person:Manasseh",
 "type": "person",
-"preferred_label": "Ephraim",
+"preferred_label": "Manasseh",
 "confidence": 0.4818,
 "match_method": "canonical"
 },
 {
-"id": "person:Manasseh",
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Manasseh",
+"preferred_label": "Ephraim",
 "confidence": 0.4818,
 "match_method": "canonical"
 },
@@ -105,44 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Simeon.5",
-"type": "person",
-"preferred_label": "Simeon",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
 "id": "place:Bethel",
 "type": "place",
 "preferred_label": "Bethel",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehem",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -154,17 +119,38 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1105,
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1705,
 "match_method": "canonical"
 },
 {
-"id": "realia:Bow",
-"type": "realia",
-"preferred_label": "Bow",
-"confidence": 0.1105,
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"preferred_label": "Simeon",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.1705,
 "match_method": "canonical"
 },
 {
@@ -182,9 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
 "type": "realia",
-"preferred_label": "Sword",
+"preferred_label": "Bow",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -192,6 +185,13 @@
 "id": "realia:Bed",
 "type": "realia",
 "preferred_label": "Bed",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
 "confidence": 0.1105,
 "match_method": "canonical"
 }

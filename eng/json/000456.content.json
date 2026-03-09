@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3294,
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
 "confidence": 0.3294,
 "match_method": "canonical"
 },
@@ -56,16 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
-"confidence": 0.3294,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Judah",
 "confidence": 0.3294,
 "match_method": "canonical"
 },
@@ -77,10 +70,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:East",
+"id": "place:Moab",
 "type": "place",
-"preferred_label": "East",
-"confidence": 0.2529,
+"preferred_label": "Moab",
+"confidence": 0.3294,
 "match_method": "canonical"
 },
 {
@@ -98,6 +91,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:East",
+"type": "place",
+"preferred_label": "East",
+"confidence": 0.2529,
+"match_method": "canonical"
+},
+{
+"id": "place:Kiriathaim",
+"type": "place",
+"preferred_label": "Kiriathaim",
+"confidence": 0.1882,
+"match_method": "canonical"
+},
+{
 "id": "place:Dedan",
 "type": "place",
 "preferred_label": "Dedan",
@@ -112,10 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kiriathaim",
+"id": "place:Seir",
 "type": "place",
-"preferred_label": "Kiriathaim",
-"confidence": 0.1882,
+"preferred_label": "Seir",
+"confidence": 0.1765,
 "match_method": "canonical"
 },
 {
@@ -126,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dishonor",
-"type": "keyterm",
-"preferred_label": "To Dishonor",
+"id": "place:Baal-meon",
+"type": "place",
+"preferred_label": "Baal-meon",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -147,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Baal-meon",
-"type": "place",
-"preferred_label": "Baal-meon",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
 "id": "group:Cherethite",
 "type": "group",
 "preferred_label": "Cherethites",
@@ -161,9 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Seir",
-"type": "place",
-"preferred_label": "Seir",
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"preferred_label": "To Dishonor",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "fauna:Camel",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Camel",
 "confidence": 0.1165,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Camel",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Camel",
+"preferred_label": "Goat",
 "confidence": 0.1165,
 "match_method": "canonical"
 }

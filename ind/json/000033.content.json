@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cilicia",
-"type": "place",
-"preferred_label": "Kilikia",
-"confidence": 0.2268,
-"match_method": "canonical"
-},
-{
 "id": "person:Mark",
 "type": "person",
 "preferred_label": "Markus",
@@ -119,44 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"preferred_label": "persundalan",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "injil",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
+"id": "place:Cilicia",
 "type": "place",
-"preferred_label": "Yerusalem",
-"confidence": 0.222,
+"preferred_label": "Kilikia",
+"confidence": 0.2268,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "meminta",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "keselamatan",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "kebaikan",
 "confidence": 0.222,
 "match_method": "canonical"
 },
@@ -168,23 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Petrus",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "penyunatan",
-"confidence": 0.222,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Blood",
 "type": "keyterm",
 "preferred_label": "darah",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"preferred_label": "persundalan",
 "confidence": 0.222,
 "match_method": "canonical"
 },
@@ -196,16 +154,58 @@
 "match_method": "canonical"
 },
 {
-"id": "person:James.3",
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
 "type": "person",
-"preferred_label": "Yakobus",
-"confidence": 0.1659,
+"preferred_label": "Petrus",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "keselamatan",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "injil",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "penyunatan",
+"confidence": 0.222,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
+"confidence": 0.222,
 "match_method": "canonical"
 },
 {
 "id": "place:Phoenicia",
 "type": "place",
 "preferred_label": "Fenisia",
+"confidence": 0.1659,
+"match_method": "canonical"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "Yakobus",
 "confidence": 0.1659,
 "match_method": "canonical"
 },
@@ -217,58 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Portent",
-"type": "keyterm",
-"preferred_label": "mujizat",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:CallUpon",
 "type": "keyterm",
 "preferred_label": "berdoa",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "memberitakan",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "place:Cyprus",
-"type": "place",
-"preferred_label": "Siprus",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "Daud",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -280,93 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Portent",
 "type": "keyterm",
-"preferred_label": "kehidupan",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "bersaksi",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"preferred_label": "kekasih",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "memutuskan",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "place:Pamphylia",
-"type": "place",
-"preferred_label": "Pamfilia",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "membersihkan",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"preferred_label": "menasihati",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "hati",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "menjadi murid",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "tanda",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericMales",
-"type": "group",
-"preferred_label": "Men",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "selama, lamanya",
+"preferred_label": "mujizat",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -378,9 +245,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sabbath",
+"id": "keyterm:Beloved",
 "type": "keyterm",
-"preferred_label": "sabat",
+"preferred_label": "kekasih",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "selama, lamanya",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "tanda",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -399,6 +294,111 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "memberitakan",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "sabat",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "Daud",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "menjadi murid",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Siprus",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "membersihkan",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "menasihati",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericMales",
+"type": "group",
+"preferred_label": "Men",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"preferred_label": "Pamfilia",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "memutuskan",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "hukum",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
 "id": "realia:Yoke",
 "type": "realia",
 "preferred_label": "Yoke",
@@ -413,16 +413,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Synagogue",
+"id": "realia:Tabernacle",
 "type": "realia",
-"preferred_label": "Synagogue",
+"preferred_label": "Tabernacle",
 "confidence": 0.101,
 "match_method": "canonical"
 },
 {
-"id": "realia:Tabernacle",
+"id": "realia:Synagogue",
 "type": "realia",
-"preferred_label": "Tabernacle",
+"preferred_label": "Synagogue",
 "confidence": 0.101,
 "match_method": "canonical"
 }

@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.3914,
 "match_method": "canonical"
 },
@@ -87,6 +87,20 @@
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
 "confidence": 0.3914,
 "match_method": "canonical"
 },
@@ -105,20 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.3914,
-"match_method": "canonical"
-},
-{
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
-"confidence": 0.3914,
-"match_method": "canonical"
-},
-{
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
@@ -130,13 +130,6 @@
 "type": "person",
 "preferred_label": "Shethar-bozenai",
 "confidence": 0.3342,
-"match_method": "canonical"
-},
-{
-"id": "person:Tattenai",
-"type": "person",
-"preferred_label": "Tattenai",
-"confidence": 0.3316,
 "match_method": "canonical"
 },
 {
@@ -154,10 +147,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Artaxerxes.2",
+"id": "person:Tattenai",
 "type": "person",
-"preferred_label": "Artaxerxes",
-"confidence": 0.3263,
+"preferred_label": "Tattenai",
+"confidence": 0.3316,
 "match_method": "canonical"
 },
 {
@@ -168,16 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehozadak",
+"id": "person:Artaxerxes.2",
 "type": "person",
-"preferred_label": "Jehozadak",
-"confidence": 0.2704,
+"preferred_label": "Artaxerxes",
+"confidence": 0.3263,
 "match_method": "canonical"
 },
 {
 "id": "person:Shealtiel.2",
 "type": "person",
 "preferred_label": "Shealtiel",
+"confidence": 0.2704,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehozadak",
+"type": "person",
+"preferred_label": "Jehozadak",
 "confidence": 0.2704,
 "match_method": "canonical"
 },
@@ -210,13 +210,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Haggai",
-"type": "person",
-"preferred_label": "Haggai",
-"confidence": 0.2145,
-"match_method": "canonical"
-},
-{
 "id": "person:Iddo.6",
 "type": "person",
 "preferred_label": "Iddo",
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "person:Haggai",
 "type": "person",
-"preferred_label": "Moses",
+"preferred_label": "Haggai",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.2118,
 "match_method": "canonical"
 }

@@ -84,6 +84,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Abinadab.2",
+"type": "person",
+"preferred_label": "Abinadab",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
 "id": "place:Beth-ashtoreth",
 "type": "place",
 "preferred_label": "Beth-ashtoreth",
@@ -98,23 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abinadab.2",
-"type": "person",
-"preferred_label": "Abinadab",
-"confidence": 0.2,
-"match_method": "canonical"
-},
-{
 "id": "person:Jonathan.3",
 "type": "person",
 "preferred_label": "Jonathan",
-"confidence": 0.1846,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
 "confidence": 0.1846,
 "match_method": "canonical"
 },
@@ -126,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:UncircumcisedPerson",
 "type": "keyterm",
 "preferred_label": "Uncircumcised Person",
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.1846,
 "match_method": "canonical"
 },
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bow",
+"id": "realia:Image",
 "type": "realia",
-"preferred_label": "Bow",
+"preferred_label": "Image",
 "confidence": 0.1246,
 "match_method": "canonical"
 },
 {
-"id": "realia:Image",
+"id": "realia:Bow",
 "type": "realia",
-"preferred_label": "Image",
+"preferred_label": "Bow",
 "confidence": 0.1246,
 "match_method": "canonical"
 }

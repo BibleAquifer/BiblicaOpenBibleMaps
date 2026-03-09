@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2888,
-"match_method": "canonical"
-},
-{
 "id": "person:Silas",
 "type": "person",
 "preferred_label": "Silas",
@@ -77,24 +70,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2838,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2838,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.2838,
+"preferred_label": "Believe",
+"confidence": 0.2888,
 "match_method": "canonical"
 },
 {
@@ -112,17 +91,31 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
 "id": "person:Lydia",
 "type": "person",
 "preferred_label": "Lydia",
 "confidence": 0.2325,
-"match_method": "canonical"
-},
-{
-"id": "place:Mysia",
-"type": "place",
-"preferred_label": "Mysia",
-"confidence": 0.2275,
 "match_method": "canonical"
 },
 {
@@ -136,6 +129,13 @@
 "id": "place:Lystra",
 "type": "place",
 "preferred_label": "Lystra",
+"confidence": 0.2275,
+"match_method": "canonical"
+},
+{
+"id": "place:Mysia",
+"type": "place",
+"preferred_label": "Mysia",
 "confidence": 0.2275,
 "match_method": "canonical"
 },
@@ -168,6 +168,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Faithfulness",
 "type": "keyterm",
 "preferred_label": "Faithfulness",
@@ -182,16 +189,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 0.2225,
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.1663,
 "match_method": "canonical"
 },
 {
-"id": "person:PhilippianJailer",
-"type": "person",
-"preferred_label": "Philippian Jailer",
+"id": "place:Neapolis",
+"type": "place",
+"preferred_label": "Neapolis",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"preferred_label": "Derbe",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Samothrace",
+"type": "place",
+"preferred_label": "Samothrace",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -210,51 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bithynia",
-"type": "place",
-"preferred_label": "Bithynia",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Derbe",
-"type": "place",
-"preferred_label": "Derbe",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
 "id": "place:Galatia",
 "type": "place",
 "preferred_label": "Galatia",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Asia",
-"type": "place",
-"preferred_label": "Asia",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Phrygia",
-"type": "place",
-"preferred_label": "Phrygia",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Neapolis",
-"type": "place",
-"preferred_label": "Neapolis",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Samothrace",
-"type": "place",
-"preferred_label": "Samothrace",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -266,10 +245,24 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.1625,
+"id": "place:Bithynia",
+"type": "place",
+"preferred_label": "Bithynia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"preferred_label": "Phrygia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:PhilippianJailer",
+"type": "person",
+"preferred_label": "Philippian Jailer",
+"confidence": 0.1663,
 "match_method": "canonical"
 },
 {
@@ -280,38 +273,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Worship",
-"type": "keyterm",
-"preferred_label": "Worship",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
-"confidence": 0.1613,
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1625,
 "match_method": "canonical"
 },
 {
@@ -325,6 +290,20 @@
 "id": "keyterm:Peace",
 "type": "keyterm",
 "preferred_label": "Make Peace",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -343,16 +322,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Iconium",
-"type": "place",
-"preferred_label": "Iconium",
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Church",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -371,16 +364,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
+"preferred_label": "Fear",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"preferred_label": "Iconium",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -399,16 +399,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Foundation",
+"id": "realia:Chain",
 "type": "realia",
-"preferred_label": "Foundation",
+"preferred_label": "Chain",
 "confidence": 0.1013,
 "match_method": "canonical"
 },
 {
-"id": "realia:Chain",
+"id": "realia:Foundation",
 "type": "realia",
-"preferred_label": "Chain",
+"preferred_label": "Foundation",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

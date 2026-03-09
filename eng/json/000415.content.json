@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Euphrates",
+"id": "place:Mizpah",
 "type": "place",
-"preferred_label": "Euphrates River",
+"preferred_label": "Mizpah",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
 {
-"id": "place:Mizpah",
+"id": "place:Euphrates",
 "type": "place",
-"preferred_label": "Mizpah",
+"preferred_label": "Euphrates River",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hakkoz.3",
+"id": "person:Tobiah.2",
 "type": "person",
-"preferred_label": "Hakkoz",
+"preferred_label": "Tobiah",
 "confidence": 0.2224,
 "match_method": "canonical"
 },
@@ -98,16 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Horonites",
-"type": "group",
-"preferred_label": "Horonites",
-"confidence": 0.2224,
-"match_method": "canonical"
-},
-{
-"id": "person:Tobiah.2",
-"type": "person",
-"preferred_label": "Tobiah",
+"id": "place:Ophel",
+"type": "place",
+"preferred_label": "Ophel",
 "confidence": 0.2224,
 "match_method": "canonical"
 },
@@ -119,9 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:FountainGate",
-"type": "place",
-"preferred_label": "Fountain Gate",
+"id": "person:Azariah.17",
+"type": "person",
+"preferred_label": "Azariah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Hakkoz.3",
+"type": "person",
+"preferred_label": "Hakkoz",
 "confidence": 0.2224,
 "match_method": "canonical"
 },
@@ -133,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ophel",
-"type": "place",
-"preferred_label": "Ophel",
-"confidence": 0.2224,
-"match_method": "canonical"
-},
-{
 "id": "place:SheepGate",
 "type": "place",
 "preferred_label": "Sheep Gate",
@@ -147,23 +140,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Azariah.17",
-"type": "person",
-"preferred_label": "Azariah",
+"id": "place:FountainGate",
+"type": "place",
+"preferred_label": "Fountain Gate",
 "confidence": 0.2224,
 "match_method": "canonical"
 },
 {
-"id": "place:Tekoa",
-"type": "place",
-"preferred_label": "Tekoa",
-"confidence": 0.219,
+"id": "group:Horonites",
+"type": "group",
+"preferred_label": "Horonites",
+"confidence": 0.2224,
 "match_method": "canonical"
 },
 {
 "id": "person:Sanballat",
 "type": "person",
 "preferred_label": "Sanballat",
+"confidence": 0.219,
+"match_method": "canonical"
+},
+{
+"id": "place:Tekoa",
+"type": "place",
+"preferred_label": "Tekoa",
 "confidence": 0.219,
 "match_method": "canonical"
 },
@@ -182,23 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.2155,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.2155,
-"match_method": "canonical"
-},
-{
 "id": "person:David",
 "type": "person",
 "preferred_label": "David",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.2155,
 "match_method": "canonical"
 },
@@ -210,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Siloam",
-"type": "place",
-"preferred_label": "Siloam",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.2155,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Pahath-moab.2",
+"id": "place:Siloam",
+"type": "place",
+"preferred_label": "Siloam",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "person:Zalaph",
 "type": "person",
-"preferred_label": "Pahath-moab",
+"preferred_label": "Zalaph",
 "confidence": 0.1612,
 "match_method": "canonical"
 }

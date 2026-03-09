@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
 "confidence": 0.4346,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.4346,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pure",
-"type": "keyterm",
-"preferred_label": "Pure",
-"confidence": 0.3731,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Passover",
 "type": "keyterm",
 "preferred_label": "Passover",
@@ -119,10 +112,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Tribe of Manasseh",
-"confidence": 0.3692,
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
+"confidence": 0.3731,
 "match_method": "canonical"
 },
 {
@@ -140,24 +133,17 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Manasseh",
+"type": "group",
+"preferred_label": "Tribe of Manasseh",
+"confidence": 0.3692,
+"match_method": "canonical"
+},
+{
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
 "confidence": 0.3592,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3246,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.3246,
 "match_method": "canonical"
 },
 {
@@ -175,17 +161,24 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3246,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.3246,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Bull",
 "type": "fauna",
 "preferred_label": "Cattle",
 "confidence": 0.3208,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
-"confidence": 0.3169,
 "match_method": "canonical"
 },
 {
@@ -196,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.3154,
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
+"confidence": 0.3169,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.3154,
 "match_method": "canonical"
 },
@@ -220,6 +213,13 @@
 "id": "keyterm:Work",
 "type": "keyterm",
 "preferred_label": "Work",
+"confidence": 0.3154,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.3154,
 "match_method": "canonical"
 },

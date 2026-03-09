@@ -48,6 +48,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.455,
+"match_method": "canonical"
+},
+{
 "id": "group:Philistine",
 "type": "group",
 "preferred_label": "Philistines",
@@ -58,13 +65,6 @@
 "id": "place:Philistine",
 "type": "place",
 "preferred_label": "Philistia",
-"confidence": 0.455,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
 "confidence": 0.455,
 "match_method": "canonical"
 },
@@ -125,9 +125,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Saph",
+"id": "person:Elhanan",
 "type": "person",
-"preferred_label": "Saph",
+"preferred_label": "Elhanan",
+"confidence": 0.2433,
+"match_method": "canonical"
+},
+{
+"id": "person:HugeMan",
+"type": "person",
+"preferred_label": "Huge Man",
 "confidence": 0.2433,
 "match_method": "canonical"
 },
@@ -146,23 +153,16 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Saph",
+"type": "person",
+"preferred_label": "Saph",
+"confidence": 0.2433,
+"match_method": "canonical"
+},
+{
 "id": "group:Hushathites",
 "type": "group",
 "preferred_label": "Hushathites",
-"confidence": 0.2433,
-"match_method": "canonical"
-},
-{
-"id": "person:HugeMan",
-"type": "person",
-"preferred_label": "Huge Man",
-"confidence": 0.2433,
-"match_method": "canonical"
-},
-{
-"id": "person:Elhanan",
-"type": "person",
-"preferred_label": "Elhanan",
 "confidence": 0.2433,
 "match_method": "canonical"
 },
@@ -181,9 +181,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "person:Jonadab.2",
+"type": "person",
+"preferred_label": "Jonadab",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -202,16 +209,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "person:Jonadab.2",
-"type": "person",
-"preferred_label": "Jonadab",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -230,27 +230,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Barzillai.2",
-"type": "person",
-"preferred_label": "Barzillai",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
-"id": "person:Ishbi-benob",
-"type": "person",
-"preferred_label": "Ishbi-benob",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
-"id": "place:Zela",
-"type": "place",
-"preferred_label": "Zela",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
 "id": "person:Armoni",
 "type": "person",
 "preferred_label": "Armoni",
@@ -258,9 +237,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mephibosheth",
+"id": "person:Barzillai.2",
 "type": "person",
-"preferred_label": "Mephibosheth",
+"preferred_label": "Barzillai",
 "confidence": 0.1717,
 "match_method": "canonical"
 },
@@ -272,6 +251,20 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Meholathites",
+"type": "group",
+"preferred_label": "Meholathites",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"preferred_label": "Mephibosheth",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
 "id": "person:Mephibosheth.2",
 "type": "person",
 "preferred_label": "Mephibosheth",
@@ -279,9 +272,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Meholathites",
-"type": "group",
-"preferred_label": "Meholathites",
+"id": "place:Zela",
+"type": "place",
+"preferred_label": "Zela",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "person:Ishbi-benob",
+"type": "person",
+"preferred_label": "Ishbi-benob",
 "confidence": 0.1717,
 "match_method": "canonical"
 },
@@ -293,58 +293,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Appease",
 "type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "group:Bethlehem",
-"type": "group",
-"preferred_label": "Bethlehemites",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Jabesh-gilead",
-"type": "place",
-"preferred_label": "Jabesh-gilead",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Abishai",
-"type": "person",
-"preferred_label": "Abishai",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Merab",
-"type": "person",
-"preferred_label": "Merab",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:GilboaMount",
-"type": "place",
-"preferred_label": "Mount Gilboa",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
+"preferred_label": "Appease",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -352,48 +303,6 @@
 "id": "group:Benjamin",
 "type": "group",
 "preferred_label": "Tribe of Benjamin",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Kish",
-"type": "person",
-"preferred_label": "Kish",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"preferred_label": "Oath",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "group:Rephaim",
-"type": "group",
-"preferred_label": "Rephaim",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Zeruiah",
-"type": "person",
-"preferred_label": "Zeruiah",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Appease",
-"type": "keyterm",
-"preferred_label": "Appease",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -412,30 +321,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethlehem",
+"id": "place:Jabesh-gilead",
 "type": "place",
-"preferred_label": "Bethlehem",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-shan",
-"type": "place",
-"preferred_label": "Beth-shan",
+"preferred_label": "Jabesh-gilead",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -447,10 +335,115 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:PointOfSpear",
-"type": "realia",
-"preferred_label": "Point of Spear",
-"confidence": 0.1117,
+"id": "person:Merab",
+"type": "person",
+"preferred_label": "Merab",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"preferred_label": "Rephaim",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:GilboaMount",
+"type": "place",
+"preferred_label": "Mount Gilboa",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "group:Bethlehem",
+"type": "group",
+"preferred_label": "Bethlehemites",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Kish",
+"type": "person",
+"preferred_label": "Kish",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-shan",
+"type": "place",
+"preferred_label": "Beth-shan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"preferred_label": "Zeruiah",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.165,
 "match_method": "canonical"
 },
 {
@@ -461,10 +454,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lamp",
+"id": "realia:PointOfSpear",
 "type": "realia",
-"preferred_label": "Lamp",
-"confidence": 0.105,
+"preferred_label": "Point of Spear",
+"confidence": 0.1117,
 "match_method": "canonical"
 },
 {
@@ -478,6 +471,13 @@
 "id": "flora:Barley",
 "type": "flora",
 "preferred_label": "Barley",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"preferred_label": "Lamp",
 "confidence": 0.105,
 "match_method": "canonical"
 },

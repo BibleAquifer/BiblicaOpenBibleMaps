@@ -35,6 +35,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.3486,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Speak",
 "type": "keyterm",
 "preferred_label": "Speak as a Prophet",
@@ -45,13 +52,6 @@
 "id": "keyterm:Ardour",
 "type": "keyterm",
 "preferred_label": "Passion",
-"confidence": 0.3486,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
 "confidence": 0.3486,
 "match_method": "canonical"
 },
@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2865,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:PracticeDivination",
 "type": "keyterm",
 "preferred_label": "Practice Divination",
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ammon",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Ammon",
+"preferred_label": "Jerusalem",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
 "confidence": 0.2243,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
+"id": "place:Ammon",
 "type": "place",
-"preferred_label": "Babylon",
+"preferred_label": "Ammon",
 "confidence": 0.2243,
 "match_method": "canonical"
 },
@@ -112,20 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -133,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:HaveAVision",
-"type": "keyterm",
-"preferred_label": "Have a Vision",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -154,24 +140,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Turban",
-"type": "realia",
-"preferred_label": "Turban",
-"confidence": 0.1022,
+"id": "keyterm:HaveAVision",
+"type": "keyterm",
+"preferred_label": "Have a Vision",
+"confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "realia:Siege-works",
-"type": "realia",
-"preferred_label": "Siege-Works",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "realia:Battering-ram",
-"type": "realia",
-"preferred_label": "Battering-Ram",
-"confidence": 0.1022,
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1622,
 "match_method": "canonical"
 },
 {
@@ -189,9 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Arrow",
+"id": "realia:Battering-ram",
 "type": "realia",
-"preferred_label": "Arrow",
+"preferred_label": "Battering-Ram",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Siege-works",
+"type": "realia",
+"preferred_label": "Siege-Works",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -199,6 +185,20 @@
 "id": "realia:SiegeRamp",
 "type": "realia",
 "preferred_label": "Siege Ramp",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Turban",
+"type": "realia",
+"preferred_label": "Turban",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"preferred_label": "Arrow",
 "confidence": 0.1022,
 "match_method": "canonical"
 }

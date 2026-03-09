@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Promise",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Promise",
 "confidence": 0.3802,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Promise",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Promise",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.3802,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Favor",
 "confidence": 0.3711,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "Favor",
+"preferred_label": "Life",
 "confidence": 0.3711,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3651,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
 "confidence": 0.3651,
 "match_method": "canonical"
 },
@@ -175,6 +175,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:James.3",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.2604,
+"match_method": "canonical"
+},
+{
 "id": "person:Barnabas",
 "type": "person",
 "preferred_label": "Barnabas",
@@ -196,13 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:James.3",
-"type": "person",
-"preferred_label": "James",
-"confidence": 0.2604,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "To Sin",
@@ -210,16 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
-"confidence": 0.2591,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.2591,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "keyterm:Church",
 "type": "keyterm",
 "preferred_label": "Church",
+"confidence": 0.2591,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"preferred_label": "Make Peace",
 "confidence": 0.2591,
 "match_method": "canonical"
 }

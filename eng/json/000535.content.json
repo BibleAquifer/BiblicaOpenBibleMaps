@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:BringHonorAndGloryOnOneself",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Bring Honor and Glory on Oneself",
 "confidence": 0.2935,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BringHonorAndGloryOnOneself",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Bring Honor and Glory on Oneself",
+"preferred_label": "Fear",
 "confidence": 0.2935,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wagon",
+"id": "realia:Rod",
 "type": "realia",
-"preferred_label": "Wagon",
+"preferred_label": "Rod",
 "confidence": 0.1045,
 "match_method": "canonical"
 },
 {
-"id": "realia:Rod",
+"id": "realia:Wagon",
 "type": "realia",
-"preferred_label": "Rod",
+"preferred_label": "Wagon",
 "confidence": 0.1045,
 "match_method": "canonical"
 }

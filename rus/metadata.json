@@ -30,7 +30,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "BiblicaOpenBibleMaps",
-    "date_created": "2026-03-06",
+    "date_created": "2026-03-09",
     "language": "rus",
     "localizations": [
       "eng",
@@ -47,7 +47,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2026-03-06T14:54:08.368818"
+      "dateCreated": "2026-03-09T06:06:42.376278"
     },
     "idAuthorities": {
       "aquifer": {
@@ -61,7 +61,7 @@
       "primary": {
         "aquifer": {
           "BiblicaOpenBibleMaps": {
-            "timestamp": "2026-03-06T14:54:08.368818"
+            "timestamp": "2026-03-09T06:06:42.376278"
           }
         }
       },
@@ -325,7 +325,7 @@
       },
       "md/000006.content.md": {
         "mimeType": "text/markdown",
-        "size": 1715
+        "size": 1725
       },
       "md/000007.content.md": {
         "mimeType": "text/markdown",
@@ -333,27 +333,27 @@
       },
       "md/000008.content.md": {
         "mimeType": "text/markdown",
-        "size": 1753
+        "size": 1755
       },
       "md/000009.content.md": {
         "mimeType": "text/markdown",
-        "size": 1764
+        "size": 1776
       },
       "md/000010.content.md": {
         "mimeType": "text/markdown",
-        "size": 1745
+        "size": 1747
       },
       "md/000011.content.md": {
         "mimeType": "text/markdown",
-        "size": 1723
+        "size": 1715
       },
       "md/000012.content.md": {
         "mimeType": "text/markdown",
-        "size": 1815
+        "size": 1841
       },
       "md/000013.content.md": {
         "mimeType": "text/markdown",
-        "size": 1816
+        "size": 1831
       },
       "md/000014.content.md": {
         "mimeType": "text/markdown",
@@ -401,7 +401,7 @@
       },
       "md/000025.content.md": {
         "mimeType": "text/markdown",
-        "size": 1776
+        "size": 1777
       },
       "md/000026.content.md": {
         "mimeType": "text/markdown",
@@ -425,7 +425,7 @@
       },
       "md/000031.content.md": {
         "mimeType": "text/markdown",
-        "size": 1774
+        "size": 1782
       },
       "md/000032.content.md": {
         "mimeType": "text/markdown",
@@ -441,7 +441,7 @@
       },
       "md/000035.content.md": {
         "mimeType": "text/markdown",
-        "size": 1805
+        "size": 1806
       },
       "md/000036.content.md": {
         "mimeType": "text/markdown",
@@ -449,7 +449,7 @@
       },
       "md/000037.content.md": {
         "mimeType": "text/markdown",
-        "size": 1800
+        "size": 1792
       },
       "md/000038.content.md": {
         "mimeType": "text/markdown",
@@ -489,15 +489,15 @@
       },
       "md/000047.content.md": {
         "mimeType": "text/markdown",
-        "size": 1722
+        "size": 1734
       },
       "md/000048.content.md": {
         "mimeType": "text/markdown",
-        "size": 1778
+        "size": 1785
       },
       "md/000049.content.md": {
         "mimeType": "text/markdown",
-        "size": 1727
+        "size": 1725
       },
       "md/000050.content.md": {
         "mimeType": "text/markdown",
@@ -513,7 +513,7 @@
       },
       "md/000053.content.md": {
         "mimeType": "text/markdown",
-        "size": 1696
+        "size": 1701
       }
     },
     "copyright": {

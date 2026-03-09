@@ -126,51 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Laban",
-"type": "person",
-"preferred_label": "Laban",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
 "id": "person:Abraham",
 "type": "person",
 "preferred_label": "Abraham",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Isaac",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -189,10 +147,59 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"preferred_label": "Laban",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Kindness",
 "type": "keyterm",
 "preferred_label": "Kindness",
 "confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
+"confidence": 0.1036,
 "match_method": "canonical"
 },
 {
@@ -206,13 +213,6 @@
 "id": "realia:Staff",
 "type": "realia",
 "preferred_label": "Staff",
-"confidence": 0.1036,
-"match_method": "canonical"
-},
-{
-"id": "realia:Rod",
-"type": "realia",
-"preferred_label": "Rod",
 "confidence": 0.1036,
 "match_method": "canonical"
 }

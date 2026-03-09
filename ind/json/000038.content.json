@@ -84,27 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "percaya",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pure",
-"type": "keyterm",
-"preferred_label": "murni",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "place:Cyprus",
-"type": "place",
-"preferred_label": "Siprus",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
 "id": "deity:HolySpirit",
 "type": "deity",
 "preferred_label": "Roh",
@@ -112,16 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "nama",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "menjadi murid",
+"preferred_label": "percaya",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -133,6 +105,34 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "murni",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "menjadi murid",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Siprus",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "realia:Step",
 "type": "realia",
 "preferred_label": "Step",
@@ -140,51 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mnason",
-"type": "person",
-"preferred_label": "Manason",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Patara",
-"type": "place",
-"preferred_label": "Patara",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Tarsus",
-"type": "place",
-"preferred_label": "Tarsus",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Cilicia",
-"type": "place",
-"preferred_label": "Kilikia",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "person:Trophimus",
-"type": "person",
-"preferred_label": "Trofimus",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
 "id": "place:Rhodes",
 "type": "place",
 "preferred_label": "Rodos",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "person:Philip.4",
-"type": "person",
-"preferred_label": "Filipus",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -203,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Cyprus",
+"type": "group",
+"preferred_label": "Cypriots",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
 "id": "group:Tarsus",
 "type": "group",
 "preferred_label": "Tarsus",
@@ -210,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Cyprus",
-"type": "group",
-"preferred_label": "Cypriots",
+"id": "place:Patara",
+"type": "place",
+"preferred_label": "Patara",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -224,9 +189,58 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"preferred_label": "persundalan",
+"id": "person:Mnason",
+"type": "person",
+"preferred_label": "Manason",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"preferred_label": "Filipus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Tarsus",
+"type": "place",
+"preferred_label": "Tarsus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Trophimus",
+"type": "person",
+"preferred_label": "Trofimus",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Kilikia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:MilitaryMember",
+"type": "person",
+"preferred_label": "Military Member",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"preferred_label": "Asia",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -238,30 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "group:Ephesus",
-"type": "group",
-"preferred_label": "Ephesians",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "Egyptians",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Persuade",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "membujuk",
+"preferred_label": "khusus",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -273,16 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Musa",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "place:Acco",
-"type": "place",
-"preferred_label": "Ako",
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "darah",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -290,6 +276,13 @@
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "kemuliaan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"preferred_label": "persundalan",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -308,23 +301,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "pencemaran",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:SomethingDefinite",
-"type": "keyterm",
-"preferred_label": "apa yang sebenarnya terjadi",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "place:Asia",
-"type": "place",
-"preferred_label": "Asia",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -336,23 +315,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ephesus",
-"type": "place",
-"preferred_label": "Efesus",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "persembahan",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"preferred_label": "Be Lawful",
+"preferred_label": "melayani",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -364,9 +329,30 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Pray",
 "type": "keyterm",
 "preferred_label": "berdoa",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Efesus",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -378,23 +364,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Yehuda",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "persembahan",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "hati",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Live.3",
-"type": "keyterm",
-"preferred_label": "hidup",
+"id": "group:Ephesus",
+"type": "group",
+"preferred_label": "Ephesians",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -406,44 +385,65 @@
 "match_method": "canonical"
 },
 {
-"id": "person:MilitaryMember",
-"type": "person",
-"preferred_label": "Military Member",
+"id": "place:Acco",
+"type": "place",
+"preferred_label": "Ako",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Live.3",
 "type": "keyterm",
-"preferred_label": "melayani",
+"preferred_label": "hidup",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Musa",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:SomethingDefinite",
 "type": "keyterm",
-"preferred_label": "khusus",
+"preferred_label": "apa yang sebenarnya terjadi",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blood",
+"id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "darah",
+"preferred_label": "hati",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Yesus",
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "pencemaran",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "membujuk",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Yehuda",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -452,27 +452,6 @@
 "type": "realia",
 "preferred_label": "Belt",
 "confidence": 0.1063,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bag",
-"type": "realia",
-"preferred_label": "Bag",
-"confidence": 0.1013,
-"match_method": "canonical"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.1013,
-"match_method": "canonical"
-},
-{
-"id": "realia:Tabernacle",
-"type": "realia",
-"preferred_label": "Tabernacle",
-"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
@@ -486,6 +465,27 @@
 "id": "realia:Chain",
 "type": "realia",
 "preferred_label": "Chain",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"preferred_label": "Bag",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"preferred_label": "Tabernacle",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

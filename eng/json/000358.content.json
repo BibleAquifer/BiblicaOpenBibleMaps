@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4217,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4217,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishai",
-"type": "person",
-"preferred_label": "Abishai",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.2696,
 "match_method": "canonical"
 },
@@ -154,17 +154,24 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.2696,
-"match_method": "canonical"
-},
-{
 "id": "person:Mephibosheth",
 "type": "person",
 "preferred_label": "Mephibosheth",
 "confidence": 0.2696,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.2696,
+"match_method": "canonical"
+},
+{
+"id": "group:Pelethites",
+"type": "group",
+"preferred_label": "Pelethites",
+"confidence": 0.2159,
 "match_method": "canonical"
 },
 {
@@ -182,10 +189,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pelethites",
-"type": "group",
-"preferred_label": "Pelethites",
-"confidence": 0.2159,
+"id": "person:Ziba",
+"type": "person",
+"preferred_label": "Ziba",
+"confidence": 0.213,
 "match_method": "canonical"
 },
 {
@@ -196,30 +203,23 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.213,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.213,
+"match_method": "canonical"
+},
+{
 "id": "person:Zadok.2",
 "type": "person",
 "preferred_label": "Zadok",
-"confidence": 0.213,
-"match_method": "canonical"
-},
-{
-"id": "person:Ziba",
-"type": "person",
-"preferred_label": "Ziba",
-"confidence": 0.213,
-"match_method": "canonical"
-},
-{
-"id": "person:Saul.2",
-"type": "person",
-"preferred_label": "Saul",
-"confidence": 0.213,
-"match_method": "canonical"
-},
-{
-"id": "person:Zeruiah",
-"type": "person",
-"preferred_label": "Zeruiah",
 "confidence": 0.213,
 "match_method": "canonical"
 },

@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "Moses",
+"preferred_label": "Israel",
 "confidence": 0.3,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Moses",
 "confidence": 0.3,
 "match_method": "canonical"
 },
@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Pharaoh.6",
-"type": "person",
-"preferred_label": "Pharaoh",
-"confidence": 0.2333,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Holy",
 "type": "keyterm",
 "preferred_label": "Holy",
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Leader",
-"type": "keyterm",
-"preferred_label": "Leader",
+"id": "person:Pharaoh.6",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.2333,
+"match_method": "canonical"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"preferred_label": "Shur",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shur",
-"type": "place",
-"preferred_label": "Shur",
+"id": "keyterm:Leader",
+"type": "keyterm",
+"preferred_label": "Leader",
 "confidence": 0.1741,
 "match_method": "canonical"
 },
@@ -140,30 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
 "id": "place:Edom",
 "type": "place",
 "preferred_label": "Edom",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "person:Aaron",
-"type": "person",
-"preferred_label": "Aaron",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -175,20 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1667,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Strength",
 "type": "keyterm",
 "preferred_label": "Strength",
@@ -196,9 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
+"id": "keyterm:Terror",
+"type": "keyterm",
+"preferred_label": "Terror",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -210,6 +175,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Kindness",
 "type": "keyterm",
 "preferred_label": "Kindness",
@@ -217,16 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Terror",
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Terror",
+"preferred_label": "Fear",
+"confidence": 0.1667,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
 "confidence": 0.1667,
 "match_method": "canonical"
 },

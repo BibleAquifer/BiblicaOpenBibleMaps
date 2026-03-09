@@ -63,16 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "sorga",
-"confidence": 0.3737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "percaya",
+"preferred_label": "kebaikan",
 "confidence": 0.3737,
 "match_method": "canonical"
 },
@@ -84,6 +77,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "sorga",
+"confidence": 0.3737,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "hati",
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "kebaikan",
+"preferred_label": "percaya",
 "confidence": 0.3737,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Beloved",
+"id": "keyterm:Live.3",
 "type": "keyterm",
-"preferred_label": "kekasih",
+"preferred_label": "hidup",
 "confidence": 0.3211,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Live.3",
+"id": "keyterm:Beloved",
 "type": "keyterm",
-"preferred_label": "hidup",
+"preferred_label": "kekasih",
 "confidence": 0.3211,
 "match_method": "canonical"
 },
@@ -161,16 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
+"id": "keyterm:InChrist",
 "type": "keyterm",
-"preferred_label": "penyunatan",
-"confidence": 0.2642,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "harapan",
+"preferred_label": "dalam kristus",
 "confidence": 0.2642,
 "match_method": "canonical"
 },
@@ -182,9 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:InChrist",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "dalam kristus",
+"preferred_label": "harapan",
+"confidence": 0.2642,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "penyunatan",
 "confidence": 0.2642,
 "match_method": "canonical"
 },
@@ -210,23 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "memberitakan",
-"confidence": 0.2095,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "kebenaran",
-"confidence": 0.2095,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:GoodNews",
 "type": "keyterm",
 "preferred_label": "injil",
+"confidence": 0.2095,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "kebangkitan",
+"confidence": 0.2095,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "kerajaan",
 "confidence": 0.2095,
 "match_method": "canonical"
 }

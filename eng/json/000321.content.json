@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericFather",
-"type": "person",
-"preferred_label": "A Father",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3175,
 "match_method": "canonical"
 },
@@ -105,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.3175,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Foolish",
 "type": "keyterm",
 "preferred_label": "Foolish",
@@ -112,16 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.3175,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"id": "person:GenericFather",
+"type": "person",
+"preferred_label": "A Father",
 "confidence": 0.3175,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.2631,
 "match_method": "canonical"
 },
 {
-"id": "person:Ephraim",
-"type": "person",
-"preferred_label": "Ephraim",
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.2631,
 "match_method": "canonical"
 },
@@ -161,13 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.2631,
-"match_method": "canonical"
-},
-{
 "id": "place:Bethlehem",
 "type": "place",
 "preferred_label": "Bethlehem",
@@ -175,30 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
+"id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Levi",
-"confidence": 0.2087,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2087,
+"preferred_label": "Ephraim",
+"confidence": 0.2631,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:IntactState",
 "type": "keyterm",
 "preferred_label": "Peace",
-"confidence": 0.2087,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Wickedness",
-"type": "keyterm",
-"preferred_label": "Wickedness",
 "confidence": 0.2087,
 "match_method": "canonical"
 },
@@ -217,9 +196,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
 "id": "person:GenericMale",
 "type": "person",
 "preferred_label": "A Man",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.2087,
 "match_method": "canonical"
 },

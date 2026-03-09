@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Speak",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Speak as a Prophet",
+"preferred_label": "Holy",
 "confidence": 0.3346,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Speak",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Speak as a Prophet",
 "confidence": 0.3346,
 "match_method": "canonical"
 },
@@ -98,16 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
+"id": "keyterm:Slaughtering",
 "type": "keyterm",
-"preferred_label": "Passion",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
+"preferred_label": "Slaughtering",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -119,9 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
+"id": "keyterm:Unfaithful",
 "type": "keyterm",
-"preferred_label": "Slaughtering",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -147,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Beth-togarmah",
+"type": "place",
+"preferred_label": "Beth-togarmah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
 "id": "person:Gomer",
 "type": "person",
 "preferred_label": "Gomer",
@@ -157,13 +164,6 @@
 "id": "place:Hamonah",
 "type": "place",
 "preferred_label": "Hamonah",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-togarmah",
-"type": "place",
-"preferred_label": "Beth-togarmah",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tarshish",
+"id": "place:Dedan",
 "type": "place",
-"preferred_label": "Tarshish",
+"preferred_label": "Dedan",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
@@ -196,13 +196,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dishonor",
-"type": "keyterm",
-"preferred_label": "To Dishonor",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "Glory",
@@ -210,23 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Zealous",
 "type": "keyterm",
-"preferred_label": "Defilement",
+"preferred_label": "Be Zealous",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "place:Bashan",
-"type": "place",
-"preferred_label": "Bashan",
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "place:Put",
+"id": "place:Cush.2",
 "type": "place",
-"preferred_label": "Put",
+"preferred_label": "Cush",
 "confidence": 0.1587,
 "match_method": "canonical"
 }

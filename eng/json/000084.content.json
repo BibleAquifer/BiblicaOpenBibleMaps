@@ -98,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.212,
+"match_method": "canonical"
+},
+{
 "id": "place:Galilee",
 "type": "place",
 "preferred_label": "Galilee",
@@ -112,10 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.212,
+"id": "fauna:Rooster",
+"type": "fauna",
+"preferred_label": "Rooster",
+"confidence": 0.2107,
 "match_method": "canonical"
 },
 {
@@ -126,16 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Rooster",
-"type": "fauna",
-"preferred_label": "Rooster",
-"confidence": 0.2107,
-"match_method": "canonical"
-},
-{
-"id": "place:Gethsemane",
-"type": "place",
-"preferred_label": "Gethsemane",
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
@@ -147,20 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Bethany",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Spirit.2",
 "type": "keyterm",
 "preferred_label": "Spirit",
@@ -168,51 +154,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nazareth",
+"id": "place:Bethany",
 "type": "place",
-"preferred_label": "Nazareth",
-"confidence": 0.156,
+"preferred_label": "Bethany",
+"confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disaster",
+"id": "place:Gethsemane",
+"type": "place",
+"preferred_label": "Gethsemane",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Disaster",
+"preferred_label": "Word",
 "confidence": 0.156,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
+"id": "keyterm:Witness",
 "type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.156,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericServant",
-"type": "person",
-"preferred_label": "A Servant",
-"confidence": 0.156,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.156,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.156,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"preferred_label": "Witness",
 "confidence": 0.156,
 "match_method": "canonical"
 },
@@ -224,9 +189,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Ask for",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.156,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
 "confidence": 0.156,
 "match_method": "canonical"
 }

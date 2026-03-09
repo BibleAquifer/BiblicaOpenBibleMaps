@@ -56,6 +56,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "roh",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "berdoa",
+"confidence": 0.26,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Believe",
 "type": "keyterm",
 "preferred_label": "percaya",
@@ -70,27 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "firman",
-"confidence": 0.26,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "berdoa",
-"confidence": 0.26,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "roh",
-"confidence": 0.26,
-"match_method": "canonical"
-},
-{
 "id": "person:Philip.4",
 "type": "person",
 "preferred_label": "Filipus",
@@ -98,30 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hellenist",
-"type": "group",
-"preferred_label": "Hellenists",
-"confidence": 0.1933,
-"match_method": "canonical"
-},
-{
-"id": "person:Prochorus",
-"type": "person",
-"preferred_label": "Prokhorus",
-"confidence": 0.1933,
-"match_method": "canonical"
-},
-{
 "id": "group:Alexandria",
 "type": "group",
 "preferred_label": "Alexandrians",
-"confidence": 0.1933,
-"match_method": "canonical"
-},
-{
-"id": "group:Antioch",
-"type": "group",
-"preferred_label": "Antiochians",
 "confidence": 0.1933,
 "match_method": "canonical"
 },
@@ -133,30 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nicolaus",
+"id": "person:Prochorus",
 "type": "person",
-"preferred_label": "Nikolaus",
+"preferred_label": "Prokhorus",
 "confidence": 0.1933,
 "match_method": "canonical"
 },
 {
-"id": "person:Timon",
-"type": "person",
-"preferred_label": "Timon",
-"confidence": 0.1933,
-"match_method": "canonical"
-},
-{
-"id": "group:Freedmen",
+"id": "group:Hellenist",
 "type": "group",
-"preferred_label": "Freedmen",
-"confidence": 0.1933,
-"match_method": "canonical"
-},
-{
-"id": "place:Alexandria",
-"type": "place",
-"preferred_label": "Aleksandria",
+"preferred_label": "Hellenists",
 "confidence": 0.1933,
 "match_method": "canonical"
 },
@@ -168,121 +133,44 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Greece",
+"id": "place:Alexandria",
 "type": "place",
-"preferred_label": "Yunani",
-"confidence": 0.18,
+"preferred_label": "Aleksandria",
+"confidence": 0.1933,
 "match_method": "canonical"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
-"preferred_label": "Nazaret",
-"confidence": 0.18,
+"id": "group:Freedmen",
+"type": "group",
+"preferred_label": "Freedmen",
+"confidence": 0.1933,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blasphemous",
-"type": "keyterm",
-"preferred_label": "hujat",
-"confidence": 0.18,
+"id": "person:Timon",
+"type": "person",
+"preferred_label": "Timon",
+"confidence": 0.1933,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.18,
+"id": "group:Antioch",
+"type": "group",
+"preferred_label": "Antiochians",
+"confidence": 0.1933,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Portent",
-"type": "keyterm",
-"preferred_label": "mujizat",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Yerusalem",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Chosen",
-"type": "keyterm",
-"preferred_label": "orang pilihan",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "kebaikan",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "place:Cilicia",
-"type": "place",
-"preferred_label": "Kilikia",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "place:Cyrene",
-"type": "place",
-"preferred_label": "Kirene",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "place:Antioch",
-"type": "place",
-"preferred_label": "Antiokhia",
-"confidence": 0.18,
+"id": "person:Nicolaus",
+"type": "person",
+"preferred_label": "Nikolaus",
+"confidence": 0.1933,
 "match_method": "canonical"
 },
 {
 "id": "place:Asia",
 "type": "place",
 "preferred_label": "Asia",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "bersaksi",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "keahlian",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
 "confidence": 0.18,
 "match_method": "canonical"
 },
@@ -294,13 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "tanda",
-"confidence": 0.18,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Holy",
 "type": "keyterm",
 "preferred_label": "khusus",
@@ -308,9 +189,128 @@
 "match_method": "canonical"
 },
 {
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"preferred_label": "mujizat",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Yesus",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "tanda",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"preferred_label": "Yunani",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blasphemous",
+"type": "keyterm",
+"preferred_label": "hujat",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "orang pilihan",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"preferred_label": "Kilikia",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"preferred_label": "Antiokhia",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Kirene",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazaret",
+"confidence": 0.18,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "hukum",
 "confidence": 0.18,
 "match_method": "canonical"
 },

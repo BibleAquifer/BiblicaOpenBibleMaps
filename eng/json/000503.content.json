@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nahor.2",
+"id": "person:Bethuel",
 "type": "person",
-"preferred_label": "Nahor",
+"preferred_label": "Bethuel",
 "confidence": 0.3328,
 "match_method": "canonical"
 },
 {
-"id": "person:Bethuel",
+"id": "person:Nahor.2",
 "type": "person",
-"preferred_label": "Bethuel",
+"preferred_label": "Nahor",
 "confidence": 0.3328,
 "match_method": "canonical"
 },
@@ -140,30 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericServant",
-"type": "person",
-"preferred_label": "A Servant",
-"confidence": 0.2134,
-"match_method": "canonical"
-},
-{
-"id": "person:Sarah",
-"type": "person",
-"preferred_label": "Sarah",
-"confidence": 0.2134,
-"match_method": "canonical"
-},
-{
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
-"confidence": 0.2134,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
 "confidence": 0.2134,
 "match_method": "canonical"
 },
@@ -175,6 +154,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Sarah",
+"type": "person",
+"preferred_label": "Sarah",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"preferred_label": "A Servant",
+"confidence": 0.2134,
+"match_method": "canonical"
+},
+{
 "id": "realia:Earring",
 "type": "realia",
 "preferred_label": "Earring",
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beer-lahai-roi",
-"type": "place",
-"preferred_label": "Beer-lahai-roi",
+"id": "person:MotherOfRebekah",
+"type": "person",
+"preferred_label": "Mother of Rebekah",
 "confidence": 0.1597,
 "match_method": "canonical"
 },
@@ -196,10 +196,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:MotherOfRebekah",
-"type": "person",
-"preferred_label": "Mother of Rebekah",
+"id": "place:Beer-lahai-roi",
+"type": "place",
+"preferred_label": "Beer-lahai-roi",
 "confidence": 0.1597,
+"match_method": "canonical"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"preferred_label": "Mesopotamia",
+"confidence": 0.1567,
 "match_method": "canonical"
 },
 {
@@ -213,13 +220,6 @@
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "Love",
-"confidence": 0.1567,
-"match_method": "canonical"
-},
-{
-"id": "place:Mesopotamia",
-"type": "place",
-"preferred_label": "Mesopotamia",
 "confidence": 0.1567,
 "match_method": "canonical"
 },

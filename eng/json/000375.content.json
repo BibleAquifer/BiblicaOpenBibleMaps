@@ -48,16 +48,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.4106,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.4106,
 "match_method": "canonical"
 },
@@ -111,13 +111,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Scorpion",
-"type": "fauna",
-"preferred_label": "Scorpion",
-"confidence": 0.2785,
-"match_method": "canonical"
-},
-{
 "id": "realia:Whip",
 "type": "realia",
 "preferred_label": "Whip",
@@ -125,17 +118,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shechem",
-"type": "place",
-"preferred_label": "Shechem",
-"confidence": 0.276,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.276,
+"id": "fauna:Scorpion",
+"type": "fauna",
+"preferred_label": "Scorpion",
+"confidence": 0.2785,
 "match_method": "canonical"
 },
 {
@@ -149,6 +135,20 @@
 "id": "place:Bethel",
 "type": "place",
 "preferred_label": "Bethel",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -167,44 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Shiloh",
-"type": "group",
-"preferred_label": "Shilonites",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "place:Shiloh",
+"id": "place:Dan",
 "type": "place",
-"preferred_label": "Shiloh",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Jesse",
-"type": "person",
-"preferred_label": "Jesse",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
+"preferred_label": "Dan",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -216,6 +181,41 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Rebel",
 "type": "keyterm",
 "preferred_label": "Rebel",
@@ -223,16 +223,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"id": "group:Shiloh",
+"type": "group",
+"preferred_label": "Shilonites",
 "confidence": 0.2173,
 "match_method": "canonical"
 }

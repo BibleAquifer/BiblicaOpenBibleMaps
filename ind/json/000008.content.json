@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "kasihi",
+"preferred_label": "selama, lamanya",
 "confidence": 0.2754,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "sorga",
+"preferred_label": "kasihi",
 "confidence": 0.2754,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "selama, lamanya",
+"preferred_label": "sorga",
 "confidence": 0.2754,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "kehidupan",
+"preferred_label": "keahlian",
 "confidence": 0.2721,
 "match_method": "canonical"
 },
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "keahlian",
+"preferred_label": "kehidupan",
 "confidence": 0.2721,
 "match_method": "canonical"
 },
@@ -161,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "kerajaan",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
 "id": "place:Galilee",
 "type": "place",
 "preferred_label": "Galilea",
@@ -168,16 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Yerusalem",
-"confidence": 0.2148,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "kerajaan",
+"preferred_label": "tubuh",
 "confidence": 0.2148,
 "match_method": "canonical"
 },
@@ -189,13 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "memutuskan",
-"confidence": 0.2148,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Cleanse.2",
 "type": "keyterm",
 "preferred_label": "membersihkan",
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "tubuh",
+"preferred_label": "memutuskan",
 "confidence": 0.2148,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Aenon",
+"id": "place:Salim",
 "type": "place",
-"preferred_label": "Ainon",
+"preferred_label": "Salim",
 "confidence": 0.1607,
 "match_method": "canonical"
 }

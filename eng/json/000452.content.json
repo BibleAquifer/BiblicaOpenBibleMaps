@@ -91,30 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Vision",
-"type": "keyterm",
-"preferred_label": "Vision",
-"confidence": 0.16,
-"match_method": "canonical"
-},
-{
 "id": "person:Ezekiel",
 "type": "person",
 "preferred_label": "Ezekiel",
-"confidence": 0.16,
-"match_method": "canonical"
-},
-{
-"id": "person:Buzi",
-"type": "person",
-"preferred_label": "Buzi",
-"confidence": 0.16,
-"match_method": "canonical"
-},
-{
-"id": "place:Tel-abib",
-"type": "place",
-"preferred_label": "Tel-abib",
 "confidence": 0.16,
 "match_method": "canonical"
 },
@@ -126,16 +105,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lamentation",
+"id": "keyterm:Vision",
 "type": "keyterm",
-"preferred_label": "Lamentation",
-"confidence": 0.1569,
+"preferred_label": "Vision",
+"confidence": 0.16,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "place:Tel-abib",
+"type": "place",
+"preferred_label": "Tel-abib",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "person:Buzi",
+"type": "person",
+"preferred_label": "Buzi",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lamentation",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Lamentation",
 "confidence": 0.1569,
 "match_method": "canonical"
 },
@@ -147,16 +140,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Chaldea",
-"type": "place",
-"preferred_label": "Chaldea",
+"id": "person:Jehoiachin",
+"type": "person",
+"preferred_label": "Jehoiachin",
 "confidence": 0.1569,
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoiachin",
-"type": "person",
-"preferred_label": "Jehoiachin",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
 "confidence": 0.1569,
 "match_method": "canonical"
 },
@@ -168,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Nettle",
-"type": "flora",
-"preferred_label": "Nettle",
-"confidence": 0.1,
-"match_method": "canonical"
-},
-{
 "id": "realia:Wheel",
 "type": "realia",
 "preferred_label": "Wheel",
@@ -182,17 +175,10 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Scorpion",
-"type": "fauna",
-"preferred_label": "Scorpion",
-"confidence": 0.0969,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Vulture",
-"type": "fauna",
-"preferred_label": "Vulture",
-"confidence": 0.0969,
+"id": "flora:Nettle",
+"type": "flora",
+"preferred_label": "Nettle",
+"confidence": 0.1,
 "match_method": "canonical"
 },
 {
@@ -203,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Rope",
-"type": "realia",
-"preferred_label": "Rope",
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
 "confidence": 0.0969,
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "realia:Throne",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Throne",
 "confidence": 0.0969,
 "match_method": "canonical"
 },
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Throne",
+"id": "realia:House",
 "type": "realia",
-"preferred_label": "Throne",
+"preferred_label": "House",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Scorpion",
+"type": "fauna",
+"preferred_label": "Scorpion",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"preferred_label": "Rope",
 "confidence": 0.0969,
 "match_method": "canonical"
 }

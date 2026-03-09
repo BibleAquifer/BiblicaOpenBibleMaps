@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Ship",
+"id": "realia:Sackcloth",
 "type": "realia",
-"preferred_label": "Ship",
+"preferred_label": "Sackcloth",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -70,17 +70,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sackcloth",
+"id": "realia:Ship",
 "type": "realia",
-"preferred_label": "Sackcloth",
+"preferred_label": "Ship",
 "confidence": 0.2265,
-"match_method": "canonical"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
-"confidence": 0.2243,
 "match_method": "canonical"
 },
 {
@@ -91,16 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amittai",
-"type": "person",
-"preferred_label": "Amittai",
-"confidence": 0.1676,
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.2243,
 "match_method": "canonical"
 },
 {
 "id": "place:Joppa",
 "type": "place",
 "preferred_label": "Joppa",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Amittai",
+"type": "person",
+"preferred_label": "Amittai",
 "confidence": 0.1676,
 "match_method": "canonical"
 },
@@ -112,9 +112,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Exempt",
+"id": "keyterm:Slaughtering",
 "type": "keyterm",
-"preferred_label": "Exempt",
+"preferred_label": "Slaughtering",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -126,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Exempt",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Exempt",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -147,41 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -192,6 +185,13 @@
 "id": "flora:Cattails",
 "type": "flora",
 "preferred_label": "Cattails",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.1022,
 "match_method": "canonical"
 },

@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
 "confidence": 0.2874,
 "match_method": "canonical"
 },
 {
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
+"id": "realia:Wine",
+"type": "realia",
+"preferred_label": "Wine",
 "confidence": 0.2874,
 "match_method": "canonical"
 },
@@ -98,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
 "id": "person:Ben-ammi",
 "type": "person",
 "preferred_label": "Ben-ammi",
@@ -126,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
@@ -133,16 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
+"id": "keyterm:Kindness",
 "type": "keyterm",
-"preferred_label": "Passion",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Kindness",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -154,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Fear",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
 "confidence": 0.1618,
 "match_method": "canonical"
 },

@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "Egyptians",
-"confidence": 0.372,
-"match_method": "canonical"
-},
-{
 "id": "group:Hebrews",
 "type": "group",
 "preferred_label": "Hebrews",
@@ -56,16 +49,23 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.304,
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
+"confidence": 0.372,
 "match_method": "canonical"
 },
 {
 "id": "person:Israel",
 "type": "person",
 "preferred_label": "Israel",
+"confidence": 0.304,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.304,
 "match_method": "canonical"
 },
@@ -105,6 +105,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Gershom",
+"type": "person",
+"preferred_label": "Gershom",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "person:Zipporah",
+"type": "person",
+"preferred_label": "Zipporah",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
@@ -119,51 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zipporah",
-"type": "person",
-"preferred_label": "Zipporah",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "person:Gershom",
-"type": "person",
-"preferred_label": "Gershom",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
 "id": "person:Abraham",
 "type": "person",
 "preferred_label": "Abraham",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "person:Jethro",
-"type": "person",
-"preferred_label": "Jethro",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -175,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "person:Jethro",
+"type": "person",
+"preferred_label": "Jethro",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Work",
 "confidence": 0.168,
 "match_method": "canonical"
 },
@@ -185,6 +164,27 @@
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.168,
 "match_method": "canonical"
 },

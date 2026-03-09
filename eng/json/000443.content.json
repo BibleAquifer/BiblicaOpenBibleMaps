@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.44,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.44,
 "match_method": "canonical"
 },
@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.3886,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:WordOfTheLord",
 "type": "keyterm",
 "preferred_label": "Word of the Lord",
@@ -80,13 +87,6 @@
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
-"confidence": 0.3886,
-"match_method": "canonical"
-},
-{
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
 "confidence": 0.3886,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.2693,
 "match_method": "canonical"
 },
@@ -154,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.2693,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "place:Anathoth",
+"type": "place",
+"preferred_label": "Anathoth",
 "confidence": 0.2693,
 "match_method": "canonical"
 },
@@ -175,9 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Anathoth",
-"type": "place",
-"preferred_label": "Anathoth",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2693,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.2693,
 "match_method": "canonical"
 },
@@ -189,13 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"preferred_label": "Miraculous Sign",
-"confidence": 0.2157,
-"match_method": "canonical"
-},
-{
 "id": "person:Neriah",
 "type": "person",
 "preferred_label": "Neriah",
@@ -203,30 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
+"id": "keyterm:MiraculousSign",
 "type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.2129,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.2129,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2129,
+"preferred_label": "Miraculous Sign",
+"confidence": 0.2157,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:IntactState",
 "type": "keyterm",
 "preferred_label": "Peace",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.2129,
 "match_method": "canonical"
 }

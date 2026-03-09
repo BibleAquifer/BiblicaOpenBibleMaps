@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
-"confidence": 0.276,
-"match_method": "canonical"
-},
-{
 "id": "person:David",
 "type": "person",
 "preferred_label": "Давид",
@@ -94,6 +87,13 @@
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Иерусалим",
+"confidence": 0.276,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -119,16 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Perga",
-"type": "place",
-"preferred_label": "Пергия",
+"id": "keyterm:Fast",
+"type": "keyterm",
+"preferred_label": "Abstain from Food",
 "confidence": 0.2212,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fast",
-"type": "keyterm",
-"preferred_label": "Abstain from Food",
+"id": "place:Perga",
+"type": "place",
+"preferred_label": "Пергия",
 "confidence": 0.2212,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
@@ -154,58 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
+"id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Иоанн",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Mark",
-"type": "person",
-"preferred_label": "Марк",
+"preferred_label": "Иисус",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -224,9 +168,65 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"preferred_label": "Марк",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "Иоанн",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Always",
 "type": "keyterm",
 "preferred_label": "Always",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"preferred_label": "Law",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.2173,
 "match_method": "canonical"
 }

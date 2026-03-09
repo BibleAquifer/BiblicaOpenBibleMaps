@@ -105,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Smear",
 "type": "keyterm",
 "preferred_label": "Smear",
@@ -119,10 +126,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joab",
+"id": "person:Abishag",
 "type": "person",
-"preferred_label": "Joab",
-"confidence": 0.2755,
+"preferred_label": "Abishag",
+"confidence": 0.2245,
 "match_method": "canonical"
 },
 {
@@ -133,23 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishag",
+"id": "person:Haggith",
 "type": "person",
-"preferred_label": "Abishag",
-"confidence": 0.2245,
+"preferred_label": "Haggith",
+"confidence": 0.2208,
 "match_method": "canonical"
 },
 {
 "id": "person:Jonathan.4",
 "type": "person",
 "preferred_label": "Jonathan",
-"confidence": 0.2208,
-"match_method": "canonical"
-},
-{
-"id": "person:Haggith",
-"type": "person",
-"preferred_label": "Haggith",
 "confidence": 0.2208,
 "match_method": "canonical"
 },
@@ -161,16 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Pelethites",
+"type": "group",
+"preferred_label": "Pelethites",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -182,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -196,9 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pelethites",
-"type": "group",
-"preferred_label": "Pelethites",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -206,6 +206,13 @@
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.2155,
 "match_method": "canonical"
 },
@@ -220,13 +227,6 @@
 "id": "fauna:Goat",
 "type": "fauna",
 "preferred_label": "Goat",
-"confidence": 0.2155,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
 "confidence": 0.2155,
 "match_method": "canonical"
 }

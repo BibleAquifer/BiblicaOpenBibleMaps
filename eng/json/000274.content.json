@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.29,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -84,10 +77,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shechem",
-"type": "place",
-"preferred_label": "Shechem",
-"confidence": 0.2875,
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.29,
 "match_method": "canonical"
 },
 {
@@ -105,10 +98,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.225,
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.2875,
 "match_method": "canonical"
 },
 {
@@ -119,16 +112,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Midian",
-"type": "group",
-"preferred_label": "Midianites",
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
 "confidence": 0.225,
 "match_method": "canonical"
 },
 {
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Midian",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"preferred_label": "Midianites",
 "confidence": 0.225,
 "match_method": "canonical"
 },
@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
 "id": "person:Potiphar",
 "type": "person",
 "preferred_label": "Potiphar",
@@ -161,9 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Hyena",
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1681,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
 "type": "fauna",
-"preferred_label": "Hyena",
+"preferred_label": "Lion",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -182,51 +182,23 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lion",
+"id": "fauna:Hyena",
 "type": "fauna",
-"preferred_label": "Lion",
+"preferred_label": "Hyena",
 "confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"preferred_label": "Pharaoh",
+"confidence": 0.1625,
 "match_method": "canonical"
 },
 {
 "id": "place:Canaan",
 "type": "place",
 "preferred_label": "Canaan",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Zilpah",
-"type": "person",
-"preferred_label": "Zilpah",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Bilhah",
-"type": "person",
-"preferred_label": "Bilhah",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericMale",
-"type": "person",
-"preferred_label": "A Man",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -238,16 +210,44 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Pharaoh.4",
+"id": "person:Bilhah",
 "type": "person",
-"preferred_label": "Pharaoh",
+"preferred_label": "Bilhah",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "realia:Sheaf",
-"type": "realia",
-"preferred_label": "Sheaf",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Zilpah",
+"type": "person",
+"preferred_label": "Zilpah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericMale",
+"type": "person",
+"preferred_label": "A Man",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "flora:Liquidambar",
+"type": "flora",
+"preferred_label": "Liquidambar",
 "confidence": 0.1081,
 "match_method": "canonical"
 },
@@ -259,6 +259,13 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Ladanum",
+"type": "flora",
+"preferred_label": "Rock Rose",
+"confidence": 0.1081,
+"match_method": "canonical"
+},
+{
 "id": "flora:GumTragacanth",
 "type": "flora",
 "preferred_label": "Gum Tragacanth",
@@ -266,16 +273,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Liquidambar",
-"type": "flora",
-"preferred_label": "Liquidambar",
-"confidence": 0.1081,
-"match_method": "canonical"
-},
-{
-"id": "flora:Ladanum",
-"type": "flora",
-"preferred_label": "Rock Rose",
+"id": "realia:Sheaf",
+"type": "realia",
+"preferred_label": "Sheaf",
 "confidence": 0.1081,
 "match_method": "canonical"
 },

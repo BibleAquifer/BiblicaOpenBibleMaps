@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.4143,
-"match_method": "canonical"
-},
-{
 "id": "group:Philistine",
 "type": "group",
 "preferred_label": "Philistines",
@@ -77,17 +70,17 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.4143,
+"match_method": "canonical"
+},
+{
 "id": "person:Rebekah",
 "type": "person",
 "preferred_label": "Rebekah",
 "confidence": 0.2886,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.2257,
 "match_method": "canonical"
 },
 {
@@ -98,16 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Oath",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Oath",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Swear",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -119,44 +105,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Rehoboth",
-"type": "place",
-"preferred_label": "Rehoboth",
-"confidence": 0.1686,
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"preferred_label": "Oath",
+"confidence": 0.2257,
 "match_method": "canonical"
 },
 {
 "id": "person:Beeri",
 "type": "person",
 "preferred_label": "Beeri",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "group:Hittite",
-"type": "group",
-"preferred_label": "Hittites",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahuzzath",
-"type": "person",
-"preferred_label": "Ahuzzath",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "person:Phicol",
-"type": "person",
-"preferred_label": "Phicol",
-"confidence": 0.1686,
-"match_method": "canonical"
-},
-{
-"id": "place:Esek",
-"type": "place",
-"preferred_label": "Esek",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -175,9 +140,44 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ahuzzath",
+"type": "person",
+"preferred_label": "Ahuzzath",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"preferred_label": "Hittites",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Rehoboth",
+"type": "place",
+"preferred_label": "Rehoboth",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
 "id": "person:Judith",
 "type": "person",
 "preferred_label": "Judith",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "person:Phicol",
+"type": "person",
+"preferred_label": "Phicol",
+"confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "place:Esek",
+"type": "place",
+"preferred_label": "Esek",
 "confidence": 0.1686,
 "match_method": "canonical"
 },
@@ -193,6 +193,34 @@
 "type": "fauna",
 "preferred_label": "Goat",
 "confidence": 0.1657,
+"match_method": "canonical"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"preferred_label": "Heth",
+"confidence": 0.1629,
 "match_method": "canonical"
 },
 {
@@ -217,37 +245,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "person:Esau",
-"type": "person",
-"preferred_label": "Esau",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Heth",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"preferred_label": "Be Zealous",
-"confidence": 0.1629,
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1029,
 "match_method": "canonical"
 },
 {
 "id": "realia:Window",
 "type": "realia",
 "preferred_label": "Window",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -266,23 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
-"confidence": 0.1029,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
 "confidence": 0.1029,
 "match_method": "canonical"
 },
@@ -294,9 +294,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Altar",
 "confidence": 0.1029,
 "match_method": "canonical"
 }

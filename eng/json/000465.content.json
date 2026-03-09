@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Holy",
 "confidence": 0.3247,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Fear",
 "confidence": 0.3247,
 "match_method": "canonical"
 },
@@ -119,23 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:OliveTree",
-"type": "flora",
-"preferred_label": "Olive Tree",
-"confidence": 0.2085,
-"match_method": "canonical"
-},
-{
-"id": "realia:AnointingOil",
+"id": "realia:OliveOil",
 "type": "realia",
-"preferred_label": "Anointing Oil",
-"confidence": 0.2085,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Mule",
-"type": "fauna",
-"preferred_label": "Mule",
+"preferred_label": "Olive Oil",
 "confidence": 0.2085,
 "match_method": "canonical"
 },
@@ -147,9 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
+"id": "realia:AnointingOil",
 "type": "realia",
-"preferred_label": "Olive Oil",
+"preferred_label": "Anointing Oil",
+"confidence": 0.2085,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
 "confidence": 0.2085,
 "match_method": "canonical"
 },
@@ -161,23 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Sabean",
+"id": "fauna:Mule",
+"type": "fauna",
+"preferred_label": "Mule",
+"confidence": 0.2085,
+"match_method": "canonical"
+},
+{
+"id": "group:Greek",
 "type": "group",
-"preferred_label": "Sabeans",
-"confidence": 0.1589,
-"match_method": "canonical"
-},
-{
-"id": "person:Joel.14",
-"type": "person",
-"preferred_label": "Joel",
-"confidence": 0.1589,
-"match_method": "canonical"
-},
-{
-"id": "person:Pethuel",
-"type": "person",
-"preferred_label": "Pethuel",
+"preferred_label": "Greeks",
 "confidence": 0.1589,
 "match_method": "canonical"
 },
@@ -189,23 +175,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
+"id": "group:Sabean",
 "type": "group",
-"preferred_label": "Greeks",
+"preferred_label": "Sabeans",
 "confidence": 0.1589,
 "match_method": "canonical"
 },
 {
-"id": "person:Javan",
+"id": "person:Pethuel",
 "type": "person",
-"preferred_label": "Javan",
-"confidence": 0.1562,
+"preferred_label": "Pethuel",
+"confidence": 0.1589,
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "person:Joel.14",
+"type": "person",
+"preferred_label": "Joel",
+"confidence": 0.1589,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Generous",
+"type": "keyterm",
+"preferred_label": "Generous",
 "confidence": 0.1562,
 "match_method": "canonical"
 },
@@ -217,16 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
-"type": "place",
-"preferred_label": "Sidon",
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
 "confidence": 0.1562,
 "match_method": "canonical"
 },
 {
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Javan",
+"confidence": 0.1562,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Refuge",
+"type": "keyterm",
+"preferred_label": "Refuge",
 "confidence": 0.1562,
 "match_method": "canonical"
 }
