@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.521,
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.521,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gath",
+"id": "place:Kiriath-jearim",
 "type": "place",
-"preferred_label": "Gath",
+"preferred_label": "Kiriath-jearim",
 "confidence": 0.277,
 "match_method": "canonical"
 },
 {
-"id": "place:Kiriath-jearim",
+"id": "place:Gath",
 "type": "place",
-"preferred_label": "Kiriath-jearim",
+"preferred_label": "Gath",
 "confidence": 0.277,
 "match_method": "canonical"
 },
@@ -203,6 +203,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Eleazar.3",
+"type": "person",
+"preferred_label": "Eleazar",
+"confidence": 0.163,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-car",
+"type": "place",
+"preferred_label": "Beth-car",
+"confidence": 0.163,
+"match_method": "canonical"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"preferred_label": "Gaza",
+"confidence": 0.163,
+"match_method": "canonical"
+},
+{
 "id": "group:Beth-shemesh",
 "type": "group",
 "preferred_label": "People From Beth-Shemesh",
@@ -217,30 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beth-car",
-"type": "place",
-"preferred_label": "Beth-car",
-"confidence": 0.163,
-"match_method": "canonical"
-},
-{
 "id": "place:Abel",
 "type": "place",
 "preferred_label": "Abel",
-"confidence": 0.163,
-"match_method": "canonical"
-},
-{
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.163,
-"match_method": "canonical"
-},
-{
-"id": "person:Eleazar.3",
-"type": "person",
-"preferred_label": "Eleazar",
 "confidence": 0.163,
 "match_method": "canonical"
 },
@@ -252,37 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "place:Ramah",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -294,9 +266,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -308,9 +294,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Pharaoh.6",
-"type": "person",
-"preferred_label": "Pharaoh",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -322,9 +322,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -343,20 +343,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
 "id": "group:Egypt",
 "type": "group",
 "preferred_label": "Egyptians",
@@ -364,9 +350,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"preferred_label": "Pharaoh",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -378,6 +371,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
 "id": "realia:Image",
 "type": "realia",
 "preferred_label": "Image",
@@ -385,23 +385,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.099,
-"match_method": "canonical"
-},
-{
-"id": "flora:Barley",
-"type": "flora",
-"preferred_label": "Barley",
-"confidence": 0.099,
-"match_method": "canonical"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Altar",
 "confidence": 0.099,
 "match_method": "canonical"
 },
@@ -413,9 +399,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TabernacleAltar",
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Tabernacle Altar",
+"preferred_label": "Stone Altar",
 "confidence": 0.099,
 "match_method": "canonical"
 },
@@ -427,16 +420,23 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Wheat",
-"type": "flora",
-"preferred_label": "Wheat",
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
 "confidence": 0.099,
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:TabernacleAltar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Tabernacle Altar",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"preferred_label": "Wheat",
 "confidence": 0.099,
 "match_method": "canonical"
 }

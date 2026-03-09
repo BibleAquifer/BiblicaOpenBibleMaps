@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Stumble",
-"type": "keyterm",
-"preferred_label": "Stumble",
-"confidence": 0.2193,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Resurrection",
 "type": "keyterm",
 "preferred_label": "Resurrection",
@@ -105,30 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Stumble",
 "type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.2158,
+"preferred_label": "Stumble",
+"confidence": 0.2193,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
-"confidence": 0.2158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
 "confidence": 0.2158,
 "match_method": "canonical"
 },
@@ -140,9 +119,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Friendship",
 "type": "keyterm",
 "preferred_label": "Friendship",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.2158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.2158,
 "match_method": "canonical"
 },
@@ -182,9 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ephraim",
-"type": "place",
-"preferred_label": "Ephraim",
+"id": "keyterm:Pure",
+"type": "keyterm",
+"preferred_label": "Pure",
 "confidence": 0.1579,
 "match_method": "canonical"
 },
@@ -196,16 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Anointed",
 "type": "keyterm",
-"preferred_label": "Spirit",
-"confidence": 0.1579,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
+"preferred_label": "Anointed",
 "confidence": 0.1579,
 "match_method": "canonical"
 },
@@ -217,6 +210,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Rome",
+"confidence": 0.1579,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pure",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "Pure",
+"preferred_label": "Spirit",
 "confidence": 0.1579,
 "match_method": "canonical"
 }

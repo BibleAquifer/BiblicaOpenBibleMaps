@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Rod",
+"id": "realia:Wagon",
 "type": "realia",
-"preferred_label": "Rod",
+"preferred_label": "Wagon",
 "confidence": 0.1045,
 "match_method": "canonical"
 },
 {
-"id": "realia:Wagon",
+"id": "realia:Rod",
 "type": "realia",
-"preferred_label": "Wagon",
+"preferred_label": "Rod",
 "confidence": 0.1045,
 "match_method": "canonical"
 }

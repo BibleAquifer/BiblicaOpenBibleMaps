@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.2874,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -105,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.2874,
-"match_method": "canonical"
-},
-{
 "id": "person:Sarah",
 "type": "person",
 "preferred_label": "Sarah",
@@ -133,23 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Haran",
-"type": "place",
-"preferred_label": "Haran",
-"confidence": 0.2289,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
-"confidence": 0.2289,
-"match_method": "canonical"
-},
-{
 "id": "place:Bethel",
 "type": "place",
 "preferred_label": "Bethel",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"preferred_label": "Haran",
 "confidence": 0.2289,
 "match_method": "canonical"
 },
@@ -161,6 +154,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.2289,
+"match_method": "canonical"
+},
+{
 "id": "realia:Tent",
 "type": "realia",
 "preferred_label": "Tent",
@@ -168,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "Egyptians",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
@@ -196,16 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moreh",
+"id": "place:Shechem",
 "type": "place",
-"preferred_label": "Oak of Moreh",
+"preferred_label": "Shechem",
 "confidence": 0.1671,
 "match_method": "canonical"
 },
 {
-"id": "place:Shechem",
+"id": "place:Moreh",
 "type": "place",
-"preferred_label": "Shechem",
+"preferred_label": "Oak of Moreh",
 "confidence": 0.1671,
 "match_method": "canonical"
 },
@@ -224,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gomorrah",
+"id": "place:Zoar",
 "type": "place",
-"preferred_label": "Gomorrah",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
+"preferred_label": "Zoar",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -245,9 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "place:Gomorrah",
+"type": "place",
+"preferred_label": "Gomorrah",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -259,17 +252,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zoar",
-"type": "place",
-"preferred_label": "Zoar",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.1018,
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
+"confidence": 0.1618,
 "match_method": "canonical"
 },
 {
@@ -283,6 +276,13 @@
 "id": "fauna:Camel",
 "type": "fauna",
 "preferred_label": "Camel",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
 "confidence": 0.1018,
 "match_method": "canonical"
 }

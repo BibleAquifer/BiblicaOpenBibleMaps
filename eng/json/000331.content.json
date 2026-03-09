@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.5457,
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.5457,
 "match_method": "canonical"
 },
@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Samuel",
-"type": "person",
-"preferred_label": "Samuel",
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
 "confidence": 0.4478,
 "match_method": "canonical"
 },
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
+"id": "person:Samuel",
+"type": "person",
+"preferred_label": "Samuel",
 "confidence": 0.4478,
 "match_method": "canonical"
 },
@@ -74,6 +74,20 @@
 "type": "person",
 "preferred_label": "Jonathan",
 "confidence": 0.3783,
+"match_method": "canonical"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"preferred_label": "Hebrews",
+"confidence": 0.3087,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.3087,
 "match_method": "canonical"
 },
 {
@@ -91,31 +105,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Hebrews",
-"type": "group",
-"preferred_label": "Hebrews",
-"confidence": 0.3087,
-"match_method": "canonical"
-},
-{
 "id": "person:Benjamin",
 "type": "person",
 "preferred_label": "Benjamin",
 "confidence": 0.3087,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.3087,
-"match_method": "canonical"
-},
-{
-"id": "place:Geba",
-"type": "place",
-"preferred_label": "Geba",
-"confidence": 0.2391,
 "match_method": "canonical"
 },
 {
@@ -126,10 +119,31 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Geba",
+"type": "place",
+"preferred_label": "Geba",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
 "id": "realia:Plough",
 "type": "realia",
 "preferred_label": "Plough",
 "confidence": 0.1965,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1791,
+"match_method": "canonical"
+},
+{
+"id": "realia:Mattock",
+"type": "realia",
+"preferred_label": "Mattock",
+"confidence": 0.1791,
 "match_method": "canonical"
 },
 {
@@ -147,27 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Mattock",
-"type": "realia",
-"preferred_label": "Mattock",
-"confidence": 0.1791,
-"match_method": "canonical"
-},
-{
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
-"confidence": 0.1791,
-"match_method": "canonical"
-},
-{
-"id": "place:ZeboimValley",
-"type": "place",
-"preferred_label": "Valley of Zeboim",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
 "id": "place:Shual",
 "type": "place",
 "preferred_label": "Shual",
@@ -182,24 +175,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Beth-horonLower",
+"id": "place:ZeboimValley",
 "type": "place",
-"preferred_label": "Lower Beth-horon",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
-"confidence": 0.1696,
+"preferred_label": "Valley of Zeboim",
+"confidence": 0.1783,
 "match_method": "canonical"
 },
 {
@@ -217,23 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Beth-aven",
-"type": "place",
-"preferred_label": "Beth-aven",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
 "id": "person:Gad",
 "type": "person",
 "preferred_label": "Gad",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -245,10 +210,38 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Fork.2",
-"type": "realia",
-"preferred_label": "Fork",
-"confidence": 0.1183,
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-horonLower",
+"type": "place",
+"preferred_label": "Lower Beth-horon",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Beth-aven",
+"type": "place",
+"preferred_label": "Beth-aven",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1696,
 "match_method": "canonical"
 },
 {
@@ -259,10 +252,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:RamsHorn",
+"id": "realia:Fork.2",
 "type": "realia",
-"preferred_label": "Rams Horn",
-"confidence": 0.1096,
+"preferred_label": "Fork",
+"confidence": 0.1183,
 "match_method": "canonical"
 },
 {
@@ -280,13 +273,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Craftsman",
-"type": "realia",
-"preferred_label": "Craftsman",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
 "id": "flora:Thistle",
 "type": "flora",
 "preferred_label": "Thistle",
@@ -294,9 +280,23 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
 "id": "realia:Pit",
 "type": "realia",
 "preferred_label": "Pit",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:Craftsman",
+"type": "realia",
+"preferred_label": "Craftsman",
 "confidence": 0.1096,
 "match_method": "canonical"
 }

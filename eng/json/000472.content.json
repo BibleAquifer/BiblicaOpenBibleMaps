@@ -42,6 +42,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.2191,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Strength",
 "type": "keyterm",
 "preferred_label": "Strength",
@@ -49,10 +56,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Wickedness",
-"type": "keyterm",
-"preferred_label": "Wickedness",
-"confidence": 0.2191,
+"id": "fauna:Locust",
+"type": "fauna",
+"preferred_label": "Locust",
+"confidence": 0.2187,
 "match_method": "canonical"
 },
 {
@@ -63,10 +70,17 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Locust",
-"type": "fauna",
-"preferred_label": "Locust",
-"confidence": 0.2187,
+"id": "place:Elkosh",
+"type": "place",
+"preferred_label": "Elkosh",
+"confidence": 0.1638,
+"match_method": "canonical"
+},
+{
+"id": "deity:Amon",
+"type": "deity",
+"preferred_label": "Amon",
+"confidence": 0.1638,
 "match_method": "canonical"
 },
 {
@@ -84,79 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Amon",
-"type": "deity",
-"preferred_label": "Amon",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "place:Elkosh",
+"id": "place:Nile",
 "type": "place",
-"preferred_label": "Elkosh",
-"confidence": 0.1638,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:SeekfindRefuge",
-"type": "keyterm",
-"preferred_label": "Seek Refugue",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:DetestedThing",
-"type": "keyterm",
-"preferred_label": "Detested Thing",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Vow",
-"type": "keyterm",
-"preferred_label": "Vow",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "place:Carmel",
-"type": "place",
-"preferred_label": "Carmel",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Utterance",
-"type": "keyterm",
-"preferred_label": "Utterance",
+"preferred_label": "Nile River",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -168,6 +112,27 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"preferred_label": "Detested Thing",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Carmel",
+"type": "place",
+"preferred_label": "Carmel",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"preferred_label": "Vow",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
 "id": "place:Assyria",
 "type": "place",
 "preferred_label": "Assyria",
@@ -175,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:TheWay",
+"id": "keyterm:BringHonorAndGloryOnOneself",
 "type": "keyterm",
-"preferred_label": "The Way",
+"preferred_label": "Bring Honor and Glory on Oneself",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -185,20 +150,6 @@
 "id": "keyterm:Zealous.3",
 "type": "keyterm",
 "preferred_label": "Zealous",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Woe.2",
-"type": "keyterm",
-"preferred_label": "Woe",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -217,20 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cush.2",
-"type": "place",
-"preferred_label": "Cush",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:PronounceInnocent",
-"type": "keyterm",
-"preferred_label": "Pronounce Innocent",
-"confidence": 0.1596,
-"match_method": "canonical"
-},
-{
 "id": "place:Put",
 "type": "place",
 "preferred_label": "Put",
@@ -238,16 +175,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bashan",
-"type": "place",
-"preferred_label": "Bashan",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:StateOfBeingUnderSiege",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Under Siege",
+"preferred_label": "Glory",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"preferred_label": "The Way",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -259,23 +203,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nile",
-"type": "place",
-"preferred_label": "Nile River",
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"preferred_label": "Utterance",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BringHonorAndGloryOnOneself",
+"id": "keyterm:StateOfBeingUnderSiege",
 "type": "keyterm",
-"preferred_label": "Bring Honor and Glory on Oneself",
+"preferred_label": "Under Siege",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lot",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"preferred_label": "Lot",
+"preferred_label": "Seek Refugue",
 "confidence": 0.1596,
 "match_method": "canonical"
 },
@@ -287,16 +231,65 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
-"type": "fauna",
-"preferred_label": "Flock",
-"confidence": 0.1591,
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1596,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "keyterm:PronounceInnocent",
+"type": "keyterm",
+"preferred_label": "Pronounce Innocent",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"preferred_label": "Cush",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"preferred_label": "Lot",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"preferred_label": "Bashan",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"preferred_label": "Woe",
+"confidence": 0.1596,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Flock",
 "confidence": 0.1591,
 "match_method": "canonical"
 },
@@ -308,10 +301,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:BrickMold",
-"type": "realia",
-"preferred_label": "Brick Mold",
-"confidence": 0.1038,
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1591,
 "match_method": "canonical"
 },
 {
@@ -322,9 +315,93 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Dove",
+"id": "realia:BrickMold",
+"type": "realia",
+"preferred_label": "Brick Mold",
+"confidence": 0.1038,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"preferred_label": "Cypress",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"preferred_label": "Molten Image",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"preferred_label": "Graven Image",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Whip",
+"type": "realia",
+"preferred_label": "Whip",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
 "type": "fauna",
-"preferred_label": "Dove",
+"preferred_label": "Sheep",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"preferred_label": "Fir",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"preferred_label": "Fortification",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"preferred_label": "Yoke",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -343,9 +420,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:MoltenImage",
-"type": "realia",
-"preferred_label": "Molten Image",
+"id": "fauna:Dove",
+"type": "fauna",
+"preferred_label": "Dove",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -357,9 +434,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:GravenImage",
+"id": "realia:Money",
 "type": "realia",
-"preferred_label": "Graven Image",
+"preferred_label": "Money",
+"confidence": 0.0996,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -371,23 +455,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Fortification",
+"id": "realia:Spear",
 "type": "realia",
-"preferred_label": "Fortification",
+"preferred_label": "Spear",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
 {
-"id": "flora:Fir",
-"type": "flora",
-"preferred_label": "Fir",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Money",
+"id": "realia:House",
 "type": "realia",
-"preferred_label": "Money",
+"preferred_label": "House",
 "confidence": 0.0996,
 "match_method": "canonical"
 },
@@ -406,27 +483,6 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Brier",
-"type": "flora",
-"preferred_label": "Brier",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Spear",
-"type": "realia",
-"preferred_label": "Spear",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
 "id": "realia:DyedCloth",
 "type": "realia",
 "preferred_label": "Dyed Cloth",
@@ -434,65 +490,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:SmallShield",
-"type": "realia",
-"preferred_label": "Small Shield",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
 "id": "flora:Fig",
 "type": "flora",
 "preferred_label": "Fig",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Whip",
-"type": "realia",
-"preferred_label": "Whip",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Yoke",
-"type": "realia",
-"preferred_label": "Yoke",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Horse",
-"type": "fauna",
-"preferred_label": "Horse",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "flora:Cypress",
-"type": "flora",
-"preferred_label": "Cypress",
-"confidence": 0.0996,
-"match_method": "canonical"
-},
-{
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
 "confidence": 0.0996,
 "match_method": "canonical"
 }

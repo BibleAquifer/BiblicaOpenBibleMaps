@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3783,
 "match_method": "canonical"
 },
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3783,
 "match_method": "canonical"
 },
@@ -91,6 +91,27 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"preferred_label": "Abijah",
+"confidence": 0.2391,
+"match_method": "canonical"
+},
+{
 "id": "person:Jeroboam",
 "type": "person",
 "preferred_label": "Jeroboam",
@@ -105,30 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
 "id": "group:Levi",
 "type": "group",
 "preferred_label": "Tribe of Levi",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
-"id": "person:Abijah.4",
-"type": "person",
-"preferred_label": "Abijah",
-"confidence": 0.2391,
-"match_method": "canonical"
-},
-{
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
 "confidence": 0.2391,
 "match_method": "canonical"
 },
@@ -147,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mahalath.2",
+"id": "person:Jerimoth.6",
 "type": "person",
-"preferred_label": "Mahalath",
+"preferred_label": "Jerimoth",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "person:Ziza.2",
+"type": "person",
+"preferred_label": "Ziza",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -161,6 +168,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Abihail.4",
+"type": "person",
+"preferred_label": "Abihail",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
 "id": "person:Ziph",
 "type": "person",
 "preferred_label": "Ziph",
@@ -168,9 +182,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ziza.2",
+"id": "person:Jeush.5",
 "type": "person",
-"preferred_label": "Ziza",
+"preferred_label": "Jeush",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "person:Mahalath.2",
+"type": "person",
+"preferred_label": "Mahalath",
+"confidence": 0.1783,
+"match_method": "canonical"
+},
+{
+"id": "person:Attai.3",
+"type": "person",
+"preferred_label": "Attai",
 "confidence": 0.1783,
 "match_method": "canonical"
 },
@@ -189,37 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abihail.4",
-"type": "person",
-"preferred_label": "Abihail",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "person:Attai.3",
-"type": "person",
-"preferred_label": "Attai",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "person:Jeush.5",
-"type": "person",
-"preferred_label": "Jeush",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "person:Jerimoth.6",
-"type": "person",
-"preferred_label": "Jerimoth",
-"confidence": 0.1783,
-"match_method": "canonical"
-},
-{
-"id": "person:Eliab.3",
-"type": "person",
-"preferred_label": "Eliab",
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -231,30 +231,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Lachish",
-"type": "place",
-"preferred_label": "Lachish",
+"id": "person:Eliab.3",
+"type": "person",
+"preferred_label": "Eliab",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -266,65 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Socoh",
-"type": "place",
-"preferred_label": "Socoh",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Priesthood",
-"type": "keyterm",
-"preferred_label": "Priesthood",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Shemaiah",
-"type": "person",
-"preferred_label": "Shemaiah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
 "id": "place:Azekah",
 "type": "place",
 "preferred_label": "Azekah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "person:Jesse",
-"type": "person",
-"preferred_label": "Jesse",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Adullam",
-"type": "place",
-"preferred_label": "Adullam",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Mareshah",
-"type": "place",
-"preferred_label": "Mareshah",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehem",
-"confidence": 0.1696,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
 "confidence": 0.1696,
 "match_method": "canonical"
 },
@@ -343,6 +273,69 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Adullam",
+"type": "place",
+"preferred_label": "Adullam",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Socoh",
+"type": "place",
+"preferred_label": "Socoh",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "person:Shemaiah",
+"type": "person",
+"preferred_label": "Shemaiah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"preferred_label": "Priesthood",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "place:Mareshah",
+"type": "place",
+"preferred_label": "Mareshah",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
 "id": "place:Zorah",
 "type": "place",
 "preferred_label": "Zorah",
@@ -350,23 +343,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1696,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wine",
 "type": "realia",
-"preferred_label": "High Place",
+"preferred_label": "Wine",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
+"id": "realia:AnointingOil",
 "type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 0.1096,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
+"preferred_label": "Anointing Oil",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
@@ -385,16 +378,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
 {
-"id": "realia:Spear",
-"type": "realia",
-"preferred_label": "Spear",
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
@@ -406,9 +399,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
 "confidence": 0.1096,
 "match_method": "canonical"
 },
@@ -420,9 +413,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:AnointingOil",
+"id": "realia:HighPlace",
 "type": "realia",
-"preferred_label": "Anointing Oil",
+"preferred_label": "High Place",
+"confidence": 0.1096,
+"match_method": "canonical"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
 "confidence": 0.1096,
 "match_method": "canonical"
 }

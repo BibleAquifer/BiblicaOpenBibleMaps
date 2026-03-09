@@ -91,23 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "selama, lamanya",
-"confidence": 0.2754,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Surely",
 "type": "keyterm",
 "preferred_label": "amin!",
-"confidence": 0.2754,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "kasihi",
 "confidence": 0.2754,
 "match_method": "canonical"
 },
@@ -119,17 +105,24 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nicodemus",
-"type": "person",
-"preferred_label": "Nikodemus",
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "selama, lamanya",
 "confidence": 0.2754,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "baptisan",
-"confidence": 0.2721,
+"preferred_label": "kasihi",
+"confidence": 0.2754,
+"match_method": "canonical"
+},
+{
+"id": "person:Nicodemus",
+"type": "person",
+"preferred_label": "Nikodemus",
+"confidence": 0.2754,
 "match_method": "canonical"
 },
 {
@@ -154,10 +147,24 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
+"confidence": 0.2721,
+"match_method": "canonical"
+},
+{
 "id": "place:Cana",
 "type": "place",
 "preferred_label": "Kana",
 "confidence": 0.218,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "memutuskan",
+"confidence": 0.2148,
 "match_method": "canonical"
 },
 {
@@ -168,9 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Galilea",
+"preferred_label": "Yerusalem",
+"confidence": 0.2148,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "membersihkan",
 "confidence": 0.2148,
 "match_method": "canonical"
 },
@@ -189,23 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "membersihkan",
-"confidence": 0.2148,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
+"id": "place:Galilee",
 "type": "place",
-"preferred_label": "Yerusalem",
-"confidence": 0.2148,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "memutuskan",
+"preferred_label": "Galilea",
 "confidence": 0.2148,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Salim",
-"type": "place",
-"preferred_label": "Salim",
+"id": "group:Judea",
+"type": "group",
+"preferred_label": "Judeans",
 "confidence": 0.1607,
 "match_method": "canonical"
 }

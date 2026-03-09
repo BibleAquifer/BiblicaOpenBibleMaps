@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Naioth",
-"type": "place",
-"preferred_label": "Naioth",
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"preferred_label": "New Moon Festival",
 "confidence": 0.3871,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:NewMoonFestival",
-"type": "keyterm",
-"preferred_label": "New Moon Festival",
+"id": "place:Naioth",
+"type": "place",
+"preferred_label": "Naioth",
 "confidence": 0.3871,
 "match_method": "canonical"
 },
@@ -84,16 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.3273,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "person:Michal",
+"type": "person",
+"preferred_label": "Michal",
 "confidence": 0.3273,
 "match_method": "canonical"
 },
@@ -105,16 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Speak",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.3273,
-"match_method": "canonical"
-},
-{
-"id": "person:Michal",
-"type": "person",
-"preferred_label": "Michal",
+"preferred_label": "Peace",
 "confidence": 0.3273,
 "match_method": "canonical"
 },
@@ -122,6 +108,20 @@
 "id": "person:Samuel",
 "type": "person",
 "preferred_label": "Samuel",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.3273,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
 "confidence": 0.3273,
 "match_method": "canonical"
 },
@@ -147,44 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "deity:Teraphim",
-"type": "deity",
-"preferred_label": "Teraphim",
 "confidence": 0.2136,
 "match_method": "canonical"
 },
@@ -199,6 +164,41 @@
 "id": "keyterm:Ardour",
 "type": "keyterm",
 "preferred_label": "Passion",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"preferred_label": "Teraphim",
 "confidence": 0.2136,
 "match_method": "canonical"
 },

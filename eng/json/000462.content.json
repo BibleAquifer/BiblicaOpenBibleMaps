@@ -119,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Persia",
-"type": "place",
-"preferred_label": "Persia",
-"confidence": 0.3614,
-"match_method": "canonical"
-},
-{
 "id": "person:Medan",
 "type": "person",
 "preferred_label": "Medan",
@@ -136,6 +129,13 @@
 "id": "group:Persia",
 "type": "group",
 "preferred_label": "Persians",
+"confidence": 0.3614,
+"match_method": "canonical"
+},
+{
+"id": "place:Persia",
+"type": "place",
+"preferred_label": "Persia",
 "confidence": 0.3614,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Chaldea",
-"type": "group",
-"preferred_label": "Chaldeans",
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
 "confidence": 0.2579,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
 "confidence": 0.2579,
 "match_method": "canonical"
 },
@@ -193,13 +193,6 @@
 "type": "realia",
 "preferred_label": "Flute",
 "confidence": 0.2502,
-"match_method": "canonical"
-},
-{
-"id": "realia:RamsHorn",
-"type": "realia",
-"preferred_label": "Rams Horn",
-"confidence": 0.2491,
 "match_method": "canonical"
 },
 {
@@ -213,6 +206,13 @@
 "id": "realia:Lute",
 "type": "realia",
 "preferred_label": "Lute",
+"confidence": 0.2491,
+"match_method": "canonical"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"preferred_label": "Rams Horn",
 "confidence": 0.2491,
 "match_method": "canonical"
 },

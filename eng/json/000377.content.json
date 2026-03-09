@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeroboam",
+"id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Jeroboam",
+"preferred_label": "Judah",
 "confidence": 0.4426,
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
+"id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Jeroboam",
 "confidence": 0.4426,
 "match_method": "canonical"
 },
@@ -168,16 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibbethon",
-"type": "place",
-"preferred_label": "Gibbethon",
+"id": "person:Abijah.4",
+"type": "person",
+"preferred_label": "Abijah",
 "confidence": 0.2728,
 "match_method": "canonical"
 },
 {
-"id": "person:Abijah.4",
-"type": "person",
-"preferred_label": "Abijah",
+"id": "place:Gibbethon",
+"type": "place",
+"preferred_label": "Gibbethon",
 "confidence": 0.2728,
 "match_method": "canonical"
 },
@@ -203,9 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Tibni",
+"id": "person:Ginath",
 "type": "person",
-"preferred_label": "Tibni",
+"preferred_label": "Ginath",
 "confidence": 0.2191,
 "match_method": "canonical"
 },
@@ -217,9 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ginath",
+"id": "person:Tibni",
 "type": "person",
-"preferred_label": "Ginath",
+"preferred_label": "Tibni",
 "confidence": 0.2191,
 "match_method": "canonical"
 },

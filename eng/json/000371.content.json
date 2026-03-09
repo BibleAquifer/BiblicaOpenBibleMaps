@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.3715,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3715,
 "match_method": "canonical"
 },
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "person:Rehoboam",
+"type": "person",
+"preferred_label": "Rehoboam",
 "confidence": 0.3596,
 "match_method": "canonical"
 },
 {
-"id": "person:Rehoboam",
-"type": "person",
-"preferred_label": "Rehoboam",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.3596,
 "match_method": "canonical"
 },
@@ -168,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hiram",
-"type": "person",
-"preferred_label": "Hiram",
-"confidence": 0.358,
-"match_method": "canonical"
-},
-{
 "id": "person:Ben-hadad",
 "type": "person",
 "preferred_label": "Ben-hadad",
@@ -185,6 +178,13 @@
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
+"confidence": 0.358,
+"match_method": "canonical"
+},
+{
+"id": "person:Hiram",
+"type": "person",
+"preferred_label": "Hiram",
 "confidence": 0.358,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Offering",
+"preferred_label": "Covenant",
 "confidence": 0.3566,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Covenant",
+"preferred_label": "Offering",
 "confidence": 0.3566,
 "match_method": "canonical"
 }

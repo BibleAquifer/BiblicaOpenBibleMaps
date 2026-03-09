@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Jesus",
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
 "confidence": 0.4192,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Jesus",
 "confidence": 0.4192,
 "match_method": "canonical"
 },
@@ -49,6 +49,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2846,
+"match_method": "canonical"
+},
+{
 "id": "group:GenericDisciples",
 "type": "group",
 "preferred_label": "A Group of Disciples",
@@ -63,23 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
-"confidence": 0.2846,
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.2231,
 "match_method": "canonical"
 },
 {
 "id": "person:Israel",
 "type": "person",
 "preferred_label": "Israel",
-"confidence": 0.2231,
-"match_method": "canonical"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
 "confidence": 0.2231,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
+"id": "place:Magadan",
 "type": "place",
-"preferred_label": "Sidon",
+"preferred_label": "Magadan",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
 {
-"id": "person:SyrophonecianWoman",
-"type": "person",
-"preferred_label": "Syrophonecian Woman",
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -112,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Magadan",
-"type": "place",
-"preferred_label": "Magadan",
+"id": "person:SyrophonecianWoman",
+"type": "person",
+"preferred_label": "Syrophonecian Woman",
 "confidence": 0.1667,
 "match_method": "canonical"
 },
@@ -126,9 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "place:GalileeSea",
 "type": "place",
-"preferred_label": "Canaan",
+"preferred_label": "Sea of Galilee",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -140,69 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"preferred_label": "Be Demon Possessed",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"preferred_label": "Fornication",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Parable",
-"type": "keyterm",
-"preferred_label": "Parable",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"preferred_label": "Worship",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Serve",
 "type": "keyterm",
 "preferred_label": "Serve",
@@ -210,30 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Honest",
-"type": "keyterm",
-"preferred_label": "Honest",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "Mercy",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
-"confidence": 0.1615,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -252,23 +175,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Affection",
+"id": "keyterm:Fornication",
 "type": "keyterm",
-"preferred_label": "Affection",
+"preferred_label": "Fornication",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blaspheme",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Blaspheme",
+"preferred_label": "Glory",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
 {
-"id": "person:Isaiah",
+"id": "person:Peter",
 "type": "person",
-"preferred_label": "Isaiah",
+"preferred_label": "Peter",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"preferred_label": "Worship",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -280,9 +224,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:GalileeSea",
-"type": "place",
-"preferred_label": "Sea of Galilee",
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"preferred_label": "Parable",
 "confidence": 0.1615,
 "match_method": "canonical"
 },
@@ -290,6 +241,55 @@
 "id": "keyterm:Heavenly",
 "type": "keyterm",
 "preferred_label": "Heavenly",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"preferred_label": "Be Demon Possessed",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"preferred_label": "Honest",
+"confidence": 0.1615,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
 "confidence": 0.1615,
 "match_method": "canonical"
 },

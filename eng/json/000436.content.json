@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:Pure",
 "type": "keyterm",
-"preferred_label": "Offering",
+"preferred_label": "Pure",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pure",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Pure",
+"preferred_label": "Offering",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
@@ -67,13 +67,6 @@
 "type": "fauna",
 "preferred_label": "Pig",
 "confidence": 0.1858,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Jackal",
-"type": "fauna",
-"preferred_label": "Jackal",
-"confidence": 0.1775,
 "match_method": "canonical"
 },
 {
@@ -91,6 +84,13 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Jackal",
+"type": "fauna",
+"preferred_label": "Jackal",
+"confidence": 0.1775,
+"match_method": "canonical"
+},
+{
 "id": "place:Tubal",
 "type": "place",
 "preferred_label": "Tubal",
@@ -98,86 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Mischief",
-"type": "keyterm",
-"preferred_label": "Mischief",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:DetestedThing",
 "type": "keyterm",
 "preferred_label": "Detested Thing",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "person:Lud",
-"type": "person",
-"preferred_label": "Lud",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "place:Greece",
-"type": "place",
-"preferred_label": "Greece",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "place:Tarshish",
-"type": "place",
-"preferred_label": "Tarshish",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -189,6 +112,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
 "id": "place:Put",
 "type": "place",
 "preferred_label": "Put",
@@ -196,23 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
+"id": "place:Tarshish",
+"type": "place",
+"preferred_label": "Tarshish",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BringHonorAndGloryOnOneself",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Bring Honor and Glory on Oneself",
+"preferred_label": "Holy",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -224,9 +154,79 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"preferred_label": "Mischief",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Lud",
+"type": "person",
+"preferred_label": "Lud",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
 "id": "person:Levi.3",
 "type": "person",
 "preferred_label": "Levi",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"preferred_label": "Greece",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -238,37 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Wagon",
+"id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Wagon",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Dog",
-"type": "fauna",
-"preferred_label": "Dog",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"preferred_label": "Grass",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Camel",
-"type": "fauna",
-"preferred_label": "Camel",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "realia:Throne",
-"type": "realia",
-"preferred_label": "Throne",
+"preferred_label": "Sword",
 "confidence": 0.1088,
 "match_method": "canonical"
 },
@@ -287,9 +259,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bull",
+"id": "fauna:Dog",
 "type": "fauna",
-"preferred_label": "Cattle",
+"preferred_label": "Dog",
 "confidence": 0.1088,
 "match_method": "canonical"
 },
@@ -301,23 +273,30 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Horse",
-"type": "fauna",
-"preferred_label": "Horse",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
-"id": "flora:GreenVegetation",
-"type": "flora",
-"preferred_label": "Green Vegetation",
-"confidence": 0.1088,
-"match_method": "canonical"
-},
-{
 "id": "flora:Frankincense",
 "type": "flora",
 "preferred_label": "Frankincense",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"preferred_label": "Wagon",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"preferred_label": "Grass",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"preferred_label": "Horse",
 "confidence": 0.1088,
 "match_method": "canonical"
 },
@@ -329,9 +308,30 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
+"id": "realia:Throne",
 "type": "realia",
-"preferred_label": "Sword",
+"preferred_label": "Throne",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"preferred_label": "Green Vegetation",
 "confidence": 0.1088,
 "match_method": "canonical"
 }

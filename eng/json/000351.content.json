@@ -83,9 +83,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.3514,
 "match_method": "canonical"
 },
@@ -97,9 +97,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.3514,
 "match_method": "canonical"
 },
@@ -132,16 +132,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Rehob",
-"type": "person",
-"preferred_label": "Rehob",
-"confidence": 0.2371,
-"match_method": "canonical"
-},
-{
-"id": "person:Joram.2",
-"type": "person",
-"preferred_label": "Joram",
+"id": "place:Betah",
+"type": "place",
+"preferred_label": "Betah",
 "confidence": 0.2371,
 "match_method": "canonical"
 },
@@ -167,16 +160,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Betah",
-"type": "place",
-"preferred_label": "Betah",
+"id": "person:Ahilud",
+"type": "person",
+"preferred_label": "Ahilud",
 "confidence": 0.2371,
 "match_method": "canonical"
 },
 {
-"id": "person:Ahilud",
+"id": "person:Joram.2",
 "type": "person",
-"preferred_label": "Ahilud",
+"preferred_label": "Joram",
 "confidence": 0.2371,
 "match_method": "canonical"
 },
@@ -188,31 +181,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pelethites",
-"type": "group",
-"preferred_label": "Pelethites",
-"confidence": 0.2314,
-"match_method": "canonical"
-},
-{
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
-"confidence": 0.2314,
-"match_method": "canonical"
-},
-{
-"id": "person:Joab",
+"id": "person:Rehob",
 "type": "person",
-"preferred_label": "Joab",
-"confidence": 0.2314,
-"match_method": "canonical"
-},
-{
-"id": "group:Cherethite",
-"type": "group",
-"preferred_label": "Cherethites",
-"confidence": 0.2314,
+"preferred_label": "Rehob",
+"confidence": 0.2371,
 "match_method": "canonical"
 },
 {
@@ -230,13 +202,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ahitub.2",
-"type": "person",
-"preferred_label": "Ahitub",
-"confidence": 0.2314,
-"match_method": "canonical"
-},
-{
 "id": "person:Jehoshaphat",
 "type": "person",
 "preferred_label": "Jehoshaphat",
@@ -244,9 +209,65 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:Ahitub.2",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Ahitub",
+"confidence": 0.2314,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.2314,
+"match_method": "canonical"
+},
+{
+"id": "group:Pelethites",
+"type": "group",
+"preferred_label": "Pelethites",
+"confidence": 0.2314,
+"match_method": "canonical"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"preferred_label": "Cherethites",
+"confidence": 0.2314,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.2314,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Berothah",
+"type": "place",
+"preferred_label": "Berothah",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -254,13 +275,6 @@
 "id": "keyterm:Holy",
 "type": "keyterm",
 "preferred_label": "Holy",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -279,23 +293,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "place:Berothah",
-"type": "place",
-"preferred_label": "Berothah",
+"preferred_label": "Peace",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -307,23 +314,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoiada",
-"type": "person",
-"preferred_label": "Jehoiada",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.2257,
-"match_method": "canonical"
-},
-{
 "id": "place:Euphrates",
 "type": "place",
 "preferred_label": "Euphrates River",
+"confidence": 0.2257,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"preferred_label": "Jehoiada",
 "confidence": 0.2257,
 "match_method": "canonical"
 },

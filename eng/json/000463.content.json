@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
+"id": "person:Daniel.3",
+"type": "person",
+"preferred_label": "Daniel",
 "confidence": 0.3975,
 "match_method": "canonical"
 },
 {
-"id": "person:Daniel.3",
-"type": "person",
-"preferred_label": "Daniel",
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
 "confidence": 0.3975,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
+"id": "keyterm:Truth",
 "type": "keyterm",
-"preferred_label": "Rebel",
+"preferred_label": "Truth",
 "confidence": 0.3668,
 "match_method": "canonical"
 },
@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
+"id": "keyterm:Rebel",
 "type": "keyterm",
-"preferred_label": "Truth",
+"preferred_label": "Rebel",
 "confidence": 0.3668,
 "match_method": "canonical"
 },
@@ -154,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
+"id": "keyterm:Instruction",
 "type": "keyterm",
-"preferred_label": "Passion",
+"preferred_label": "Instruction",
 "confidence": 0.2584,
 "match_method": "canonical"
 },
@@ -168,16 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Instruction",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.2584,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"preferred_label": "Fear",
 "confidence": 0.2584,
 "match_method": "canonical"
 },
@@ -189,6 +182,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.2584,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:ActWickedly",
 "type": "keyterm",
 "preferred_label": "To Act Wickedly",
@@ -196,9 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2584,
 "match_method": "canonical"
 },

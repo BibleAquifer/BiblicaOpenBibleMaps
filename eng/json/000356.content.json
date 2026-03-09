@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ziba",
-"type": "person",
-"preferred_label": "Ziba",
+"id": "group:Archites",
+"type": "group",
+"preferred_label": "Archites",
 "confidence": 0.3202,
 "match_method": "canonical"
 },
 {
-"id": "group:Archites",
-"type": "group",
-"preferred_label": "Archites",
+"id": "person:Ziba",
+"type": "person",
+"preferred_label": "Ziba",
 "confidence": 0.3202,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.2652,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
 "confidence": 0.2652,
 "match_method": "canonical"
 },
@@ -182,13 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Vow",
-"type": "keyterm",
-"preferred_label": "Vow",
-"confidence": 0.2101,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Favor",
 "type": "keyterm",
 "preferred_label": "Favor",
@@ -196,23 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.2101,
-"match_method": "canonical"
-},
-{
-"id": "person:Abishai",
+"id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Abishai",
-"confidence": 0.2101,
-"match_method": "canonical"
-},
-{
-"id": "place:Mahanaim",
-"type": "place",
-"preferred_label": "Mahanaim",
+"preferred_label": "Saul",
 "confidence": 0.2101,
 "match_method": "canonical"
 },
@@ -224,9 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Saul.2",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.2101,
+"match_method": "canonical"
+},
+{
+"id": "person:Mephibosheth",
 "type": "person",
-"preferred_label": "Saul",
+"preferred_label": "Mephibosheth",
 "confidence": 0.2101,
 "match_method": "canonical"
 }

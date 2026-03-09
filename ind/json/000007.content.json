@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "kebaikan",
 "confidence": 0.2765,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "kebaikan",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2765,
 "match_method": "canonical"
 },
@@ -109,13 +109,6 @@
 "type": "keyterm",
 "preferred_label": "percaya",
 "confidence": 0.2765,
-"match_method": "canonical"
-},
-{
-"id": "person:Andrew",
-"type": "person",
-"preferred_label": "Andreas",
-"confidence": 0.2216,
 "match_method": "canonical"
 },
 {
@@ -133,38 +126,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
+"id": "person:Andrew",
+"type": "person",
+"preferred_label": "Andreas",
 "confidence": 0.2216,
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
+"id": "keyterm:Law",
 "type": "keyterm",
-"preferred_label": "kebenaran",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Elia",
-"confidence": 0.2176,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "tubuh",
-"confidence": 0.2176,
+"preferred_label": "hukum",
+"confidence": 0.2216,
 "match_method": "canonical"
 },
 {
@@ -189,9 +161,37 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elia",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Name",
 "type": "keyterm",
 "preferred_label": "nama",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "kebenaran",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "tubuh",
+"confidence": 0.2176,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.2176,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethsaida",
-"type": "place",
-"preferred_label": "Betsaida",
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
 "confidence": 0.1627,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "kehidupan",
+"id": "place:Bethsaida",
+"type": "place",
+"preferred_label": "Betsaida",
 "confidence": 0.1627,
 "match_method": "canonical"
 }

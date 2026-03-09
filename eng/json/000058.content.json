@@ -104,13 +104,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.3717,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
@@ -121,6 +114,13 @@
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "Love",
+"confidence": 0.3717,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.3717,
 "match_method": "canonical"
 },
@@ -146,13 +146,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.3663,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Judgment",
 "type": "keyterm",
 "preferred_label": "Judgment",
@@ -160,10 +153,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DoGood",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Do Good",
-"confidence": 0.3648,
+"preferred_label": "Always",
+"confidence": 0.3663,
 "match_method": "canonical"
 },
 {
@@ -188,9 +181,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"preferred_label": "Do Good",
+"confidence": 0.3648,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Peace",
 "type": "keyterm",
 "preferred_label": "Make Peace",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"preferred_label": "Savior",
 "confidence": 0.3636,
 "match_method": "canonical"
 },
@@ -202,17 +216,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Blaspheme",
 "type": "keyterm",
-"preferred_label": "Heart",
-"confidence": 0.3636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Savior",
-"type": "keyterm",
-"preferred_label": "Savior",
-"confidence": 0.3636,
+"preferred_label": "Blaspheme",
+"confidence": 0.3108,
 "match_method": "canonical"
 },
 {
@@ -226,13 +233,6 @@
 "id": "keyterm:Decided",
 "type": "keyterm",
 "preferred_label": "Decided",
-"confidence": 0.3108,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
 "confidence": 0.3108,
 "match_method": "canonical"
 }

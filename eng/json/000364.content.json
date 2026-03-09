@@ -63,16 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -84,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Sidon",
-"type": "place",
-"preferred_label": "Sidon",
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"preferred_label": "Understanding",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -98,37 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "group:Sidon",
-"type": "group",
-"preferred_label": "Sidonians",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Insight",
+"id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Insight",
-"confidence": 0.1737,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"preferred_label": "Decree",
+"preferred_label": "Covenant",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -140,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Sidon",
+"type": "place",
+"preferred_label": "Sidon",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:CovenantBox",
 "type": "keyterm",
 "preferred_label": "Covenant Box",
@@ -147,16 +119,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
+"id": "group:Sidon",
+"type": "group",
+"preferred_label": "Sidonians",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Understanding",
+"id": "keyterm:Decree",
 "type": "keyterm",
-"preferred_label": "Understanding",
+"preferred_label": "Decree",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Insight",
+"type": "keyterm",
+"preferred_label": "Insight",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
 "confidence": 0.1737,
 "match_method": "canonical"
 },
@@ -168,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1737,
+"match_method": "canonical"
+},
+{
 "id": "realia:Nail",
 "type": "realia",
 "preferred_label": "Nail",
@@ -175,44 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:ArkOfTheCovenant",
-"type": "realia",
-"preferred_label": "Ark of the Covenant",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:HewnStone",
-"type": "realia",
-"preferred_label": "Hewn Stone",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
-"confidence": 0.1137,
-"match_method": "canonical"
-},
-{
-"id": "realia:Talent",
-"type": "realia",
-"preferred_label": "Talent",
+"preferred_label": "Altar",
 "confidence": 0.1137,
 "match_method": "canonical"
 },
@@ -224,9 +189,37 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:HewnStone",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Hewn Stone",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "realia:Talent",
+"type": "realia",
+"preferred_label": "Talent",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
 "confidence": 0.1137,
 "match_method": "canonical"
 },
@@ -234,6 +227,13 @@
 "id": "flora:Cedar",
 "type": "flora",
 "preferred_label": "Cedar",
+"confidence": 0.1137,
+"match_method": "canonical"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"preferred_label": "Tabernacle Altar",
 "confidence": 0.1137,
 "match_method": "canonical"
 }

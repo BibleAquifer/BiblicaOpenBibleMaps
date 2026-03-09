@@ -42,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
 "confidence": 0.3063,
 "match_method": "canonical"
 },
@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.3063,
 "match_method": "canonical"
 },
@@ -84,9 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nun",
-"type": "person",
-"preferred_label": "Nun",
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2375,
+"match_method": "canonical"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
@@ -98,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
+"id": "person:Nun",
+"type": "person",
+"preferred_label": "Nun",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
@@ -108,13 +115,6 @@
 "id": "keyterm:Oath",
 "type": "keyterm",
 "preferred_label": "Oath",
-"confidence": 0.2375,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
 "confidence": 0.2375,
 "match_method": "canonical"
 },
@@ -133,30 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proscribe.2",
-"type": "keyterm",
-"preferred_label": "Set Apart for Destruction",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
 "id": "group:Amorites",
 "type": "group",
 "preferred_label": "Amorites",
-"confidence": 0.1688,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -168,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Sihon",
-"type": "person",
-"preferred_label": "Sihon",
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"preferred_label": "Set Apart for Destruction",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.1688,
 "match_method": "canonical"
 },
@@ -182,10 +168,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Thread",
-"type": "realia",
-"preferred_label": "Thread",
-"confidence": 0.1171,
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1688,
+"match_method": "canonical"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"preferred_label": "Sihon",
+"confidence": 0.1688,
 "match_method": "canonical"
 },
 {
@@ -196,16 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Cattails",
-"type": "flora",
-"preferred_label": "Cattails",
-"confidence": 0.1088,
+"id": "realia:Thread",
+"type": "realia",
+"preferred_label": "Thread",
+"confidence": 0.1171,
 "match_method": "canonical"
 },
 {
 "id": "flora:Flax",
 "type": "flora",
 "preferred_label": "Flax",
+"confidence": 0.1088,
+"match_method": "canonical"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"preferred_label": "Cattails",
 "confidence": 0.1088,
 "match_method": "canonical"
 }

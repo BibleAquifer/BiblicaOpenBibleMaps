@@ -21,16 +21,16 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Иисус",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Иерусалим",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Иерусалим",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Иисус",
 "confidence": 0.3925,
 "match_method": "canonical"
 },
@@ -63,6 +63,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "preferred_label": "Body",
@@ -77,37 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2755,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "Spirit",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Пётр",
+"preferred_label": "Моисей",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -119,9 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"preferred_label": "Cause of Joy",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
 "type": "person",
-"preferred_label": "Моисей",
+"preferred_label": "Пётр",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -133,6 +119,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "Life",
@@ -140,30 +140,16 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Emmaus",
+"type": "place",
+"preferred_label": "Эммаус",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Week",
 "type": "keyterm",
 "preferred_label": "Week",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "Bow Down",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "person:Cleopas",
-"type": "person",
-"preferred_label": "Клеопа",
-"confidence": 0.1623,
-"match_method": "canonical"
-},
-{
-"id": "person:Joanna",
-"type": "person",
-"preferred_label": "Иоанна",
 "confidence": 0.1623,
 "match_method": "canonical"
 },
@@ -182,10 +168,38 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Emmaus",
-"type": "place",
-"preferred_label": "Эммаус",
+"id": "person:Cleopas",
+"type": "person",
+"preferred_label": "Клеопа",
 "confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "person:Joanna",
+"type": "person",
+"preferred_label": "Иоанна",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"preferred_label": "Bow Down",
+"confidence": 0.1623,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1585,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Liberation",
+"type": "keyterm",
+"preferred_label": "Liberation",
+"confidence": 0.1585,
 "match_method": "canonical"
 },
 {
@@ -196,37 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:James.3",
 "type": "person",
-"preferred_label": "Израиль",
+"preferred_label": "Иаков",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
+"id": "keyterm:Promise",
 "type": "keyterm",
-"preferred_label": "Forgive",
+"preferred_label": "Promise",
 "confidence": 0.1585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1585,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
+"id": "person:Marymagdalene",
+"type": "person",
+"preferred_label": "Мария Магдалина",
 "confidence": 0.1585,
 "match_method": "canonical"
 }

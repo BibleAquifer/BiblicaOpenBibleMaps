@@ -84,6 +84,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
 "id": "person:Eliakim.3",
 "type": "person",
 "preferred_label": "Eliakim",
@@ -98,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.33,
-"match_method": "canonical"
-},
-{
 "id": "person:Joah",
 "type": "person",
 "preferred_label": "Joah",
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
 "confidence": 0.2725,
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.2725,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Asaph",
-"type": "person",
-"preferred_label": "Asaph",
-"confidence": 0.2183,
-"match_method": "canonical"
-},
-{
 "id": "place:Sepharvaim",
 "type": "place",
 "preferred_label": "Sepharvaim",
@@ -154,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
+"id": "person:Asaph",
+"type": "person",
+"preferred_label": "Asaph",
+"confidence": 0.2183,
+"match_method": "canonical"
+},
+{
+"id": "person:Amoz",
+"type": "person",
+"preferred_label": "Amoz",
 "confidence": 0.215,
 "match_method": "canonical"
 },
@@ -175,17 +175,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amoz",
-"type": "person",
-"preferred_label": "Amoz",
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
 "confidence": 0.215,
-"match_method": "canonical"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.2125,
 "match_method": "canonical"
 },
 {
@@ -196,30 +189,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:WashersField",
-"type": "place",
-"preferred_label": "Launderer’s Field",
-"confidence": 0.1608,
-"match_method": "canonical"
-},
-{
-"id": "place:Eden",
-"type": "place",
-"preferred_label": "Eden",
-"confidence": 0.1608,
-"match_method": "canonical"
-},
-{
-"id": "person:Sharezer",
-"type": "person",
-"preferred_label": "Sharezer",
-"confidence": 0.1608,
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2125,
 "match_method": "canonical"
 },
 {
 "id": "person:Pharaoh.8",
 "type": "person",
 "preferred_label": "Pharaoh",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "place:Hena",
+"type": "place",
+"preferred_label": "Hena",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "place:Telassar",
+"type": "place",
+"preferred_label": "Telassar",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "deity:Nisroch",
+"type": "deity",
+"preferred_label": "Nisroch",
 "confidence": 0.1608,
 "match_method": "canonical"
 },

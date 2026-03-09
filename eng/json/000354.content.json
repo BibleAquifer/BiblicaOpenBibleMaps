@@ -83,13 +83,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3909,
-"match_method": "canonical"
-},
-{
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
@@ -100,6 +93,13 @@
 "id": "group:Ammon",
 "type": "group",
 "preferred_label": "Ammonites",
+"confidence": 0.3909,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.3909,
 "match_method": "canonical"
 },
@@ -139,30 +139,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
 "confidence": 0.2136,
 "match_method": "canonical"
 },
@@ -174,38 +153,31 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
 "confidence": 0.2105,
-"match_method": "canonical"
-},
-{
-"id": "person:Elhanan",
-"type": "person",
-"preferred_label": "Elhanan",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:HugeMan",
-"type": "person",
-"preferred_label": "Huge Man",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Jaare-oregim",
-"type": "person",
-"preferred_label": "Jaare-oregim",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Shimeah.2",
-"type": "person",
-"preferred_label": "Shimeah",
-"confidence": 0.1598,
 "match_method": "canonical"
 },
 {
@@ -223,6 +195,13 @@
 "match_method": "canonical"
 },
 {
+"id": "group:Hushathites",
+"type": "group",
+"preferred_label": "Hushathites",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
 "id": "person:Saph",
 "type": "person",
 "preferred_label": "Saph",
@@ -230,9 +209,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Informant",
+"id": "person:Jaare-oregim",
 "type": "person",
-"preferred_label": "An Informant",
+"preferred_label": "Jaare-oregim",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Elhanan",
+"type": "person",
+"preferred_label": "Elhanan",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Shimeah.2",
+"type": "person",
+"preferred_label": "Shimeah",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:HugeMan",
+"type": "person",
+"preferred_label": "Huge Man",
 "confidence": 0.1598,
 "match_method": "canonical"
 }

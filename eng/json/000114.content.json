@@ -56,6 +56,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
 "id": "deity:Angel",
 "type": "deity",
 "preferred_label": "An Angel",
@@ -70,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Name",
 "confidence": 0.2243,
 "match_method": "canonical"
 },
@@ -84,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
@@ -98,23 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Andrew",
-"type": "person",
-"preferred_label": "Andrew",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Portent",
 "type": "keyterm",
 "preferred_label": "Portent",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -126,30 +112,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Parable",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Parable",
+"preferred_label": "Surely!",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Good News",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"preferred_label": "Disaster",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
+"id": "person:John.2",
 "type": "person",
-"preferred_label": "Peter",
+"preferred_label": "John",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:James",
+"type": "person",
+"preferred_label": "James",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -161,16 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Bear Witness",
+"preferred_label": "Be a Disciple",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Authority",
+"preferred_label": "Glory",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -189,16 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Parable",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Parable",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "Believe",
+"preferred_label": "Authority",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -210,44 +224,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disaster",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Disaster",
+"preferred_label": "Believe",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"preferred_label": "To Command",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:James",
+"id": "person:Andrew",
 "type": "person",
-"preferred_label": "James",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "John",
+"preferred_label": "Andrew",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -259,30 +245,23 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:OliveTree",
-"type": "flora",
-"preferred_label": "Olive Tree",
-"confidence": 0.1022,
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "realia:Cloak",
-"type": "realia",
-"preferred_label": "Cloak",
-"confidence": 0.1022,
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.1622,
 "match_method": "canonical"
 },
 {
 "id": "realia:Door",
 "type": "realia",
 "preferred_label": "Door",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "flora:Fig",
-"type": "flora",
-"preferred_label": "Fig",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -294,9 +273,30 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"preferred_label": "Olive Tree",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
 "id": "realia:Synagogue",
 "type": "realia",
 "preferred_label": "Synagogue",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"preferred_label": "Fig",
 "confidence": 0.1022,
 "match_method": "canonical"
 }

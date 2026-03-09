@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Thebes",
+"id": "place:Cush.2",
 "type": "place",
-"preferred_label": "Thebes",
+"preferred_label": "Cush",
 "confidence": 0.3019,
 "match_method": "canonical"
 },
 {
-"id": "place:Cush.2",
+"id": "place:Thebes",
 "type": "place",
-"preferred_label": "Cush",
+"preferred_label": "Thebes",
 "confidence": 0.3019,
 "match_method": "canonical"
 },
@@ -91,16 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tahpanhes",
+"id": "place:Pathros",
 "type": "place",
-"preferred_label": "Tahpanhes",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Pi-beseth",
-"type": "place",
-"preferred_label": "Pi-beseth",
+"preferred_label": "Pathros",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -108,6 +101,13 @@
 "id": "place:Libya",
 "type": "place",
 "preferred_label": "Libya",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Zoan",
+"type": "place",
+"preferred_label": "Zoan",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -126,73 +126,17 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zoan",
+"id": "place:Pi-beseth",
 "type": "place",
-"preferred_label": "Zoan",
+"preferred_label": "Pi-beseth",
 "confidence": 0.175,
 "match_method": "canonical"
 },
 {
-"id": "place:Pathros",
+"id": "place:Tahpanhes",
 "type": "place",
-"preferred_label": "Pathros",
+"preferred_label": "Tahpanhes",
 "confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "person:Lud",
-"type": "person",
-"preferred_label": "Lud",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mighty.2",
-"type": "keyterm",
-"preferred_label": "Mighty",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Safety",
-"type": "keyterm",
-"preferred_label": "Safety",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Migdol",
-"type": "place",
-"preferred_label": "Migdol",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Nile",
-"type": "place",
-"preferred_label": "Nile River",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:On",
-"type": "place",
-"preferred_label": "On",
-"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
@@ -203,16 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Arabia",
-"type": "place",
-"preferred_label": "Arabia",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
+"id": "keyterm:Mighty.2",
 "type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Mighty",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -231,16 +168,72 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Image",
-"type": "realia",
-"preferred_label": "Image",
-"confidence": 0.1073,
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1673,
 "match_method": "canonical"
 },
 {
-"id": "realia:Fortress",
+"id": "place:Migdol",
+"type": "place",
+"preferred_label": "Migdol",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:On",
+"type": "place",
+"preferred_label": "On",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"preferred_label": "Safety",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Lud",
+"type": "person",
+"preferred_label": "Lud",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"preferred_label": "Nile River",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "realia:Image",
 "type": "realia",
-"preferred_label": "Fortress",
+"preferred_label": "Image",
 "confidence": 0.1073,
 "match_method": "canonical"
 },
@@ -255,6 +248,13 @@
 "id": "realia:Ship",
 "type": "realia",
 "preferred_label": "Ship",
+"confidence": 0.1073,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"preferred_label": "Fortress",
 "confidence": 0.1073,
 "match_method": "canonical"
 }

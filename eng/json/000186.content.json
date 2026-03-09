@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Name",
 "confidence": 0.4036,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Heart",
 "confidence": 0.4036,
 "match_method": "canonical"
 },
@@ -77,20 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2821,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
-"confidence": 0.2821,
-"match_method": "canonical"
-},
-{
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Jesus",
@@ -105,17 +91,24 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2821,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.2821,
+"match_method": "canonical"
+},
+{
 "id": "realia:Door",
 "type": "realia",
 "preferred_label": "Door",
 "confidence": 0.2221,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "Word",
-"confidence": 0.2214,
 "match_method": "canonical"
 },
 {
@@ -126,10 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Witness",
+"id": "keyterm:Word",
 "type": "keyterm",
-"preferred_label": "Witness",
-"confidence": 0.1655,
+"preferred_label": "Word",
+"confidence": 0.2214,
 "match_method": "canonical"
 },
 {
@@ -140,23 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Sapphira",
-"type": "person",
-"preferred_label": "Sapphira",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Gamaliel",
-"type": "person",
-"preferred_label": "Gamaliel",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Theudas",
-"type": "person",
-"preferred_label": "Theudas",
+"id": "keyterm:Witness",
+"type": "keyterm",
+"preferred_label": "Witness",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -164,6 +143,13 @@
 "id": "keyterm:Resentment",
 "type": "keyterm",
 "preferred_label": "Resentment",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Sapphira",
+"type": "person",
+"preferred_label": "Sapphira",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -182,44 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1607,
+"id": "person:Gamaliel",
+"type": "person",
+"preferred_label": "Gamaliel",
+"confidence": 0.1655,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.1607,
+"id": "person:Theudas",
+"type": "person",
+"preferred_label": "Theudas",
+"confidence": 0.1655,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
@@ -231,37 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:OpposingGod",
 "type": "keyterm",
-"preferred_label": "Authority",
+"preferred_label": "Opposing God",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "group:Sadducee",
-"type": "group",
-"preferred_label": "Sadducees",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
@@ -273,34 +217,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericPerson",
-"type": "person",
-"preferred_label": "A Person",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"preferred_label": "Repent",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Resurrection",
 "type": "keyterm",
 "preferred_label": "Resurrection",
@@ -308,23 +224,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Galilee",
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "group:Sadducee",
 "type": "group",
-"preferred_label": "Galileans",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1607,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Sadducees",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
@@ -336,9 +252,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:OpposingGod",
-"type": "keyterm",
-"preferred_label": "Opposing God",
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"preferred_label": "A Person",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"preferred_label": "Israelites",
 "confidence": 0.1607,
 "match_method": "canonical"
 },
@@ -350,10 +287,80 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"preferred_label": "Repent",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"preferred_label": "Galileans",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.1607,
+"match_method": "canonical"
+},
+{
 "id": "realia:Porch",
 "type": "realia",
 "preferred_label": "Porch",
 "confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
+"confidence": 0.1007,
 "match_method": "canonical"
 },
 {
@@ -367,13 +374,6 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
-"confidence": 0.1007,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bed",
-"type": "realia",
-"preferred_label": "Bed",
 "confidence": 0.1007,
 "match_method": "canonical"
 }

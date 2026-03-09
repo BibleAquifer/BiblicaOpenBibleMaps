@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
+"id": "person:David",
 "type": "person",
-"preferred_label": "Israel",
+"preferred_label": "David",
 "confidence": 0.4741,
 "match_method": "canonical"
 },
 {
-"id": "person:David",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "David",
+"preferred_label": "Israel",
 "confidence": 0.4741,
 "match_method": "canonical"
 },
@@ -77,6 +77,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.231,
+"match_method": "canonical"
+},
+{
 "id": "place:Mahanaim",
 "type": "place",
 "preferred_label": "Mahanaim",
@@ -91,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jonathan.4",
-"type": "person",
-"preferred_label": "Jonathan",
-"confidence": 0.231,
-"match_method": "canonical"
-},
-{
 "id": "place:Gilead",
 "type": "place",
 "preferred_label": "Gilead",
@@ -105,17 +105,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.231,
-"match_method": "canonical"
-},
-{
-"id": "person:Machir.2",
+"id": "person:Jonathan.4",
 "type": "person",
-"preferred_label": "Machir",
-"confidence": 0.1724,
+"preferred_label": "Jonathan",
+"confidence": 0.231,
 "match_method": "canonical"
 },
 {
@@ -126,16 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Lo-debar",
-"type": "place",
-"preferred_label": "Lo-debar",
-"confidence": 0.1724,
-"match_method": "canonical"
-},
-{
-"id": "person:Nahash.3",
+"id": "person:Jether.3",
 "type": "person",
-"preferred_label": "Nahash",
+"preferred_label": "Jether",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -147,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Rogelim",
+"id": "place:Lo-debar",
 "type": "place",
-"preferred_label": "Rogelim",
+"preferred_label": "Lo-debar",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -161,16 +147,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Barzillai",
+"id": "person:Shobi",
 "type": "person",
-"preferred_label": "Barzillai",
+"preferred_label": "Shobi",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
 {
-"id": "person:Jether.3",
+"id": "person:Nahash.3",
 "type": "person",
-"preferred_label": "Jether",
+"preferred_label": "Nahash",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "place:Rogelim",
+"type": "place",
+"preferred_label": "Rogelim",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Machir.2",
+"type": "person",
+"preferred_label": "Machir",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shobi",
+"id": "person:Barzillai",
 "type": "person",
-"preferred_label": "Shobi",
+"preferred_label": "Barzillai",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -203,23 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "person:Ishmael",
+"type": "person",
+"preferred_label": "Ishmael",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -231,51 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joab",
+"id": "person:Zadok.2",
 "type": "person",
-"preferred_label": "Joab",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Abiathar",
-"type": "person",
-"preferred_label": "Abiathar",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Ishmael",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "place:Bahurim",
-"type": "place",
-"preferred_label": "Bahurim",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "place:Beersheba",
-"type": "place",
-"preferred_label": "Beersheba",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
+"preferred_label": "Zadok",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -287,23 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericFemale",
-"type": "person",
-"preferred_label": "A Woman",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Zadok.2",
-"type": "person",
-"preferred_label": "Zadok",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -315,6 +245,69 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"preferred_label": "Abiathar",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"preferred_label": "Beersheba",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Bahurim",
+"type": "place",
+"preferred_label": "Bahurim",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"preferred_label": "A Woman",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
 "id": "person:Zeruiah",
 "type": "person",
 "preferred_label": "Zeruiah",
@@ -322,10 +315,10 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Bean",
-"type": "flora",
-"preferred_label": "Bean",
-"confidence": 0.1124,
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
+"confidence": 0.1655,
 "match_method": "canonical"
 },
 {
@@ -336,10 +329,31 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Bean",
+"type": "flora",
+"preferred_label": "Bean",
+"confidence": 0.1124,
+"match_method": "canonical"
+},
+{
 "id": "realia:Rope",
 "type": "realia",
 "preferred_label": "Rope",
 "confidence": 0.1124,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bowl",
+"type": "realia",
+"preferred_label": "Bowl",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
+"confidence": 0.1055,
 "match_method": "canonical"
 },
 {
@@ -357,37 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.1055,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bowl",
+"id": "realia:Screen",
 "type": "realia",
-"preferred_label": "Bowl",
-"confidence": 0.1055,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.1055,
-"match_method": "canonical"
-},
-{
-"id": "realia:ToSaddle",
-"type": "realia",
-"preferred_label": "To Saddle",
-"confidence": 0.1055,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Screen",
 "confidence": 0.1055,
 "match_method": "canonical"
 },
@@ -399,16 +385,23 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bull",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Cattle",
+"preferred_label": "Goat",
 "confidence": 0.1055,
 "match_method": "canonical"
 },
 {
-"id": "realia:Screen",
-"type": "realia",
-"preferred_label": "Screen",
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
 "confidence": 0.1055,
 "match_method": "canonical"
 },
@@ -420,9 +413,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bed",
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:ToSaddle",
 "type": "realia",
-"preferred_label": "Bed",
+"preferred_label": "To Saddle",
 "confidence": 0.1055,
 "match_method": "canonical"
 }

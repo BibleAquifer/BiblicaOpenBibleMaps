@@ -91,13 +91,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
-"confidence": 0.3234,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Sabbath",
 "type": "keyterm",
 "preferred_label": "Sabbath",
@@ -112,9 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
+"confidence": 0.3234,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"preferred_label": "Pray",
 "confidence": 0.2675,
 "match_method": "canonical"
 },
@@ -126,16 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Pray",
+"preferred_label": "Church",
 "confidence": 0.2675,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "Church",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.2675,
 "match_method": "canonical"
 },
@@ -154,6 +154,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Bar-jesus",
+"type": "person",
+"preferred_label": "Bar-jesus",
+"confidence": 0.2169,
+"match_method": "canonical"
+},
+{
 "id": "place:Paphos",
 "type": "place",
 "preferred_label": "Paphos",
@@ -161,10 +168,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Bar-jesus",
-"type": "person",
-"preferred_label": "Bar-jesus",
-"confidence": 0.2169,
+"id": "place:Perga",
+"type": "place",
+"preferred_label": "Perga",
+"confidence": 0.2143,
 "match_method": "canonical"
 },
 {
@@ -182,16 +189,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Perga",
-"type": "place",
-"preferred_label": "Perga",
-"confidence": 0.2143,
+"id": "keyterm:Promise",
+"type": "keyterm",
+"preferred_label": "Promise",
+"confidence": 0.2117,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Ask for",
+"preferred_label": "Salvation",
+"confidence": 0.2117,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2117,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
 "confidence": 0.2117,
 "match_method": "canonical"
 },
@@ -206,27 +227,6 @@
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Jesus",
-"confidence": 0.2117,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.2117,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.2117,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Promise",
-"type": "keyterm",
-"preferred_label": "Promise",
 "confidence": 0.2117,
 "match_method": "canonical"
 }

@@ -91,6 +91,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.2838,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Pray",
 "type": "keyterm",
 "preferred_label": "berdoa",
@@ -105,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "nama",
-"confidence": 0.2838,
-"match_method": "canonical"
-},
-{
 "id": "person:Lydia",
 "type": "person",
 "preferred_label": "Lidia",
@@ -119,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Troas",
+"id": "place:Mysia",
 "type": "place",
-"preferred_label": "Troas",
+"preferred_label": "Misia",
 "confidence": 0.2275,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mysia",
+"id": "place:Troas",
 "type": "place",
-"preferred_label": "Misia",
+"preferred_label": "Troas",
 "confidence": 0.2275,
 "match_method": "canonical"
 },
@@ -147,23 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Javan",
-"type": "person",
-"preferred_label": "Yunani",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "baptisan",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
+"preferred_label": "memutuskan",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -175,6 +161,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Yunani",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Faithfulness",
 "type": "keyterm",
 "preferred_label": "kesetiaan",
@@ -182,16 +182,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "memutuskan",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
 {
-"id": "place:Asia",
+"id": "place:Thyatira",
 "type": "place",
-"preferred_label": "Asia",
+"preferred_label": "Tiatira",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -203,51 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Derbe",
+"id": "place:Asia",
 "type": "place",
-"preferred_label": "Derbe",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Samothrace",
-"type": "place",
-"preferred_label": "Samotrake",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Philippi",
-"type": "place",
-"preferred_label": "Filipi",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Thyatira",
-"type": "place",
-"preferred_label": "Tiatira",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Galatia",
-"type": "place",
-"preferred_label": "Galatia",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Timotius",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "place:Bithynia",
-"type": "place",
-"preferred_label": "Bitinia",
+"preferred_label": "Asia",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -266,6 +224,48 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Philippi",
+"type": "place",
+"preferred_label": "Filipi",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Bithynia",
+"type": "place",
+"preferred_label": "Bitinia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Timotius",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Galatia",
+"type": "place",
+"preferred_label": "Galatia",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Samothrace",
+"type": "place",
+"preferred_label": "Samotrake",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"preferred_label": "Derbe",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
 "id": "realia:Door",
 "type": "realia",
 "preferred_label": "Door",
@@ -280,58 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
-"type": "keyterm",
-"preferred_label": "firman",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Peace",
 "type": "keyterm",
 "preferred_label": "memperdamaikan",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "harapan",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"preferred_label": "sembah",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "bersaksi",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawful",
-"type": "keyterm",
-"preferred_label": "Be Lawful",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "sabat",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Church",
-"type": "keyterm",
-"preferred_label": "jemaat",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -343,23 +294,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "injil",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Yerusalem",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Encourage",
+"id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "menasihati",
+"preferred_label": "jemaat",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Worship",
 "type": "keyterm",
-"preferred_label": "hati",
+"preferred_label": "sembah",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -371,9 +322,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Yerusalem",
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "sabat",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"preferred_label": "menasihati",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -385,17 +343,52 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "harapan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "bersaksi",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "injil",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
 "id": "realia:Torch",
 "type": "realia",
 "preferred_label": "Torch",
 "confidence": 0.1063,
-"match_method": "canonical"
-},
-{
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
-"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
@@ -409,6 +402,13 @@
 "id": "realia:Foundation",
 "type": "realia",
 "preferred_label": "Foundation",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

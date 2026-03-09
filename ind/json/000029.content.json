@@ -42,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Yesus",
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "sorga",
 "confidence": 0.36,
 "match_method": "canonical"
 },
@@ -56,23 +56,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "sorga",
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Yesus",
 "confidence": 0.36,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "percaya",
-"confidence": 0.295,
 "match_method": "canonical"
 },
 {
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Yerusalem",
+"confidence": 0.295,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
 "confidence": 0.295,
 "match_method": "canonical"
 },
@@ -98,16 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Discern",
 "type": "keyterm",
-"preferred_label": "firman",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "place:Joppa",
-"type": "place",
-"preferred_label": "Yafo",
+"preferred_label": "bimbang",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -119,30 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
-"type": "keyterm",
-"preferred_label": "bimbang",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "person:Barnabas",
-"type": "person",
-"preferred_label": "Barnabas",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Church",
 "type": "keyterm",
 "preferred_label": "jemaat",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"preferred_label": "Paulus",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -154,9 +126,37 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Joppa",
+"type": "place",
+"preferred_label": "Yafo",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "firman",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Barnabas",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
 "id": "place:Judea",
 "type": "place",
 "preferred_label": "Yehuda",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paulus",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -171,13 +171,6 @@
 "id": "person:Agabus",
 "type": "person",
 "preferred_label": "Agabus",
-"confidence": 0.1717,
-"match_method": "canonical"
-},
-{
-"id": "place:Phoenicia",
-"type": "place",
-"preferred_label": "Fenisia",
 "confidence": 0.1717,
 "match_method": "canonical"
 },
@@ -203,6 +196,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Phoenicia",
+"type": "place",
+"preferred_label": "Fenisia",
+"confidence": 0.1717,
+"match_method": "canonical"
+},
+{
 "id": "realia:Temple",
 "type": "realia",
 "preferred_label": "Temple",
@@ -210,51 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "baptisan",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "meminta",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "kemuliaan",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "keahlian",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "yang baik",
+"preferred_label": "penyunatan",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -266,6 +224,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Tarsus",
+"type": "place",
+"preferred_label": "Tarsus",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Serve",
 "type": "keyterm",
 "preferred_label": "melayani",
@@ -273,9 +238,44 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Greece",
-"type": "place",
-"preferred_label": "Yunani",
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "kemuliaan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "nama",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -287,9 +287,51 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Kirene",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "keselamatan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Kaisarea",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "membersihkan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "Yohanes",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "yang baik",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -308,27 +350,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "injil",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "Yohanes",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "membersihkan",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Heart",
 "type": "keyterm",
 "preferred_label": "hati",
@@ -336,44 +357,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tarsus",
-"type": "place",
-"preferred_label": "Tarsus",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "nama",
+"preferred_label": "injil",
 "confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"preferred_label": "penyunatan",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "kehidupan",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Caesarea",
+"id": "place:Greece",
 "type": "place",
-"preferred_label": "Kaisarea",
+"preferred_label": "Yunani",
 "confidence": 0.165,
 "match_method": "canonical"
 },
 {
-"id": "place:Cyrene",
-"type": "place",
-"preferred_label": "Kirene",
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "baptisan",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -382,13 +382,6 @@
 "type": "realia",
 "preferred_label": "Linen Cloth",
 "confidence": 0.1117,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Chameleon",
-"type": "fauna",
-"preferred_label": "Chameleon",
-"confidence": 0.105,
 "match_method": "canonical"
 },
 {
@@ -406,9 +399,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:CreepingAnimal",
+"id": "fauna:Chameleon",
 "type": "fauna",
-"preferred_label": "Creeping Animal",
+"preferred_label": "Chameleon",
 "confidence": 0.105,
 "match_method": "canonical"
 },
@@ -416,6 +409,13 @@
 "id": "fauna:Snake",
 "type": "fauna",
 "preferred_label": "Snake",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:CreepingAnimal",
+"type": "fauna",
+"preferred_label": "Creeping Animal",
 "confidence": 0.105,
 "match_method": "canonical"
 }

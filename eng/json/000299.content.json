@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Lachish",
+"id": "place:Gibeon",
 "type": "place",
-"preferred_label": "Lachish",
+"preferred_label": "Gibeon",
 "confidence": 0.4337,
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeon",
+"id": "place:Lachish",
 "type": "place",
-"preferred_label": "Gibeon",
+"preferred_label": "Lachish",
 "confidence": 0.4337,
 "match_method": "canonical"
 },
@@ -126,13 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.2814,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
@@ -140,10 +133,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Adoni-zedek",
-"type": "person",
-"preferred_label": "Adoni-zedek",
-"confidence": 0.2302,
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.2814,
 "match_method": "canonical"
 },
 {
@@ -157,6 +150,13 @@
 "id": "place:Debir",
 "type": "place",
 "preferred_label": "Debir",
+"confidence": 0.2302,
+"match_method": "canonical"
+},
+{
+"id": "person:Adoni-zedek",
+"type": "person",
+"preferred_label": "Adoni-zedek",
 "confidence": 0.2302,
 "match_method": "canonical"
 },
@@ -182,20 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jashar",
-"type": "person",
-"preferred_label": "Jashar",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
-"id": "place:Gezer",
-"type": "place",
-"preferred_label": "Gezer",
-"confidence": 0.1651,
-"match_method": "canonical"
-},
-{
 "id": "person:Debir",
 "type": "person",
 "preferred_label": "Debir",
@@ -203,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hoham",
+"id": "person:Piram",
 "type": "person",
-"preferred_label": "Hoham",
+"preferred_label": "Piram",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
 {
-"id": "place:Negeb",
+"id": "place:Gezer",
 "type": "place",
-"preferred_label": "Negev",
+"preferred_label": "Gezer",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -231,16 +217,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Japhia",
+"id": "person:Hoham",
 "type": "person",
-"preferred_label": "Japhia",
+"preferred_label": "Hoham",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
 {
-"id": "person:Piram",
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Jashar",
 "type": "person",
-"preferred_label": "Piram",
+"preferred_label": "Jashar",
+"confidence": 0.1651,
+"match_method": "canonical"
+},
+{
+"id": "person:Japhia",
+"type": "person",
+"preferred_label": "Japhia",
 "confidence": 0.1651,
 "match_method": "canonical"
 },
@@ -252,9 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:Appoint",
 "type": "keyterm",
-"preferred_label": "Peace",
+"preferred_label": "Appoint",
 "confidence": 0.1605,
 "match_method": "canonical"
 },
@@ -280,9 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Appoint",
+"preferred_label": "Peace",
 "confidence": 0.1605,
 "match_method": "canonical"
 }

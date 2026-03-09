@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.3636,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:LeanOn",
 "type": "keyterm",
 "preferred_label": "Trust",
@@ -77,16 +70,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
-"confidence": 0.3063,
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.3636,
 "match_method": "canonical"
 },
 {
 "id": "flora:Vine",
 "type": "flora",
 "preferred_label": "Vine",
+"confidence": 0.3063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
 "confidence": 0.3063,
 "match_method": "canonical"
 },
@@ -105,6 +105,27 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.2581,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Mischief",
 "type": "keyterm",
 "preferred_label": "Mischief",
@@ -119,23 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Counsel",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Counsel",
-"confidence": 0.2581,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2581,
-"match_method": "canonical"
-},
-{
-"id": "place:Lebanon",
-"type": "place",
-"preferred_label": "Lebanon",
+"preferred_label": "Fear",
 "confidence": 0.2581,
 "match_method": "canonical"
 },
@@ -147,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
+"id": "keyterm:Counsel",
 "type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.2581,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"preferred_label": "Counsel",
 "confidence": 0.2581,
 "match_method": "canonical"
 },
@@ -182,27 +182,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
-"confidence": 0.2054,
-"match_method": "canonical"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
-"confidence": 0.2054,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2054,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "Defilement",
@@ -210,9 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Passion",
+"preferred_label": "Salvation",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Refuge",
+"type": "keyterm",
+"preferred_label": "Refuge",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
 "confidence": 0.2054,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Refuge",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Refuge",
+"preferred_label": "Ability",
+"confidence": 0.2054,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mighty.2",
+"type": "keyterm",
+"preferred_label": "Mighty",
 "confidence": 0.2054,
 "match_method": "canonical"
 }

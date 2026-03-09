@@ -133,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishai",
-"type": "person",
-"preferred_label": "Abishai",
-"confidence": 0.2718,
-"match_method": "canonical"
-},
-{
 "id": "place:Jezreel.2",
 "type": "place",
 "preferred_label": "Jezreel",
@@ -154,9 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.2718,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
 "type": "keyterm",
-"preferred_label": "Kindness",
+"preferred_label": "Peace",
 "confidence": 0.269,
 "match_method": "canonical"
 },
@@ -175,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:Kindness",
 "type": "keyterm",
-"preferred_label": "Peace",
+"preferred_label": "Kindness",
 "confidence": 0.269,
 "match_method": "canonical"
 },
@@ -203,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jabesh-gilead",
-"type": "place",
-"preferred_label": "Jabesh-gilead",
+"id": "group:Carmel",
+"type": "group",
+"preferred_label": "Carmelites",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
 {
-"id": "group:Jezreel",
-"type": "group",
-"preferred_label": "Jezreel",
+"id": "person:Michal",
+"type": "person",
+"preferred_label": "Michal",
 "confidence": 0.2127,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Carmel",
-"type": "group",
-"preferred_label": "Carmelites",
+"id": "place:Jezreel",
+"type": "place",
+"preferred_label": "Jezreel",
 "confidence": 0.2127,
 "match_method": "canonical"
 }

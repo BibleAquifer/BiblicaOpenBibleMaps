@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
+"id": "person:Ahaziah",
+"type": "person",
+"preferred_label": "Ahaziah",
 "confidence": 0.2297,
 "match_method": "canonical"
 },
 {
-"id": "person:Ahaziah",
-"type": "person",
-"preferred_label": "Ahaziah",
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
 "confidence": 0.2297,
 "match_method": "canonical"
 },
@@ -109,6 +109,13 @@
 "type": "realia",
 "preferred_label": "House",
 "confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"preferred_label": "Dispossess",
+"confidence": 0.2243,
 "match_method": "canonical"
 },
 {
@@ -126,17 +133,24 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "Dispossess",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
 "id": "person:Levi.3",
 "type": "person",
 "preferred_label": "Levi",
 "confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "place:BeracahValley",
+"type": "place",
+"preferred_label": "Valley of Beracah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Mattaniah.3",
+"type": "person",
+"preferred_label": "Mattaniah",
+"confidence": 0.1676,
 "match_method": "canonical"
 },
 {
@@ -147,9 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Dodavahu",
+"id": "person:Benaiah.6",
 "type": "person",
-"preferred_label": "Dodavahu",
+"preferred_label": "Benaiah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Jahaziel.4",
+"type": "person",
+"preferred_label": "Jahaziel",
 "confidence": 0.1676,
 "match_method": "canonical"
 },
@@ -157,6 +178,27 @@
 "id": "person:Eliezer.7",
 "type": "person",
 "preferred_label": "Eliezer",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Azubah",
+"type": "person",
+"preferred_label": "Azubah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "person:Zechariah.10",
+"type": "person",
+"preferred_label": "Zechariah",
+"confidence": 0.1676,
+"match_method": "canonical"
+},
+{
+"id": "place:Tekoa",
+"type": "place",
+"preferred_label": "Tekoa",
 "confidence": 0.1676,
 "match_method": "canonical"
 },
@@ -175,51 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zechariah.10",
+"id": "person:Dodavahu",
 "type": "person",
-"preferred_label": "Zechariah",
-"confidence": 0.1676,
-"match_method": "canonical"
-},
-{
-"id": "person:Azubah",
-"type": "person",
-"preferred_label": "Azubah",
-"confidence": 0.1676,
-"match_method": "canonical"
-},
-{
-"id": "person:Benaiah.6",
-"type": "person",
-"preferred_label": "Benaiah",
-"confidence": 0.1676,
-"match_method": "canonical"
-},
-{
-"id": "person:Jeiel.5",
-"type": "person",
-"preferred_label": "Jeiel",
-"confidence": 0.1676,
-"match_method": "canonical"
-},
-{
-"id": "person:Jahaziel.4",
-"type": "person",
-"preferred_label": "Jahaziel",
-"confidence": 0.1676,
-"match_method": "canonical"
-},
-{
-"id": "place:Tekoa",
-"type": "place",
-"preferred_label": "Tekoa",
-"confidence": 0.1676,
-"match_method": "canonical"
-},
-{
-"id": "place:BeracahValley",
-"type": "place",
-"preferred_label": "Valley of Beracah",
+"preferred_label": "Dodavahu",
 "confidence": 0.1676,
 "match_method": "canonical"
 },
@@ -231,9 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mattaniah.3",
+"id": "person:Jeiel.5",
 "type": "person",
-"preferred_label": "Mattaniah",
+"preferred_label": "Jeiel",
 "confidence": 0.1676,
 "match_method": "canonical"
 },
@@ -245,83 +245,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:Abraham",
-"type": "person",
-"preferred_label": "Abraham",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Seir",
-"type": "place",
-"preferred_label": "Seir",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BeFirm",
-"type": "keyterm",
-"preferred_label": "Well-Established",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:Asaph.2",
-"type": "person",
-"preferred_label": "Asaph",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "group:Kohath",
-"type": "group",
-"preferred_label": "Kohathites",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:Kohath",
-"type": "person",
-"preferred_label": "Kohath",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:ActWickedly",
-"type": "keyterm",
-"preferred_label": "To Act Wickedly",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:Hanani",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
 "id": "place:Ezion-geber",
 "type": "place",
 "preferred_label": "Ezion-geber",
@@ -329,58 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Engedi",
-"type": "place",
-"preferred_label": "En-gedi",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Mareshah",
-"type": "place",
-"preferred_label": "Mareshah",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
+"id": "person:Jehu",
+"type": "person",
+"preferred_label": "Jehu",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -399,16 +273,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehu",
-"type": "person",
-"preferred_label": "Jehu",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
 {
-"id": "group:Korah",
-"type": "group",
-"preferred_label": "Korahites",
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"preferred_label": "To Act Wickedly",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -420,23 +308,121 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
-"confidence": 0.1022,
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"preferred_label": "Well-Established",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"preferred_label": "Seir",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Korah",
+"type": "group",
+"preferred_label": "Korahites",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"preferred_label": "Abraham",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "group:Kohath",
+"type": "group",
+"preferred_label": "Kohathites",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Asaph.2",
+"type": "person",
+"preferred_label": "Asaph",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Hanani",
+"type": "person",
+"preferred_label": "Hanani",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Engedi",
+"type": "place",
+"preferred_label": "En-gedi",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "person:Kohath",
+"type": "person",
+"preferred_label": "Kohath",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Mareshah",
+"type": "place",
+"preferred_label": "Mareshah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1622,
 "match_method": "canonical"
 },
 {
 "id": "realia:Lyre",
 "type": "realia",
 "preferred_label": "Lyre",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "realia:Lute",
-"type": "realia",
-"preferred_label": "Lute",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -451,6 +437,20 @@
 "id": "flora:Pine",
 "type": "flora",
 "preferred_label": "Stone Pine",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"preferred_label": "Lute",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
 "confidence": 0.1022,
 "match_method": "canonical"
 }

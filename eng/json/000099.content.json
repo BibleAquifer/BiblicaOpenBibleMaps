@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
 "confidence": 0.2829,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.2829,
 "match_method": "canonical"
 },
@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Barley",
+"id": "flora:Boxthorn",
 "type": "flora",
-"preferred_label": "Barley",
+"preferred_label": "Boxthorn",
 "confidence": 0.162,
 "match_method": "canonical"
 },
 {
-"id": "flora:Grass",
+"id": "flora:Barley",
 "type": "flora",
-"preferred_label": "Grass",
+"preferred_label": "Barley",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Boxthorn",
+"id": "flora:Grass",
 "type": "flora",
-"preferred_label": "Boxthorn",
+"preferred_label": "Grass",
 "confidence": 0.162,
 "match_method": "canonical"
 },
@@ -105,41 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BecomeStill",
-"type": "keyterm",
-"preferred_label": "Become Still",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:CauseOfJoy",
-"type": "keyterm",
-"preferred_label": "Cause of Joy",
-"confidence": 0.161,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -147,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:CauseOfJoy",
 "type": "keyterm",
-"preferred_label": "Believe",
+"preferred_label": "Cause of Joy",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -168,9 +133,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Fear",
 "type": "keyterm",
 "preferred_label": "Fear",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
 "confidence": 0.161,
 "match_method": "canonical"
 },
@@ -182,16 +161,30 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Cushion",
-"type": "realia",
-"preferred_label": "Cushion",
-"confidence": 0.1059,
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.161,
 "match_method": "canonical"
 },
 {
-"id": "flora:Wheat",
-"type": "flora",
-"preferred_label": "Wheat",
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BecomeStill",
+"type": "keyterm",
+"preferred_label": "Become Still",
+"confidence": 0.161,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cushion",
+"type": "realia",
+"preferred_label": "Cushion",
 "confidence": 0.1059,
 "match_method": "canonical"
 },
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Bird",
-"type": "fauna",
-"preferred_label": "Bird",
+"id": "flora:Wheat",
+"type": "flora",
+"preferred_label": "Wheat",
+"confidence": 0.1059,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"preferred_label": "Bed",
 "confidence": 0.101,
 "match_method": "canonical"
 },
@@ -217,13 +217,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lampstand.2",
-"type": "realia",
-"preferred_label": "Lampstand",
-"confidence": 0.101,
-"match_method": "canonical"
-},
-{
 "id": "realia:Sickle",
 "type": "realia",
 "preferred_label": "Sickle",
@@ -231,9 +224,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bed",
+"id": "realia:Lampstand.2",
 "type": "realia",
-"preferred_label": "Bed",
+"preferred_label": "Lampstand",
+"confidence": 0.101,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bird",
+"type": "fauna",
+"preferred_label": "Bird",
 "confidence": 0.101,
 "match_method": "canonical"
 }

@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.3625,
-"match_method": "canonical"
-},
-{
 "id": "place:Philistine",
 "type": "place",
 "preferred_label": "Philistia",
@@ -56,10 +49,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.275,
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.3625,
 "match_method": "canonical"
 },
 {
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jezreel",
-"type": "place",
-"preferred_label": "Jezreel",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.275,
+"match_method": "canonical"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"preferred_label": "Maoch",
 "confidence": 0.2042,
 "match_method": "canonical"
 },
@@ -94,6 +94,20 @@
 "id": "place:Ziklag",
 "type": "place",
 "preferred_label": "Ziklag",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "person:Jerahmeel",
+"type": "person",
+"preferred_label": "Jerahmeel",
+"confidence": 0.2042,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel",
+"type": "place",
+"preferred_label": "Jezreel",
 "confidence": 0.2042,
 "match_method": "canonical"
 },
@@ -112,37 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jerahmeel",
-"type": "person",
-"preferred_label": "Jerahmeel",
-"confidence": 0.2042,
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.1875,
 "match_method": "canonical"
 },
 {
-"id": "person:Maoch",
-"type": "person",
-"preferred_label": "Maoch",
-"confidence": 0.2042,
-"match_method": "canonical"
-},
-{
-"id": "group:Geshur",
+"id": "group:Amalek",
 "type": "group",
-"preferred_label": "Geshurites",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "person:Nabal",
-"type": "person",
-"preferred_label": "Nabal",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "place:Shur",
-"type": "place",
-"preferred_label": "Shur",
+"preferred_label": "Amalekites",
 "confidence": 0.1875,
 "match_method": "canonical"
 },
@@ -154,20 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
 "id": "group:Kenite",
 "type": "group",
 "preferred_label": "Kenites",
@@ -175,44 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "place:Negeb",
-"type": "place",
-"preferred_label": "Negev",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
 "id": "place:Geshur",
 "type": "place",
 "preferred_label": "Geshur",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "group:Carmel",
-"type": "group",
-"preferred_label": "Carmelites",
-"confidence": 0.1875,
-"match_method": "canonical"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"preferred_label": "Jezreel",
 "confidence": 0.1875,
 "match_method": "canonical"
 },
@@ -231,9 +175,30 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amalek",
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"preferred_label": "Shur",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Jezreel",
 "type": "group",
-"preferred_label": "Amalekites",
+"preferred_label": "Jezreel",
 "confidence": 0.1875,
 "match_method": "canonical"
 },
@@ -245,6 +210,41 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Nabal",
+"type": "person",
+"preferred_label": "Nabal",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"preferred_label": "Jezreel",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"preferred_label": "Geshurites",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "group:Carmel",
+"type": "group",
+"preferred_label": "Carmelites",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"preferred_label": "Negev",
+"confidence": 0.1875,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -252,9 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Donkey",
+"preferred_label": "Goat",
 "confidence": 0.1275,
 "match_method": "canonical"
 },
@@ -266,9 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
+"id": "fauna:Donkey",
 "type": "fauna",
-"preferred_label": "Goat",
+"preferred_label": "Donkey",
 "confidence": 0.1275,
 "match_method": "canonical"
 },

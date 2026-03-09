@@ -105,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"preferred_label": "Redeem",
+"confidence": 0.261,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Understanding",
 "type": "keyterm",
 "preferred_label": "Understanding",
@@ -119,16 +126,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
+"id": "keyterm:Intention",
 "type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.261,
+"preferred_label": "Intention",
+"confidence": 0.2596,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
+"confidence": 0.2596,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
 "confidence": 0.2596,
 "match_method": "canonical"
 },
@@ -147,72 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Intention",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Intention",
-"confidence": 0.2596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
-"confidence": 0.2596,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:TheWay",
-"type": "keyterm",
-"preferred_label": "The Way",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "deity:Voice",
-"type": "deity",
-"preferred_label": "A Disembodied Voice",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.2064,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"preferred_label": "Counsel",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2064,
 "match_method": "canonical"
 },
@@ -224,9 +175,58 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Love",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HaveInsight",
+"type": "keyterm",
+"preferred_label": "Have Insight",
+"confidence": 0.2064,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
 "confidence": 0.2064,
 "match_method": "canonical"
 }

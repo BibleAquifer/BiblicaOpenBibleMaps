@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Salvation",
 "confidence": 0.3586,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Glory",
 "confidence": 0.3586,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
+"id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Forgive",
 "confidence": 0.3578,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
+"id": "keyterm:Life",
 "type": "keyterm",
-"preferred_label": "Forgive",
+"preferred_label": "Life",
 "confidence": 0.3578,
 "match_method": "canonical"
 },
@@ -189,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Holy Spirit",
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.357,
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Holy Spirit",
 "confidence": 0.357,
 "match_method": "canonical"
 },

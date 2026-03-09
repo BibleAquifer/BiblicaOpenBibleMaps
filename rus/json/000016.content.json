@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Barnabas",
-"type": "person",
-"preferred_label": "Варнава",
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Римлянин",
 "confidence": 0.3638,
 "match_method": "canonical"
 },
 {
-"id": "place:Rome",
-"type": "place",
-"preferred_label": "Римлянин",
+"id": "person:Barnabas",
+"type": "person",
+"preferred_label": "Варнава",
 "confidence": 0.3638,
 "match_method": "canonical"
 },
@@ -109,13 +109,6 @@
 "type": "keyterm",
 "preferred_label": "Salvation",
 "confidence": 0.3635,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Святой Дух",
-"confidence": 0.3627,
 "match_method": "canonical"
 },
 {
@@ -129,6 +122,13 @@
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "preferred_label": "Be a Disciple",
+"confidence": 0.3627,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
 "confidence": 0.3627,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Silas",
-"type": "person",
-"preferred_label": "Сила",
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Ефес",
 "confidence": 0.3602,
 "match_method": "canonical"
 },
 {
-"id": "place:Ephesus",
-"type": "place",
-"preferred_label": "Ефес",
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Сила",
 "confidence": 0.3602,
 "match_method": "canonical"
 },
@@ -189,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Favor",
+"preferred_label": "Serve",
 "confidence": 0.3587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "Serve",
+"preferred_label": "Favor",
 "confidence": 0.3587,
 "match_method": "canonical"
 },
@@ -210,16 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Claudius",
-"type": "person",
-"preferred_label": "Клавдий",
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
 "confidence": 0.3583,
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Клавдий",
 "confidence": 0.3583,
 "match_method": "canonical"
 },

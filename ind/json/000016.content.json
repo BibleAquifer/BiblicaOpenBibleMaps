@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
-"confidence": 0.3627,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Life",
 "type": "keyterm",
 "preferred_label": "kehidupan",
@@ -129,6 +122,13 @@
 "id": "keyterm:Disciple",
 "type": "keyterm",
 "preferred_label": "menjadi murid",
+"confidence": 0.3627,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.3627,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Silas",
-"type": "person",
-"preferred_label": "Silas",
+"id": "place:Ephesus",
+"type": "place",
+"preferred_label": "Efesus",
 "confidence": 0.3602,
 "match_method": "canonical"
 },
 {
-"id": "place:Ephesus",
-"type": "place",
-"preferred_label": "Efesus",
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Silas",
 "confidence": 0.3602,
 "match_method": "canonical"
 },
@@ -189,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "kebaikan",
+"preferred_label": "melayani",
 "confidence": 0.3587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "melayani",
+"preferred_label": "kebaikan",
 "confidence": 0.3587,
 "match_method": "canonical"
 },
@@ -210,16 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Claudius",
-"type": "person",
-"preferred_label": "Klaudius",
+"id": "group:Greek",
+"type": "group",
+"preferred_label": "Greeks",
 "confidence": 0.3583,
 "match_method": "canonical"
 },
 {
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
+"id": "person:Claudius",
+"type": "person",
+"preferred_label": "Klaudius",
 "confidence": 0.3583,
 "match_method": "canonical"
 },

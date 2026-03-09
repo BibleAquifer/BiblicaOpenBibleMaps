@@ -42,9 +42,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.2897,
 "match_method": "canonical"
 },
@@ -56,9 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
 "confidence": 0.2897,
 "match_method": "canonical"
 },
@@ -70,13 +70,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Rod",
-"type": "realia",
-"preferred_label": "Rod",
-"confidence": 0.2297,
-"match_method": "canonical"
-},
-{
 "id": "flora:Sandalwood",
 "type": "flora",
 "preferred_label": "Sandalwood",
@@ -84,9 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "realia:Rod",
+"type": "realia",
+"preferred_label": "Rod",
+"confidence": 0.2297,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Idol",
 "type": "keyterm",
-"preferred_label": "Holy",
+"preferred_label": "Idol",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -98,24 +98,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Idol",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Idol",
+"preferred_label": "Holy",
 "confidence": 0.2265,
-"match_method": "canonical"
-},
-{
-"id": "place:Ai",
-"type": "place",
-"preferred_label": "Ai",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "place:Migron",
-"type": "place",
-"preferred_label": "Migron",
-"confidence": 0.1691,
 "match_method": "canonical"
 },
 {
@@ -126,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Madmenah",
+"id": "place:Ai",
 "type": "place",
-"preferred_label": "Madmenah",
+"preferred_label": "Ai",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
 {
-"id": "person:Oreb",
-"type": "person",
-"preferred_label": "Oreb",
+"id": "place:Gebim",
+"type": "place",
+"preferred_label": "Gebim",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -143,6 +129,20 @@
 "id": "place:Carchemish",
 "type": "place",
 "preferred_label": "Carchemish",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "place:Nob",
+"type": "place",
+"preferred_label": "Nob",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "place:Calneh",
+"type": "place",
+"preferred_label": "Calneh",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -161,23 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gebim",
+"id": "place:Madmenah",
 "type": "place",
-"preferred_label": "Gebim",
+"preferred_label": "Madmenah",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
 {
-"id": "place:Calneh",
-"type": "place",
-"preferred_label": "Calneh",
+"id": "person:Oreb",
+"type": "person",
+"preferred_label": "Oreb",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
 {
-"id": "place:Nob",
+"id": "place:Migron",
 "type": "place",
-"preferred_label": "Nob",
+"preferred_label": "Migron",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -196,44 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Mischief",
-"type": "keyterm",
-"preferred_label": "Mischief",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mighty",
-"type": "keyterm",
-"preferred_label": "Mighty",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Geba",
+"id": "place:Hamath",
 "type": "place",
-"preferred_label": "Geba",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Gibeah.2",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
+"preferred_label": "Hamath",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -245,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Assyria",
-"type": "group",
-"preferred_label": "Assyrians",
+"id": "place:Arpad",
+"type": "place",
+"preferred_label": "Arpad",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -259,30 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Midian",
+"id": "place:Damascus",
 "type": "place",
-"preferred_label": "Midian",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:MightyOne",
-"type": "keyterm",
-"preferred_label": "Mighty One",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
+"preferred_label": "Damascus",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -294,23 +238,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "Damascus",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
 {
-"id": "place:Michmash",
-"type": "place",
-"preferred_label": "Michmash",
+"id": "keyterm:MightyOne",
+"type": "keyterm",
+"preferred_label": "Mighty One",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
 {
-"id": "place:Arpad",
+"id": "place:Gibeah.2",
 "type": "place",
-"preferred_label": "Arpad",
+"preferred_label": "Gibeah",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -322,6 +266,41 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"preferred_label": "Appoint",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Geba",
+"type": "place",
+"preferred_label": "Geba",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"preferred_label": "Mischief",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Michmash",
+"type": "place",
+"preferred_label": "Michmash",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Decree",
 "type": "keyterm",
 "preferred_label": "Decree",
@@ -329,9 +308,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "group:Assyria",
+"type": "group",
+"preferred_label": "Assyrians",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -343,37 +322,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appoint",
+"id": "keyterm:Mighty",
 "type": "keyterm",
-"preferred_label": "Appoint",
+"preferred_label": "Mighty",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
 {
-"id": "realia:Axe",
-"type": "realia",
-"preferred_label": "Axe",
-"confidence": 0.1032,
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"preferred_label": "Midian",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1632,
 "match_method": "canonical"
 },
 {
 "id": "realia:GravenImage",
 "type": "realia",
 "preferred_label": "Graven Image",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:Saw",
-"type": "realia",
-"preferred_label": "Saw",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "flora:Brier",
-"type": "flora",
-"preferred_label": "Brier",
 "confidence": 0.1032,
 "match_method": "canonical"
 },
@@ -385,9 +364,30 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
 "id": "realia:Yoke",
 "type": "realia",
 "preferred_label": "Yoke",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:Saw",
+"type": "realia",
+"preferred_label": "Saw",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:Axe",
+"type": "realia",
+"preferred_label": "Axe",
 "confidence": 0.1032,
 "match_method": "canonical"
 }

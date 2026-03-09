@@ -118,13 +118,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.3367,
-"match_method": "canonical"
-},
-{
 "id": "person:Jehoshaphat.3",
 "type": "person",
 "preferred_label": "Jehoshaphat",
@@ -132,10 +125,10 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.2776,
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.3367,
 "match_method": "canonical"
 },
 {
@@ -146,16 +139,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ramoth-gilead",
-"type": "place",
-"preferred_label": "Ramoth-gilead",
-"confidence": 0.2265,
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2776,
 "match_method": "canonical"
 },
 {
 "id": "person:Ben-hadad.2",
 "type": "person",
 "preferred_label": "Ben-hadad",
+"confidence": 0.2265,
+"match_method": "canonical"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"preferred_label": "Ramoth-gilead",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -167,13 +167,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.2184,
-"match_method": "canonical"
-},
-{
 "id": "place:Damascus",
 "type": "place",
 "preferred_label": "Damascus",
@@ -181,9 +174,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Syria",
-"type": "group",
-"preferred_label": "Syrians",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.2184,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"preferred_label": "Play the Prostitute",
 "confidence": 0.2184,
 "match_method": "canonical"
 },
@@ -202,9 +202,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PlayTheProstitute",
-"type": "keyterm",
-"preferred_label": "Play the Prostitute",
+"id": "group:Syria",
+"type": "group",
+"preferred_label": "Syrians",
 "confidence": 0.2184,
 "match_method": "canonical"
 },
@@ -251,16 +251,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shephatiah.5",
+"id": "person:Zechariah.11",
 "type": "person",
-"preferred_label": "Shephatiah",
+"preferred_label": "Zechariah",
 "confidence": 0.1633,
 "match_method": "canonical"
 },
 {
-"id": "person:Zechariah.11",
+"id": "person:Shephatiah.5",
 "type": "person",
-"preferred_label": "Zechariah",
+"preferred_label": "Shephatiah",
 "confidence": 0.1633,
 "match_method": "canonical"
 },
@@ -272,9 +272,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blow",
-"type": "keyterm",
-"preferred_label": "Plague",
+"id": "place:Zoar",
+"type": "place",
+"preferred_label": "Zoar",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -286,16 +286,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ethiopia",
-"type": "place",
-"preferred_label": "Ethiopia",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Elijah",
+"id": "keyterm:Blow",
+"type": "keyterm",
+"preferred_label": "Plague",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -314,9 +307,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Arabia",
+"id": "place:Ethiopia",
 "type": "place",
-"preferred_label": "Arabia",
+"preferred_label": "Ethiopia",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -328,13 +321,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Zoar",
-"type": "place",
-"preferred_label": "Zoar",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Covenant",
 "type": "keyterm",
 "preferred_label": "Covenant",
@@ -342,10 +328,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Lamp",
-"type": "realia",
-"preferred_label": "Lamp",
-"confidence": 0.1584,
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1592,
 "match_method": "canonical"
 },
 {
@@ -356,16 +349,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
+"id": "realia:Lamp",
 "type": "realia",
-"preferred_label": "High Place",
-"confidence": 0.0992,
+"preferred_label": "Lamp",
+"confidence": 0.1584,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Dog",
-"type": "fauna",
-"preferred_label": "Dog",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -373,6 +366,13 @@
 "id": "realia:Fortification",
 "type": "realia",
 "preferred_label": "Fortification",
+"confidence": 0.0992,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"preferred_label": "Dog",
 "confidence": 0.0992,
 "match_method": "canonical"
 },
@@ -391,9 +391,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
 "confidence": 0.0992,
 "match_method": "canonical"
 }

@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.4125,
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.4125,
 "match_method": "canonical"
 },
@@ -119,27 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
-"id": "person:Jeroboam",
-"type": "person",
-"preferred_label": "Jeroboam",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
@@ -154,9 +133,30 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jeroboam",
+"type": "person",
+"preferred_label": "Jeroboam",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "To Sin",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
 "confidence": 0.225,
 "match_method": "canonical"
 },
@@ -175,30 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dan",
+"id": "place:Bashan",
 "type": "place",
-"preferred_label": "Dan",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"preferred_label": "Bashan",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -210,23 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Tribe of Reuben",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
+"id": "person:Manasseh",
 "type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Arnon",
-"type": "place",
-"preferred_label": "Arnon",
+"preferred_label": "Manasseh",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -238,23 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Dan",
+"id": "group:Reuben",
 "type": "group",
-"preferred_label": "Tribe of Dan",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Nebat",
-"type": "person",
-"preferred_label": "Nebat",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Aroer.2",
-"type": "place",
-"preferred_label": "Aroer",
+"preferred_label": "Tribe of Reuben",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -266,30 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bashan",
-"type": "place",
-"preferred_label": "Bashan",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
 "id": "person:Hazael",
 "type": "person",
 "preferred_label": "Hazael",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasseh",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahaziah.2",
-"type": "person",
-"preferred_label": "Ahaziah",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -301,37 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilead",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "person:Jehoahaz.2",
-"type": "person",
-"preferred_label": "Jehoahaz",
-"confidence": 0.1625,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Instruction",
-"type": "keyterm",
-"preferred_label": "Instruction",
+"preferred_label": "Jordan River",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -343,16 +245,114 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "realia:Basket",
+"id": "place:Aroer.2",
+"type": "place",
+"preferred_label": "Aroer",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"preferred_label": "Nebat",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoahaz.2",
+"type": "person",
+"preferred_label": "Jehoahaz",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Arnon",
+"type": "place",
+"preferred_label": "Arnon",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"preferred_label": "Instruction",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"preferred_label": "Ahaziah",
+"confidence": 0.1625,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Basket",
+"preferred_label": "Sword",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -364,23 +364,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Weapons",
+"id": "realia:Basket",
 "type": "realia",
-"preferred_label": "Weapons",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"preferred_label": "Cattle",
-"confidence": 0.1025,
-"match_method": "canonical"
-},
-{
-"id": "realia:Pit",
-"type": "realia",
-"preferred_label": "Pit",
+"preferred_label": "Basket",
 "confidence": 0.1025,
 "match_method": "canonical"
 },
@@ -392,9 +378,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
+"id": "realia:Weapons",
 "type": "realia",
-"preferred_label": "Sword",
+"preferred_label": "Weapons",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"preferred_label": "Pit",
+"confidence": 0.1025,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"preferred_label": "Cattle",
 "confidence": 0.1025,
 "match_method": "canonical"
 }

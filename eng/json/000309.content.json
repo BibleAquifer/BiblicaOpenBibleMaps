@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasseh",
-"confidence": 0.4824,
-"match_method": "canonical"
-},
-{
 "id": "group:Manasseh",
 "type": "group",
 "preferred_label": "Tribe of Manasseh",
@@ -70,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.4162,
+"id": "person:Manasseh",
+"type": "person",
+"preferred_label": "Manasseh",
+"confidence": 0.4824,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.4162,
 "match_method": "canonical"
 },
@@ -91,17 +84,31 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.4162,
-"match_method": "canonical"
-},
-{
 "id": "place:Jordan",
 "type": "place",
 "preferred_label": "Jordan River",
 "confidence": 0.4162,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.4162,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
+"confidence": 0.4162,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.4091,
 "match_method": "canonical"
 },
 {
@@ -122,13 +129,6 @@
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
-"confidence": 0.4091,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
 "confidence": 0.4091,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Eleazar.2",
-"type": "person",
-"preferred_label": "Eleazar",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.2897,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
+"id": "person:Eleazar.2",
+"type": "person",
+"preferred_label": "Eleazar",
 "confidence": 0.2897,
 "match_method": "canonical"
 },
@@ -189,16 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shiloh",
-"type": "place",
-"preferred_label": "Shiloh",
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -210,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
+"id": "person:Zerah.3",
+"type": "person",
+"preferred_label": "Zerah",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -224,23 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zerah.3",
-"type": "person",
-"preferred_label": "Zerah",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
 "id": "place:Bashan",
 "type": "place",
 "preferred_label": "Bashan",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -252,16 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Achan",
-"type": "person",
-"preferred_label": "Achan",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:SomethingDevotedToGod",
+"id": "keyterm:Defilement",
 "type": "keyterm",
-"preferred_label": "Something Devoted to God",
+"preferred_label": "Defilement",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -273,13 +252,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Instruction",
 "type": "keyterm",
 "preferred_label": "Instruction",
@@ -287,16 +259,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Cloak",
-"type": "realia",
-"preferred_label": "Cloak",
-"confidence": 0.1032,
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SomethingDevotedToGod",
+"type": "keyterm",
+"preferred_label": "Something Devoted to God",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Achan",
+"type": "person",
+"preferred_label": "Achan",
+"confidence": 0.1632,
 "match_method": "canonical"
 },
 {
 "id": "realia:Money",
 "type": "realia",
 "preferred_label": "Money",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"preferred_label": "Cloak",
 "confidence": 0.1032,
 "match_method": "canonical"
 }

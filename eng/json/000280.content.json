@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Passover",
+"id": "keyterm:Decree",
 "type": "keyterm",
-"preferred_label": "Passover",
+"preferred_label": "Decree",
 "confidence": 0.3604,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decree",
+"id": "keyterm:Passover",
 "type": "keyterm",
-"preferred_label": "Decree",
+"preferred_label": "Passover",
 "confidence": 0.3604,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joshua.2",
-"type": "person",
-"preferred_label": "Joshua",
-"confidence": 0.3077,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:EnticedToServe",
 "type": "keyterm",
 "preferred_label": "Force to Serve",
@@ -157,6 +150,13 @@
 "id": "keyterm:Sabbath",
 "type": "keyterm",
 "preferred_label": "Sabbath",
+"confidence": 0.3077,
+"match_method": "canonical"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"preferred_label": "Joshua",
 "confidence": 0.3077,
 "match_method": "canonical"
 },
@@ -210,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Work",
+"id": "keyterm:Redeem",
 "type": "keyterm",
-"preferred_label": "Work",
+"preferred_label": "Redeem",
 "confidence": 0.2557,
 "match_method": "canonical"
 },

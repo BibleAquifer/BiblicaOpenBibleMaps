@@ -98,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:GenericFather",
+"type": "person",
+"preferred_label": "A Father",
+"confidence": 0.3175,
+"match_method": "canonical"
+},
+{
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
@@ -119,13 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericFather",
-"type": "person",
-"preferred_label": "A Father",
-"confidence": 0.3175,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Donkey",
 "type": "fauna",
 "preferred_label": "Donkey",
@@ -140,16 +140,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
 "confidence": 0.2631,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.2631,
 "match_method": "canonical"
 },
@@ -161,13 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehem",
-"confidence": 0.2631,
-"match_method": "canonical"
-},
-{
 "id": "person:Ephraim",
 "type": "person",
 "preferred_label": "Ephraim",
@@ -175,10 +168,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
+"id": "keyterm:Swear",
 "type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2087,
+"preferred_label": "Swear",
+"confidence": 0.2631,
 "match_method": "canonical"
 },
 {
@@ -189,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
-"confidence": 0.2087,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Wickedness",
-"type": "keyterm",
-"preferred_label": "Wickedness",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.2087,
 "match_method": "canonical"
 },
@@ -210,9 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2087,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
 "confidence": 0.2087,
 "match_method": "canonical"
 },

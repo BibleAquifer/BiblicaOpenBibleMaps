@@ -70,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"preferred_label": "Circumcision",
+"confidence": 0.33,
+"match_method": "canonical"
+},
+{
 "id": "person:Isaac",
 "type": "person",
 "preferred_label": "Isaac",
@@ -77,10 +84,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
+"id": "keyterm:Defilement",
 "type": "keyterm",
-"preferred_label": "Circumcision",
-"confidence": 0.33,
+"preferred_label": "Defilement",
+"confidence": 0.2725,
 "match_method": "canonical"
 },
 {
@@ -94,13 +101,6 @@
 "id": "person:Simeon.5",
 "type": "person",
 "preferred_label": "Simeon",
-"confidence": 0.2725,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
 "confidence": 0.2725,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Paddan-aram",
-"type": "place",
-"preferred_label": "Paddan-aram",
+"id": "person:Bilhah",
+"type": "person",
+"preferred_label": "Bilhah",
 "confidence": 0.215,
 "match_method": "canonical"
 },
@@ -147,6 +147,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Esau",
+"type": "person",
+"preferred_label": "Esau",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
 "id": "person:Abraham",
 "type": "person",
 "preferred_label": "Abraham",
@@ -154,17 +161,17 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Bilhah",
-"type": "person",
-"preferred_label": "Bilhah",
+"id": "place:Paddan-aram",
+"type": "place",
+"preferred_label": "Paddan-aram",
 "confidence": 0.215,
 "match_method": "canonical"
 },
 {
-"id": "person:Esau",
-"type": "person",
-"preferred_label": "Esau",
-"confidence": 0.215,
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.2125,
 "match_method": "canonical"
 },
 {
@@ -189,16 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.2125,
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
+"confidence": 0.1608,
 "match_method": "canonical"
 },
 {
 "id": "place:Allon-bacuth",
 "type": "place",
 "preferred_label": "Allon-bachuth",
+"confidence": 0.1608,
+"match_method": "canonical"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"preferred_label": "Deborah",
 "confidence": 0.1608,
 "match_method": "canonical"
 },
@@ -213,20 +227,6 @@
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
-"confidence": 0.1608,
-"match_method": "canonical"
-},
-{
-"id": "place:Mamre",
-"type": "place",
-"preferred_label": "Mamre",
-"confidence": 0.1608,
-"match_method": "canonical"
-},
-{
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Deborah",
 "confidence": 0.1608,
 "match_method": "canonical"
 }

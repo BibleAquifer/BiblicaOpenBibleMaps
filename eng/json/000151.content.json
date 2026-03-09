@@ -77,20 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Body.3",
-"type": "keyterm",
-"preferred_label": "Body",
-"confidence": 0.2161,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Just",
 "type": "keyterm",
 "preferred_label": "Be (Or Show Oneself) Just",
@@ -105,17 +91,24 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"preferred_label": "Body",
+"confidence": 0.2161,
+"match_method": "canonical"
+},
+{
 "id": "person:Barabbas",
 "type": "person",
 "preferred_label": "Barabbas",
 "confidence": 0.1652,
-"match_method": "canonical"
-},
-{
-"id": "place:Cyrene",
-"type": "place",
-"preferred_label": "Cyrene",
-"confidence": 0.1616,
 "match_method": "canonical"
 },
 {
@@ -129,6 +122,13 @@
 "id": "place:Arimathea",
 "type": "place",
 "preferred_label": "Arimathea",
+"confidence": 0.1616,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Cyrene",
 "confidence": 0.1616,
 "match_method": "canonical"
 },
@@ -154,6 +154,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Discern",
+"type": "keyterm",
+"preferred_label": "Discern",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Commandment",
 "type": "keyterm",
 "preferred_label": "Commandment",
@@ -161,37 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Ask for",
+"preferred_label": "Decided",
 "confidence": 0.158,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"preferred_label": "Spirit",
+"preferred_label": "Surely!",
 "confidence": 0.158,
 "match_method": "canonical"
 },
@@ -203,16 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Good",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.158,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
+"preferred_label": "To Command",
 "confidence": 0.158,
 "match_method": "canonical"
 },
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Discern",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Discern",
+"preferred_label": "Glory",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.158,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "Symbol",
 "confidence": 0.158,
 "match_method": "canonical"
 }

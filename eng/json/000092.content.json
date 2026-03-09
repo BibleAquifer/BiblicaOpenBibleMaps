@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
+"id": "keyterm:Ability",
 "type": "keyterm",
-"preferred_label": "Surely!",
+"preferred_label": "Ability",
 "confidence": 0.363,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Ability",
+"preferred_label": "Surely!",
 "confidence": 0.363,
 "match_method": "canonical"
 },
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Parable",
 "type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Parable",
 "confidence": 0.3571,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Parable",
+"id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "Parable",
+"preferred_label": "Heart",
 "confidence": 0.3571,
 "match_method": "canonical"
 },
@@ -175,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.3567,
-"match_method": "canonical"
-},
-{
 "id": "place:Galilee",
 "type": "place",
 "preferred_label": "Galilee",
@@ -189,10 +182,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "David",
-"confidence": 0.3565,
+"preferred_label": "Israel",
+"confidence": 0.3567,
 "match_method": "canonical"
 },
 {
@@ -203,16 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.3559,
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.3565,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "Salvation",
+"confidence": 0.3559,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
 "confidence": 0.3559,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BowDown",
+"id": "keyterm:Happen",
 "type": "keyterm",
-"preferred_label": "Bow Down",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.3558,
 "match_method": "canonical"
 }

@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
+"id": "person:Barabbas",
+"type": "person",
+"preferred_label": "Barabbas",
 "confidence": 0.3841,
 "match_method": "canonical"
 },
 {
-"id": "person:Barabbas",
-"type": "person",
-"preferred_label": "Barabbas",
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
 "confidence": 0.3841,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.2705,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Mary.2",
+"id": "person:Marymagdalene",
 "type": "person",
-"preferred_label": "Mary",
+"preferred_label": "Mary Magdalene",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
 {
-"id": "person:Marymagdalene",
+"id": "person:Mary.2",
 "type": "person",
-"preferred_label": "Mary Magdalene",
+"preferred_label": "Mary",
 "confidence": 0.2167,
 "match_method": "canonical"
 },
@@ -133,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
 "confidence": 0.2136,
 "match_method": "canonical"
 },
@@ -154,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.2136,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
 "preferred_label": "Name",
@@ -171,6 +164,13 @@
 "id": "keyterm:Persuade",
 "type": "keyterm",
 "preferred_label": "Persuade",
+"confidence": 0.2136,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.2136,
 "match_method": "canonical"
 },
@@ -189,23 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.5",
+"id": "person:Simon.5",
 "type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "place:Corban",
-"type": "place",
-"preferred_label": "Temple Treasury",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebedee",
-"type": "person",
-"preferred_label": "Zebedee",
+"preferred_label": "Simon",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -217,16 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Simon.5",
-"type": "person",
-"preferred_label": "Simon",
+"id": "place:Arimathea",
+"type": "place",
+"preferred_label": "Arimathea",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "place:Golgotha",
+"id": "place:Corban",
 "type": "place",
-"preferred_label": "Golgotha",
+"preferred_label": "Temple Treasury",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.5",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"preferred_label": "Cyrene",
 "confidence": 0.1598,
 "match_method": "canonical"
 }

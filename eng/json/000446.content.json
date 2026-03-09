@@ -98,30 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shaphan",
-"type": "person",
-"preferred_label": "Shaphan",
-"confidence": 0.3529,
-"match_method": "canonical"
-},
-{
 "id": "deity:Lord",
 "type": "deity",
 "preferred_label": "LORD",
-"confidence": 0.3529,
-"match_method": "canonical"
-},
-{
-"id": "group:Chaldea",
-"type": "group",
-"preferred_label": "Chaldeans",
-"confidence": 0.3529,
-"match_method": "canonical"
-},
-{
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
 "confidence": 0.3529,
 "match_method": "canonical"
 },
@@ -133,9 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.3529,
+"match_method": "canonical"
+},
+{
+"id": "person:Shaphan",
+"type": "person",
+"preferred_label": "Shaphan",
 "confidence": 0.3529,
 "match_method": "canonical"
 },
@@ -143,6 +129,20 @@
 "id": "place:Chaldea",
 "type": "place",
 "preferred_label": "Chaldea",
+"confidence": 0.3529,
+"match_method": "canonical"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.3529,
+"match_method": "canonical"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"preferred_label": "Judea",
 "confidence": 0.3529,
 "match_method": "canonical"
 },
@@ -161,9 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gibeon",
-"type": "place",
-"preferred_label": "Gibeon",
+"id": "person:Nebuzaradan",
+"type": "person",
+"preferred_label": "Nebuzaradan",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -175,37 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Nebuzaradan",
-"type": "person",
-"preferred_label": "Nebuzaradan",
+"id": "place:Gibeon",
+"type": "place",
+"preferred_label": "Gibeon",
 "confidence": 0.2265,
-"match_method": "canonical"
-},
-{
-"id": "person:Tanhumeth",
-"type": "person",
-"preferred_label": "Tanhumeth",
-"confidence": 0.1691,
 "match_method": "canonical"
 },
 {
 "id": "person:Jonathan.13",
 "type": "person",
 "preferred_label": "Jonathan",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "person:Jezaniah",
-"type": "person",
-"preferred_label": "Jezaniah",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "place:GeruthChimham",
-"type": "place",
-"preferred_label": "Geruth Chimham",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -224,9 +203,30 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Tanhumeth",
+"type": "person",
+"preferred_label": "Tanhumeth",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "person:Jezaniah",
+"type": "person",
+"preferred_label": "Jezaniah",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
 "id": "person:Seraiah.3",
 "type": "person",
 "preferred_label": "Seraiah",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "place:GeruthChimham",
+"type": "place",
+"preferred_label": "Geruth Chimham",
 "confidence": 0.1691,
 "match_method": "canonical"
 },
@@ -238,30 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 0.1665,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.1665,
-"match_method": "canonical"
-},
-{
 "id": "realia:Wine",
 "type": "realia",
 "preferred_label": "Wine",
-"confidence": 0.1665,
-"match_method": "canonical"
-},
-{
-"id": "realia:Pit",
-"type": "realia",
-"preferred_label": "Pit",
 "confidence": 0.1665,
 "match_method": "canonical"
 },
@@ -273,100 +252,30 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
-"confidence": 0.1632,
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1665,
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1632,
+"id": "realia:Pit",
+"type": "realia",
+"preferred_label": "Pit",
+"confidence": 0.1665,
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.1665,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
 "type": "place",
-"preferred_label": "Edom",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Baasha",
-"type": "person",
-"preferred_label": "Baasha",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "group:Maacah",
-"type": "group",
-"preferred_label": "Maacathites",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Shiloh",
-"type": "place",
-"preferred_label": "Shiloh",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Ramah.2",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "group:Netophah",
-"type": "group",
-"preferred_label": "Netophathites",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Netophah",
-"type": "place",
-"preferred_label": "Netophah",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BelieveIn",
-"type": "keyterm",
-"preferred_label": "Believe In",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Shechem",
-"type": "place",
-"preferred_label": "Shechem",
+"preferred_label": "Samaria",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -385,9 +294,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
+"id": "group:Netophah",
+"type": "group",
+"preferred_label": "Netophathites",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -399,16 +315,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moab",
+"id": "place:Edom",
 "type": "place",
-"preferred_label": "Moab",
+"preferred_label": "Edom",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "place:Ramah.2",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Offering",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -420,6 +343,90 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Egypt",
+"type": "place",
+"preferred_label": "Egypt",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"preferred_label": "Shechem",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"preferred_label": "Believe In",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Netophah",
+"type": "place",
+"preferred_label": "Netophah",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Baasha",
+"type": "person",
+"preferred_label": "Baasha",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"preferred_label": "Maacathites",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1032,
+"match_method": "canonical"
+},
+{
 "id": "flora:Barley",
 "type": "flora",
 "preferred_label": "Barley",
@@ -427,9 +434,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
+"id": "flora:Frankincense",
+"type": "flora",
+"preferred_label": "Frankincense",
 "confidence": 0.1032,
 "match_method": "canonical"
 },
@@ -444,13 +451,6 @@
 "id": "flora:Wheat",
 "type": "flora",
 "preferred_label": "Wheat",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "flora:Frankincense",
-"type": "flora",
-"preferred_label": "Frankincense",
 "confidence": 0.1032,
 "match_method": "canonical"
 }

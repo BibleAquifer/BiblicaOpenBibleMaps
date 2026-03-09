@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Pray",
+"preferred_label": "Sky",
 "confidence": 0.3737,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Pray",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Pray",
 "confidence": 0.3737,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Laodicea",
-"type": "place",
-"preferred_label": "Laodicea",
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"preferred_label": "Live",
 "confidence": 0.3211,
 "match_method": "canonical"
 },
@@ -112,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Live.3",
+"id": "keyterm:Beloved",
 "type": "keyterm",
-"preferred_label": "Live",
+"preferred_label": "Beloved",
 "confidence": 0.3211,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Beloved",
-"type": "keyterm",
-"preferred_label": "Beloved",
+"id": "place:Laodicea",
+"type": "place",
+"preferred_label": "Laodicea",
 "confidence": 0.3211,
 "match_method": "canonical"
 },
@@ -154,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Paul",
-"type": "person",
-"preferred_label": "Paul",
-"confidence": 0.2642,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:InChrist",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "In Christ",
+"preferred_label": "Hope",
 "confidence": 0.2642,
 "match_method": "canonical"
 },
@@ -175,16 +168,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Hope",
+"id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "Hope",
+"preferred_label": "Circumcision",
 "confidence": 0.2642,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
+"id": "keyterm:InChrist",
 "type": "keyterm",
-"preferred_label": "Circumcision",
+"preferred_label": "In Christ",
+"confidence": 0.2642,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Paul",
 "confidence": 0.2642,
 "match_method": "canonical"
 },
@@ -203,6 +203,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.2095,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:AskFor",
 "type": "keyterm",
 "preferred_label": "Ask for",
@@ -210,23 +217,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.2095,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:GoodNews",
 "type": "keyterm",
 "preferred_label": "Good News",
-"confidence": 0.2095,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.2095,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
 "confidence": 0.2095,
 "match_method": "canonical"
 }

@@ -132,16 +132,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.3765,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
 "confidence": 0.3765,
 "match_method": "canonical"
 },
@@ -167,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Altar",
 "confidence": 0.3271,
 "match_method": "canonical"
 },
@@ -181,16 +181,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:StoneAltar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Stone Altar",
 "confidence": 0.3271,
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:TempleAltar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Temple Altar",
 "confidence": 0.3271,
 "match_method": "canonical"
 },
@@ -230,9 +230,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jabesh",
+"id": "person:Pekahiah",
 "type": "person",
-"preferred_label": "Jabesh",
+"preferred_label": "Pekahiah",
 "confidence": 0.2729,
 "match_method": "canonical"
 }

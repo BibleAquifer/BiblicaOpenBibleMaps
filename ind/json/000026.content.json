@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "injil",
-"confidence": 0.4113,
-"match_method": "canonical"
-},
-{
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Yerusalem",
@@ -56,10 +49,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "baptisan",
-"confidence": 0.4062,
+"preferred_label": "injil",
+"confidence": 0.4113,
 "match_method": "canonical"
 },
 {
@@ -70,16 +63,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "meminta",
-"confidence": 0.345,
+"preferred_label": "baptisan",
+"confidence": 0.4062,
 "match_method": "canonical"
 },
 {
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Yesus",
+"confidence": 0.345,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "meminta",
 "confidence": 0.345,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:GenericOfficial",
-"type": "person",
-"preferred_label": "Public Official",
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "keahlian",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "keahlian",
+"id": "person:GenericOfficial",
+"type": "person",
+"preferred_label": "Public Official",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
@@ -126,20 +126,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "tanda",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "percaya",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Church",
 "type": "keyterm",
 "preferred_label": "jemaat",
@@ -147,9 +133,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Example",
+"type": "keyterm",
+"preferred_label": "tanda",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Scripture",
 "type": "keyterm",
 "preferred_label": "kitab suci",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Yesaya",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "percaya",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -168,17 +175,24 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Yesaya",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
 "id": "realia:Money",
 "type": "realia",
 "preferred_label": "Money",
 "confidence": 0.1675,
+"match_method": "canonical"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
+"confidence": 0.1663,
+"match_method": "canonical"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Etiopia",
+"confidence": 0.1663,
 "match_method": "canonical"
 },
 {
@@ -196,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ethiopia",
+"id": "place:Gaza",
 "type": "place",
-"preferred_label": "Etiopia",
+"preferred_label": "Gaza",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -210,20 +224,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
-"id": "group:Ethiopia",
-"type": "group",
-"preferred_label": "Ethiopians",
-"confidence": 0.1663,
-"match_method": "canonical"
-},
-{
 "id": "place:Judea",
 "type": "place",
 "preferred_label": "Yehuda",
@@ -231,30 +231,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Declare",
+"id": "keyterm:UnjustDeed",
 "type": "keyterm",
-"preferred_label": "memberi kesaksian yang sungguh, sungguh",
+"preferred_label": "lalim",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "melayani",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"preferred_label": "menyembah",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "mengampuni",
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "Yohanes",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -273,30 +266,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "melayani",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Declare",
 "type": "keyterm",
-"preferred_label": "kekuasaan",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "berdoa",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "person:Simon.9",
-"type": "person",
-"preferred_label": "Simon",
+"preferred_label": "memberi kesaksian yang sungguh, sungguh",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -308,9 +287,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:UnjustDeed",
+"id": "keyterm:Pray",
 "type": "keyterm",
-"preferred_label": "lalim",
+"preferred_label": "berdoa",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Kaisarea",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "kekuasaan",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "kehidupan",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -329,37 +336,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
-"type": "person",
-"preferred_label": "Yohanes",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
+"id": "keyterm:BowDown",
 "type": "keyterm",
-"preferred_label": "kehidupan",
+"preferred_label": "menyembah",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
 {
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Kaisarea",
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "mengampuni",
 "confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "realia:Prison",
-"type": "realia",
-"preferred_label": "Prison",
-"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.1013,
+"match_method": "canonical"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"preferred_label": "Temple",
 "confidence": 0.1013,
 "match_method": "canonical"
 },
@@ -371,9 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Temple",
+"id": "realia:Prison",
 "type": "realia",
-"preferred_label": "Temple",
+"preferred_label": "Prison",
 "confidence": 0.1013,
 "match_method": "canonical"
 }

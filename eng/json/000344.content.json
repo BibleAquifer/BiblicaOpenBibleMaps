@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.3305,
-"match_method": "canonical"
-},
-{
 "id": "place:Gibeon",
 "type": "place",
 "preferred_label": "Gibeon",
@@ -126,9 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Mahanaim",
-"type": "place",
-"preferred_label": "Mahanaim",
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.3305,
+"match_method": "canonical"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"preferred_label": "Amalekites",
 "confidence": 0.2729,
 "match_method": "canonical"
 },
@@ -140,10 +140,17 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Amalek",
-"type": "group",
-"preferred_label": "Amalekites",
+"id": "place:Mahanaim",
+"type": "place",
+"preferred_label": "Mahanaim",
 "confidence": 0.2729,
+"match_method": "canonical"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"preferred_label": "Abishai",
+"confidence": 0.2186,
 "match_method": "canonical"
 },
 {
@@ -168,37 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abishai",
-"type": "person",
-"preferred_label": "Abishai",
-"confidence": 0.2186,
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.2153,
 "match_method": "canonical"
 },
 {
 "id": "place:Jabesh-gilead",
 "type": "place",
 "preferred_label": "Jabesh-gilead",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "place:GilboaMount",
-"type": "place",
-"preferred_label": "Mount Gilboa",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.2153,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
 "confidence": 0.2153,
 "match_method": "canonical"
 },
@@ -210,6 +196,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:GilboaMount",
+"type": "place",
+"preferred_label": "Mount Gilboa",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Anointed",
 "type": "keyterm",
 "preferred_label": "Anointed",
@@ -217,16 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jashar",
-"type": "person",
-"preferred_label": "Jashar",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.2153,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammah",
+"type": "place",
+"preferred_label": "Ammah",
 "confidence": 0.161,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lamentation",
-"type": "keyterm",
-"preferred_label": "Lamentation",
+"id": "person:Jashar",
+"type": "person",
+"preferred_label": "Jashar",
 "confidence": 0.161,
 "match_method": "canonical"
 }

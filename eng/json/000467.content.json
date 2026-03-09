@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethel",
+"id": "place:Samaria",
 "type": "place",
-"preferred_label": "Bethel",
+"preferred_label": "Samaria",
 "confidence": 0.3261,
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
+"id": "place:Bethel",
 "type": "place",
-"preferred_label": "Samaria",
+"preferred_label": "Bethel",
 "confidence": 0.3261,
 "match_method": "canonical"
 },
@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
+"id": "person:Joseph.10",
+"type": "person",
+"preferred_label": "Joseph",
 "confidence": 0.2696,
 "match_method": "canonical"
 },
@@ -77,23 +77,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.10",
-"type": "person",
-"preferred_label": "Joseph",
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
 "confidence": 0.2696,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.2661,
 "match_method": "canonical"
 },
 {
 "id": "flora:Vine",
 "type": "flora",
 "preferred_label": "Vine",
+"confidence": 0.2661,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
 "confidence": 0.2661,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
 "confidence": 0.213,
 "match_method": "canonical"
 },
@@ -119,23 +119,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.213,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.213,
-"match_method": "canonical"
-},
-{
 "id": "place:Gilgal.2",
 "type": "place",
 "preferred_label": "Gilgal",
+"confidence": 0.213,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
 "confidence": 0.213,
 "match_method": "canonical"
 },
@@ -147,6 +140,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.213,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Bull",
 "type": "fauna",
 "preferred_label": "Cattle",
@@ -154,30 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lamentation",
-"type": "keyterm",
-"preferred_label": "Lamentation",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Lo-debar",
-"type": "place",
-"preferred_label": "Lo-debar",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:Harmon",
-"type": "place",
-"preferred_label": "Harmon",
-"confidence": 0.1594,
-"match_method": "canonical"
-},
-{
-"id": "place:BrookOfTheArabah",
-"type": "place",
-"preferred_label": "Brook of the Arabah",
+"id": "deity:Sikkuth",
+"type": "deity",
+"preferred_label": "Sikkuth",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
@@ -189,6 +168,27 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Lo-debar",
+"type": "place",
+"preferred_label": "Lo-debar",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"preferred_label": "Lamentation",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"preferred_label": "Brook of the Arabah",
+"confidence": 0.1594,
+"match_method": "canonical"
+},
+{
 "id": "deity:Kiyyun",
 "type": "deity",
 "preferred_label": "Kiyyun",
@@ -196,30 +196,23 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Sikkuth",
-"type": "deity",
-"preferred_label": "Sikkuth",
+"id": "place:Harmon",
+"type": "place",
+"preferred_label": "Harmon",
 "confidence": 0.1594,
 "match_method": "canonical"
 },
 {
-"id": "place:Gomorrah",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Gomorrah",
+"preferred_label": "Jerusalem",
 "confidence": 0.1565,
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.1565,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
+"id": "place:Ashdod",
+"type": "place",
+"preferred_label": "Ashdod",
 "confidence": 0.1565,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "keyterm:Complete",
 "type": "keyterm",
 "preferred_label": "Complete",
+"confidence": 0.1565,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
 "confidence": 0.1565,
 "match_method": "canonical"
 }

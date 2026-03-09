@@ -49,6 +49,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Tigris",
+"type": "place",
+"preferred_label": "Tigris River",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"preferred_label": "Euphrates River",
+"confidence": 0.176,
+"match_method": "canonical"
+},
+{
 "id": "place:Gihon",
 "type": "place",
 "preferred_label": "Gihon",
@@ -63,38 +77,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tigris",
-"type": "place",
-"preferred_label": "Tigris River",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
 "id": "place:Havilah",
 "type": "place",
 "preferred_label": "Havilah",
 "confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "place:Euphrates",
-"type": "place",
-"preferred_label": "Euphrates River",
-"confidence": 0.176,
-"match_method": "canonical"
-},
-{
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
-"confidence": 0.168,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"preferred_label": "Bless",
-"confidence": 0.168,
 "match_method": "canonical"
 },
 {
@@ -108,6 +94,20 @@
 "id": "place:Cush.2",
 "type": "place",
 "preferred_label": "Cush",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
+"confidence": 0.168,
+"match_method": "canonical"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.168,
 "match_method": "canonical"
 },

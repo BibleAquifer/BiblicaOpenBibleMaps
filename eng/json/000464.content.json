@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.3841,
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
 "confidence": 0.3841,
 "match_method": "canonical"
 },
@@ -112,13 +112,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.3636,
-"match_method": "canonical"
-},
-{
 "id": "place:Samaria",
 "type": "place",
 "preferred_label": "Samaria",
@@ -129,6 +122,13 @@
 "id": "deity:Baal",
 "type": "deity",
 "preferred_label": "Baal",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
 "confidence": 0.3636,
 "match_method": "canonical"
 },
@@ -196,16 +196,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Image",
 "type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.3014,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
+"preferred_label": "Image",
 "confidence": 0.3014,
 "match_method": "canonical"
 },
@@ -217,9 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Image",
+"id": "realia:TabernacleAltar",
 "type": "realia",
-"preferred_label": "Image",
+"preferred_label": "Tabernacle Altar",
 "confidence": 0.3014,
 "match_method": "canonical"
 },
@@ -227,6 +220,13 @@
 "id": "realia:StoneAltar",
 "type": "realia",
 "preferred_label": "Stone Altar",
+"confidence": 0.3014,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
 "confidence": 0.3014,
 "match_method": "canonical"
 }

@@ -42,13 +42,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.2897,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Serve",
 "type": "keyterm",
 "preferred_label": "Serve",
@@ -56,10 +49,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2324,
+"preferred_label": "Ask for",
+"confidence": 0.2897,
 "match_method": "canonical"
 },
 {
@@ -77,6 +70,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.2324,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Pig",
 "type": "fauna",
 "preferred_label": "Pig",
@@ -84,23 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2265,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Kingdom",
 "type": "keyterm",
 "preferred_label": "Kingdom",
-"confidence": 0.2265,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
 "confidence": 0.2265,
 "match_method": "canonical"
 },
@@ -119,24 +105,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:HavingLittleFaith",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "Having Little Faith",
-"confidence": 0.1691,
+"preferred_label": "Authority",
+"confidence": 0.2265,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:InfectiousSkinDisease",
-"type": "keyterm",
-"preferred_label": "Infectious Skin Disease",
-"confidence": 0.1691,
-"match_method": "canonical"
-},
-{
-"id": "person:GenericDisciple",
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "A Disciple",
-"confidence": 0.1691,
+"preferred_label": "Israel",
+"confidence": 0.2265,
 "match_method": "canonical"
 },
 {
@@ -154,10 +133,24 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.1665,
+"id": "person:GenericDisciple",
+"type": "person",
+"preferred_label": "A Disciple",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HavingLittleFaith",
+"type": "keyterm",
+"preferred_label": "Having Little Faith",
+"confidence": 0.1691,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"preferred_label": "Infectious Skin Disease",
+"confidence": 0.1691,
 "match_method": "canonical"
 },
 {
@@ -165,6 +158,90 @@
 "type": "realia",
 "preferred_label": "Ship",
 "confidence": 0.1665,
+"match_method": "canonical"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.1665,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"preferred_label": "Surely!",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "place:Gerasa",
+"type": "place",
+"preferred_label": "Gerasa",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.1632,
+"match_method": "canonical"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"preferred_label": "Isaiah",
+"confidence": 0.1632,
 "match_method": "canonical"
 },
 {
@@ -182,30 +259,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Isaac",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Gerasa",
-"type": "place",
-"preferred_label": "Gerasa",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
+"id": "keyterm:OuterDarkness",
 "type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
+"preferred_label": "Outer Darkness",
 "confidence": 0.1632,
 "match_method": "canonical"
 },
@@ -217,72 +273,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:OuterDarkness",
-"type": "keyterm",
-"preferred_label": "Outer Darkness",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "place:Capernaum",
-"type": "place",
-"preferred_label": "Capernaum",
-"confidence": 0.1632,
-"match_method": "canonical"
-},
-{
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Isaiah",
-"confidence": 0.1632,
+"id": "realia:Housetop",
+"type": "realia",
+"preferred_label": "Housetop",
+"confidence": 0.1032,
 "match_method": "canonical"
 },
 {
 "id": "realia:Grave",
 "type": "realia",
 "preferred_label": "Grave",
-"confidence": 0.1032,
-"match_method": "canonical"
-},
-{
-"id": "realia:Housetop",
-"type": "realia",
-"preferred_label": "Housetop",
 "confidence": 0.1032,
 "match_method": "canonical"
 }

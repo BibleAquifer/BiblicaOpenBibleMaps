@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebron",
+"id": "group:Amorites",
+"type": "group",
+"preferred_label": "Amorites",
 "confidence": 0.3821,
 "match_method": "canonical"
 },
 {
-"id": "group:Amorites",
-"type": "group",
-"preferred_label": "Amorites",
+"id": "place:Hebron",
+"type": "place",
+"preferred_label": "Hebron",
 "confidence": 0.3821,
 "match_method": "canonical"
 },
@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Libnah.2",
-"type": "place",
-"preferred_label": "Libnah",
-"confidence": 0.3286,
-"match_method": "canonical"
-},
-{
 "id": "realia:Sword",
 "type": "realia",
 "preferred_label": "Sword",
@@ -119,16 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
-"type": "keyterm",
-"preferred_label": "Swear",
-"confidence": 0.3257,
+"id": "place:Libnah.2",
+"type": "place",
+"preferred_label": "Libnah",
+"confidence": 0.3286,
 "match_method": "canonical"
 },
 {
-"id": "place:Jericho",
+"id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Jericho",
+"preferred_label": "Jerusalem",
 "confidence": 0.3257,
 "match_method": "canonical"
 },
@@ -140,9 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
+"id": "place:Jericho",
 "type": "place",
-"preferred_label": "Jerusalem",
+"preferred_label": "Jericho",
+"confidence": 0.3257,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"preferred_label": "Swear",
 "confidence": 0.3257,
 "match_method": "canonical"
 },
@@ -161,13 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Adoni-zedek",
-"type": "person",
-"preferred_label": "Adoni-zedek",
-"confidence": 0.2186,
-"match_method": "canonical"
-},
-{
 "id": "place:Beth-horonLower",
 "type": "place",
 "preferred_label": "Lower Beth-horon",
@@ -182,6 +175,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Adoni-zedek",
+"type": "person",
+"preferred_label": "Adoni-zedek",
+"confidence": 0.2186,
+"match_method": "canonical"
+},
+{
 "id": "place:Azekah",
 "type": "place",
 "preferred_label": "Azekah",
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
+"id": "group:Hivites",
+"type": "group",
+"preferred_label": "Hivites",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
@@ -199,13 +199,6 @@
 "id": "place:Jordan",
 "type": "place",
 "preferred_label": "Jordan River",
-"confidence": 0.2129,
-"match_method": "canonical"
-},
-{
-"id": "group:Hivites",
-"type": "group",
-"preferred_label": "Hivites",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jashar",
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2129,
+"match_method": "canonical"
+},
+{
+"id": "person:Debir",
 "type": "person",
-"preferred_label": "Jashar",
+"preferred_label": "Debir",
 "confidence": 0.1593,
 "match_method": "canonical"
 }

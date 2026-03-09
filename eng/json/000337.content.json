@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
-"type": "place",
-"preferred_label": "Edom",
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
 "confidence": 0.3474,
 "match_method": "canonical"
 },
 {
-"id": "person:Jesse",
-"type": "person",
-"preferred_label": "Jesse",
+"id": "place:Edom",
+"type": "place",
+"preferred_label": "Edom",
 "confidence": 0.3474,
 "match_method": "canonical"
 },
@@ -112,44 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Profane",
-"type": "keyterm",
-"preferred_label": "Profane",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
 "id": "person:Goliath",
 "type": "person",
 "preferred_label": "Goliath",
-"confidence": 0.2237,
-"match_method": "canonical"
-},
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
 "confidence": 0.2237,
 "match_method": "canonical"
 },
@@ -161,23 +126,44 @@
 "match_method": "canonical"
 },
 {
-"id": "place:ElahValley",
+"id": "place:Philistine",
 "type": "place",
-"preferred_label": "Valley of Elah",
-"confidence": 0.1671,
+"preferred_label": "Philistia",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.2237,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"preferred_label": "Profane",
+"confidence": 0.2237,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:BreadOfDisplay",
 "type": "keyterm",
 "preferred_label": "Bread of Display",
-"confidence": 0.1671,
-"match_method": "canonical"
-},
-{
-"id": "place:Adullam",
-"type": "place",
-"preferred_label": "Adullam",
 "confidence": 0.1671,
 "match_method": "canonical"
 },
@@ -189,6 +175,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Adullam",
+"type": "place",
+"preferred_label": "Adullam",
+"confidence": 0.1671,
+"match_method": "canonical"
+},
+{
 "id": "person:Gad.2",
 "type": "person",
 "preferred_label": "Gad",
@@ -196,16 +189,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Fortress",
-"type": "realia",
-"preferred_label": "Fortress",
-"confidence": 0.1637,
+"id": "place:ElahValley",
+"type": "place",
+"preferred_label": "Valley of Elah",
+"confidence": 0.1671,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.1637,
+"match_method": "canonical"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"preferred_label": "Fortress",
 "confidence": 0.1637,
 "match_method": "canonical"
 },
@@ -217,23 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kir",
-"type": "place",
-"preferred_label": "Kir",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericServants",
+"id": "group:Judah",
 "type": "group",
-"preferred_label": "Servants",
+"preferred_label": "Tribe of Judah",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -245,37 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BeFirm",
+"id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Well-Established",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "place:Gibeah.2",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.1618,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
+"preferred_label": "Holy",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -287,9 +252,44 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BringHonorAndGloryOnOneself",
+"id": "group:GenericServants",
+"type": "group",
+"preferred_label": "Servants",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"preferred_label": "Gibeah",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeFirm",
 "type": "keyterm",
-"preferred_label": "Bring Honor and Glory on Oneself",
+"preferred_label": "Well-Established",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "place:Kir",
+"type": "place",
+"preferred_label": "Kir",
+"confidence": 0.1618,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
 "confidence": 0.1618,
 "match_method": "canonical"
 },
@@ -308,6 +308,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Ephod",
+"type": "realia",
+"preferred_label": "Ephod",
+"confidence": 0.1018,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -318,13 +325,6 @@
 "id": "flora:Vine",
 "type": "flora",
 "preferred_label": "Vine",
-"confidence": 0.1018,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
 "confidence": 0.1018,
 "match_method": "canonical"
 },
@@ -350,16 +350,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Linen",
+"id": "realia:House",
 "type": "realia",
-"preferred_label": "Linen",
+"preferred_label": "House",
 "confidence": 0.1018,
 "match_method": "canonical"
 },
 {
-"id": "realia:Ephod",
-"type": "realia",
-"preferred_label": "Ephod",
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
 "confidence": 0.1018,
 "match_method": "canonical"
 },
@@ -371,9 +371,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "realia:Linen",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Linen",
 "confidence": 0.1018,
 "match_method": "canonical"
 }

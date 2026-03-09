@@ -84,37 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Tobiah.2",
-"type": "person",
-"preferred_label": "Tobiah",
-"confidence": 0.2224,
-"match_method": "canonical"
-},
-{
-"id": "person:Meshullam.12",
-"type": "person",
-"preferred_label": "Meshullam",
-"confidence": 0.2224,
-"match_method": "canonical"
-},
-{
-"id": "place:Ophel",
+"id": "place:FountainGate",
 "type": "place",
-"preferred_label": "Ophel",
-"confidence": 0.2224,
-"match_method": "canonical"
-},
-{
-"id": "person:Berechiah.5",
-"type": "person",
-"preferred_label": "Berechiah",
-"confidence": 0.2224,
-"match_method": "canonical"
-},
-{
-"id": "person:Azariah.17",
-"type": "person",
-"preferred_label": "Azariah",
+"preferred_label": "Fountain Gate",
 "confidence": 0.2224,
 "match_method": "canonical"
 },
@@ -126,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Uriah.4",
-"type": "person",
-"preferred_label": "Uriah",
-"confidence": 0.2224,
-"match_method": "canonical"
-},
-{
 "id": "place:SheepGate",
 "type": "place",
 "preferred_label": "Sheep Gate",
@@ -140,9 +105,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:FountainGate",
+"id": "person:Berechiah.5",
+"type": "person",
+"preferred_label": "Berechiah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Meshullam.12",
+"type": "person",
+"preferred_label": "Meshullam",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Tobiah.2",
+"type": "person",
+"preferred_label": "Tobiah",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "place:Ophel",
 "type": "place",
-"preferred_label": "Fountain Gate",
+"preferred_label": "Ophel",
+"confidence": 0.2224,
+"match_method": "canonical"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"preferred_label": "Uriah",
 "confidence": 0.2224,
 "match_method": "canonical"
 },
@@ -154,10 +147,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Sanballat",
+"id": "person:Azariah.17",
 "type": "person",
-"preferred_label": "Sanballat",
-"confidence": 0.219,
+"preferred_label": "Azariah",
+"confidence": 0.2224,
 "match_method": "canonical"
 },
 {
@@ -175,23 +168,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Keilah",
+"id": "person:Sanballat",
+"type": "person",
+"preferred_label": "Sanballat",
+"confidence": 0.219,
+"match_method": "canonical"
+},
+{
+"id": "place:Siloam",
 "type": "place",
-"preferred_label": "Keilah",
-"confidence": 0.2155,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.2155,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
+"preferred_label": "Siloam",
 "confidence": 0.2155,
 "match_method": "canonical"
 },
@@ -203,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
 "confidence": 0.2155,
 "match_method": "canonical"
 },
@@ -217,16 +203,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Siloam",
-"type": "place",
-"preferred_label": "Siloam",
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.2155,
 "match_method": "canonical"
 },
 {
-"id": "person:Zalaph",
+"id": "person:David",
 "type": "person",
-"preferred_label": "Zalaph",
+"preferred_label": "David",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "place:Keilah",
+"type": "place",
+"preferred_label": "Keilah",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "person:Hanun.3",
+"type": "person",
+"preferred_label": "Hanun",
 "confidence": 0.1612,
 "match_method": "canonical"
 }

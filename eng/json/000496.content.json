@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "place:Mamre",
+"type": "place",
+"preferred_label": "Mamre",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Fear",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
 {
-"id": "place:Mamre",
-"type": "place",
-"preferred_label": "Mamre",
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.1636,
 "match_method": "canonical"
 },

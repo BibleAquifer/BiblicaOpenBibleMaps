@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Massah",
+"id": "place:Sin",
 "type": "place",
-"preferred_label": "Massah",
+"preferred_label": "Wilderness of Sin",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
 {
-"id": "place:Sin",
+"id": "place:Massah",
 "type": "place",
-"preferred_label": "Wilderness of Sin",
+"preferred_label": "Massah",
 "confidence": 0.1906,
 "match_method": "canonical"
 },
@@ -112,6 +112,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Meribah",
+"type": "place",
+"preferred_label": "Meribah",
+"confidence": 0.1781,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Destroy",
 "type": "keyterm",
 "preferred_label": "Destroy",
@@ -126,17 +133,24 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Meribah",
-"type": "place",
-"preferred_label": "Meribah",
-"confidence": 0.1781,
-"match_method": "canonical"
-},
-{
 "id": "realia:Throne",
 "type": "realia",
 "preferred_label": "Throne",
 "confidence": 0.1306,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1181,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
+"confidence": 0.1181,
 "match_method": "canonical"
 },
 {
@@ -154,13 +168,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
@@ -171,13 +178,6 @@
 "id": "realia:Scroll",
 "type": "realia",
 "preferred_label": "Scroll",
-"confidence": 0.1181,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
 "confidence": 0.1181,
 "match_method": "canonical"
 }

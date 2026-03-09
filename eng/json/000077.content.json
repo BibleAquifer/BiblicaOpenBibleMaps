@@ -63,30 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"preferred_label": "Fornication",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "person:RichYoungRuler",
+"id": "person:Moses",
 "type": "person",
-"preferred_label": "Rich Young Ruler",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
+"preferred_label": "Moses",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -98,6 +77,34 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"preferred_label": "Fornication",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
+"id": "person:RichYoungRuler",
+"type": "person",
+"preferred_label": "Rich Young Ruler",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Body.3",
 "type": "keyterm",
 "preferred_label": "Body",
@@ -105,16 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Command",
+"id": "keyterm:Good",
 "type": "keyterm",
-"preferred_label": "To Command",
+"preferred_label": "Good",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -126,44 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:NewWorld",
-"type": "keyterm",
-"preferred_label": "New World",
+"preferred_label": "Decided",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -175,9 +140,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Lawful",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Be Lawful",
+"preferred_label": "Glory",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -185,13 +178,6 @@
 "id": "keyterm:Pray",
 "type": "keyterm",
 "preferred_label": "Pray",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -210,6 +196,20 @@
 "match_method": "canonical"
 },
 {
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"preferred_label": "Be Lawful",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Hardheartedness",
 "type": "keyterm",
 "preferred_label": "Hardheartedness",
@@ -224,23 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -252,16 +238,30 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Camel",
-"type": "fauna",
-"preferred_label": "Camel",
-"confidence": 0.1117,
+"id": "keyterm:NewWorld",
+"type": "keyterm",
+"preferred_label": "New World",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
+"confidence": 0.165,
 "match_method": "canonical"
 },
 {
 "id": "realia:Needle",
 "type": "realia",
 "preferred_label": "Needle",
+"confidence": 0.1117,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
 "confidence": 0.1117,
 "match_method": "canonical"
 },
@@ -273,16 +273,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Scroll",
+"id": "realia:House",
 "type": "realia",
-"preferred_label": "Scroll",
+"preferred_label": "House",
 "confidence": 0.105,
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
+"id": "realia:Scroll",
 "type": "realia",
-"preferred_label": "House",
+"preferred_label": "Scroll",
 "confidence": 0.105,
 "match_method": "canonical"
 }

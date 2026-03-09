@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "Canaan",
-"confidence": 0.255,
-"match_method": "canonical"
-},
-{
 "id": "place:Haran",
 "type": "place",
 "preferred_label": "Haran",
@@ -73,6 +66,13 @@
 "id": "keyterm:Bless",
 "type": "keyterm",
 "preferred_label": "Bless",
+"confidence": 0.255,
+"match_method": "canonical"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"preferred_label": "Canaan",
 "confidence": 0.255,
 "match_method": "canonical"
 },
@@ -88,6 +88,13 @@
 "type": "group",
 "preferred_label": "Egyptians",
 "confidence": 0.245,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.185,
 "match_method": "canonical"
 },
 {
@@ -112,23 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.185,
-"match_method": "canonical"
-},
-{
 "id": "place:Ai",
 "type": "place",
 "preferred_label": "Ai",
-"confidence": 0.1825,
-"match_method": "canonical"
-},
-{
-"id": "group:Canaan",
-"type": "group",
-"preferred_label": "Canaanites",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -140,16 +133,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Moreh",
+"id": "place:Shechem",
 "type": "place",
-"preferred_label": "Oak of Moreh",
+"preferred_label": "Shechem",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
 {
-"id": "place:Shechem",
+"id": "group:Canaan",
+"type": "group",
+"preferred_label": "Canaanites",
+"confidence": 0.1825,
+"match_method": "canonical"
+},
+{
+"id": "place:Moreh",
 "type": "place",
-"preferred_label": "Shechem",
+"preferred_label": "Oak of Moreh",
 "confidence": 0.1825,
 "match_method": "canonical"
 },
@@ -182,16 +182,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.1125,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Camel",
-"type": "fauna",
-"preferred_label": "Camel",
+"id": "realia:Tent",
+"type": "realia",
+"preferred_label": "Tent",
 "confidence": 0.1125,
 "match_method": "canonical"
 },
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Tent",
-"type": "realia",
-"preferred_label": "Tent",
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1125,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
 "confidence": 0.1125,
 "match_method": "canonical"
 },

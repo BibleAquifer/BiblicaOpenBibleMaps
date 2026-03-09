@@ -105,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Achaia",
+"type": "place",
+"preferred_label": "Ахаия",
+"confidence": 0.2393,
+"match_method": "canonical"
+},
+{
 "id": "place:Corinth",
 "type": "place",
 "preferred_label": "Коринф",
@@ -112,10 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Achaia",
-"type": "place",
-"preferred_label": "Ахаия",
-"confidence": 0.2393,
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"preferred_label": "Be a Disciple",
+"confidence": 0.2321,
 "match_method": "canonical"
 },
 {
@@ -133,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.2321,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Scripture",
 "type": "keyterm",
 "preferred_label": "Written",
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:Believe",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
+"preferred_label": "Believe",
 "confidence": 0.2321,
 "match_method": "canonical"
 },
@@ -161,23 +161,37 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pontus",
-"type": "place",
-"preferred_label": "Понт",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "place:Cenchreae",
-"type": "place",
-"preferred_label": "Кенхреи",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
 "id": "group:Alexandria",
 "type": "group",
 "preferred_label": "Alexandrians",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "person:Sosthenes",
+"type": "person",
+"preferred_label": "Сосфен",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"preferred_label": "Corinthians",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"preferred_label": "Фригия",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "person:Crispus",
+"type": "person",
+"preferred_label": "Крисп",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -189,13 +203,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Claudius",
-"type": "person",
-"preferred_label": "Клавдий",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
 "id": "place:Galatia",
 "type": "place",
 "preferred_label": "Галатийский",
@@ -203,9 +210,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Crispus",
+"id": "place:Cenchreae",
+"type": "place",
+"preferred_label": "Кенхреи",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"preferred_label": "Римлянин",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"preferred_label": "Понт",
+"confidence": 0.1732,
+"match_method": "canonical"
+},
+{
+"id": "person:Apollos",
 "type": "person",
-"preferred_label": "Крисп",
+"preferred_label": "Аполлос",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
@@ -224,79 +252,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Apollos",
+"id": "person:Claudius",
 "type": "person",
-"preferred_label": "Аполлос",
+"preferred_label": "Клавдий",
 "confidence": 0.1732,
 "match_method": "canonical"
 },
 {
-"id": "place:Phrygia",
-"type": "place",
-"preferred_label": "Фригия",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "place:Rome",
-"type": "place",
-"preferred_label": "Римлянин",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "group:Corinth",
-"type": "group",
-"preferred_label": "Corinthians",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "person:Sosthenes",
-"type": "person",
-"preferred_label": "Сосфен",
-"confidence": 0.1732,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Declare",
+"id": "keyterm:Blaspheme",
 "type": "keyterm",
-"preferred_label": "Declare",
+"preferred_label": "Blaspheme",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
 {
-"id": "person:Javan",
-"type": "person",
-"preferred_label": "Иаван",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
+"id": "keyterm:Favor",
 "type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Macedonia",
-"type": "place",
-"preferred_label": "Македонянин",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:UnrighteousAct",
-"type": "keyterm",
-"preferred_label": "Unrighteous Act",
+"preferred_label": "Favor",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -315,30 +287,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Clean",
 "type": "keyterm",
-"preferred_label": "Spirit",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Кесария",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:Silas",
-"type": "person",
-"preferred_label": "Сила",
+"preferred_label": "Clean",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -350,9 +301,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sabbath",
-"type": "keyterm",
-"preferred_label": "Sabbath",
+"id": "place:Macedonia",
+"type": "place",
+"preferred_label": "Македонянин",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -364,44 +315,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Clean",
-"type": "keyterm",
-"preferred_label": "Clean",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Persuade",
-"type": "keyterm",
-"preferred_label": "Persuade",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
 "id": "place:Italy",
 "type": "place",
 "preferred_label": "Италийский",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:Timothy",
-"type": "person",
-"preferred_label": "Тимофей",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "person:John",
-"type": "person",
-"preferred_label": "Иоанн",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blaspheme",
-"type": "keyterm",
-"preferred_label": "Blaspheme",
 "confidence": 0.1661,
 "match_method": "canonical"
 },
@@ -413,13 +329,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Athens",
-"type": "place",
-"preferred_label": "Афины",
-"confidence": 0.1661,
-"match_method": "canonical"
-},
-{
 "id": "place:Antioch",
 "type": "place",
 "preferred_label": "Антиохия",
@@ -427,10 +336,94 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
-"confidence": 0.1061,
+"id": "keyterm:UnrighteousAct",
+"type": "keyterm",
+"preferred_label": "Unrighteous Act",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"preferred_label": "Sabbath",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"preferred_label": "Тимофей",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"preferred_label": "Иаван",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"preferred_label": "Сила",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"preferred_label": "Афины",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"preferred_label": "Persuade",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"preferred_label": "Declare",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"preferred_label": "Кесария",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"preferred_label": "Spirit",
+"confidence": 0.1661,
+"match_method": "canonical"
+},
+{
+"id": "person:John",
+"type": "person",
+"preferred_label": "Иоанн",
+"confidence": 0.1661,
 "match_method": "canonical"
 },
 {
@@ -444,6 +437,13 @@
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
+"confidence": 0.1061,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.1061,
 "match_method": "canonical"
 }

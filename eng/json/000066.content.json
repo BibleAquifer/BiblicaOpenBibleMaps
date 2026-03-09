@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
 "confidence": 0.295,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.295,
 "match_method": "canonical"
 },
@@ -70,9 +70,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CourtCase",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Court Case",
+"preferred_label": "Be a Disciple",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -84,9 +84,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "Judgment",
+"id": "place:Sodom",
+"type": "place",
+"preferred_label": "Sodom",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -98,6 +98,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"preferred_label": "Judgment",
+"confidence": 0.23,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Repent",
 "type": "keyterm",
 "preferred_label": "Repent",
@@ -105,16 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disciple",
+"id": "keyterm:CourtCase",
 "type": "keyterm",
-"preferred_label": "Be a Disciple",
-"confidence": 0.23,
-"match_method": "canonical"
-},
-{
-"id": "place:Sodom",
-"type": "place",
-"preferred_label": "Sodom",
+"preferred_label": "Court Case",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -126,16 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WorldOfTheDead",
+"id": "keyterm:Disaster",
 "type": "keyterm",
-"preferred_label": "World of the Dead",
+"preferred_label": "Disaster",
 "confidence": 0.1717,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Disaster",
+"id": "keyterm:WorldOfTheDead",
 "type": "keyterm",
-"preferred_label": "Disaster",
+"preferred_label": "World of the Dead",
 "confidence": 0.1717,
 "match_method": "canonical"
 },
@@ -147,37 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:TaxCollector",
-"type": "keyterm",
-"preferred_label": "Tax Collector",
+"id": "place:Hell",
+"type": "place",
+"preferred_label": "Hell",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -189,58 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happy",
+"id": "keyterm:Speak",
 "type": "keyterm",
-"preferred_label": "Happy",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Elijah",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Speak as a Prophet",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -259,9 +182,72 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bethsaida",
-"type": "place",
-"preferred_label": "Bethsaida",
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"preferred_label": "Tax Collector",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"preferred_label": "Elijah",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -269,6 +255,20 @@
 "id": "keyterm:Law",
 "type": "keyterm",
 "preferred_label": "Law",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethsaida",
+"type": "place",
+"preferred_label": "Bethsaida",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
 "confidence": 0.165,
 "match_method": "canonical"
 },
@@ -287,16 +287,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Prison",
+"id": "realia:Flute",
 "type": "realia",
-"preferred_label": "Prison",
+"preferred_label": "Flute",
 "confidence": 0.105,
 "match_method": "canonical"
 },
 {
-"id": "realia:Flute",
+"id": "realia:Temple",
 "type": "realia",
-"preferred_label": "Flute",
+"preferred_label": "Temple",
 "confidence": 0.105,
 "match_method": "canonical"
 },
@@ -308,9 +308,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Temple",
+"id": "realia:Prison",
 "type": "realia",
-"preferred_label": "Temple",
+"preferred_label": "Prison",
 "confidence": 0.105,
 "match_method": "canonical"
 }

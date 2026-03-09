@@ -62,9 +62,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "person:Solomon",
+"type": "person",
+"preferred_label": "Solomon",
 "confidence": 0.4019,
 "match_method": "canonical"
 },
@@ -76,9 +76,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Solomon",
-"type": "person",
-"preferred_label": "Solomon",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.4019,
 "match_method": "canonical"
 },
@@ -167,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
+"id": "person:Jesse",
+"type": "person",
+"preferred_label": "Jesse",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -181,23 +181,23 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:Shiloh",
+"type": "group",
+"preferred_label": "Shilonites",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Work",
 "type": "keyterm",
 "preferred_label": "Work",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "place:Shiloh",
-"type": "place",
-"preferred_label": "Shiloh",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -209,20 +209,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jesse",
-"type": "person",
-"preferred_label": "Jesse",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Possess",
 "type": "keyterm",
 "preferred_label": "To Cause to Possess",
@@ -230,9 +216,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Shiloh",
-"type": "group",
-"preferred_label": "Shilonites",
+"id": "place:Shiloh",
+"type": "place",
+"preferred_label": "Shiloh",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
 "confidence": 0.2173,
 "match_method": "canonical"
 }

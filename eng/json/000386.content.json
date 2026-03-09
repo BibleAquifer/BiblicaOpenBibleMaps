@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joash.4",
+"id": "person:Amaziah",
 "type": "person",
-"preferred_label": "Joash",
+"preferred_label": "Amaziah",
 "confidence": 0.5121,
 "match_method": "canonical"
 },
 {
-"id": "person:Amaziah",
+"id": "person:Joash.4",
 "type": "person",
-"preferred_label": "Amaziah",
+"preferred_label": "Joash",
 "confidence": 0.5121,
 "match_method": "canonical"
 },
@@ -98,16 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Edom",
+"id": "place:Hamath",
 "type": "place",
-"preferred_label": "Edom",
+"preferred_label": "Hamath",
 "confidence": 0.231,
 "match_method": "canonical"
 },
 {
-"id": "place:Hamath",
+"id": "place:Edom",
 "type": "place",
-"preferred_label": "Hamath",
+"preferred_label": "Edom",
 "confidence": 0.231,
 "match_method": "canonical"
 },
@@ -126,30 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Zechariah.3",
+"id": "person:Jonah.2",
 "type": "person",
-"preferred_label": "Zechariah",
-"confidence": 0.1724,
-"match_method": "canonical"
-},
-{
-"id": "place:CornerGate",
-"type": "place",
-"preferred_label": "Corner Gate",
-"confidence": 0.1724,
-"match_method": "canonical"
-},
-{
-"id": "place:Lachish",
-"type": "place",
-"preferred_label": "Lachish",
-"confidence": 0.1724,
-"match_method": "canonical"
-},
-{
-"id": "place:Gath-hepher",
-"type": "place",
-"preferred_label": "Gath-hepher",
+"preferred_label": "Jonah",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -161,16 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amittai",
-"type": "person",
-"preferred_label": "Amittai",
-"confidence": 0.1724,
-"match_method": "canonical"
-},
-{
-"id": "place:SaltSea",
+"id": "place:Gath-hepher",
 "type": "place",
-"preferred_label": "Dead Sea",
+"preferred_label": "Gath-hepher",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -182,9 +154,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jehoaddan",
+"id": "place:CornerGate",
+"type": "place",
+"preferred_label": "Corner Gate",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Amittai",
 "type": "person",
-"preferred_label": "Jehoaddan",
+"preferred_label": "Amittai",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"preferred_label": "Lachish",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Zechariah.3",
+"type": "person",
+"preferred_label": "Zechariah",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -196,9 +189,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jonah.2",
+"id": "place:SaltSea",
+"type": "place",
+"preferred_label": "Dead Sea",
+"confidence": 0.1724,
+"match_method": "canonical"
+},
+{
+"id": "person:Jehoaddan",
 "type": "person",
-"preferred_label": "Jonah",
+"preferred_label": "Jehoaddan",
 "confidence": 0.1724,
 "match_method": "canonical"
 },
@@ -210,30 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Jeroboam",
-"type": "person",
-"preferred_label": "Jeroboam",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "place:Elath",
+"id": "place:Sela",
 "type": "place",
-"preferred_label": "Elath",
+"preferred_label": "Sela",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -241,6 +227,20 @@
 "id": "person:Jehu.2",
 "type": "person",
 "preferred_label": "Jehu",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"preferred_label": "Edomites",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -259,9 +259,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
+"id": "place:Lebanon",
+"type": "place",
+"preferred_label": "Lebanon",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "person:Jeroboam",
 "type": "person",
-"preferred_label": "Moses",
+"preferred_label": "Jeroboam",
+"confidence": 0.1655,
+"match_method": "canonical"
+},
+{
+"id": "place:Elath",
+"type": "place",
+"preferred_label": "Elath",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -273,37 +287,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Edom",
-"type": "group",
-"preferred_label": "Edomites",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "place:Lebanon",
-"type": "place",
-"preferred_label": "Lebanon",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "person:Ahaziah.2",
-"type": "person",
-"preferred_label": "Ahaziah",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Sin",
 "type": "keyterm",
 "preferred_label": "To Sin",
-"confidence": 0.1655,
-"match_method": "canonical"
-},
-{
-"id": "place:Sela",
-"type": "place",
-"preferred_label": "Sela",
 "confidence": 0.1655,
 "match_method": "canonical"
 },
@@ -315,17 +301,17 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
-"confidence": 0.1055,
+"id": "person:Ahaziah.2",
+"type": "person",
+"preferred_label": "Ahaziah",
+"confidence": 0.1655,
 "match_method": "canonical"
 },
 {
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.1055,
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.1655,
 "match_method": "canonical"
 },
 {
@@ -336,9 +322,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Scroll",
-"type": "realia",
-"preferred_label": "Scroll",
+"id": "flora:Pine",
+"type": "flora",
+"preferred_label": "Stone Pine",
 "confidence": 0.1055,
 "match_method": "canonical"
 },
@@ -350,9 +336,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Pine",
-"type": "flora",
-"preferred_label": "Stone Pine",
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
 "confidence": 0.1055,
 "match_method": "canonical"
 },
@@ -367,6 +353,20 @@
 "id": "flora:Cedar",
 "type": "flora",
 "preferred_label": "Cedar",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.1055,
+"match_method": "canonical"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"preferred_label": "Scroll",
 "confidence": 0.1055,
 "match_method": "canonical"
 }

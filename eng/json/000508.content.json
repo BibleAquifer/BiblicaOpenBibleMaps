@@ -63,9 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jegar-sahadutha",
+"id": "place:Gilead",
 "type": "place",
-"preferred_label": "Jegar-sahadutha",
+"preferred_label": "Gilead",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilead",
+"id": "place:Jegar-sahadutha",
 "type": "place",
-"preferred_label": "Gilead",
+"preferred_label": "Jegar-sahadutha",
 "confidence": 0.2787,
 "match_method": "canonical"
 },
 {
-"id": "place:Paddan-aram",
-"type": "place",
-"preferred_label": "Paddan-aram",
+"id": "person:Isaac",
+"type": "person",
+"preferred_label": "Isaac",
 "confidence": 0.275,
 "match_method": "canonical"
 },
@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Isaac",
+"id": "place:Paddan-aram",
+"type": "place",
+"preferred_label": "Paddan-aram",
 "confidence": 0.275,
 "match_method": "canonical"
 },
@@ -147,6 +147,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Vow",
+"type": "keyterm",
+"preferred_label": "Vow",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Witness",
 "type": "keyterm",
 "preferred_label": "Witness",
@@ -161,23 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
+"id": "keyterm:Smear",
 "type": "keyterm",
-"preferred_label": "Strength",
+"preferred_label": "Smear",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "person:Nahor.2",
-"type": "person",
-"preferred_label": "Nahor",
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -189,30 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Vow",
-"type": "keyterm",
-"preferred_label": "Vow",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
+"id": "keyterm:Fear",
 "type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
-"confidence": 0.1583,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Possess",
-"type": "keyterm",
-"preferred_label": "To Cause to Possess",
+"preferred_label": "Fear",
 "confidence": 0.1583,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Smear",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"preferred_label": "Smear",
+"preferred_label": "To Sin",
+"confidence": 0.1583,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"preferred_label": "To Cause to Possess",
 "confidence": 0.1583,
 "match_method": "canonical"
 }

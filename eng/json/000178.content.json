@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judas.2",
-"type": "person",
-"preferred_label": "Judas",
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
+"id": "person:Judas.2",
+"type": "person",
+"preferred_label": "Judas",
 "confidence": 0.2838,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
+"id": "keyterm:Happen",
 "type": "keyterm",
-"preferred_label": "Ask for",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BearWitness",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Bear Witness",
+"preferred_label": "Ask for",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -105,9 +105,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
+"id": "place:Nazareth",
+"type": "place",
+"preferred_label": "Nazareth",
 "confidence": 0.2225,
 "match_method": "canonical"
 },
@@ -119,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.2225,
+"match_method": "canonical"
+},
+{
 "id": "person:GenericServant",
 "type": "person",
 "preferred_label": "A Servant",
@@ -126,16 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Nazareth",
-"type": "place",
-"preferred_label": "Nazareth",
-"confidence": 0.2225,
-"match_method": "canonical"
-},
-{
-"id": "person:Malchus",
-"type": "person",
-"preferred_label": "Malchus",
+"id": "group:MilitaryMembers",
+"type": "group",
+"preferred_label": "Military Members",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -147,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:MilitaryMembers",
-"type": "group",
-"preferred_label": "Military Members",
+"id": "person:Malchus",
+"type": "person",
+"preferred_label": "Malchus",
 "confidence": 0.1663,
 "match_method": "canonical"
 },
@@ -161,23 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.1613,
-"match_method": "canonical"
-},
-{
-"id": "group:Pharisee",
-"type": "group",
-"preferred_label": "Pharisees",
+"preferred_label": "Decided",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -189,9 +175,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
-"preferred_label": "Name",
+"preferred_label": "Kingdom",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -199,6 +185,20 @@
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "Defilement",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
+"confidence": 0.1613,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -217,9 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
+"id": "group:Pharisee",
+"type": "group",
+"preferred_label": "Pharisees",
 "confidence": 0.1613,
 "match_method": "canonical"
 },
@@ -231,16 +231,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sheath",
+"id": "realia:Torch",
 "type": "realia",
-"preferred_label": "Sheath",
+"preferred_label": "Torch",
 "confidence": 0.1063,
 "match_method": "canonical"
 },
 {
-"id": "realia:Torch",
+"id": "realia:Sheath",
 "type": "realia",
-"preferred_label": "Torch",
+"preferred_label": "Sheath",
 "confidence": 0.1063,
 "match_method": "canonical"
 },
@@ -249,6 +249,13 @@
 "type": "realia",
 "preferred_label": "Lantern",
 "confidence": 0.1063,
+"match_method": "canonical"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"preferred_label": "Door",
+"confidence": 0.1013,
 "match_method": "canonical"
 },
 {
@@ -262,13 +269,6 @@
 "id": "realia:Courtyard",
 "type": "realia",
 "preferred_label": "Courtyard",
-"confidence": 0.1013,
-"match_method": "canonical"
-},
-{
-"id": "realia:Door",
-"type": "realia",
-"preferred_label": "Door",
 "confidence": 0.1013,
 "match_method": "canonical"
 },

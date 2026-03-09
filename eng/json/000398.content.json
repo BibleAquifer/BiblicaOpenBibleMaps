@@ -49,13 +49,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:InfectiousSkinDisease",
-"type": "keyterm",
-"preferred_label": "Infectious Skin Disease",
-"confidence": 0.3563,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
@@ -66,6 +59,13 @@
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
+"confidence": 0.3563,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"preferred_label": "Infectious Skin Disease",
 "confidence": 0.3563,
 "match_method": "canonical"
 },
@@ -91,30 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
-"confidence": 0.2281,
-"match_method": "canonical"
-},
-{
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
-"confidence": 0.2281,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.2281,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
+"id": "person:Amaziah",
+"type": "person",
+"preferred_label": "Amaziah",
 "confidence": 0.2281,
 "match_method": "canonical"
 },
@@ -126,37 +105,37 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Amaziah",
-"type": "person",
-"preferred_label": "Amaziah",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.2281,
 "match_method": "canonical"
 },
 {
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
-"confidence": 0.1703,
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
+"confidence": 0.2281,
 "match_method": "canonical"
 },
 {
-"id": "place:Jabneel",
-"type": "place",
-"preferred_label": "Jabneel",
-"confidence": 0.1703,
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.2281,
 "match_method": "canonical"
 },
 {
-"id": "place:CornerGate",
-"type": "place",
-"preferred_label": "Corner Gate",
-"confidence": 0.1703,
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
+"confidence": 0.2281,
 "match_method": "canonical"
 },
 {
-"id": "person:Zadok.3",
-"type": "person",
-"preferred_label": "Zadok",
+"id": "place:Angle",
+"type": "place",
+"preferred_label": "Angle",
 "confidence": 0.1703,
 "match_method": "canonical"
 },
@@ -168,9 +147,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Meunites",
-"type": "group",
-"preferred_label": "Meunites",
+"id": "person:Jeiel.6",
+"type": "person",
+"preferred_label": "Jeiel",
 "confidence": 0.1703,
 "match_method": "canonical"
 },
@@ -182,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Zechariah.13",
+"type": "person",
+"preferred_label": "Zechariah",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
 "id": "place:Ashdod",
 "type": "place",
 "preferred_label": "Ashdod",
@@ -189,16 +175,30 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Angle",
+"id": "place:CornerGate",
 "type": "place",
-"preferred_label": "Angle",
+"preferred_label": "Corner Gate",
 "confidence": 0.1703,
 "match_method": "canonical"
 },
 {
-"id": "person:Jerusha",
-"type": "person",
-"preferred_label": "Jerusha",
+"id": "group:Meunites",
+"type": "group",
+"preferred_label": "Meunites",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "place:ValleyGate",
+"type": "place",
+"preferred_label": "Valley Gate",
 "confidence": 0.1703,
 "match_method": "canonical"
 },
@@ -210,16 +210,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Jeiel.6",
+"id": "person:Jerusha",
 "type": "person",
-"preferred_label": "Jeiel",
-"confidence": 0.1703,
-"match_method": "canonical"
-},
-{
-"id": "person:Zechariah.13",
-"type": "person",
-"preferred_label": "Zechariah",
+"preferred_label": "Jerusha",
 "confidence": 0.1703,
 "match_method": "canonical"
 },
@@ -231,10 +224,24 @@
 "match_method": "canonical"
 },
 {
-"id": "place:ValleyGate",
+"id": "place:Jabneel",
 "type": "place",
-"preferred_label": "Valley Gate",
+"preferred_label": "Jabneel",
 "confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "person:Zadok.3",
+"type": "person",
+"preferred_label": "Zadok",
+"confidence": 0.1703,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1681,
 "match_method": "canonical"
 },
 {
@@ -259,51 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.1681,
-"match_method": "canonical"
-},
-{
-"id": "person:Amoz",
-"type": "person",
-"preferred_label": "Amoz",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
+"id": "place:Ophel",
+"type": "place",
+"preferred_label": "Ophel",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
@@ -315,58 +280,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Arrow",
-"type": "keyterm",
-"preferred_label": "Arrow",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "place:Elath",
-"type": "place",
-"preferred_label": "Elath",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "place:Ophel",
-"type": "place",
-"preferred_label": "Ophel",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "person:Aaron",
-"type": "person",
-"preferred_label": "Aaron",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
@@ -378,9 +294,51 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Arabia",
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "person:Amoz",
+"type": "person",
+"preferred_label": "Amoz",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "place:Egypt",
 "type": "place",
-"preferred_label": "Arabia",
+"preferred_label": "Egypt",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"preferred_label": "Aaron",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"preferred_label": "Arrow",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
@@ -392,6 +350,20 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Elath",
+"type": "place",
+"preferred_label": "Elath",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
 "id": "place:Shephelah",
 "type": "place",
 "preferred_label": "Shephelah",
@@ -399,16 +371,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sling",
-"type": "realia",
-"preferred_label": "Sling",
-"confidence": 0.1103,
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"preferred_label": "Arabia",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1641,
 "match_method": "canonical"
 },
 {
 "id": "realia:Breastplate",
 "type": "realia",
 "preferred_label": "Breastplate",
+"confidence": 0.1103,
+"match_method": "canonical"
+},
+{
+"id": "realia:Sling",
+"type": "realia",
+"preferred_label": "Sling",
 "confidence": 0.1103,
 "match_method": "canonical"
 },
@@ -420,16 +420,16 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Barley",
-"type": "flora",
-"preferred_label": "Barley",
+"id": "realia:Kor",
+"type": "realia",
+"preferred_label": "Kor",
 "confidence": 0.1041,
 "match_method": "canonical"
 },
 {
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
+"id": "flora:Barley",
+"type": "flora",
+"preferred_label": "Barley",
 "confidence": 0.1041,
 "match_method": "canonical"
 },
@@ -441,23 +441,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Spear",
-"type": "realia",
-"preferred_label": "Spear",
-"confidence": 0.1041,
-"match_method": "canonical"
-},
-{
 "id": "realia:SmallShield",
 "type": "realia",
 "preferred_label": "Small Shield",
-"confidence": 0.1041,
-"match_method": "canonical"
-},
-{
-"id": "realia:Bow",
-"type": "realia",
-"preferred_label": "Bow",
 "confidence": 0.1041,
 "match_method": "canonical"
 },
@@ -469,9 +455,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Pit",
+"id": "realia:Bow",
 "type": "realia",
-"preferred_label": "Pit",
+"preferred_label": "Bow",
+"confidence": 0.1041,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"preferred_label": "Money",
+"confidence": 0.1041,
+"match_method": "canonical"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"preferred_label": "Spear",
 "confidence": 0.1041,
 "match_method": "canonical"
 },
@@ -483,9 +483,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Kor",
+"id": "realia:Pit",
 "type": "realia",
-"preferred_label": "Kor",
+"preferred_label": "Pit",
 "confidence": 0.1041,
 "match_method": "canonical"
 }

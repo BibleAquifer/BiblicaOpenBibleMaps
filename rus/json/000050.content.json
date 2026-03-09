@@ -42,6 +42,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Favor",
+"type": "keyterm",
+"preferred_label": "Favor",
+"confidence": 0.3391,
+"match_method": "canonical"
+},
+{
 "id": "person:Jesus.2",
 "type": "person",
 "preferred_label": "Иисус",
@@ -56,23 +63,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Favor",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.3391,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "Hope",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -84,16 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:AskFor",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
-"confidence": 0.2793,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
+"preferred_label": "Ask for",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -101,6 +87,20 @@
 "id": "keyterm:Faithfulness",
 "type": "keyterm",
 "preferred_label": "Faithfulness",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"preferred_label": "Hope",
+"confidence": 0.2793,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
 "confidence": 0.2793,
 "match_method": "canonical"
 },
@@ -119,6 +119,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"preferred_label": "Blaspheme",
+"confidence": 0.2196,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -126,9 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Encourage",
 "type": "keyterm",
-"preferred_label": "Authority",
+"preferred_label": "Encourage",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -147,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Blaspheme",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "Blaspheme",
-"confidence": 0.2196,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"preferred_label": "Encourage",
+"preferred_label": "Authority",
 "confidence": 0.2196,
 "match_method": "canonical"
 },
@@ -168,23 +168,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Clean",
+"type": "keyterm",
+"preferred_label": "Clean",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
 "id": "person:CretanProphet",
 "type": "person",
 "preferred_label": "Cretan Prophet",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worthless",
-"type": "keyterm",
-"preferred_label": "Worthless",
-"confidence": 0.1641,
-"match_method": "canonical"
-},
-{
-"id": "person:Zenas",
-"type": "person",
-"preferred_label": "Зина",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
@@ -203,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Clean",
+"id": "keyterm:Gentle",
 "type": "keyterm",
-"preferred_label": "Clean",
+"preferred_label": "Gentle",
+"confidence": 0.1641,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worthless",
+"type": "keyterm",
+"preferred_label": "Worthless",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
@@ -217,23 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Gentle",
-"type": "keyterm",
-"preferred_label": "Gentle",
+"id": "person:Zenas",
+"type": "person",
+"preferred_label": "Зина",
 "confidence": 0.1641,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "Make Peace",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:HavingLoveForOnesHusband",
-"type": "keyterm",
-"preferred_label": "Having Love for One's Husband",
+"preferred_label": "Circumcision",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -245,37 +238,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
+"id": "person:Tychicus",
+"type": "person",
+"preferred_label": "Тихик",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Святой Дух",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:True",
-"type": "keyterm",
-"preferred_label": "True",
+"preferred_label": "Decided",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -294,107 +266,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BeyondReproach",
-"type": "keyterm",
-"preferred_label": "Beyond Reproach",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:SelfCondemned",
-"type": "keyterm",
-"preferred_label": "Self-Condemned",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "Mercy",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"preferred_label": "Happy",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Conscience",
-"type": "keyterm",
-"preferred_label": "Conscience",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Unfaithful",
-"type": "keyterm",
-"preferred_label": "Be Unfaithful",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Worldly",
-"type": "keyterm",
-"preferred_label": "Worldly",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Paul",
-"type": "person",
-"preferred_label": "Павел",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lawless",
-"type": "keyterm",
-"preferred_label": "Lawless",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Pure",
 "type": "keyterm",
 "preferred_label": "Pure",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"preferred_label": "Love",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:LikingWhatIsGood",
-"type": "keyterm",
-"preferred_label": "Liking What Is Good",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -406,30 +280,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Chosen",
+"id": "keyterm:Peace",
 "type": "keyterm",
-"preferred_label": "Chosen",
+"preferred_label": "Make Peace",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "person:Apollos",
-"type": "person",
-"preferred_label": "Аполлос",
-"confidence": 0.1598,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -441,6 +301,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:LikingWhatIsGood",
+"type": "keyterm",
+"preferred_label": "Liking What Is Good",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Defilement",
 "type": "keyterm",
 "preferred_label": "Defilement",
@@ -448,16 +315,51 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Circumcision",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Circumcision",
+"preferred_label": "Glory",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
 {
-"id": "person:Tychicus",
-"type": "person",
-"preferred_label": "Тихик",
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"preferred_label": "Lawless",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"preferred_label": "Conscience",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"preferred_label": "Be Unfaithful",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:SelfCondemned",
+"type": "keyterm",
+"preferred_label": "Self-Condemned",
 "confidence": 0.1598,
 "match_method": "canonical"
 },
@@ -469,9 +371,107 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"preferred_label": "Proclaim",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"preferred_label": "True",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Serve.2",
 "type": "keyterm",
 "preferred_label": "Be Enslaved",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Worldly",
+"type": "keyterm",
+"preferred_label": "Worldly",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"preferred_label": "Love",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Apollos",
+"type": "person",
+"preferred_label": "Аполлос",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BeyondReproach",
+"type": "keyterm",
+"preferred_label": "Beyond Reproach",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "Chosen",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"preferred_label": "Павел",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"preferred_label": "Bear Witness",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HavingLoveForOnesHusband",
+"type": "keyterm",
+"preferred_label": "Having Love for One's Husband",
+"confidence": 0.1598,
+"match_method": "canonical"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
 "confidence": 0.1598,
 "match_method": "canonical"
 },

@@ -35,9 +35,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
+"id": "person:Korah.3",
+"type": "person",
+"preferred_label": "Korah",
 "confidence": 0.2143,
 "match_method": "canonical"
 },
@@ -49,37 +49,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tyre",
-"type": "place",
-"preferred_label": "Tyre",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "Love",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "person:Korah.3",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 0.2143,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Psalm",
-"type": "keyterm",
-"preferred_label": "Psalm",
 "confidence": 0.2143,
 "match_method": "canonical"
 },
@@ -91,9 +63,37 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"preferred_label": "Psalm",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
 "id": "place:Cush.2",
 "type": "place",
 "preferred_label": "Cush",
+"confidence": 0.2143,
+"match_method": "canonical"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"preferred_label": "Tyre",
 "confidence": 0.2143,
 "match_method": "canonical"
 },

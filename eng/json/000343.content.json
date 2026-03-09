@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.5577,
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.5577,
 "match_method": "canonical"
 },
@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.2692,
-"match_method": "canonical"
-},
-{
 "id": "place:Beth-shan",
 "type": "place",
 "preferred_label": "Beth-shan",
@@ -70,10 +63,10 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:House",
-"type": "realia",
-"preferred_label": "House",
-"confidence": 0.2092,
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.2692,
 "match_method": "canonical"
 },
 {
@@ -84,16 +77,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abinadab.2",
-"type": "person",
-"preferred_label": "Abinadab",
-"confidence": 0.2,
+"id": "realia:House",
+"type": "realia",
+"preferred_label": "House",
+"confidence": 0.2092,
 "match_method": "canonical"
 },
 {
 "id": "place:Beth-ashtoreth",
 "type": "place",
 "preferred_label": "Beth-ashtoreth",
+"confidence": 0.2,
+"match_method": "canonical"
+},
+{
+"id": "person:Abinadab.2",
+"type": "person",
+"preferred_label": "Abinadab",
 "confidence": 0.2,
 "match_method": "canonical"
 },
@@ -105,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"preferred_label": "Uncircumcised Person",
+"confidence": 0.1846,
+"match_method": "canonical"
+},
+{
 "id": "person:Jonathan.3",
 "type": "person",
 "preferred_label": "Jonathan",
@@ -112,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Ashtoreth",
-"type": "deity",
-"preferred_label": "Ashtoreth",
+"id": "place:Jordan",
+"type": "place",
+"preferred_label": "Jordan River",
 "confidence": 0.1846,
 "match_method": "canonical"
 },
@@ -126,16 +133,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:UncircumcisedPerson",
-"type": "keyterm",
-"preferred_label": "Uncircumcised Person",
-"confidence": 0.1846,
-"match_method": "canonical"
-},
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Jordan River",
+"id": "deity:Ashtoreth",
+"type": "deity",
+"preferred_label": "Ashtoreth",
 "confidence": 0.1846,
 "match_method": "canonical"
 },

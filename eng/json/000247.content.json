@@ -126,16 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Salvation",
 "confidence": 0.3609,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Salvation",
+"preferred_label": "Sky",
 "confidence": 0.3609,
 "match_method": "canonical"
 },
@@ -196,16 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.3585,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.3585,
 "match_method": "canonical"
 },

@@ -56,23 +56,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.2409,
-"match_method": "canonical"
-},
-{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
-"confidence": 0.2409,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
 "confidence": 0.2409,
 "match_method": "canonical"
 },
@@ -84,16 +70,30 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.1809,
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2409,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.2409,
 "match_method": "canonical"
 },
 {
 "id": "realia:Standard",
 "type": "realia",
 "preferred_label": "Standard",
+"confidence": 0.1809,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
 "confidence": 0.1809,
 "match_method": "canonical"
 },
@@ -112,9 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Cush.2",
+"id": "place:EgyptSea",
 "type": "place",
-"preferred_label": "Cush",
+"preferred_label": "Sea of Egypt",
 "confidence": 0.1795,
 "match_method": "canonical"
 },
@@ -126,10 +126,66 @@
 "match_method": "canonical"
 },
 {
-"id": "place:EgyptSea",
+"id": "place:Cush.2",
 "type": "place",
-"preferred_label": "Sea of Egypt",
+"preferred_label": "Cush",
 "confidence": 0.1795,
+"match_method": "canonical"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"preferred_label": "Hamath",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"preferred_label": "Intention",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"preferred_label": "Gentiles",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Pathros",
+"type": "place",
+"preferred_label": "Pathros",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"preferred_label": "Understanding",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"preferred_label": "Trust",
+"confidence": 0.1705,
 "match_method": "canonical"
 },
 {
@@ -140,9 +196,58 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Shinar",
+"type": "place",
+"preferred_label": "Shinar",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"preferred_label": "Ammon",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Holy",
 "type": "keyterm",
 "preferred_label": "Holy",
+"confidence": 0.1705,
+"match_method": "canonical"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"preferred_label": "Tribe of Ephraim",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -161,90 +266,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Tribe of Ephraim",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"preferred_label": "Be Zealous",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "group:Ammon",
-"type": "group",
-"preferred_label": "Ammonites",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Shinar",
-"type": "place",
-"preferred_label": "Shinar",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamath",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Intention",
-"type": "keyterm",
-"preferred_label": "Intention",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Pathros",
-"type": "place",
-"preferred_label": "Pathros",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
 "id": "place:Moab",
 "type": "place",
 "preferred_label": "Moab",
@@ -252,23 +273,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"preferred_label": "Trust",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"preferred_label": "Understanding",
+"id": "group:Ammon",
+"type": "group",
+"preferred_label": "Ammonites",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -283,13 +290,6 @@
 "id": "place:Euphrates",
 "type": "place",
 "preferred_label": "Euphrates River",
-"confidence": 0.1705,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
 "confidence": 0.1705,
 "match_method": "canonical"
 },
@@ -329,23 +329,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Belt",
-"type": "realia",
-"preferred_label": "Belt",
-"confidence": 0.1105,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.1105,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Kid",
 "type": "fauna",
 "preferred_label": "Kid",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.1105,
 "match_method": "canonical"
 },
@@ -364,9 +357,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
+"id": "fauna:Goat",
 "type": "fauna",
-"preferred_label": "Sheep",
+"preferred_label": "Goat",
+"confidence": 0.1105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"preferred_label": "Belt",
 "confidence": 0.1105,
 "match_method": "canonical"
 }

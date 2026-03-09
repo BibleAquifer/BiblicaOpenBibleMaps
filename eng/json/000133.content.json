@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"preferred_label": "Love",
+"preferred_label": "To Sin",
 "confidence": 0.277,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "To Sin",
+"preferred_label": "Love",
 "confidence": 0.277,
 "match_method": "canonical"
 },
@@ -98,16 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
+"id": "keyterm:Disciple",
 "type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.218,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"preferred_label": "Be a Disciple",
 "confidence": 0.218,
 "match_method": "canonical"
 },
@@ -119,23 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Believe",
-"type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.218,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.218,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Disciple",
-"type": "keyterm",
-"preferred_label": "Be a Disciple",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.218,
 "match_method": "canonical"
 },
@@ -147,8 +126,29 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Myrrh",
-"type": "realia",
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.218,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"preferred_label": "Believe",
+"confidence": 0.218,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.218,
+"match_method": "canonical"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
 "preferred_label": "Myrrh",
 "confidence": 0.217,
 "match_method": "canonical"
@@ -161,23 +161,23 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Myrrh",
-"type": "flora",
+"id": "realia:Myrrh",
+"type": "realia",
 "preferred_label": "Myrrh",
 "confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "place:Nain",
-"type": "place",
-"preferred_label": "Nain",
-"confidence": 0.163,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Owe",
 "type": "keyterm",
 "preferred_label": "Owe",
+"confidence": 0.163,
+"match_method": "canonical"
+},
+{
+"id": "place:Nain",
+"type": "place",
+"preferred_label": "Nain",
 "confidence": 0.163,
 "match_method": "canonical"
 },
@@ -189,9 +189,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Word",
+"id": "keyterm:Decided",
 "type": "keyterm",
-"preferred_label": "Word",
+"preferred_label": "Decided",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"preferred_label": "Ability",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"preferred_label": "Serve",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"preferred_label": "Good News",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"preferred_label": "Capernaum",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -210,135 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericDisciples",
-"type": "group",
-"preferred_label": "A Group of Disciples",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ability",
-"type": "keyterm",
-"preferred_label": "Ability",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Serve",
-"type": "keyterm",
-"preferred_label": "Serve",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happy",
-"type": "keyterm",
-"preferred_label": "Happy",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Affection",
-"type": "keyterm",
-"preferred_label": "Affection",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
-"type": "group",
-"preferred_label": "A Group of People",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Command",
 "type": "keyterm",
 "preferred_label": "To Command",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Cleanse.2",
-"type": "keyterm",
-"preferred_label": "To Cleanse",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:ObeyRighteousCommands",
-"type": "keyterm",
-"preferred_label": "Obey Righteous Commands",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.159,
-"match_method": "canonical"
-},
-{
-"id": "place:Capernaum",
-"type": "place",
-"preferred_label": "Capernaum",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -350,9 +252,107 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Decided",
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
 "type": "keyterm",
-"preferred_label": "Decided",
+"preferred_label": "Kingdom",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"preferred_label": "Happy",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:ObeyRighteousCommands",
+"type": "keyterm",
+"preferred_label": "Obey Righteous Commands",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"preferred_label": "Word",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"preferred_label": "Affection",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"preferred_label": "To Cleanse",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"preferred_label": "A Group of Disciples",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
+"confidence": 0.159,
+"match_method": "canonical"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"preferred_label": "Demons",
 "confidence": 0.159,
 "match_method": "canonical"
 },
@@ -361,27 +361,6 @@
 "type": "realia",
 "preferred_label": "Alabaster Jar",
 "confidence": 0.103,
-"match_method": "canonical"
-},
-{
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 0.099,
-"match_method": "canonical"
-},
-{
-"id": "realia:Denarius",
-"type": "realia",
-"preferred_label": "Denarius",
-"confidence": 0.099,
-"match_method": "canonical"
-},
-{
-"id": "realia:Clothing",
-"type": "realia",
-"preferred_label": "Clothing",
-"confidence": 0.099,
 "match_method": "canonical"
 },
 {
@@ -399,9 +378,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bier",
+"id": "realia:Flute",
 "type": "realia",
-"preferred_label": "Bier",
+"preferred_label": "Flute",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"preferred_label": "Clothing",
 "confidence": 0.099,
 "match_method": "canonical"
 },
@@ -413,6 +399,20 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
+"id": "realia:Denarius",
+"type": "realia",
+"preferred_label": "Denarius",
+"confidence": 0.099,
+"match_method": "canonical"
+},
+{
 "id": "flora:Reed",
 "type": "flora",
 "preferred_label": "Reed",
@@ -420,16 +420,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Flute",
+"id": "realia:Synagogue",
 "type": "realia",
-"preferred_label": "Flute",
+"preferred_label": "Synagogue",
 "confidence": 0.099,
 "match_method": "canonical"
 },
 {
-"id": "realia:Synagogue",
+"id": "realia:Bier",
 "type": "realia",
-"preferred_label": "Synagogue",
+"preferred_label": "Bier",
 "confidence": 0.099,
 "match_method": "canonical"
 }

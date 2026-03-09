@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2138,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
 "preferred_label": "Passion",
@@ -91,9 +84,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Ezekiel",
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2138,
+"match_method": "canonical"
+},
+{
+"id": "person:Buzi",
 "type": "person",
-"preferred_label": "Ezekiel",
+"preferred_label": "Buzi",
+"confidence": 0.16,
+"match_method": "canonical"
+},
+{
+"id": "place:Tel-abib",
+"type": "place",
+"preferred_label": "Tel-abib",
 "confidence": 0.16,
 "match_method": "canonical"
 },
@@ -112,31 +119,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tel-abib",
-"type": "place",
-"preferred_label": "Tel-abib",
-"confidence": 0.16,
-"match_method": "canonical"
-},
-{
-"id": "person:Buzi",
+"id": "person:Ezekiel",
 "type": "person",
-"preferred_label": "Buzi",
+"preferred_label": "Ezekiel",
 "confidence": 0.16,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Lamentation",
-"type": "keyterm",
-"preferred_label": "Lamentation",
-"confidence": 0.1569,
-"match_method": "canonical"
-},
-{
-"id": "group:Chaldea",
-"type": "group",
-"preferred_label": "Chaldeans",
-"confidence": 0.1569,
 "match_method": "canonical"
 },
 {
@@ -150,6 +136,20 @@
 "id": "keyterm:Bless",
 "type": "keyterm",
 "preferred_label": "Bless",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"preferred_label": "Chaldeans",
+"confidence": 0.1569,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"preferred_label": "Lamentation",
 "confidence": 0.1569,
 "match_method": "canonical"
 },
@@ -189,6 +189,20 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:Scorpion",
+"type": "fauna",
+"preferred_label": "Scorpion",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"preferred_label": "Brier",
+"confidence": 0.0969,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Lion",
 "type": "fauna",
 "preferred_label": "Lion",
@@ -203,23 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Brier",
-"type": "flora",
-"preferred_label": "Brier",
-"confidence": 0.0969,
-"match_method": "canonical"
-},
-{
 "id": "realia:House",
 "type": "realia",
 "preferred_label": "House",
-"confidence": 0.0969,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Scorpion",
-"type": "fauna",
-"preferred_label": "Scorpion",
 "confidence": 0.0969,
 "match_method": "canonical"
 },

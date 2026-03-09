@@ -153,16 +153,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Temple Altar",
-"confidence": 0.3262,
-"match_method": "canonical"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"preferred_label": "Tabernacle Altar",
+"preferred_label": "Altar",
 "confidence": 0.3262,
 "match_method": "canonical"
 },
@@ -174,9 +167,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:TabernacleAltar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Tabernacle Altar",
 "confidence": 0.3262,
 "match_method": "canonical"
 },
@@ -188,17 +181,17 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:TempleAltar",
+"type": "realia",
+"preferred_label": "Temple Altar",
+"confidence": 0.3262,
+"match_method": "canonical"
+},
+{
 "id": "person:Jeremiah.6",
 "type": "person",
 "preferred_label": "Jeremiah",
 "confidence": 0.323,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Bethel",
-"confidence": 0.3207,
 "match_method": "canonical"
 },
 {
@@ -209,16 +202,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Work",
-"type": "keyterm",
-"preferred_label": "Work",
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
 "confidence": 0.3207,
 "match_method": "canonical"
 },
 {
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
+"id": "place:Bethel",
+"type": "place",
+"preferred_label": "Bethel",
+"confidence": 0.3207,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"preferred_label": "Work",
 "confidence": 0.3207,
 "match_method": "canonical"
 },

@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "keyterm:Exempt",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
+"preferred_label": "Exempt",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Exempt",
+"id": "keyterm:Love",
 "type": "keyterm",
-"preferred_label": "Exempt",
+"preferred_label": "Love",
 "confidence": 0.23,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Love",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Love",
+"preferred_label": "Word of the Lord",
 "confidence": 0.23,
 "match_method": "canonical"
 },
@@ -123,6 +123,62 @@
 "type": "keyterm",
 "preferred_label": "Alas!",
 "confidence": 0.1717,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Intention",
+"type": "keyterm",
+"preferred_label": "Intention",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:KindlyDisposed",
+"type": "keyterm",
+"preferred_label": "To Be Kindly Disposed",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:NeboMount",
+"type": "place",
+"preferred_label": "Mount Nebo",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"preferred_label": "Majesty",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"preferred_label": "Smear",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.165,
 "match_method": "canonical"
 },
 {
@@ -147,6 +203,27 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Gilead",
+"type": "place",
+"preferred_label": "Gilead",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"preferred_label": "Chaldea",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"preferred_label": "Bashan",
+"confidence": 0.165,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Swear",
 "type": "keyterm",
 "preferred_label": "Swear",
@@ -161,83 +238,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Majesty",
-"type": "keyterm",
-"preferred_label": "Majesty",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:KindlyDisposed",
-"type": "keyterm",
-"preferred_label": "To Be Kindly Disposed",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Bashan",
-"type": "place",
-"preferred_label": "Bashan",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Intention",
-"type": "keyterm",
-"preferred_label": "Intention",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Smear",
-"type": "keyterm",
-"preferred_label": "Smear",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:NeboMount",
-"type": "place",
-"preferred_label": "Mount Nebo",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
-"id": "place:Chaldea",
-"type": "place",
-"preferred_label": "Chaldea",
-"confidence": 0.165,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
@@ -245,30 +245,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Window",
-"type": "realia",
-"preferred_label": "Window",
-"confidence": 0.105,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 0.105,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.105,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "realia:Window",
+"type": "realia",
+"preferred_label": "Window",
 "confidence": 0.105,
 "match_method": "canonical"
 },
@@ -283,6 +269,20 @@
 "id": "fauna:Horse",
 "type": "fauna",
 "preferred_label": "Horse",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"preferred_label": "Donkey",
 "confidence": 0.105,
 "match_method": "canonical"
 }

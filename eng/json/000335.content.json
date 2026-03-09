@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
+"id": "realia:Sword",
+"type": "realia",
+"preferred_label": "Sword",
 "confidence": 0.3288,
 "match_method": "canonical"
 },
 {
-"id": "realia:Sword",
-"type": "realia",
-"preferred_label": "Sword",
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
 "confidence": 0.3288,
 "match_method": "canonical"
 },
@@ -95,6 +95,13 @@
 "type": "place",
 "preferred_label": "Gath",
 "confidence": 0.2767,
+"match_method": "canonical"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"preferred_label": "Bethlehem",
+"confidence": 0.2733,
 "match_method": "canonical"
 },
 {
@@ -108,13 +115,6 @@
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehem",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Sling",
-"type": "realia",
-"preferred_label": "Sling",
-"confidence": 0.2167,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Bear",
 "type": "fauna",
 "preferred_label": "Bear",
@@ -161,23 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.2155,
+"id": "realia:Sling",
+"type": "realia",
+"preferred_label": "Sling",
+"confidence": 0.2167,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:UncircumcisedPerson",
 "type": "keyterm",
 "preferred_label": "Uncircumcised Person",
-"confidence": 0.2155,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
 "confidence": 0.2155,
 "match_method": "canonical"
 },
@@ -189,16 +175,30 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
-"confidence": 0.2133,
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.2155,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
+"confidence": 0.2133,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"preferred_label": "Lion",
 "confidence": 0.2133,
 "match_method": "canonical"
 },
@@ -210,6 +210,13 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Ephrathah",
+"type": "person",
+"preferred_label": "Ephrathah",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
 "id": "group:Ephrathah",
 "type": "group",
 "preferred_label": "Ephrathites",
@@ -217,16 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Socoh",
+"id": "place:Ephes-dammim",
 "type": "place",
-"preferred_label": "Socoh",
-"confidence": 0.1612,
-"match_method": "canonical"
-},
-{
-"id": "person:Ephrathah",
-"type": "person",
-"preferred_label": "Ephrathah",
+"preferred_label": "Ephes-dammim",
 "confidence": 0.1612,
 "match_method": "canonical"
 }

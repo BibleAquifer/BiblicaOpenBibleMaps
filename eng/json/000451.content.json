@@ -98,13 +98,6 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.3105,
-"match_method": "canonical"
-},
-{
 "id": "fauna:Goat",
 "type": "fauna",
 "preferred_label": "Goat",
@@ -119,16 +112,23 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Flock",
+"id": "fauna:Horse",
 "type": "fauna",
-"preferred_label": "Flock",
+"preferred_label": "Horse",
 "confidence": 0.3105,
 "match_method": "canonical"
 },
 {
-"id": "fauna:Horse",
+"id": "fauna:Lamb",
 "type": "fauna",
-"preferred_label": "Horse",
+"preferred_label": "Sheep",
+"confidence": 0.3105,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"preferred_label": "Flock",
 "confidence": 0.3105,
 "match_method": "canonical"
 },
@@ -168,6 +168,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Visitation",
+"type": "keyterm",
+"preferred_label": "Visitation",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
 "id": "group:Mede",
 "type": "group",
 "preferred_label": "Medes",
@@ -178,6 +185,20 @@
 "id": "place:Assyria",
 "type": "place",
 "preferred_label": "Assyria",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"preferred_label": "Nebuchadnezzar",
+"confidence": 0.2082,
+"match_method": "canonical"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"preferred_label": "Medan",
 "confidence": 0.2082,
 "match_method": "canonical"
 },
@@ -196,27 +217,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Visitation",
-"type": "keyterm",
-"preferred_label": "Visitation",
-"confidence": 0.2082,
-"match_method": "canonical"
-},
-{
-"id": "person:Medan",
-"type": "person",
-"preferred_label": "Medan",
-"confidence": 0.2082,
-"match_method": "canonical"
-},
-{
-"id": "person:Nebuchadnezzar",
-"type": "person",
-"preferred_label": "Nebuchadnezzar",
-"confidence": 0.2082,
-"match_method": "canonical"
-},
-{
 "id": "realia:Standard",
 "type": "realia",
 "preferred_label": "Standard",
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lion",
-"type": "fauna",
-"preferred_label": "Lion",
+"id": "realia:Arrow",
+"type": "realia",
+"preferred_label": "Arrow",
 "confidence": 0.2023,
 "match_method": "canonical"
 }

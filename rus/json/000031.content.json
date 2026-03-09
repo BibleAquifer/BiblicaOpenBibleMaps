@@ -56,13 +56,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Святой Дух",
-"confidence": 0.3346,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Sabbath",
 "type": "keyterm",
 "preferred_label": "Sabbath",
@@ -77,10 +70,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:David",
-"type": "person",
-"preferred_label": "Давид",
-"confidence": 0.276,
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Святой Дух",
+"confidence": 0.3346,
 "match_method": "canonical"
 },
 {
@@ -98,10 +91,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Paphos",
-"type": "place",
-"preferred_label": "Паф",
-"confidence": 0.225,
+"id": "person:David",
+"type": "person",
+"preferred_label": "Давид",
+"confidence": 0.276,
 "match_method": "canonical"
 },
 {
@@ -109,6 +102,20 @@
 "type": "person",
 "preferred_label": "Вариисус",
 "confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"preferred_label": "Паф",
+"confidence": 0.225,
+"match_method": "canonical"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"preferred_label": "Пергия",
+"confidence": 0.2212,
 "match_method": "canonical"
 },
 {
@@ -126,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Perga",
-"type": "place",
-"preferred_label": "Пергия",
-"confidence": 0.2212,
-"match_method": "canonical"
-},
-{
 "id": "realia:Synagogue",
 "type": "realia",
 "preferred_label": "Synagogue",
@@ -140,44 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"preferred_label": "Ask for",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"preferred_label": "Иисус",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Promise",
 "type": "keyterm",
 "preferred_label": "Promise",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Decided",
-"type": "keyterm",
-"preferred_label": "Decided",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Mark",
-"type": "person",
-"preferred_label": "Марк",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -189,9 +154,58 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Jesus.2",
+"type": "person",
+"preferred_label": "Иисус",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "person:John",
 "type": "person",
 "preferred_label": "Иоанн",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"preferred_label": "Life",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"preferred_label": "Decided",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -210,23 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Life",
-"type": "keyterm",
-"preferred_label": "Life",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "Law",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
+"id": "person:Mark",
+"type": "person",
+"preferred_label": "Марк",
 "confidence": 0.2173,
 "match_method": "canonical"
 }

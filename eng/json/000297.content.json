@@ -77,16 +77,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "keyterm:Bless",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
+"preferred_label": "Bless",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Bless",
+"id": "keyterm:WordOfTheLord",
 "type": "keyterm",
-"preferred_label": "Bless",
+"preferred_label": "Word of the Lord",
 "confidence": 0.2257,
 "match_method": "canonical"
 },
@@ -102,6 +102,13 @@
 "type": "place",
 "preferred_label": "Mount Gerizim",
 "confidence": 0.1686,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1657,
 "match_method": "canonical"
 },
 {
@@ -140,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.1657,
-"match_method": "canonical"
-},
-{
 "id": "place:Arabah",
 "type": "place",
 "preferred_label": "Arabah",
@@ -161,48 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Tribe of Levi",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"preferred_label": "Complete",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "place:Jericho",
-"type": "place",
-"preferred_label": "Jericho",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
-"confidence": 0.1629,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Dispossess",
 "type": "keyterm",
 "preferred_label": "Dispossess",
@@ -210,9 +168,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CovenantBox",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Covenant Box",
+"preferred_label": "Offering",
 "confidence": 0.1629,
 "match_method": "canonical"
 },
@@ -224,16 +182,58 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:ArkOfTheCovenant",
-"type": "realia",
-"preferred_label": "Ark of the Covenant",
-"confidence": 0.1029,
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"preferred_label": "Jericho",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"preferred_label": "Complete",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"preferred_label": "Tribe of Levi",
+"confidence": 0.1629,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.1629,
 "match_method": "canonical"
 },
 {
 "id": "realia:Sword",
 "type": "realia",
 "preferred_label": "Sword",
+"confidence": 0.1029,
+"match_method": "canonical"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"preferred_label": "Ark of the Covenant",
 "confidence": 0.1029,
 "match_method": "canonical"
 }

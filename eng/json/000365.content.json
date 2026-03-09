@@ -105,13 +105,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joab",
-"type": "person",
-"preferred_label": "Joab",
-"confidence": 0.2755,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Smear",
 "type": "keyterm",
 "preferred_label": "Smear",
@@ -122,6 +115,13 @@
 "id": "place:Gihon",
 "type": "place",
 "preferred_label": "Gihon",
+"confidence": 0.2755,
+"match_method": "canonical"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"preferred_label": "Joab",
 "confidence": 0.2755,
 "match_method": "canonical"
 },
@@ -161,30 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Pelethites",
-"type": "group",
-"preferred_label": "Pelethites",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
 "id": "group:Judah",
 "type": "group",
 "preferred_label": "Tribe of Judah",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 0.217,
-"match_method": "canonical"
-},
-{
-"id": "group:Cherethite",
-"type": "group",
-"preferred_label": "Cherethites",
 "confidence": 0.217,
 "match_method": "canonical"
 },
@@ -200,6 +179,34 @@
 "type": "keyterm",
 "preferred_label": "Fear",
 "confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"preferred_label": "Judah",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "group:Pelethites",
+"type": "group",
+"preferred_label": "Pelethites",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"preferred_label": "Cherethites",
+"confidence": 0.217,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.2155,
 "match_method": "canonical"
 },
 {
@@ -220,13 +227,6 @@
 "id": "realia:TempleAltar",
 "type": "realia",
 "preferred_label": "Temple Altar",
-"confidence": 0.2155,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
 "confidence": 0.2155,
 "match_method": "canonical"
 }

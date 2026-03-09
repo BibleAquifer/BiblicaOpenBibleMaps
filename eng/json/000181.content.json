@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Always",
+"preferred_label": "Glory",
 "confidence": 0.3643,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Always",
 "confidence": 0.3643,
 "match_method": "canonical"
 },
@@ -161,16 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Body.3",
+"id": "keyterm:Example",
 "type": "keyterm",
-"preferred_label": "Body",
+"preferred_label": "Symbol",
 "confidence": 0.3589,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Example",
+"id": "keyterm:Body.3",
 "type": "keyterm",
-"preferred_label": "Symbol",
+"preferred_label": "Body",
 "confidence": 0.3589,
 "match_method": "canonical"
 },

@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.4043,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.4043,
 "match_method": "canonical"
 },
@@ -77,16 +77,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Benjamin",
+"id": "group:Judah",
 "type": "group",
-"preferred_label": "Tribe of Benjamin",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.331,
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
+"id": "place:Damascus",
+"type": "place",
+"preferred_label": "Damascus",
+"confidence": 0.331,
+"match_method": "canonical"
+},
+{
+"id": "group:Benjamin",
 "type": "group",
-"preferred_label": "Tribe of Judah",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.331,
 "match_method": "canonical"
 },
@@ -105,93 +112,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "Damascus",
-"confidence": 0.331,
-"match_method": "canonical"
-},
-{
-"id": "group:Asher",
-"type": "group",
-"preferred_label": "Tribe of Asher",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "group:Issachar",
-"type": "group",
-"preferred_label": "Tribe of Issachar",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "person:Naphtali",
-"type": "person",
-"preferred_label": "Naphtali",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "person:Zebulun",
-"type": "person",
-"preferred_label": "Zebulun",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
 "id": "group:Reuben",
 "type": "group",
 "preferred_label": "Tribe of Reuben",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "person:Issachar",
-"type": "person",
-"preferred_label": "Issachar",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "group:Simeon",
-"type": "group",
-"preferred_label": "Tribe of Simeon",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "person:Simeon.5",
-"type": "person",
-"preferred_label": "Simeon",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "group:Zebulun",
-"type": "group",
-"preferred_label": "Tribe of Zebulun",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
-"id": "person:Gad",
-"type": "person",
-"preferred_label": "Gad",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -203,9 +126,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Reuben",
+"id": "person:Gad",
 "type": "person",
-"preferred_label": "Reuben",
+"preferred_label": "Gad",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "group:Simeon",
+"type": "group",
+"preferred_label": "Tribe of Simeon",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -213,6 +143,76 @@
 "id": "person:Asher",
 "type": "person",
 "preferred_label": "Asher",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "group:Asher",
+"type": "group",
+"preferred_label": "Tribe of Asher",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"preferred_label": "Simeon",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"preferred_label": "Tribe of Issachar",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"preferred_label": "Tribe of Zebulun",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"preferred_label": "Reuben",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"preferred_label": "Zebulun",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"preferred_label": "Naphtali",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"preferred_label": "Tribe of Dan",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"preferred_label": "Issachar",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"preferred_label": "Dan",
 "confidence": 0.2733,
 "match_method": "canonical"
 },

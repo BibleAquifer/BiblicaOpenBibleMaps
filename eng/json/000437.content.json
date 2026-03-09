@@ -35,13 +35,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.2865,
-"match_method": "canonical"
-},
-{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
@@ -56,23 +49,16 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
+"confidence": 0.2865,
+"match_method": "canonical"
+},
+{
 "id": "place:Assyria",
 "type": "place",
 "preferred_label": "Assyria",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.2243,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
 "confidence": 0.2243,
 "match_method": "canonical"
 },
@@ -84,6 +70,20 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"preferred_label": "Rebel",
+"confidence": 0.2243,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Lion",
 "type": "fauna",
 "preferred_label": "Lion",
@@ -91,44 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Tahpanhes",
+"id": "place:Nile",
 "type": "place",
-"preferred_label": "Tahpanhes",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"preferred_label": "Perceive",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"preferred_label": "Be Blameless",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Speak",
-"type": "keyterm",
-"preferred_label": "Speak as a Prophet",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "person:Kedar",
-"type": "person",
-"preferred_label": "Kedar",
+"preferred_label": "Nile River",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -140,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"preferred_label": "Kindness",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
 "id": "place:Memphis",
 "type": "place",
 "preferred_label": "Memphis",
@@ -147,9 +119,72 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"preferred_label": "Glory",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"preferred_label": "Passion",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defection",
+"type": "keyterm",
+"preferred_label": "Defection",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"preferred_label": "Cyprus",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"preferred_label": "Truth",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
 "id": "person:Judah.4",
 "type": "person",
 "preferred_label": "Judah",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"preferred_label": "Exempt",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"preferred_label": "Perceive",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -168,58 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Truth",
-"type": "keyterm",
-"preferred_label": "Truth",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Exempt",
-"type": "keyterm",
-"preferred_label": "Exempt",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Nile",
-"type": "place",
-"preferred_label": "Nile River",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Cyprus",
-"type": "place",
-"preferred_label": "Cyprus",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.1622,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Defection",
-"type": "keyterm",
-"preferred_label": "Defection",
+"id": "person:Kedar",
+"type": "person",
+"preferred_label": "Kedar",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -231,9 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
+"id": "place:Tahpanhes",
+"type": "place",
+"preferred_label": "Tahpanhes",
 "confidence": 0.1622,
 "match_method": "canonical"
 },
@@ -245,10 +231,17 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:WildDonkey",
-"type": "fauna",
-"preferred_label": "Wild Donkey",
-"confidence": 0.1076,
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"preferred_label": "Be Blameless",
+"confidence": 0.1622,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"preferred_label": "Speak as a Prophet",
+"confidence": 0.1622,
 "match_method": "canonical"
 },
 {
@@ -259,51 +252,23 @@
 "match_method": "canonical"
 },
 {
+"id": "fauna:WildDonkey",
+"type": "fauna",
+"preferred_label": "Wild Donkey",
+"confidence": 0.1076,
+"match_method": "canonical"
+},
+{
+"id": "flora:Coriander",
+"type": "flora",
+"preferred_label": "Coriander",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Flock",
 "type": "fauna",
 "preferred_label": "Flock",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "flora:Barley",
-"type": "flora",
-"preferred_label": "Barley",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "flora:Soap",
-"type": "flora",
-"preferred_label": "Hammada",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "realia:Image",
-"type": "realia",
-"preferred_label": "Image",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Camel",
-"type": "fauna",
-"preferred_label": "Camel",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -315,6 +280,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:Image",
+"type": "realia",
+"preferred_label": "Image",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
 "id": "fauna:Lamb",
 "type": "fauna",
 "preferred_label": "Sheep",
@@ -322,16 +294,9 @@
 "match_method": "canonical"
 },
 {
-"id": "flora:Coriander",
+"id": "flora:Barley",
 "type": "flora",
-"preferred_label": "Coriander",
-"confidence": 0.1022,
-"match_method": "canonical"
-},
-{
-"id": "realia:Pit",
-"type": "realia",
-"preferred_label": "Pit",
+"preferred_label": "Barley",
 "confidence": 0.1022,
 "match_method": "canonical"
 },
@@ -350,9 +315,44 @@
 "match_method": "canonical"
 },
 {
+"id": "flora:Vine",
+"type": "flora",
+"preferred_label": "Vine",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"preferred_label": "Goat",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "flora:Soap",
+"type": "flora",
+"preferred_label": "Hammada",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"preferred_label": "Camel",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
 "id": "flora:Wheat",
 "type": "flora",
 "preferred_label": "Wheat",
+"confidence": 0.1022,
+"match_method": "canonical"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"preferred_label": "Pit",
 "confidence": 0.1022,
 "match_method": "canonical"
 }

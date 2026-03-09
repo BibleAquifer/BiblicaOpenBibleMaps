@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Curse",
-"type": "keyterm",
-"preferred_label": "To Curse",
+"id": "place:Moab",
+"type": "place",
+"preferred_label": "Moab",
 "confidence": 0.4062,
 "match_method": "canonical"
 },
 {
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moab",
+"id": "keyterm:Curse",
+"type": "keyterm",
+"preferred_label": "To Curse",
 "confidence": 0.4062,
 "match_method": "canonical"
 },
@@ -105,6 +105,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.3187,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Offering",
 "type": "keyterm",
 "preferred_label": "Offering",
@@ -119,10 +126,17 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:BringHonorAndGloryOnOneself",
-"type": "keyterm",
-"preferred_label": "Bring Honor and Glory on Oneself",
-"confidence": 0.3187,
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.3181,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.3181,
 "match_method": "canonical"
 },
 {
@@ -140,23 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.3181,
-"match_method": "canonical"
-},
-{
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
-"confidence": 0.3181,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
 "confidence": 0.3181,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:FeeForDivination",
-"type": "keyterm",
-"preferred_label": "Fee for Divination",
+"id": "place:Assyria",
+"type": "place",
+"preferred_label": "Assyria",
 "confidence": 0.2094,
 "match_method": "canonical"
 },
 {
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
+"id": "keyterm:FeeForDivination",
+"type": "keyterm",
+"preferred_label": "Fee for Divination",
 "confidence": 0.2094,
 "match_method": "canonical"
 },
@@ -203,16 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Kain",
+"id": "place:Pisgah",
 "type": "place",
-"preferred_label": "Kain",
+"preferred_label": "Pisgah",
 "confidence": 0.1568,
 "match_method": "canonical"
 },
 {
-"id": "place:Zophim",
+"id": "place:Kain",
 "type": "place",
-"preferred_label": "Zophim",
+"preferred_label": "Kain",
 "confidence": 0.1568,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Bamoth-baal",
+"id": "place:Zophim",
 "type": "place",
-"preferred_label": "Bamoth-baal",
+"preferred_label": "Zophim",
 "confidence": 0.1568,
 "match_method": "canonical"
 }

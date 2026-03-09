@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ethiopia",
-"type": "place",
-"preferred_label": "Ethiopia",
+"id": "group:Ethiopia",
+"type": "group",
+"preferred_label": "Ethiopians",
 "confidence": 0.3464,
 "match_method": "canonical"
 },
 {
-"id": "group:Ethiopia",
-"type": "group",
-"preferred_label": "Ethiopians",
+"id": "place:Ethiopia",
+"type": "place",
+"preferred_label": "Ethiopia",
 "confidence": 0.3464,
 "match_method": "canonical"
 },
@@ -77,13 +77,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
-"confidence": 0.2043,
-"match_method": "canonical"
-},
-{
 "id": "flora:Pine",
 "type": "flora",
 "preferred_label": "Stone Pine",
@@ -91,10 +84,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:ZephathahValley",
-"type": "place",
-"preferred_label": "Valley of Zephathah",
-"confidence": 0.1964,
+"id": "realia:HighPlace",
+"type": "realia",
+"preferred_label": "High Place",
+"confidence": 0.2043,
 "match_method": "canonical"
 },
 {
@@ -105,23 +98,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Strength",
-"type": "keyterm",
-"preferred_label": "Strength",
-"confidence": 0.1821,
+"id": "place:ZephathahValley",
+"type": "place",
+"preferred_label": "Valley of Zephathah",
+"confidence": 0.1964,
 "match_method": "canonical"
 },
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Tribe of Benjamin",
-"confidence": 0.1821,
-"match_method": "canonical"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
+"id": "deity:Asherah",
+"type": "deity",
+"preferred_label": "Asherah",
 "confidence": 0.1821,
 "match_method": "canonical"
 },
@@ -133,9 +119,9 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Asherah",
-"type": "deity",
-"preferred_label": "Asherah",
+"id": "group:Benjamin",
+"type": "group",
+"preferred_label": "Tribe of Benjamin",
 "confidence": 0.1821,
 "match_method": "canonical"
 },
@@ -147,6 +133,20 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Benjamin",
+"type": "person",
+"preferred_label": "Benjamin",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"preferred_label": "Strength",
+"confidence": 0.1821,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Instruction",
 "type": "keyterm",
 "preferred_label": "Instruction",
@@ -154,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:SacredPillar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Sacred Pillar",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Altar",
 "confidence": 0.1221,
 "match_method": "canonical"
 },
@@ -175,9 +168,44 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:SmallShield",
+"type": "realia",
+"preferred_label": "Small Shield",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
 "id": "realia:Fortification",
 "type": "realia",
 "preferred_label": "Fortification",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"preferred_label": "Chariot",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"preferred_label": "Bow",
+"confidence": 0.1221,
+"match_method": "canonical"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"preferred_label": "Tower",
 "confidence": 0.1221,
 "match_method": "canonical"
 },
@@ -203,20 +231,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:SmallShield",
-"type": "realia",
-"preferred_label": "Small Shield",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:Tower",
-"type": "realia",
-"preferred_label": "Tower",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
@@ -224,23 +238,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bow",
+"id": "realia:SacredPillar",
 "type": "realia",
-"preferred_label": "Bow",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:Chariot",
-"type": "realia",
-"preferred_label": "Chariot",
-"confidence": 0.1221,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Sacred Pillar",
 "confidence": 0.1221,
 "match_method": "canonical"
 }

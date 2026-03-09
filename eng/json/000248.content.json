@@ -35,16 +35,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
+"id": "place:Jerusalem",
+"type": "place",
+"preferred_label": "Jerusalem",
 "confidence": 0.3692,
 "match_method": "canonical"
 },
 {
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.3692,
 "match_method": "canonical"
 },
@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
-"type": "keyterm",
-"preferred_label": "Pray",
-"confidence": 0.2423,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Heaven",
 "type": "keyterm",
 "preferred_label": "Sky",
@@ -77,37 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Judas.2",
-"type": "person",
-"preferred_label": "Judas",
-"confidence": 0.2346,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
+"id": "keyterm:Pray",
 "type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.2346,
+"preferred_label": "Pray",
+"confidence": 0.2423,
 "match_method": "canonical"
 },
 {
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
-"confidence": 0.2346,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
-"confidence": 0.2346,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
 "confidence": 0.2346,
 "match_method": "canonical"
 },
@@ -119,9 +91,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Chosen",
+"id": "keyterm:Kingdom",
 "type": "keyterm",
-"preferred_label": "Chosen",
+"preferred_label": "Kingdom",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.2346,
+"match_method": "canonical"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
 "confidence": 0.2346,
 "match_method": "canonical"
 },
@@ -133,23 +119,30 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Andrew",
+"id": "person:Judas.2",
 "type": "person",
-"preferred_label": "Andrew",
-"confidence": 0.175,
+"preferred_label": "Judas",
+"confidence": 0.2346,
 "match_method": "canonical"
 },
 {
-"id": "person:Joseph.9",
-"type": "person",
-"preferred_label": "Joseph",
-"confidence": 0.175,
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"preferred_label": "Chosen",
+"confidence": 0.2346,
 "match_method": "canonical"
 },
 {
 "id": "person:Thomas",
 "type": "person",
 "preferred_label": "Thomas",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"preferred_label": "Mount of Olives",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -168,51 +161,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Alphaeus",
-"type": "person",
-"preferred_label": "Alphaeus",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Simon.2",
-"type": "person",
-"preferred_label": "Simon",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "person:Mary",
-"type": "person",
-"preferred_label": "Mary",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"preferred_label": "Galileans",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:Akeldama",
-"type": "place",
-"preferred_label": "Akeldama",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Promise",
 "type": "keyterm",
 "preferred_label": "Promise",
-"confidence": 0.175,
-"match_method": "canonical"
-},
-{
-"id": "place:OlivesMount",
-"type": "place",
-"preferred_label": "Mount of Olives",
 "confidence": 0.175,
 "match_method": "canonical"
 },
@@ -224,6 +175,55 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Alphaeus",
+"type": "person",
+"preferred_label": "Alphaeus",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Joseph.9",
+"type": "person",
+"preferred_label": "Joseph",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "place:Akeldama",
+"type": "place",
+"preferred_label": "Akeldama",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"preferred_label": "Mary",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"preferred_label": "Andrew",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"preferred_label": "Galileans",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
+"id": "person:Simon.2",
+"type": "person",
+"preferred_label": "Simon",
+"confidence": 0.175,
+"match_method": "canonical"
+},
+{
 "id": "place:Judea",
 "type": "place",
 "preferred_label": "Judea",
@@ -231,16 +231,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:AskFor",
+"id": "keyterm:UnjustDeed",
 "type": "keyterm",
-"preferred_label": "Ask for",
+"preferred_label": "Unjust Deed",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -252,65 +245,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:HalfAMile",
-"type": "keyterm",
-"preferred_label": "Sabbath Journey",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:KnowerOfHearts",
-"type": "keyterm",
-"preferred_label": "Knower of Hearts",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Authority.2",
-"type": "keyterm",
-"preferred_label": "Authority",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "place:Galilee",
+"id": "place:Samaria",
 "type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Scripture",
-"type": "keyterm",
-"preferred_label": "Written",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"preferred_label": "Unjust Deed",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Happen",
-"type": "keyterm",
-"preferred_label": "To Cause to Happen",
+"preferred_label": "Samaria",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -322,30 +259,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Command",
-"type": "keyterm",
-"preferred_label": "To Command",
-"confidence": 0.1673,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"preferred_label": "Name",
+"id": "person:John.2",
+"type": "person",
+"preferred_label": "John",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -357,6 +273,69 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Command",
+"type": "keyterm",
+"preferred_label": "To Command",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"preferred_label": "To Cause to Happen",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"preferred_label": "Resurrection",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"preferred_label": "Blood",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:PositionOfResponsibility",
+"type": "keyterm",
+"preferred_label": "Position of Responsibility",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"preferred_label": "Name",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"preferred_label": "Ask for",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
 "id": "person:Matthew",
 "type": "person",
 "preferred_label": "Matthew",
@@ -364,9 +343,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:John.2",
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"preferred_label": "Authority",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
 "type": "person",
-"preferred_label": "John",
+"preferred_label": "Israel",
 "confidence": 0.1673,
 "match_method": "canonical"
 },
@@ -378,9 +364,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:PositionOfResponsibility",
+"id": "keyterm:KnowerOfHearts",
 "type": "keyterm",
-"preferred_label": "Position of Responsibility",
+"preferred_label": "Knower of Hearts",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:HalfAMile",
+"type": "keyterm",
+"preferred_label": "Sabbath Journey",
+"confidence": 0.1673,
+"match_method": "canonical"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.1673,
 "match_method": "canonical"
 },

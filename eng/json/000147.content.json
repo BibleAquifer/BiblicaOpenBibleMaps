@@ -63,13 +63,6 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.2909,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Ability",
 "type": "keyterm",
 "preferred_label": "Ability",
@@ -77,9 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Authority.2",
+"id": "keyterm:Heaven",
 "type": "keyterm",
-"preferred_label": "Authority",
+"preferred_label": "Sky",
+"confidence": 0.2909,
+"match_method": "canonical"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"preferred_label": "LORD",
 "confidence": 0.2909,
 "match_method": "canonical"
 },
@@ -91,9 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
+"id": "keyterm:Authority.2",
 "type": "keyterm",
-"preferred_label": "Sky",
+"preferred_label": "Authority",
 "confidence": 0.2909,
 "match_method": "canonical"
 },
@@ -126,6 +126,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Fear",
+"type": "keyterm",
+"preferred_label": "Fear",
+"confidence": 0.2273,
+"match_method": "canonical"
+},
+{
 "id": "group:GenericGroup",
 "type": "group",
 "preferred_label": "A Group of People",
@@ -136,13 +143,6 @@
 "id": "person:John",
 "type": "person",
 "preferred_label": "John",
-"confidence": 0.2273,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"preferred_label": "Fear",
 "confidence": 0.2273,
 "match_method": "canonical"
 },
@@ -161,48 +161,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "group:ReligiousOfficials",
-"type": "group",
-"preferred_label": "Religious Officials",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Discern",
 "type": "keyterm",
 "preferred_label": "Discern",
@@ -217,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Surely",
-"type": "keyterm",
-"preferred_label": "Surely!",
-"confidence": 0.1636,
-"match_method": "canonical"
-},
-{
 "id": "group:GenericPriests",
 "type": "group",
 "preferred_label": "Priests",
@@ -231,9 +182,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Height",
+"id": "keyterm:Surely",
 "type": "keyterm",
-"preferred_label": "Height",
+"preferred_label": "Surely!",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"preferred_label": "Religious Officials",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"preferred_label": "Kingdom",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -245,9 +210,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "person:Peter",
+"type": "person",
+"preferred_label": "Peter",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "Heart",
+"preferred_label": "Always",
 "confidence": 0.1636,
 "match_method": "canonical"
 },
@@ -259,16 +231,44 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Seat",
-"type": "realia",
-"preferred_label": "Seat",
-"confidence": 0.1097,
+"id": "keyterm:Height",
+"type": "keyterm",
+"preferred_label": "Height",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"preferred_label": "Forgive",
+"confidence": 0.1636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
+"confidence": 0.1636,
 "match_method": "canonical"
 },
 {
 "id": "flora:Rush",
 "type": "flora",
 "preferred_label": "Rush",
+"confidence": 0.1097,
+"match_method": "canonical"
+},
+{
+"id": "realia:Seat",
+"type": "realia",
+"preferred_label": "Seat",
 "confidence": 0.1097,
 "match_method": "canonical"
 },

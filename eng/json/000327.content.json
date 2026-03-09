@@ -42,16 +42,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.5353,
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.5353,
 "match_method": "canonical"
 },
@@ -63,16 +63,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:EnticedToServe",
-"type": "keyterm",
-"preferred_label": "Force to Serve",
+"id": "place:Kiriath-jearim",
+"type": "place",
+"preferred_label": "Kiriath-jearim",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
 {
-"id": "place:Kiriath-jearim",
-"type": "place",
-"preferred_label": "Kiriath-jearim",
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"preferred_label": "Force to Serve",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
@@ -84,16 +84,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Ashtoreth",
-"type": "deity",
-"preferred_label": "Ashtoreth",
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"preferred_label": "Covenant Box",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"preferred_label": "Covenant Box",
+"id": "deity:Ashtoreth",
+"type": "deity",
+"preferred_label": "Ashtoreth",
 "confidence": 0.2529,
 "match_method": "canonical"
 },
@@ -119,13 +119,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Shen",
-"type": "place",
-"preferred_label": "Shen",
-"confidence": 0.1882,
-"match_method": "canonical"
-},
-{
 "id": "place:Beth-car",
 "type": "place",
 "preferred_label": "Beth-car",
@@ -140,38 +133,10 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ebenezer",
+"id": "place:Shen",
 "type": "place",
-"preferred_label": "Ebenezer",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
-"id": "place:Ramah",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.1765,
+"preferred_label": "Shen",
+"confidence": 0.1882,
 "match_method": "canonical"
 },
 {
@@ -189,13 +154,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.1765,
-"match_method": "canonical"
-},
-{
 "id": "place:Ekron",
 "type": "place",
 "preferred_label": "Ekron",
@@ -203,9 +161,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
 "confidence": 0.1765,
 "match_method": "canonical"
 },
@@ -217,10 +182,59 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
+"id": "keyterm:Holy",
+"type": "keyterm",
+"preferred_label": "Holy",
 "confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Ebenezer",
+"type": "place",
+"preferred_label": "Ebenezer",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"preferred_label": "Gilgal",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"preferred_label": "Gath",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"preferred_label": "Peace",
+"confidence": 0.1765,
+"match_method": "canonical"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"preferred_label": "Altar",
+"confidence": 0.1165,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
+"confidence": 0.1165,
 "match_method": "canonical"
 },
 {
@@ -238,23 +252,9 @@
 "match_method": "canonical"
 },
 {
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.1165,
-"match_method": "canonical"
-},
-{
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "preferred_label": "Tabernacle Altar",
-"confidence": 0.1165,
-"match_method": "canonical"
-},
-{
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
 "confidence": 0.1165,
 "match_method": "canonical"
 }

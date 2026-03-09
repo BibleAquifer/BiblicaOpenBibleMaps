@@ -154,9 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Work",
+"id": "keyterm:Redeem",
 "type": "keyterm",
-"preferred_label": "Work",
+"preferred_label": "Redeem",
 "confidence": 0.2603,
 "match_method": "canonical"
 },
@@ -175,23 +175,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Redeem",
+"id": "keyterm:Work",
 "type": "keyterm",
-"preferred_label": "Redeem",
+"preferred_label": "Work",
 "confidence": 0.2603,
-"match_method": "canonical"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"preferred_label": "Sheep",
-"confidence": 0.2537,
 "match_method": "canonical"
 },
 {
 "id": "fauna:Goat",
 "type": "fauna",
 "preferred_label": "Goat",
+"confidence": 0.2537,
+"match_method": "canonical"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"preferred_label": "Sheep",
 "confidence": 0.2537,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Pi-hahiroth",
-"type": "place",
-"preferred_label": "Pi-hahiroth",
+"id": "person:Miriam",
+"type": "person",
+"preferred_label": "Miriam",
 "confidence": 0.2084,
 "match_method": "canonical"
 },
 {
-"id": "person:Miriam",
-"type": "person",
-"preferred_label": "Miriam",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.2084,
 "match_method": "canonical"
 }

@@ -104,13 +104,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "berbuat dosa",
-"confidence": 0.3717,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Salvation",
 "type": "keyterm",
 "preferred_label": "keselamatan",
@@ -121,6 +114,13 @@
 "id": "keyterm:Love",
 "type": "keyterm",
 "preferred_label": "kasihi",
+"confidence": 0.3717,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "berbuat dosa",
 "confidence": 0.3717,
 "match_method": "canonical"
 },
@@ -146,13 +146,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "selama, lamanya",
-"confidence": 0.3663,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Judgment",
 "type": "keyterm",
 "preferred_label": "penghakiman",
@@ -160,10 +153,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:DoGood",
+"id": "keyterm:Always",
 "type": "keyterm",
-"preferred_label": "lakukan baik",
-"confidence": 0.3648,
+"preferred_label": "selama, lamanya",
+"confidence": 0.3663,
 "match_method": "canonical"
 },
 {
@@ -188,9 +181,30 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"preferred_label": "lakukan baik",
+"confidence": 0.3648,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Peace",
 "type": "keyterm",
 "preferred_label": "memperdamaikan",
+"confidence": 0.3636,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"preferred_label": "juruselamat",
 "confidence": 0.3636,
 "match_method": "canonical"
 },
@@ -202,17 +216,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
+"id": "keyterm:Blaspheme",
 "type": "keyterm",
-"preferred_label": "hati",
-"confidence": 0.3636,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Savior",
-"type": "keyterm",
-"preferred_label": "juruselamat",
-"confidence": 0.3636,
+"preferred_label": "menghujat",
+"confidence": 0.3108,
 "match_method": "canonical"
 },
 {
@@ -226,13 +233,6 @@
 "id": "keyterm:Decided",
 "type": "keyterm",
 "preferred_label": "memutuskan",
-"confidence": 0.3108,
-"match_method": "canonical"
-},
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
 "confidence": 0.3108,
 "match_method": "canonical"
 }

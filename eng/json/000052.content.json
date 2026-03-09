@@ -70,16 +70,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Promise",
+"id": "keyterm:Just",
 "type": "keyterm",
-"preferred_label": "Promise",
+"preferred_label": "Be (Or Show Oneself) Just",
 "confidence": 0.3802,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Just",
+"id": "keyterm:Promise",
 "type": "keyterm",
-"preferred_label": "Be (Or Show Oneself) Just",
+"preferred_label": "Promise",
 "confidence": 0.3802,
 "match_method": "canonical"
 },
@@ -189,13 +189,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.2604,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Persuade",
 "type": "keyterm",
 "preferred_label": "Persuade",
@@ -203,16 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Sin",
+"id": "keyterm:Good",
 "type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2591,
+"preferred_label": "Good",
+"confidence": 0.2604,
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"preferred_label": "Written",
 "confidence": 0.2591,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Peace",
+"id": "keyterm:Sin",
 "type": "keyterm",
-"preferred_label": "Make Peace",
+"preferred_label": "To Sin",
+"confidence": 0.2591,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "Heart",
 "confidence": 0.2591,
 "match_method": "canonical"
 }

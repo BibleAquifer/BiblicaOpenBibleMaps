@@ -77,9 +77,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
+"id": "place:Babylon",
+"type": "place",
+"preferred_label": "Babylon",
 "confidence": 0.3914,
 "match_method": "canonical"
 },
@@ -91,23 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 0.3914,
-"match_method": "canonical"
-},
-{
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylon",
-"confidence": 0.3914,
-"match_method": "canonical"
-},
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
+"id": "keyterm:Offering",
+"type": "keyterm",
+"preferred_label": "Offering",
 "confidence": 0.3914,
 "match_method": "canonical"
 },
@@ -115,6 +101,20 @@
 "id": "place:Persia",
 "type": "place",
 "preferred_label": "Persia",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
+"confidence": 0.3914,
+"match_method": "canonical"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"preferred_label": "Jews",
 "confidence": 0.3914,
 "match_method": "canonical"
 },
@@ -133,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shimshai",
-"type": "person",
-"preferred_label": "Shimshai",
-"confidence": 0.3316,
-"match_method": "canonical"
-},
-{
 "id": "person:Rehum.2",
 "type": "person",
 "preferred_label": "Rehum",
@@ -154,10 +147,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Joshua.5",
+"id": "person:Shimshai",
 "type": "person",
-"preferred_label": "Joshua",
-"confidence": 0.3263,
+"preferred_label": "Shimshai",
+"confidence": 0.3316,
 "match_method": "canonical"
 },
 {
@@ -168,10 +161,10 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Shealtiel.2",
+"id": "person:Joshua.5",
 "type": "person",
-"preferred_label": "Shealtiel",
-"confidence": 0.2704,
+"preferred_label": "Joshua",
+"confidence": 0.3263,
 "match_method": "canonical"
 },
 {
@@ -182,16 +175,23 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Tribe of Judah",
-"confidence": 0.2678,
+"id": "person:Shealtiel.2",
+"type": "person",
+"preferred_label": "Shealtiel",
+"confidence": 0.2704,
 "match_method": "canonical"
 },
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
 "preferred_label": "Nebuchadnezzar",
+"confidence": 0.2678,
+"match_method": "canonical"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"preferred_label": "Tribe of Judah",
 "confidence": 0.2678,
 "match_method": "canonical"
 },
@@ -210,13 +210,6 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Iddo.6",
-"type": "person",
-"preferred_label": "Iddo",
-"confidence": 0.2145,
-"match_method": "canonical"
-},
-{
 "id": "person:Haggai",
 "type": "person",
 "preferred_label": "Haggai",
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Assyria",
-"type": "place",
-"preferred_label": "Assyria",
+"id": "person:Iddo.6",
+"type": "person",
+"preferred_label": "Iddo",
+"confidence": 0.2145,
+"match_method": "canonical"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
 "confidence": 0.2118,
 "match_method": "canonical"
 }

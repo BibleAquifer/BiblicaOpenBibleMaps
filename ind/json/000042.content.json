@@ -253,16 +253,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Spirit.2",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "roh",
+"preferred_label": "keselamatan",
 "confidence": 0.36,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Spirit.2",
 "type": "keyterm",
-"preferred_label": "keselamatan",
+"preferred_label": "roh",
 "confidence": 0.36,
 "match_method": "canonical"
 },
@@ -274,16 +274,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Name",
+"id": "keyterm:Hope",
 "type": "keyterm",
-"preferred_label": "nama",
+"preferred_label": "harapan",
 "confidence": 0.3595,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Hope",
+"id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "harapan",
+"preferred_label": "nama",
 "confidence": 0.3595,
 "match_method": "canonical"
 },

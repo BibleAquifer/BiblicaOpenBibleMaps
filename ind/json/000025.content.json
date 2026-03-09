@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"preferred_label": "sorga",
 "confidence": 0.33,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "sorga",
+"id": "deity:Angel",
+"type": "deity",
+"preferred_label": "An Angel",
 "confidence": 0.33,
 "match_method": "canonical"
 },
@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Heart",
-"type": "keyterm",
-"preferred_label": "hati",
+"id": "group:Egypt",
+"type": "group",
+"preferred_label": "Egyptians",
 "confidence": 0.2725,
 "match_method": "canonical"
 },
 {
-"id": "group:Egypt",
-"type": "group",
-"preferred_label": "Egyptians",
+"id": "keyterm:Heart",
+"type": "keyterm",
+"preferred_label": "hati",
 "confidence": 0.2725,
 "match_method": "canonical"
 },
@@ -133,16 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Offering",
+"id": "keyterm:Promise",
 "type": "keyterm",
-"preferred_label": "persembahan",
+"preferred_label": "janji",
 "confidence": 0.215,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Promise",
-"type": "keyterm",
-"preferred_label": "janji",
+"id": "place:SinaiMount",
+"type": "place",
+"preferred_label": "Sinai",
 "confidence": 0.215,
 "match_method": "canonical"
 },
@@ -154,16 +154,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Judge",
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "hakim",
-"confidence": 0.215,
-"match_method": "canonical"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roh",
+"preferred_label": "persembahan",
 "confidence": 0.215,
 "match_method": "canonical"
 },
@@ -182,6 +175,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Judge",
+"type": "keyterm",
+"preferred_label": "hakim",
+"confidence": 0.215,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Priesthood",
 "type": "keyterm",
 "preferred_label": "imamat",
@@ -189,9 +189,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:SinaiMount",
-"type": "place",
-"preferred_label": "Sinai",
+"id": "deity:HolySpirit",
+"type": "deity",
+"preferred_label": "Roh",
 "confidence": 0.215,
 "match_method": "canonical"
 },
@@ -217,16 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Hamor",
+"id": "person:Stephen",
 "type": "person",
-"preferred_label": "Hemor",
+"preferred_label": "Stefanus",
 "confidence": 0.1608,
 "match_method": "canonical"
 },
 {
-"id": "person:Stephen",
+"id": "person:Hamor",
 "type": "person",
-"preferred_label": "Stefanus",
+"preferred_label": "Hemor",
 "confidence": 0.1608,
 "match_method": "canonical"
 }

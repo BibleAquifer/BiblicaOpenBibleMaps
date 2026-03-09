@@ -98,9 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:StoneAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Stone Altar",
+"preferred_label": "Altar",
 "confidence": 0.3195,
 "match_method": "canonical"
 },
@@ -108,6 +108,13 @@
 "id": "realia:Window",
 "type": "realia",
 "preferred_label": "Window",
+"confidence": 0.3195,
+"match_method": "canonical"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"preferred_label": "Stone Altar",
 "confidence": 0.3195,
 "match_method": "canonical"
 },
@@ -126,13 +133,6 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"preferred_label": "Altar",
-"confidence": 0.3195,
-"match_method": "canonical"
-},
-{
 "id": "realia:Room",
 "type": "realia",
 "preferred_label": "Room",
@@ -144,6 +144,13 @@
 "type": "fauna",
 "preferred_label": "Cattle",
 "confidence": 0.3084,
+"match_method": "canonical"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"preferred_label": "Holy Place",
+"confidence": 0.2611,
 "match_method": "canonical"
 },
 {
@@ -168,13 +175,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:HolyPlace",
-"type": "place",
-"preferred_label": "Holy Place",
-"confidence": 0.2611,
-"match_method": "canonical"
-},
-{
 "id": "realia:Doorstep",
 "type": "realia",
 "preferred_label": "Doorstep",
@@ -182,16 +182,23 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Appease",
-"type": "keyterm",
-"preferred_label": "Appease",
+"id": "person:Zadok.2",
+"type": "person",
+"preferred_label": "Zadok",
 "confidence": 0.2074,
 "match_method": "canonical"
 },
 {
-"id": "person:Zadok.2",
-"type": "person",
-"preferred_label": "Zadok",
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
+"confidence": 0.2074,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"preferred_label": "Appease",
 "confidence": 0.2074,
 "match_method": "canonical"
 },
@@ -210,9 +217,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Defilement",
-"type": "keyterm",
-"preferred_label": "Defilement",
+"id": "person:Levi.3",
+"type": "person",
+"preferred_label": "Levi",
 "confidence": 0.2074,
 "match_method": "canonical"
 },
@@ -220,13 +227,6 @@
 "id": "keyterm:Instruction",
 "type": "keyterm",
 "preferred_label": "Instruction",
-"confidence": 0.2074,
-"match_method": "canonical"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levi",
 "confidence": 0.2074,
 "match_method": "canonical"
 }

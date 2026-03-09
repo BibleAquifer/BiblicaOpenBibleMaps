@@ -144,16 +144,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Pray",
+"id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Pray",
+"preferred_label": "Glory",
 "confidence": 0.3583,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Pray",
 "type": "keyterm",
-"preferred_label": "Glory",
+"preferred_label": "Pray",
 "confidence": 0.3583,
 "match_method": "canonical"
 },
@@ -186,9 +186,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Passover",
-"type": "keyterm",
-"preferred_label": "Passover",
+"id": "place:Galilee",
+"type": "place",
+"preferred_label": "Galilee",
 "confidence": 0.3566,
 "match_method": "canonical"
 },
@@ -200,9 +200,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
+"id": "keyterm:Passover",
+"type": "keyterm",
+"preferred_label": "Passover",
 "confidence": 0.3566,
 "match_method": "canonical"
 },
@@ -221,6 +221,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.3562,
+"match_method": "canonical"
+},
+{
 "id": "person:Judas.2",
 "type": "person",
 "preferred_label": "Judas",
@@ -235,16 +242,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
+"id": "keyterm:Happen",
 "type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.3562,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:BearWitness",
-"type": "keyterm",
-"preferred_label": "Bear Witness",
+"preferred_label": "To Cause to Happen",
 "confidence": 0.3555,
 "match_method": "canonical"
 }

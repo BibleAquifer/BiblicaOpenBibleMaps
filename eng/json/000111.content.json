@@ -49,16 +49,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Fornication",
+"id": "keyterm:Command",
 "type": "keyterm",
-"preferred_label": "Fornication",
+"preferred_label": "To Command",
 "confidence": 0.276,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Command",
+"id": "keyterm:Fornication",
 "type": "keyterm",
-"preferred_label": "To Command",
+"preferred_label": "Fornication",
 "confidence": 0.276,
 "match_method": "canonical"
 },
@@ -77,51 +77,16 @@
 "match_method": "canonical"
 },
 {
+"id": "person:Moses",
+"type": "person",
+"preferred_label": "Moses",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:Commandment",
 "type": "keyterm",
 "preferred_label": "Commandment",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Baptism",
-"type": "keyterm",
-"preferred_label": "Baptism",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:RichYoungRuler",
-"type": "person",
-"preferred_label": "Rich Young Ruler",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Always",
-"type": "keyterm",
-"preferred_label": "Always",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Mercy",
-"type": "keyterm",
-"preferred_label": "Mercy",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -133,30 +98,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Salvation",
-"type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Moses",
-"confidence": 0.2173,
-"match_method": "canonical"
-},
-{
-"id": "group:GenericGroup",
+"id": "group:Gentile",
 "type": "group",
-"preferred_label": "A Group of People",
+"preferred_label": "Gentiles",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -171,6 +115,62 @@
 "id": "place:Jerusalem",
 "type": "place",
 "preferred_label": "Jerusalem",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"preferred_label": "Always",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:David",
+"type": "person",
+"preferred_label": "David",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"preferred_label": "Mercy",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"preferred_label": "Salvation",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"preferred_label": "A Group of People",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "person:RichYoungRuler",
+"type": "person",
+"preferred_label": "Rich Young Ruler",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"preferred_label": "Good",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"preferred_label": "Baptism",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -203,16 +203,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Glory",
+"id": "keyterm:Serve",
 "type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"preferred_label": "Condemn",
+"preferred_label": "Serve",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
@@ -224,9 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Peter",
-"type": "person",
-"preferred_label": "Peter",
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"preferred_label": "Ransom",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"preferred_label": "Bless",
 "confidence": 0.1587,
 "match_method": "canonical"
 }

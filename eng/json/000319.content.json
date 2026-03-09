@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "group:Philistine",
-"type": "group",
-"preferred_label": "Philistines",
+"id": "place:Philistine",
+"type": "place",
+"preferred_label": "Philistia",
 "confidence": 0.5242,
 "match_method": "canonical"
 },
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Philistia",
+"id": "group:Philistine",
+"type": "group",
+"preferred_label": "Philistines",
 "confidence": 0.5242,
 "match_method": "canonical"
 },
@@ -91,23 +91,9 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Manoah",
-"type": "person",
-"preferred_label": "Manoah",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
 "id": "group:Nazirite",
 "type": "group",
 "preferred_label": "Nazirites",
-"confidence": 0.171,
-"match_method": "canonical"
-},
-{
-"id": "place:Eshtaol",
-"type": "place",
-"preferred_label": "Eshtaol",
 "confidence": 0.171,
 "match_method": "canonical"
 },
@@ -119,16 +105,23 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Money",
-"type": "realia",
-"preferred_label": "Money",
-"confidence": 0.169,
+"id": "place:Eshtaol",
+"type": "place",
+"preferred_label": "Eshtaol",
+"confidence": 0.171,
 "match_method": "canonical"
 },
 {
-"id": "realia:Thread",
+"id": "person:Manoah",
+"type": "person",
+"preferred_label": "Manoah",
+"confidence": 0.171,
+"match_method": "canonical"
+},
+{
+"id": "realia:Money",
 "type": "realia",
-"preferred_label": "Thread",
+"preferred_label": "Money",
 "confidence": 0.169,
 "match_method": "canonical"
 },
@@ -140,16 +133,23 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.1645,
+"id": "realia:Thread",
+"type": "realia",
+"preferred_label": "Thread",
+"confidence": 0.169,
 "match_method": "canonical"
 },
 {
 "id": "place:Hebron",
 "type": "place",
 "preferred_label": "Hebron",
+"confidence": 0.1645,
+"match_method": "canonical"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"preferred_label": "Israel",
 "confidence": 0.1645,
 "match_method": "canonical"
 },
@@ -175,16 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Pin",
+"id": "realia:Shuttle",
 "type": "realia",
-"preferred_label": "Pin",
+"preferred_label": "Shuttle",
 "confidence": 0.111,
 "match_method": "canonical"
 },
 {
-"id": "realia:Shuttle",
+"id": "realia:Pin",
 "type": "realia",
-"preferred_label": "Shuttle",
+"preferred_label": "Pin",
 "confidence": 0.111,
 "match_method": "canonical"
 },

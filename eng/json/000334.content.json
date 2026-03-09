@@ -28,16 +28,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Samuel",
+"id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Samuel",
+"preferred_label": "Saul",
 "confidence": 0.5595,
 "match_method": "canonical"
 },
 {
-"id": "person:Saul.2",
+"id": "person:Samuel",
 "type": "person",
-"preferred_label": "Saul",
+"preferred_label": "Samuel",
 "confidence": 0.5595,
 "match_method": "canonical"
 },
@@ -140,13 +140,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.2733,
-"match_method": "canonical"
-},
-{
 "id": "place:Egypt",
 "type": "place",
 "preferred_label": "Egypt",
@@ -157,6 +150,13 @@
 "id": "place:Gilgal.2",
 "type": "place",
 "preferred_label": "Gilgal",
+"confidence": 0.2733,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
 "confidence": 0.2733,
 "match_method": "canonical"
 },
@@ -175,6 +175,13 @@
 "match_method": "canonical"
 },
 {
+"id": "place:Ramah",
+"type": "place",
+"preferred_label": "Ramah",
+"confidence": 0.2155,
+"match_method": "canonical"
+},
+{
 "id": "keyterm:IntactState",
 "type": "keyterm",
 "preferred_label": "Peace",
@@ -182,10 +189,24 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Ramah",
+"id": "place:Carmel",
 "type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.2155,
+"preferred_label": "Carmel",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"preferred_label": "Kenites",
+"confidence": 0.1612,
+"match_method": "canonical"
+},
+{
+"id": "place:Havilah.2",
+"type": "place",
+"preferred_label": "Havilah",
+"confidence": 0.1612,
 "match_method": "canonical"
 },
 {
@@ -203,30 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Carmel",
-"type": "place",
-"preferred_label": "Carmel",
-"confidence": 0.1612,
-"match_method": "canonical"
-},
-{
-"id": "person:Shimeah.2",
-"type": "person",
-"preferred_label": "Shimeah",
-"confidence": 0.1612,
-"match_method": "canonical"
-},
-{
-"id": "group:Kenite",
-"type": "group",
-"preferred_label": "Kenites",
-"confidence": 0.1612,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:SomethingDevotedToGod",
+"id": "keyterm:Appoint",
 "type": "keyterm",
-"preferred_label": "Something Devoted to God",
+"preferred_label": "Appoint",
 "confidence": 0.1612,
 "match_method": "canonical"
 }

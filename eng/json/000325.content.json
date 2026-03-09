@@ -147,13 +147,6 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"preferred_label": "Covenant",
-"confidence": 0.2626,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Glory",
 "type": "keyterm",
 "preferred_label": "Glory",
@@ -168,10 +161,24 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"preferred_label": "Covenant",
+"confidence": 0.2626,
+"match_method": "canonical"
+},
+{
 "id": "person:Peninnah",
 "type": "person",
 "preferred_label": "Peninnah",
 "confidence": 0.2121,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Horn",
+"type": "keyterm",
+"preferred_label": "Horn",
+"confidence": 0.2103,
 "match_method": "canonical"
 },
 {
@@ -189,31 +196,10 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Horn",
-"type": "keyterm",
-"preferred_label": "Horn",
-"confidence": 0.2103,
-"match_method": "canonical"
-},
-{
 "id": "keyterm:Woe",
 "type": "keyterm",
 "preferred_label": "Woe",
 "confidence": 0.2103,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Sin",
-"type": "keyterm",
-"preferred_label": "To Sin",
-"confidence": 0.2084,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"preferred_label": "Passion",
-"confidence": 0.2084,
 "match_method": "canonical"
 },
 {
@@ -224,9 +210,23 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"preferred_label": "Wickedness",
+"confidence": 0.2084,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"preferred_label": "To Sin",
+"confidence": 0.2084,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"preferred_label": "Bring Honor and Glory on Oneself",
 "confidence": 0.2084,
 "match_method": "canonical"
 }

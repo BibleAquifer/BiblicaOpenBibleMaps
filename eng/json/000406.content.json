@@ -56,16 +56,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
+"id": "deity:Baal",
+"type": "deity",
+"preferred_label": "Baal",
 "confidence": 0.395,
 "match_method": "canonical"
 },
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"preferred_label": "Word of the Lord",
 "confidence": 0.395,
 "match_method": "canonical"
 },
@@ -105,16 +105,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:TempleAltar",
+"id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Temple Altar",
+"preferred_label": "Altar",
 "confidence": 0.2657,
 "match_method": "canonical"
 },
 {
-"id": "realia:ClayJar",
+"id": "realia:TempleAltar",
 "type": "realia",
-"preferred_label": "Clay Jar",
+"preferred_label": "Temple Altar",
 "confidence": 0.2657,
 "match_method": "canonical"
 },
@@ -126,9 +126,9 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Altar",
+"id": "realia:ClayJar",
 "type": "realia",
-"preferred_label": "Altar",
+"preferred_label": "Clay Jar",
 "confidence": 0.2657,
 "match_method": "canonical"
 },
@@ -147,16 +147,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Jezreel.2",
+"id": "place:Jordan",
 "type": "place",
-"preferred_label": "Jezreel",
+"preferred_label": "Jordan River",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
 {
-"id": "place:Jordan",
+"id": "place:Jezreel.2",
 "type": "place",
-"preferred_label": "Jordan River",
+"preferred_label": "Jezreel",
 "confidence": 0.2129,
 "match_method": "canonical"
 },
@@ -172,13 +172,6 @@
 "type": "realia",
 "preferred_label": "Olive Oil",
 "confidence": 0.2093,
-"match_method": "canonical"
-},
-{
-"id": "person:Widow",
-"type": "person",
-"preferred_label": "A Widow",
-"confidence": 0.1593,
 "match_method": "canonical"
 },
 {
@@ -210,9 +203,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Abraham",
+"id": "person:Widow",
 "type": "person",
-"preferred_label": "Abraham",
+"preferred_label": "A Widow",
+"confidence": 0.1593,
+"match_method": "canonical"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
 "confidence": 0.1564,
 "match_method": "canonical"
 },
@@ -224,9 +224,9 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Swear",
+"id": "keyterm:Ardour",
 "type": "keyterm",
-"preferred_label": "Swear",
+"preferred_label": "Passion",
 "confidence": 0.1564,
 "match_method": "canonical"
 }

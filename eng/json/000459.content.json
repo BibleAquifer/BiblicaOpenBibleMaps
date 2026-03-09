@@ -84,13 +84,6 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Magog",
-"type": "place",
-"preferred_label": "Magog",
-"confidence": 0.225,
-"match_method": "canonical"
-},
-{
 "id": "place:Hamon-gogValley",
 "type": "place",
 "preferred_label": "Valley of Hamon-gog",
@@ -98,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "Slaughtering",
-"confidence": 0.2173,
+"id": "place:Magog",
+"type": "place",
+"preferred_label": "Magog",
+"confidence": 0.225,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Arrow",
+"id": "keyterm:Ardour",
 "type": "keyterm",
-"preferred_label": "Arrow",
+"preferred_label": "Passion",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -119,9 +112,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Ardour",
+"id": "keyterm:Arrow",
 "type": "keyterm",
-"preferred_label": "Passion",
+"preferred_label": "Arrow",
+"confidence": 0.2173,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"preferred_label": "Slaughtering",
 "confidence": 0.2173,
 "match_method": "canonical"
 },
@@ -140,9 +140,9 @@
 "match_method": "canonical"
 },
 {
-"id": "place:TravelersValley",
+"id": "place:Hamonah",
 "type": "place",
-"preferred_label": "Valley of the Travelers",
+"preferred_label": "Hamonah",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -154,16 +154,16 @@
 "match_method": "canonical"
 },
 {
-"id": "person:Gomer",
-"type": "person",
-"preferred_label": "Gomer",
+"id": "place:TravelersValley",
+"type": "place",
+"preferred_label": "Valley of the Travelers",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
 {
-"id": "place:Hamonah",
-"type": "place",
-"preferred_label": "Hamonah",
+"id": "person:Gomer",
+"type": "person",
+"preferred_label": "Gomer",
 "confidence": 0.1625,
 "match_method": "canonical"
 },
@@ -182,6 +182,13 @@
 "match_method": "canonical"
 },
 {
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"preferred_label": "Be Zealous",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
 "id": "place:Dedan",
 "type": "place",
 "preferred_label": "Dedan",
@@ -189,9 +196,16 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:WordOfTheLord",
+"id": "keyterm:BringHonorAndGloryOnOneself",
 "type": "keyterm",
-"preferred_label": "Word of the Lord",
+"preferred_label": "Bring Honor and Glory on Oneself",
+"confidence": 0.1587,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"preferred_label": "Defilement",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
@@ -203,30 +217,16 @@
 "match_method": "canonical"
 },
 {
-"id": "place:Persia",
+"id": "place:Put",
 "type": "place",
-"preferred_label": "Persia",
+"preferred_label": "Put",
 "confidence": 0.1587,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"preferred_label": "Be Zealous",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.1587,
-"match_method": "canonical"
-},
-{
-"id": "place:Cush.2",
+"id": "place:Tarshish",
 "type": "place",
-"preferred_label": "Cush",
+"preferred_label": "Tarshish",
 "confidence": 0.1587,
 "match_method": "canonical"
 }

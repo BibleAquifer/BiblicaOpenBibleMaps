@@ -91,16 +91,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:CookingPot",
+"id": "realia:Money",
 "type": "realia",
-"preferred_label": "Cooking Pot",
+"preferred_label": "Money",
 "confidence": 0.2654,
 "match_method": "canonical"
 },
 {
-"id": "realia:Money",
+"id": "realia:CookingPot",
 "type": "realia",
-"preferred_label": "Money",
+"preferred_label": "Cooking Pot",
 "confidence": 0.2654,
 "match_method": "canonical"
 },
@@ -133,9 +133,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:OliveOil",
+"id": "realia:Bed",
 "type": "realia",
-"preferred_label": "Olive Oil",
+"preferred_label": "Bed",
+"confidence": 0.209,
+"match_method": "canonical"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"preferred_label": "Anointing Oil",
 "confidence": 0.209,
 "match_method": "canonical"
 },
@@ -154,6 +161,13 @@
 "match_method": "canonical"
 },
 {
+"id": "realia:OliveOil",
+"type": "realia",
+"preferred_label": "Olive Oil",
+"confidence": 0.209,
+"match_method": "canonical"
+},
+{
 "id": "realia:Scroll",
 "type": "realia",
 "preferred_label": "Scroll",
@@ -161,44 +175,16 @@
 "match_method": "canonical"
 },
 {
-"id": "realia:Bed",
-"type": "realia",
-"preferred_label": "Bed",
-"confidence": 0.209,
-"match_method": "canonical"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"preferred_label": "Anointing Oil",
-"confidence": 0.209,
+"id": "place:Abana",
+"type": "place",
+"preferred_label": "Abanah",
+"confidence": 0.1592,
 "match_method": "canonical"
 },
 {
 "id": "place:Baal-shalishah",
 "type": "place",
 "preferred_label": "Baal-shalishah",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "deity:Rimmon",
-"type": "deity",
-"preferred_label": "Rimmon",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "place:Pharpar",
-"type": "place",
-"preferred_label": "Pharpar",
-"confidence": 0.1592,
-"match_method": "canonical"
-},
-{
-"id": "place:Abana",
-"type": "place",
-"preferred_label": "Abanah",
 "confidence": 0.1592,
 "match_method": "canonical"
 },
@@ -210,23 +196,37 @@
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"preferred_label": "Holy",
-"confidence": 0.1563,
+"id": "place:Pharpar",
+"type": "place",
+"preferred_label": "Pharpar",
+"confidence": 0.1592,
 "match_method": "canonical"
 },
 {
-"id": "deity:Angel",
+"id": "deity:Rimmon",
 "type": "deity",
-"preferred_label": "An Angel",
+"preferred_label": "Rimmon",
+"confidence": 0.1592,
+"match_method": "canonical"
+},
+{
+"id": "place:Shunem",
+"type": "place",
+"preferred_label": "Shunem",
 "confidence": 0.1563,
 "match_method": "canonical"
 },
 {
-"id": "keyterm:Forgive",
+"id": "place:Samaria",
+"type": "place",
+"preferred_label": "Samaria",
+"confidence": 0.1563,
+"match_method": "canonical"
+},
+{
+"id": "keyterm:Offering",
 "type": "keyterm",
-"preferred_label": "Forgive",
+"preferred_label": "Offering",
 "confidence": 0.1563,
 "match_method": "canonical"
 }
