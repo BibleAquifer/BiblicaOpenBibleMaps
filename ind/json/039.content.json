@@ -1,0 +1,285 @@
+[
+{
+"content_id": "NT047",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Paulus Ditangkap dan Dibawa ke Kaisarea",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula paulus ditangkap dan dibawa ke kaisarea",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT047.png' alt='Image' width='480' /></p><p><a href='images/NT047.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44023001",
+"start_ref_usfm": "ACT 23:1",
+"end_ref": "44023035",
+"end_ref_usfm": "ACT 23:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.53,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3514,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.2886,
+"match_method": "canonical",
+"preferred_label": "Sadducees"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2886,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2886,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Felix",
+"type": "person",
+"confidence": 0.2371,
+"match_method": "canonical",
+"preferred_label": "Feliks"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.2314,
+"match_method": "canonical",
+"preferred_label": "Roma"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Kaisarea"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "memutuskan"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "hukum"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "kebangkitan"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:CheerUp",
+"type": "keyterm",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "percayalah"
+},
+{
+"id": "person:Lysias",
+"type": "person",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Lisias"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Kilikia"
+},
+{
+"id": "place:Antipatris",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Antipatris"
+},
+{
+"id": "person:Ananias.3",
+"type": "person",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Ananias"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "hidup"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "janji"
+},
+{
+"id": "keyterm:Decision",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "keputusan"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "memberi kesaksian yang sungguh, sungguh"
+},
+{
+"id": "person:MilitaryMember",
+"type": "person",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Military Member"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "takut"
+},
+{
+"id": "keyterm:Disobey",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "melanggar hukum taurat"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "melepaskan"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "harapan"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "bersaksi"
+},
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Herodes"
+},
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "hati nurani"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "membujuk"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "yang baik"
+},
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 0.1086,
+"match_method": "canonical",
+"preferred_label": "Palace"
+}
+]
+}
+}
+]

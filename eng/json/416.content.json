@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT166",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Opposition to the Rebuilding of Jerusalem",
+"media_type": "Image",
+"index_reference": "historical opposition to the rebuilding of jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT166.png' alt='Image' width='480' /></p><p><a href='images/OT166.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1tYXf8057gvyaXHuvoCh3ZbcD7wh9AslC&usp=drive_copy'>Historical: Opposition to the Rebuilding of Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "16004001",
+"start_ref_usfm": "NEH 4:1",
+"end_ref": "16006019",
+"end_ref_usfm": "NEH 6:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4459,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.409,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Sanballat",
+"type": "person",
+"confidence": 0.4049,
+"match_method": "canonical",
+"preferred_label": "Sanballat"
+},
+{
+"id": "person:Tobiah.2",
+"type": "person",
+"confidence": 0.4049,
+"match_method": "canonical",
+"preferred_label": "Tobiah"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4016,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3943,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.3943,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3343,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3295,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Geshem",
+"type": "person",
+"confidence": 0.282,
+"match_method": "canonical",
+"preferred_label": "Geshem"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.2695,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2695,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.2695,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Arabia"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Arabians"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.2121,
+"match_method": "canonical",
+"preferred_label": "Spear"
+},
+{
+"id": "person:Meshullam.12",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Meshullam"
+},
+{
+"id": "place:Ono",
+"type": "place",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Ono"
+},
+{
+"id": "person:Berechiah.5",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Berechiah"
+},
+{
+"id": "person:Arah.3",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Arah"
+},
+{
+"id": "person:Shecaniah.8",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Shecaniah"
+},
+{
+"id": "person:Mehetabel.2",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Mehetabel"
+},
+{
+"id": "person:Shemaiah.19",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Shemaiah"
+},
+{
+"id": "person:Noadiah.2",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Noadiah"
+},
+{
+"id": "person:Jehohanan.6",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Jehohanan"
+},
+{
+"id": "person:Delaiah.4",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Delaiah"
+},
+{
+"id": "realia:Weapons",
+"type": "realia",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Weapons"
+}
+]
+}
+}
+]

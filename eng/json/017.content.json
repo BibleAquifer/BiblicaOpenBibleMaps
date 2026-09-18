@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT017",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "The Life of Jesus: Jesus Final Trip to Jerusalem in John",
+"media_type": "Image",
+"index_reference": "life of jesus jesus final trip to jerusalem in john",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT017.png' alt='Image' width='480' /></p><p><a href='images/NT017.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1M5666wUP-LzYFNlJ5XIZjuZMFEogEWe7&usp=drive_copy'>The Life of Jesus: Jesus Final Trip to Jerusalem in John</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43012050",
+"end_ref_usfm": "JHN 12:50"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5266,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4173,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4047,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "Lazarus"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3921,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 0.3916,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 0.3916,
+"match_method": "canonical",
+"preferred_label": "Martha"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3794,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3794,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3752,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.3729,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.371,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3168,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3168,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3168,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 0.2664,
+"match_method": "canonical",
+"preferred_label": "Bethany"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:Friendship",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Friendship"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.2568,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Stumble"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Pure"
+}
+]
+}
+}
+]

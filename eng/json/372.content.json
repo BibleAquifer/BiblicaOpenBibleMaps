@@ -1,0 +1,543 @@
+[
+{
+"content_id": "OT122",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Solomon’s Building Projects",
+"media_type": "Image",
+"index_reference": "historical solomons building projects",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT122.png' alt='Image' width='480' /></p><p><a href='images/OT122.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1-J9ptQdDiV45nFySePn_NyWFXyqZNhJC&usp=drive_copy'>Historical: Solomon’s Building Projects</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11009001",
+"start_ref_usfm": "1KI 9:1",
+"end_ref": "11009028",
+"end_ref_usfm": "1KI 9:28"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.6239,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.487,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4478,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Hiram",
+"type": "person",
+"confidence": 0.4087,
+"match_method": "canonical",
+"preferred_label": "Hiram"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3989,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3976,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Gezer",
+"type": "place",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Gezer"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.2791,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "place:Baalath.2",
+"type": "place",
+"confidence": 0.2283,
+"match_method": "canonical",
+"preferred_label": "Baalath"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 0.2283,
+"match_method": "canonical",
+"preferred_label": "Hivites"
+},
+{
+"id": "place:Ophir",
+"type": "place",
+"confidence": 0.2239,
+"match_method": "canonical",
+"preferred_label": "Ophir"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Ezion-geber",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Ezion-geber"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Lebanon"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "place:Millo",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Millo"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Jebusites"
+},
+{
+"id": "place:Elath",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Elath"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "place:Beth-horonLower",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Lower Beth-horon"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "realia:Talent",
+"type": "realia",
+"confidence": 0.2193,
+"match_method": "canonical",
+"preferred_label": "Talent"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.2193,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Hamath"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Tadmor"
+},
+{
+"id": "place:Beth-horonUpper",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Upper Beth-horon"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Straightness"
+},
+{
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Set Apart for Destruction"
+},
+{
+"id": "place:Hazor",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Hazor"
+},
+{
+"id": "place:Cabul.2",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Cabul"
+},
+{
+"id": "keyterm:BegForMercy",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "To Beg for Mercy"
+},
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Feast of Weeks"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Proverb"
+},
+{
+"id": "place:Zobah",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Zobah"
+},
+{
+"id": "keyterm:AppointedFeast",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Appointed Feast"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Gibeon"
+},
+{
+"id": "place:Megiddo",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Megiddo"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Supplication",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Plea for Mercy"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "keyterm:FeastOfTabernacles",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Feast of Tabernacles"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "New Moon Festival"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "flora:JuniperTree",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Phoenician Juniper"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Fir"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Grecian Juniper"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Fortification"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Foundation"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Cedar"
+}
+]
+}
+}
+]

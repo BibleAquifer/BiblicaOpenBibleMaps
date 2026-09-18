@@ -1,0 +1,215 @@
+[
+{
+"content_id": "OT219",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: The Journeys of Jonah",
+"media_type": "Image",
+"index_reference": "wisdom  prophets the journeys of jonah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT219.png' alt='Image' width='480' /></p><p><a href='images/OT219.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1P3T6xGgggLboTwJpP7EHHUYQC73_4L38&usp=drive_copy'>Wisdom & Prophets: The Journeys of Jonah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "32001001",
+"start_ref_usfm": "JON 1:1",
+"end_ref": "32003010",
+"end_ref_usfm": "JON 3:10"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6176,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 0.4892,
+"match_method": "canonical",
+"preferred_label": "Jonah"
+},
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 0.4459,
+"match_method": "canonical",
+"preferred_label": "Nineveh"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Sackcloth"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Hell"
+},
+{
+"id": "person:Amittai",
+"type": "person",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Amittai"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Joppa"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1643,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Tarshish"
+},
+{
+"id": "keyterm:Praise",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Praise"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Exempt"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Throne"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Goat"
+}
+]
+}
+}
+]

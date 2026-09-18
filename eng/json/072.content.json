@@ -1,0 +1,320 @@
+[
+{
+"content_id": "NT112",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Matthew: Matt. 15:21–28, Matt. 15:29–38",
+"media_type": "Image",
+"index_reference": "srv matthew matt 152128 matt 152938",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT112.png' alt='Image' width='480' /></p><p><a href='images/NT112.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=16uEzgy59iwm68QPm80GrHhsEaKB3XUr0&usp=drive_copy'>SRV Matthew: Matt. 15:21-28, Matt. 15:29-38</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015039",
+"end_ref_usfm": "MAT 15:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4077,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Teaching"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.1682,
+"match_method": "canonical",
+"preferred_label": "Dog"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:Magadan",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Magadan"
+},
+{
+"id": "person:SyrophonecianWoman",
+"type": "person",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Syrophonecian Woman"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Heavenly",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Heavenly"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Honest"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Ship"
+}
+]
+}
+}
+]

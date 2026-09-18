@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT203",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Jerusalem the Adulterous Wife",
+"media_type": "Image",
+"index_reference": "wisdom  prophets jerusalem the adulterous wife",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT203.png' alt='Image' width='480' /></p><p><a href='images/OT203.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1AO3foYpUIHsKuwSrqtYKrt9VEkX0yP8D/view?usp=drive_link'>Wisdom & Prophets: Jerusalem the Adulterous Wife</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26016001",
+"start_ref_usfm": "EZK 16:1",
+"end_ref": "26016063",
+"end_ref_usfm": "EZK 16:63"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4571,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.4143,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.3992,
+"match_method": "canonical",
+"preferred_label": "Play the Prostitute"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.3929,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.3857,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.3257,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.2714,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2714,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.2686,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.2686,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "realia:EmbroideredCloth",
+"type": "realia",
+"confidence": 0.2114,
+"match_method": "canonical",
+"preferred_label": "Embroidered Cloth"
+},
+{
+"id": "realia:Silk",
+"type": "realia",
+"confidence": 0.1606,
+"match_method": "canonical",
+"preferred_label": "Silk"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1571,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.1571,
+"match_method": "canonical",
+"preferred_label": "Chaldea"
+},
+{
+"id": "keyterm:BearTheConsequencesOf",
+"type": "keyterm",
+"confidence": 0.1571,
+"match_method": "canonical",
+"preferred_label": "Bear the Consequences Of"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.1571,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "keyterm:PleasingOdor",
+"type": "keyterm",
+"confidence": 0.1571,
+"match_method": "canonical",
+"preferred_label": "Pleasing Odor"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.1571,
+"match_method": "canonical",
+"preferred_label": "Trust"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1571,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+}
+]
+}
+}
+]

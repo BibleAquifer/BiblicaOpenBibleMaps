@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT015",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Kehidupan Yesus: Yesus Memberi Makan 5000 Orang dan Berjalan di Atas Air",
+"media_type": "Image",
+"index_reference": "kehidupan yesus yesus memberi makan 5000 orang dan berjalan di atas air",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT015.png' alt='Image' width='480' /></p><p><a href='images/NT015.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43006001",
+"start_ref_usfm": "JHN 6:1",
+"end_ref": "43006071",
+"end_ref_usfm": "JHN 6:71"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4894,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4324,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.4324,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.407,
+"match_method": "canonical",
+"preferred_label": "sorga"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.407,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4007,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3972,
+"match_method": "canonical",
+"preferred_label": "tubuh"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3944,
+"match_method": "canonical",
+"preferred_label": "selama, lamanya"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.328,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "tanda"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "amin!"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "darah"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.2746,
+"match_method": "canonical",
+"preferred_label": "Kapernaum"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.269,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.269,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "benar"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "firman"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "takut"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Petrus"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Filipus"
+},
+{
+"id": "person:Simon.7",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "place:Tiberias",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Tiberias"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "roh"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "paskah"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Andreas"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Yudas"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Yusuf"
+}
+]
+}
+}
+]

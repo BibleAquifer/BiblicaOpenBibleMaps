@@ -1,0 +1,432 @@
+[
+{
+"content_id": "OT176",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Isaiah Prophesies the Fall of Israel",
+"media_type": "Image",
+"index_reference": "wisdom  prophets isaiah prophesies the fall of israel",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT176.png' alt='Image' width='480' /></p><p><a href='images/OT176.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1rGNC5N4ch_bEMVZ8TGqbSdGLzidYASnR/view?usp=drive_link'>Wisdom & Prophets: Isaiah Prophesies the Fall of Israel</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23007001",
+"start_ref_usfm": "ISA 7:1",
+"end_ref": "23008023",
+"end_ref_usfm": "ISA 8:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5469,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Remaliah",
+"type": "person",
+"confidence": 0.401,
+"match_method": "canonical",
+"preferred_label": "Remaliah"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.3969,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.3969,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.3969,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "person:Ahaz",
+"type": "person",
+"confidence": 0.3417,
+"match_method": "canonical",
+"preferred_label": "Ahaz"
+},
+{
+"id": "person:Rezin",
+"type": "person",
+"confidence": 0.3417,
+"match_method": "canonical",
+"preferred_label": "Rezin"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.2817,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Maher-shalal-hash-baz",
+"type": "person",
+"confidence": 0.2271,
+"match_method": "canonical",
+"preferred_label": "Maher-shalal-hash-baz"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.2229,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"confidence": 0.2229,
+"match_method": "canonical",
+"preferred_label": "Well-Established"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.1677,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "person:Zechariah.29",
+"type": "person",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Shear-jashub",
+"type": "person",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Shear-jashub"
+},
+{
+"id": "person:Tabeal",
+"type": "person",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Tabeal"
+},
+{
+"id": "place:WashersField",
+"type": "place",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Launderer’s Field"
+},
+{
+"id": "person:Jeberechiah",
+"type": "person",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Jeberechiah"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Jotham.2",
+"type": "person",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Jotham"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Pekah",
+"type": "person",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Pekah"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Counsel"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Spirit",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Necromancer"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Hell"
+},
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Siloam"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1588,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 0.1588,
+"match_method": "canonical",
+"preferred_label": "Trap"
+},
+{
+"id": "fauna:Fly",
+"type": "fauna",
+"confidence": 0.1035,
+"match_method": "canonical",
+"preferred_label": "Fly"
+},
+{
+"id": "realia:Stylus",
+"type": "realia",
+"confidence": 0.1035,
+"match_method": "canonical",
+"preferred_label": "Stylus"
+},
+{
+"id": "realia:Hoe",
+"type": "realia",
+"confidence": 0.1035,
+"match_method": "canonical",
+"preferred_label": "Hoe"
+},
+{
+"id": "realia:Razor",
+"type": "realia",
+"confidence": 0.1035,
+"match_method": "canonical",
+"preferred_label": "Razor"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "fauna:Bee",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Bee"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Sandalwood"
+},
+{
+"id": "realia:Tablet",
+"type": "realia",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Tablet"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Goat"
+}
+]
+}
+}
+]

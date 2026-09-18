@@ -1,0 +1,432 @@
+[
+{
+"content_id": "NT035",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Pertobatan Paulus",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula pertobatan paulus",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT035.png' alt='Image' width='480' /></p><p><a href='images/NT035.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44009001",
+"start_ref_usfm": "ACT 9:1",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.507,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.4651,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4558,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.4372,
+"match_method": "canonical",
+"preferred_label": "Damsyik"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4233,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4023,
+"match_method": "canonical",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4023,
+"match_method": "canonical",
+"preferred_label": "Petrus"
+},
+{
+"id": "person:Ananias.2",
+"type": "person",
+"confidence": 0.3558,
+"match_method": "canonical",
+"preferred_label": "Ananias"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.3465,
+"match_method": "canonical",
+"preferred_label": "Yafo"
+},
+{
+"id": "person:Tabitha",
+"type": "person",
+"confidence": 0.2953,
+"match_method": "canonical",
+"preferred_label": "Tabita"
+},
+{
+"id": "place:Lod",
+"type": "place",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Lod"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "khusus"
+},
+{
+"id": "person:Aeneas",
+"type": "person",
+"confidence": 0.2302,
+"match_method": "canonical",
+"preferred_label": "Eneas"
+},
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 0.2256,
+"match_method": "canonical",
+"preferred_label": "Tarsus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "takut"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Sharon.2",
+"type": "place",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Sharon Plain"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Tarsus"
+},
+{
+"id": "person:Judas.4",
+"type": "person",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Yudas"
+},
+{
+"id": "place:Straight",
+"type": "place",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Lurus"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "jalan tuhan"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "group:Hellenist",
+"type": "group",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Hellenists"
+},
+{
+"id": "realia:UpstairsRoom",
+"type": "realia",
+"confidence": 0.1609,
+"match_method": "canonical",
+"preferred_label": "Upstairs Room"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1609,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Yehuda"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "tubuh"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "jemaat"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "kebenaran"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "orang pilihan"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Kaisarea"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "sorga"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "memberitakan"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "kekuasaan"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "baptisan"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "memperdamaikan"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Galilea"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "yang baik"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Yunani"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1051,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Leather"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:CityWall",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "City Wall"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+}
+]
+}
+}
+]

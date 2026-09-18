@@ -1,0 +1,432 @@
+[
+{
+"content_id": "NT318",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 9:36–42",
+"media_type": "Image",
+"index_reference": "srv acts acts 93642",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT318.png' alt='Image' width='480' /></p><p><a href='images/NT318.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1DLF2WLGbS-PjtgCURY0nFFQBDB-R5x1g&usp=drive_copy'>SRV Acts: Acts 9:36-42</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44009001",
+"start_ref_usfm": "ACT 9:1",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.507,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.4651,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4558,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.4372,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4233,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4023,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4023,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Ananias.2",
+"type": "person",
+"confidence": 0.3558,
+"match_method": "canonical",
+"preferred_label": "Ananias"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.3465,
+"match_method": "canonical",
+"preferred_label": "Joppa"
+},
+{
+"id": "person:Tabitha",
+"type": "person",
+"confidence": 0.2953,
+"match_method": "canonical",
+"preferred_label": "Tabitha"
+},
+{
+"id": "place:Lod",
+"type": "place",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Lod"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "person:Aeneas",
+"type": "person",
+"confidence": 0.2302,
+"match_method": "canonical",
+"preferred_label": "Aeneas"
+},
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 0.2256,
+"match_method": "canonical",
+"preferred_label": "Tarsus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Sharon.2",
+"type": "place",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Sharon Plain"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Tarsians"
+},
+{
+"id": "person:Judas.4",
+"type": "person",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "place:Straight",
+"type": "place",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Straight Street"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "group:Hellenist",
+"type": "group",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Hellenists"
+},
+{
+"id": "realia:UpstairsRoom",
+"type": "realia",
+"confidence": 0.1609,
+"match_method": "canonical",
+"preferred_label": "Upstairs Room"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1609,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Straightness"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Greece"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1051,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Leather"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:CityWall",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "City Wall"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+}
+]
+}
+}
+]

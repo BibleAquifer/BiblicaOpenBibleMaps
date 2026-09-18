@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT013",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Жизнь Иисуса: Путешествие Иисуса через Самарию",
+"media_type": "Image",
+"index_reference": "жизнь иисуса путешествие иисуса через самарию",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT013.png' alt='Image' width='480' /></p><p><a href='images/NT013.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43004001",
+"start_ref_usfm": "JHN 4:1",
+"end_ref": "43004054",
+"end_ref_usfm": "JHN 4:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Иисус"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4083,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.4083,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.4037,
+"match_method": "canonical",
+"preferred_label": "Галилея"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Самария"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.3917,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Иерусалим"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Samaritans"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Иудея"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Израиль"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Кана"
+},
+{
+"id": "place:Sychar",
+"type": "place",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Сихарь"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "A Person"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Иоанн"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+}
+]
+}
+}
+]

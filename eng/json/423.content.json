@@ -1,0 +1,222 @@
+[
+{
+"content_id": "OT173",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Psalm 83",
+"media_type": "Image",
+"index_reference": "wisdom  prophets psalm 83",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT173.png' alt='Image' width='480' /></p><p><a href='images/OT173.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1K448AooMPnXskbUZ6mDvjUB6mmI0RM7X/view?usp=drive_link'>Wisdom & Prophets: Psalm 83</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "19083001",
+"start_ref_usfm": "PSA 83:1",
+"end_ref": "19083019",
+"end_ref_usfm": "PSA 83:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4684,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Zalmunna",
+"type": "person",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Zalmunna"
+},
+{
+"id": "person:Sisera",
+"type": "person",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Sisera"
+},
+{
+"id": "person:Zeeb",
+"type": "person",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Zeeb"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "person:Zebah",
+"type": "person",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Zebah"
+},
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Crafty"
+},
+{
+"id": "person:Jabin.2",
+"type": "person",
+"confidence": 0.1842,
+"match_method": "canonical",
+"preferred_label": "Jabin"
+},
+{
+"id": "place:Gebal",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Gebal"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Kishon",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Kishon"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Ishmaelites"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "person:Oreb",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Oreb"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "place:En-dor",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Endor"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Amalek"
+},
+{
+"id": "person:Hagri",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Hagri"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Thistle"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Sandalwood"
+}
+]
+}
+}
+]

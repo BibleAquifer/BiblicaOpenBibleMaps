@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT153",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Josiah and Necho",
+"media_type": "Image",
+"index_reference": "historical josiah and necho",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT153.png' alt='Image' width='480' /></p><p><a href='images/OT153.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Jszd1YPIJpesyRWJuzQzFznHmig9vdH2&usp=drive_copy'>Historical: Josiah and Necho</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12023001",
+"start_ref_usfm": "2KI 23:1",
+"end_ref": "12023037",
+"end_ref_usfm": "2KI 23:37"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14036023",
+"end_ref_usfm": "2CH 36:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5672,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 0.4557,
+"match_method": "canonical",
+"preferred_label": "Josiah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4534,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4534,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.4172,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4172,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.3966,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.3966,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Jehoahaz.3",
+"type": "person",
+"confidence": 0.3948,
+"match_method": "canonical",
+"preferred_label": "Jehoahaz"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 0.3885,
+"match_method": "canonical",
+"preferred_label": "Neco"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3883,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Jehoiakim"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.3805,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.3759,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.3759,
+"match_method": "canonical",
+"preferred_label": "Asherah"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3759,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.3285,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.3262,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.3262,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.3262,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3262,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.3262,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.323,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.3207,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.3207,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.3207,
+"match_method": "canonical",
+"preferred_label": "Nebuchadnezzar"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.3207,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.3159,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 0.2701,
+"match_method": "canonical",
+"preferred_label": "Kidron"
+}
+]
+}
+}
+]

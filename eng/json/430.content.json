@@ -1,0 +1,516 @@
+[
+{
+"content_id": "OT180",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecies Against Damascus, Cush, and Egypt",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecies against damascus cush and egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT180.png' alt='Image' width='480' /></p><p><a href='images/OT180.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1quIB_bje3lnkfz1qq3r7-R5M91RIc07f/view?usp=drive_link'>Wisdom & Prophets: Prophecies Against Damascus, Cush, and Egypt</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23017001",
+"start_ref_usfm": "ISA 17:1",
+"end_ref": "23019025",
+"end_ref_usfm": "ISA 19:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.5359,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5163,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4185,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Counsel"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Utterance"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Idol",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Idol"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "place:Zoan",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Zoan"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:CityOfDestruction",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "City of Destruction"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Asherah"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "place:Aroer",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Aroer"
+},
+{
+"id": "keyterm:PalmBranchAndReed",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Palm Branch and Reed"
+},
+{
+"id": "group:Assyria",
+"type": "group",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Assyrians"
+},
+{
+"id": "keyterm:Fool",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Fool"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Memphis"
+},
+{
+"id": "keyterm:Spirit",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Necromancer"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Cush"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:RephaimValley",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Valley of Rephaim"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Image"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Fortress"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Papyrus"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Thistle"
+},
+{
+"id": "flora:Cotton",
+"type": "flora",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Cotton"
+},
+{
+"id": "realia:PruningKnife",
+"type": "realia",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Pruning Knife"
+},
+{
+"id": "realia:Harpoon",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Harpoon"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Rams Horn"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Vulture"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Reed"
+},
+{
+"id": "flora:Flax",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Flax"
+},
+{
+"id": "realia:SacredPole",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Sacred Pole"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Date Palm"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Locust"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Standard"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Casting Net"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Barley"
+}
+]
+}
+}
+]

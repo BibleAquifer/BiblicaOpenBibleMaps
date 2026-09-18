@@ -1,0 +1,250 @@
+[
+{
+"content_id": "OT143",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Zerah’s Invasion",
+"media_type": "Image",
+"index_reference": "historical zerahs invasion",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT143.png' alt='Image' width='480' /></p><p><a href='images/OT143.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1klRo4S-Ii54xogx213843qvF_z_olp9R&usp=drive_copy'>Historical: Zerah’s Invasion</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "14014001",
+"start_ref_usfm": "2CH 14:1",
+"end_ref": "14014014",
+"end_ref_usfm": "2CH 14:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6071,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "Asa"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5429,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.5429,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.3464,
+"match_method": "canonical",
+"preferred_label": "Ethiopians"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 0.3464,
+"match_method": "canonical",
+"preferred_label": "Ethiopia"
+},
+{
+"id": "place:Mareshah",
+"type": "place",
+"confidence": 0.2786,
+"match_method": "canonical",
+"preferred_label": "Mareshah"
+},
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 0.2643,
+"match_method": "canonical",
+"preferred_label": "Gerar"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.2043,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "place:ZephathahValley",
+"type": "place",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Valley of Zephathah"
+},
+{
+"id": "person:Zerah.5",
+"type": "person",
+"confidence": 0.1964,
+"match_method": "canonical",
+"preferred_label": "Zerah"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Asherah"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"confidence": 0.1821,
+"match_method": "canonical",
+"preferred_label": "Abijah"
+},
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Large Shield"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Spear"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Small Shield"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:SacredPole",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Sacred Pole"
+},
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Sacred Pillar"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Tower"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"confidence": 0.1221,
+"match_method": "canonical",
+"preferred_label": "Fortification"
+}
+]
+}
+}
+]

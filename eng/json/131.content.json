@@ -1,0 +1,474 @@
+[
+{
+"content_id": "NT211",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 6:17–18",
+"media_type": "Image",
+"index_reference": "srv luke luke 61718",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT211.png' alt='Image' width='480' /></p><p><a href='images/NT211.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1On0IAgByfFjvlKB-g2RLy_tdf5r2Q27Q&usp=drive_copy'>SRV Luke: Luke 6:17-18</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42006001",
+"start_ref_usfm": "LUK 6:1",
+"end_ref": "42006049",
+"end_ref_usfm": "LUK 6:49"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.4051,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3959,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3959,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"confidence": 0.2816,
+"match_method": "canonical",
+"preferred_label": "Do Good"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"confidence": 0.2816,
+"match_method": "canonical",
+"preferred_label": "Happy"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"confidence": 0.2776,
+"match_method": "canonical",
+"preferred_label": "Disaster"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.2776,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2776,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2776,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.2776,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2184,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2184,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.2184,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.2184,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.2184,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Compassionate",
+"type": "keyterm",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Compassionate"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Condemn"
+},
+{
+"id": "person:Simon.2",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Matthew"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Andrew"
+},
+{
+"id": "person:Alphaeus",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Alphaeus"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Bartholomew"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Thomas"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Beam",
+"type": "realia",
+"confidence": 0.1584,
+"match_method": "canonical",
+"preferred_label": "Beam"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.1584,
+"match_method": "canonical",
+"preferred_label": "Foundation"
+},
+{
+"id": "realia:Storeroom",
+"type": "realia",
+"confidence": 0.1033,
+"match_method": "canonical",
+"preferred_label": "Storeroom"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1033,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Thistle"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Boxthorn"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Fig"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Acacia"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Vine"
+}
+]
+}
+}
+]

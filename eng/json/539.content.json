@@ -1,0 +1,173 @@
+[
+{
+"content_id": "OT317",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Exodus: Exod. 18:1–12, Exod. 25:23–29",
+"media_type": "Image",
+"index_reference": "srv exodus exod 18112 exod 252329",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT317.png' alt='Image' width='480' /></p><p><a href='images/OT317.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=19fwXWemCdy02gP09L03o6jja62zLgBxk&usp=drive_copy'>SRV Exodus: Exod. 18:1-12, Exod. 25:23-29</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02018001",
+"start_ref_usfm": "EXO 18:1",
+"end_ref": "02018027",
+"end_ref_usfm": "EXO 18:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.6,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5667,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.4741,
+"match_method": "canonical",
+"preferred_label": "Jethro"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4333,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3667,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "person:Eliezer.3",
+"type": "person",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Eliezer"
+},
+{
+"id": "person:Gershom",
+"type": "person",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Gershom"
+},
+{
+"id": "person:Zipporah",
+"type": "person",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Zipporah"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Tent"
+}
+]
+}
+}
+]

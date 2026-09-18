@@ -1,0 +1,242 @@
+[
+{
+"content_id": "NT057",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "保罗与早期教会：提摩太书",
+"media_type": "Image",
+"index_reference": "保罗与早期教会提摩太书",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT057.png' alt='Image' width='480' /></p><p><a href='images/NT057.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "54001001",
+"start_ref_usfm": "1TI 1:1",
+"end_ref": "54006021",
+"end_ref_usfm": "1TI 6:21"
+},
+{
+"start_ref": "55001001",
+"start_ref_usfm": "2TI 1:1",
+"end_ref": "55004022",
+"end_ref_usfm": "2TI 4:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4395,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4281,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4189,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.3798,
+"match_method": "canonical",
+"preferred_label": "Faithfulness"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3776,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3753,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3753,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.3753,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3707,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3707,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.3707,
+"match_method": "canonical",
+"preferred_label": "In Christ"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3684,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.3661,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Conscience"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.3102,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.3102,
+"match_method": "canonical",
+"preferred_label": "Profane"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Savior"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Clean"
+}
+]
+}
+}
+]

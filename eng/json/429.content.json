@@ -1,0 +1,348 @@
+[
+{
+"content_id": "OT179",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecy Against Moab",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecy against moab",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT179.png' alt='Image' width='480' /></p><p><a href='images/OT179.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1BCYR3qc5s-4xoUTH-Jodzv8xpjAK7Eui/view?usp=drive_link'>Wisdom & Prophets: Prophecy Against Moab</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23015001",
+"start_ref_usfm": "ISA 15:1",
+"end_ref": "23016014",
+"end_ref_usfm": "ISA 16:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.6239,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3183,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "place:Kir",
+"type": "place",
+"confidence": 0.3087,
+"match_method": "canonical",
+"preferred_label": "Kir"
+},
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 0.3087,
+"match_method": "canonical",
+"preferred_label": "Heshbon"
+},
+{
+"id": "place:Elealeh",
+"type": "place",
+"confidence": 0.2478,
+"match_method": "canonical",
+"preferred_label": "Elealeh"
+},
+{
+"id": "place:Sibmah",
+"type": "place",
+"confidence": 0.2478,
+"match_method": "canonical",
+"preferred_label": "Sibmah"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jazer",
+"type": "place",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Jazer"
+},
+{
+"id": "place:Dibon",
+"type": "place",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Dibon"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.1791,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.1791,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "place:Jahaz",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Jahaz"
+},
+{
+"id": "place:Bajith",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Bajith"
+},
+{
+"id": "place:Nebo",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Nebo"
+},
+{
+"id": "place:Horonaim",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Horonaim"
+},
+{
+"id": "place:Nimrim",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Waters of Nimrim"
+},
+{
+"id": "place:Dibon.3",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Dimon"
+},
+{
+"id": "place:Eglaim",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Eglaim"
+},
+{
+"id": "place:Sela",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Sela"
+},
+{
+"id": "place:Luhith",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Luhith"
+},
+{
+"id": "place:Medeba",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Medeba"
+},
+{
+"id": "place:BrookOfTheWillows",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Brook of the Willows"
+},
+{
+"id": "place:Zoar",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Zoar"
+},
+{
+"id": "place:Beer-elim",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Beer-elim"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Ar",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Ar"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Utterance"
+},
+{
+"id": "place:Arnon",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Arnon"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Counsel"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:RaisinCake",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Raisin Cake"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Lute"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Poplar",
+"type": "flora",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Poplar"
+},
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Sackcloth"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "flora:Willow",
+"type": "flora",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Willow"
+},
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Green Vegetation"
+}
+]
+}
+}
+]

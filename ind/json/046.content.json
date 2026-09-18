@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT054",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Filipi",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula filipi",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT054.png' alt='Image' width='480' /></p><p><a href='images/NT054.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50004023",
+"end_ref_usfm": "PHP 4:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.549,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4409,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.3933,
+"match_method": "canonical",
+"preferred_label": "dalam kristus"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "hati"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "injil"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"confidence": 0.3822,
+"match_method": "canonical",
+"preferred_label": "memikirkan"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.376,
+"match_method": "canonical",
+"preferred_label": "kemuliaan"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.376,
+"match_method": "canonical",
+"preferred_label": "membujuk"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.376,
+"match_method": "canonical",
+"preferred_label": "tubuh"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.376,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.3736,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3716,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.3716,
+"match_method": "canonical",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3173,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3173,
+"match_method": "canonical",
+"preferred_label": "kasihi"
+},
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "persekutuan"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "harapan"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "hukum"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "khusus"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "imamat"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "roh"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "murni"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "hidup"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.263,
+"match_method": "canonical",
+"preferred_label": "memperdamaikan"
+},
+{
+"id": "person:Epaphroditus",
+"type": "person",
+"confidence": 0.2144,
+"match_method": "canonical",
+"preferred_label": "Epafroditus"
+}
+]
+}
+}
+]

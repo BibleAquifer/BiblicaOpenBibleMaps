@@ -1,0 +1,432 @@
+[
+{
+"content_id": "NT041",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Павел и ранняя Церковь: Второе миссионерское путешествие Павла (Часть 1)",
+"media_type": "Image",
+"index_reference": "павел и ранняя церковь второе миссионерское путешествие павла часть 1",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT041.png' alt='Image' width='480' /></p><p><a href='images/NT041.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44015001",
+"start_ref_usfm": "ACT 15:1",
+"end_ref": "44015041",
+"end_ref_usfm": "ACT 15:41"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4707,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4378,
+"match_method": "canonical",
+"preferred_label": "Павел"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.4378,
+"match_method": "canonical",
+"preferred_label": "Варнава"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.4268,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.3488,
+"match_method": "canonical",
+"preferred_label": "Сила"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.3488,
+"match_method": "canonical",
+"preferred_label": "Антиохия"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3439,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.3439,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.2976,
+"match_method": "canonical",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2829,
+"match_method": "canonical",
+"preferred_label": "Моисей"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2829,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2829,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.2268,
+"match_method": "canonical",
+"preferred_label": "Марк"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.2268,
+"match_method": "canonical",
+"preferred_label": "Киликия"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Иерусалим"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Пётр"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Святой Дух"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1659,
+"match_method": "canonical",
+"preferred_label": "Иудея"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 0.1659,
+"match_method": "canonical",
+"preferred_label": "Иаков"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.1659,
+"match_method": "canonical",
+"preferred_label": "Финикия"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Памфилия"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "keyterm:KnowerOfHearts",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Knower of Hearts"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Beloved"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Давид"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
+},
+{
+"id": "group:GenericMales",
+"type": "group",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Men"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Киттим"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Самария"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.1059,
+"match_method": "canonical",
+"preferred_label": "Yoke"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.101,
+"match_method": "canonical",
+"preferred_label": "Image"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.101,
+"match_method": "canonical",
+"preferred_label": "Tabernacle"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.101,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+}
+]
+}
+}
+]

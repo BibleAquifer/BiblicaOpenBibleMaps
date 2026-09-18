@@ -1,0 +1,376 @@
+[
+{
+"content_id": "OT136",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: The Reign of Jeroboam II",
+"media_type": "Image",
+"index_reference": "historical the reign of jeroboam ii",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT136.png' alt='Image' width='480' /></p><p><a href='images/OT136.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13smyrvM8voX_dCtMpHc95mrgeLYiUvrZ&usp=drive_copy'>Historical: The Reign of Jeroboam II</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5983,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5517,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.5517,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Amaziah",
+"type": "person",
+"confidence": 0.5121,
+"match_method": "canonical",
+"preferred_label": "Amaziah"
+},
+{
+"id": "person:Joash.4",
+"type": "person",
+"confidence": 0.5121,
+"match_method": "canonical",
+"preferred_label": "Joash"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4586,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jeroboam.2",
+"type": "person",
+"confidence": 0.4414,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:Joash.3",
+"type": "person",
+"confidence": 0.4345,
+"match_method": "canonical",
+"preferred_label": "Joash"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3621,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Jehoahaz.2",
+"type": "person",
+"confidence": 0.3034,
+"match_method": "canonical",
+"preferred_label": "Jehoahaz"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.2966,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Hamath"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Beth-shemesh"
+},
+{
+"id": "place:CornerGate",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Corner Gate"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "place:SaltValley",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Valley of Salt"
+},
+{
+"id": "place:Gath-hepher",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Gath-hepher"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Jonah"
+},
+{
+"id": "person:Amittai",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Amittai"
+},
+{
+"id": "place:SaltSea",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Dead Sea"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ephraim Gate"
+},
+{
+"id": "person:Jehoaddan",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Jehoaddan"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Lachish"
+},
+{
+"id": "person:Zechariah.3",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Zechariah"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Edomites"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Uzziah"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Lebanon"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:Jehu.2",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Jehu"
+},
+{
+"id": "place:Sela",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Sela"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Elath",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Elath"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Nebat"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Ahaziah"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Thistle"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Cubit"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Cedar"
+}
+]
+}
+}
+]

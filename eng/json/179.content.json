@@ -1,0 +1,404 @@
+[
+{
+"content_id": "NT273",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV John: John 19:17–29",
+"media_type": "Image",
+"index_reference": "srv john john 191729",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT273.png' alt='Image' width='480' /></p><p><a href='images/NT273.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1i-EIaIVbWp--uiQ5zqioW3lW8FTA_OQj&usp=drive_copy'>SRV John: John 19:17-29</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43019001",
+"start_ref_usfm": "JHN 19:1",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5429,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 0.494,
+"match_method": "canonical",
+"preferred_label": "Pilate"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4679,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.434,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2821,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2821,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 0.2262,
+"match_method": "canonical",
+"preferred_label": "Tiberius"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Aloes",
+"type": "realia",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Aloes"
+},
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 0.1702,
+"match_method": "canonical",
+"preferred_label": "Nicodemus"
+},
+{
+"id": "person:Joseph.6",
+"type": "person",
+"confidence": 0.1702,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.1662,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "realia:SourWine",
+"type": "realia",
+"confidence": 0.1662,
+"match_method": "canonical",
+"preferred_label": "Sour Wine"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Golgotha"
+},
+{
+"id": "place:Gabbatha",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Gabbatha"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "place:Arimathea",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Arimathea"
+},
+{
+"id": "person:Cleopas",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Cleopas"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Boxthorn"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Cloak"
+},
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Acacia"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Mary Magdalene"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "keyterm:Ought",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Obligated"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Priests"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "flora:Hyssop",
+"type": "flora",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Hyssop"
+},
+{
+"id": "realia:Myrrh",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Myrrh"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Spear"
+},
+{
+"id": "flora:Aloes",
+"type": "flora",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Aloes"
+},
+{
+"id": "realia:Pound",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Pound"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Palace"
+},
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Linen"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Judgment Seat"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Myrrh"
+}
+]
+}
+}
+]

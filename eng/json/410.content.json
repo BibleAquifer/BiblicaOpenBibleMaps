@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT160",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Miracles of Elisha (Part 2)",
+"media_type": "Image",
+"index_reference": "historical miracles of elisha part 2",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT160.png' alt='Image' width='480' /></p><p><a href='images/OT160.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Vaxwle3jXh4IoTt-ycWUW6Xpk10P2R_h&usp=drive_copy'>Historical: Miracles of Elisha (Part 2)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12008029",
+"end_ref_usfm": "2KI 8:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5037,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 0.4433,
+"match_method": "canonical",
+"preferred_label": "Elisha"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4323,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Syria",
+"type": "group",
+"confidence": 0.4159,
+"match_method": "canonical",
+"preferred_label": "Syrians"
+},
+{
+"id": "person:Hazael",
+"type": "person",
+"confidence": 0.3957,
+"match_method": "canonical",
+"preferred_label": "Hazael"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3884,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.3884,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"confidence": 0.3878,
+"match_method": "canonical",
+"preferred_label": "Jehoram"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 0.3829,
+"match_method": "canonical",
+"preferred_label": "Ahab"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.3829,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.3339,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"confidence": 0.3293,
+"match_method": "canonical",
+"preferred_label": "Ahaziah"
+},
+{
+"id": "person:Joram.3",
+"type": "person",
+"confidence": 0.3244,
+"match_method": "canonical",
+"preferred_label": "Joram"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.3229,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3174,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Ben-hadad.2",
+"type": "person",
+"confidence": 0.2738,
+"match_method": "canonical",
+"preferred_label": "Ben-hadad"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.2665,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2665,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2665,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "group:GenericProphets",
+"type": "group",
+"confidence": 0.2159,
+"match_method": "canonical",
+"preferred_label": "Prophets"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 0.2159,
+"match_method": "canonical",
+"preferred_label": "Ramoth-gilead"
+},
+{
+"id": "person:Gehazi",
+"type": "person",
+"confidence": 0.2134,
+"match_method": "canonical",
+"preferred_label": "Gehazi"
+},
+{
+"id": "realia:Seah",
+"type": "realia",
+"confidence": 0.2113,
+"match_method": "canonical",
+"preferred_label": "Seah"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.211,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.211,
+"match_method": "canonical",
+"preferred_label": "Infectious Skin Disease"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.211,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.211,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.211,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.211,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.211,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+}
+]
+}
+}
+]

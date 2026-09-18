@@ -1,0 +1,299 @@
+[
+{
+"content_id": "OT024",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Joseph Sold Into Egypt",
+"media_type": "Image",
+"index_reference": "pentateuch joseph sold into egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT024.png' alt='Image' width='480' /></p><p><a href='images/OT024.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1gO-eKiTq3oLUMGkm-9KcjeTwsxL-Fbyi&usp=drive_copy'>Pentateuch: Joseph Sold Into Egypt</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037001",
+"start_ref_usfm": "GEN 37:1",
+"end_ref": "01037036",
+"end_ref_usfm": "GEN 37:36"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.475,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4125,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 0.3525,
+"match_method": "canonical",
+"preferred_label": "Pit"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.2931,
+"match_method": "canonical",
+"preferred_label": "Ishmaelites"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.2931,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2875,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.2875,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.2875,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Midianites"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Potiphar"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "place:Dothan",
+"type": "place",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Dothan"
+},
+{
+"id": "place:HebronValley",
+"type": "place",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Valley of Hebron"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Jackal"
+},
+{
+"id": "fauna:Hyena",
+"type": "fauna",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Hyena"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Bear"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Be Zealous"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Hell"
+},
+{
+"id": "person:GenericMale",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "A Man"
+},
+{
+"id": "person:Zilpah",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Zilpah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Bilhah"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "flora:Liquidambar",
+"type": "flora",
+"confidence": 0.1081,
+"match_method": "canonical",
+"preferred_label": "Liquidambar"
+},
+{
+"id": "flora:GumTragacanth",
+"type": "flora",
+"confidence": 0.1081,
+"match_method": "canonical",
+"preferred_label": "Gum Tragacanth"
+},
+{
+"id": "flora:Ladanum",
+"type": "flora",
+"confidence": 0.1081,
+"match_method": "canonical",
+"preferred_label": "Rock Rose"
+},
+{
+"id": "realia:Sheaf",
+"type": "realia",
+"confidence": 0.1081,
+"match_method": "canonical",
+"preferred_label": "Sheaf"
+},
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.1081,
+"match_method": "canonical",
+"preferred_label": "Sackcloth"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Money"
+}
+]
+}
+}
+]

@@ -1,0 +1,313 @@
+[
+{
+"content_id": "OT045",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Achan’s Sin",
+"media_type": "Image",
+"index_reference": "historical achans sin",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT045.png' alt='Image' width='480' /></p><p><a href='images/OT045.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1jVOetMlQdDlQppTeWZoxreKc7IlQv0sJ&usp=drive_copy'>Historical: Achan’s Sin</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "06007001",
+"start_ref_usfm": "JOS 7:1",
+"end_ref": "06007026",
+"end_ref_usfm": "JOS 7:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.5577,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Achan",
+"type": "person",
+"confidence": 0.4981,
+"match_method": "canonical",
+"preferred_label": "Achan"
+},
+{
+"id": "keyterm:SomethingDevotedToGod",
+"type": "keyterm",
+"confidence": 0.4442,
+"match_method": "canonical",
+"preferred_label": "Something Devoted to God"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 0.3769,
+"match_method": "canonical",
+"preferred_label": "Ai"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Zabdi",
+"type": "person",
+"confidence": 0.3173,
+"match_method": "canonical",
+"preferred_label": "Zabdi"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "person:Zerah.3",
+"type": "person",
+"confidence": 0.3019,
+"match_method": "canonical",
+"preferred_label": "Zerah"
+},
+{
+"id": "person:Carmi.3",
+"type": "person",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Carmi"
+},
+{
+"id": "place:AchorValley",
+"type": "place",
+"confidence": 0.2423,
+"match_method": "canonical",
+"preferred_label": "Valley of Achor"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.2419,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1823,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "group:Zerah",
+"type": "group",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Zerahites"
+},
+{
+"id": "place:Beth-aven",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Beth-aven"
+},
+{
+"id": "place:Shebarim",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Shebarim"
+},
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Foolish"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:Praise",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Praise"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Shinar"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "person:Zerah.6",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Zerah"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Be Unfaithful"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "realia:Shekel",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Shekel"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Goat"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT175",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Song of Songs",
+"media_type": "Image",
+"index_reference": "wisdom  prophets song of songs",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT175.png' alt='Image' width='480' /></p><p><a href='images/OT175.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1m2jb0mu4Dwj7vgH_UAU4j4I3mNRSOnQm/view?usp=drive_link'>Wisdom & Prophets: Song of Songs</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "22001001",
+"start_ref_usfm": "SNG 1:1",
+"end_ref": "22008014",
+"end_ref_usfm": "SNG 8:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.4154,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.3769,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 0.3731,
+"match_method": "canonical",
+"preferred_label": "Lebanon"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3592,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "flora:Lily",
+"type": "flora",
+"confidence": 0.3208,
+"match_method": "canonical",
+"preferred_label": "Lily"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.3208,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.3169,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "fauna:Gazelle",
+"type": "fauna",
+"confidence": 0.3169,
+"match_method": "canonical",
+"preferred_label": "Gazelle"
+},
+{
+"id": "flora:BalsamTree",
+"type": "flora",
+"confidence": 0.3169,
+"match_method": "canonical",
+"preferred_label": "Balsam Tree"
+},
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 0.3169,
+"match_method": "canonical",
+"preferred_label": "Myrrh"
+},
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 0.3148,
+"match_method": "canonical",
+"preferred_label": "Pomegranate"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3131,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.3131,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Deer"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "flora:AppleTree",
+"type": "flora",
+"confidence": 0.2571,
+"match_method": "canonical",
+"preferred_label": "Apple"
+},
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 0.2554,
+"match_method": "canonical",
+"preferred_label": "Veil"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.2554,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Mount Hermon"
+},
+{
+"id": "keyterm:Fairness",
+"type": "keyterm",
+"confidence": 0.2077,
+"match_method": "canonical",
+"preferred_label": "Fairness"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.2077,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "flora:Henna",
+"type": "flora",
+"confidence": 0.2067,
+"match_method": "canonical",
+"preferred_label": "Henna"
+},
+{
+"id": "flora:Nard",
+"type": "flora",
+"confidence": 0.2032,
+"match_method": "canonical",
+"preferred_label": "Nard"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.2015,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"confidence": 0.2015,
+"match_method": "canonical",
+"preferred_label": "Frankincense"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"confidence": 0.2015,
+"match_method": "canonical",
+"preferred_label": "Standard"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.2015,
+"match_method": "canonical",
+"preferred_label": "Cedar"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.2015,
+"match_method": "canonical",
+"preferred_label": "Tower"
+}
+]
+}
+}
+]

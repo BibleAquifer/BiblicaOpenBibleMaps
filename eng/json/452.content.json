@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT202",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Ezekiel’s Vision by the Kebar",
+"media_type": "Image",
+"index_reference": "wisdom  prophets ezekiels vision by the kebar",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT202.png' alt='Image' width='480' /></p><p><a href='images/OT202.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1Rhm-KF_1cqdbwtEDeENa78kdwS5NNyUR/view?usp=drive_link'>Wisdom & Prophets: Ezekiel’s Vision by the Kebar</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26001001",
+"start_ref_usfm": "EZK 1:1",
+"end_ref": "26003027",
+"end_ref_usfm": "EZK 3:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4331,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3915,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Chebar",
+"type": "place",
+"confidence": 0.3338,
+"match_method": "canonical",
+"preferred_label": "Kebar"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.3315,
+"match_method": "canonical",
+"preferred_label": "Wagon"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3277,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.2677,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2169,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Ezekiel"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "place:Tel-abib",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Tel-abib"
+},
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Vision"
+},
+{
+"id": "person:Buzi",
+"type": "person",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Buzi"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Chaldea"
+},
+{
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Lamentation"
+},
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Jehoiachin"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1538,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Wheel",
+"type": "realia",
+"confidence": 0.1,
+"match_method": "canonical",
+"preferred_label": "Wheel"
+},
+{
+"id": "flora:Nettle",
+"type": "flora",
+"confidence": 0.1,
+"match_method": "canonical",
+"preferred_label": "Nettle"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.0969,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 0.0969,
+"match_method": "canonical",
+"preferred_label": "Throne"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.0969,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 0.0969,
+"match_method": "canonical",
+"preferred_label": "Vulture"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.0969,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"confidence": 0.0969,
+"match_method": "canonical",
+"preferred_label": "Rope"
+},
+{
+"id": "fauna:Scorpion",
+"type": "fauna",
+"confidence": 0.0969,
+"match_method": "canonical",
+"preferred_label": "Scorpion"
+}
+]
+}
+}
+]

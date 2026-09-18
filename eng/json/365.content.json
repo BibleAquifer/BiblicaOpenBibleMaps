@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT115",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Solomon and Adonijah",
+"media_type": "Image",
+"index_reference": "historical solomon and adonijah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT115.png' alt='Image' width='480' /></p><p><a href='images/OT115.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1WG1XK0ShrhYPzThm4B2EzMy-hC7GP77p&usp=drive_copy'>Historical: Solomon and Adonijah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11001001",
+"start_ref_usfm": "1KI 1:1",
+"end_ref": "11001053",
+"end_ref_usfm": "1KI 1:53"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.5283,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "person:Adonijah",
+"type": "person",
+"confidence": 0.4849,
+"match_method": "canonical",
+"preferred_label": "Adonijah"
+},
+{
+"id": "person:Nathan.2",
+"type": "person",
+"confidence": 0.4472,
+"match_method": "canonical",
+"preferred_label": "Nathan"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.4434,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"confidence": 0.4217,
+"match_method": "canonical",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 0.417,
+"match_method": "canonical",
+"preferred_label": "Benaiah"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4094,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"confidence": 0.4047,
+"match_method": "canonical",
+"preferred_label": "Jehoiada"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4009,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 0.3962,
+"match_method": "canonical",
+"preferred_label": "Bathsheba"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.3925,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.334,
+"match_method": "canonical",
+"preferred_label": "Abiathar"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 0.2755,
+"match_method": "canonical",
+"preferred_label": "Joab"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"confidence": 0.2755,
+"match_method": "canonical",
+"preferred_label": "Smear"
+},
+{
+"id": "place:Gihon",
+"type": "place",
+"confidence": 0.2755,
+"match_method": "canonical",
+"preferred_label": "Gihon"
+},
+{
+"id": "person:Abishag",
+"type": "person",
+"confidence": 0.2245,
+"match_method": "canonical",
+"preferred_label": "Abishag"
+},
+{
+"id": "group:Shunammites",
+"type": "group",
+"confidence": 0.2245,
+"match_method": "canonical",
+"preferred_label": "Shunammites"
+},
+{
+"id": "person:Haggith",
+"type": "person",
+"confidence": 0.2208,
+"match_method": "canonical",
+"preferred_label": "Haggith"
+},
+{
+"id": "person:Jonathan.4",
+"type": "person",
+"confidence": 0.2208,
+"match_method": "canonical",
+"preferred_label": "Jonathan"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.2192,
+"match_method": "canonical",
+"preferred_label": "Rams Horn"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Cherethites"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "group:Pelethites",
+"type": "group",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Pelethites"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Mule"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+}
+]
+}
+}
+]

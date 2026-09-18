@@ -1,0 +1,201 @@
+[
+{
+"content_id": "OT292",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Genesis: Gen. 48:1–21",
+"media_type": "Image",
+"index_reference": "srv genesis gen 48121",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT292.png' alt='Image' width='480' /></p><p><a href='images/OT292.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1u0P3BCSF5kLYMujDvIFko7cjwUdy1s7Z&usp=drive_copy'>SRV Genesis: Gen. 48:1-21</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01048001",
+"start_ref_usfm": "GEN 48:1",
+"end_ref": "01048022",
+"end_ref_usfm": "GEN 48:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.5955,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5341,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.4818,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.4818,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4727,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.4523,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Paddan-aram"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Rachel"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "Goat"
+}
+]
+}
+}
+]

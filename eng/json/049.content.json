@@ -1,0 +1,314 @@
+[
+{
+"content_id": "NT050",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and the Early Church: Epistles Overview",
+"media_type": "Image",
+"index_reference": "paul and the early church epistles overview",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT050.png' alt='Image' width='480' /></p><p><a href='images/NT050.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1___45Os83UQfrQbah1NIB_IpoHkszXzZ&usp=drive_copy'>Paul and the Early Church: Epistles Overview</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "45001001",
+"start_ref_usfm": "ROM 1:1",
+"end_ref": "45016027",
+"end_ref_usfm": "ROM 16:27"
+},
+{
+"start_ref": "46001001",
+"start_ref_usfm": "1CO 1:1",
+"end_ref": "46016024",
+"end_ref_usfm": "1CO 16:24"
+},
+{
+"start_ref": "47001001",
+"start_ref_usfm": "2CO 1:1",
+"end_ref": "47013013",
+"end_ref_usfm": "2CO 13:13"
+},
+{
+"start_ref": "48001001",
+"start_ref_usfm": "GAL 1:1",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50004023",
+"end_ref_usfm": "PHP 4:23"
+},
+{
+"start_ref": "51001001",
+"start_ref_usfm": "COL 1:1",
+"end_ref": "51004018",
+"end_ref_usfm": "COL 4:18"
+},
+{
+"start_ref": "52001001",
+"start_ref_usfm": "1TH 1:1",
+"end_ref": "52005028",
+"end_ref_usfm": "1TH 5:28"
+},
+{
+"start_ref": "53001001",
+"start_ref_usfm": "2TH 1:1",
+"end_ref": "53003018",
+"end_ref_usfm": "2TH 3:18"
+},
+{
+"start_ref": "54001001",
+"start_ref_usfm": "1TI 1:1",
+"end_ref": "54006021",
+"end_ref_usfm": "1TI 6:21"
+},
+{
+"start_ref": "55001001",
+"start_ref_usfm": "2TI 1:1",
+"end_ref": "55004022",
+"end_ref_usfm": "2TI 4:22"
+},
+{
+"start_ref": "56001001",
+"start_ref_usfm": "TIT 1:1",
+"end_ref": "56003015",
+"end_ref_usfm": "TIT 3:15"
+},
+{
+"start_ref": "60001001",
+"start_ref_usfm": "1PE 1:1",
+"end_ref": "60005014",
+"end_ref_usfm": "1PE 5:14"
+},
+{
+"start_ref": "61001001",
+"start_ref_usfm": "2PE 1:1",
+"end_ref": "61003018",
+"end_ref_usfm": "2PE 3:18"
+},
+{
+"start_ref": "66001001",
+"start_ref_usfm": "REV 1:1",
+"end_ref": "66022021",
+"end_ref_usfm": "REV 22:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4663,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4403,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3828,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3825,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3777,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3701,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3685,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.3681,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3678,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3674,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.3661,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.3652,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3648,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3646,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3641,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.3631,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.363,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3623,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.3621,
+"match_method": "canonical",
+"preferred_label": "In Christ"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3614,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3595,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.3595,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3595,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.3591,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3587,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.3579,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+}
+]
+}
+}
+]

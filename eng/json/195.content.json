@@ -1,0 +1,383 @@
+[
+{
+"content_id": "NT313",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 8:26–39",
+"media_type": "Image",
+"index_reference": "srv acts acts 82639",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT313.png' alt='Image' width='480' /></p><p><a href='images/NT313.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1o4JSvJSUfWDXZUSR7kiiF5UozbQYFogs&usp=drive_copy'>SRV Acts: Acts 8:26-39</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44008001",
+"start_ref_usfm": "ACT 8:1",
+"end_ref": "44008040",
+"end_ref_usfm": "ACT 8:40"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.5112,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.4175,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4113,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.4113,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.345,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.345,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "person:Simon.8",
+"type": "person",
+"confidence": 0.2987,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "person:GenericOfficial",
+"type": "person",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Public Official"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.2288,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1675,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Gaza"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Ethiopians"
+},
+{
+"id": "place:Ashdod",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Ashdod"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Ethiopia"
+},
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Stephen"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Unjust Deed"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Straightness",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Straightness"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Samaritans"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Temple"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT012",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "The Life of Jesus: Jesus' First Journey from Galilee to Jerusalem",
+"media_type": "Image",
+"index_reference": "life of jesus jesus first journey from galilee to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT012.png' alt='Image' width='480' /></p><p><a href='images/NT012.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ngX2hcH8Is6LJ9fEliI7k1qYE9buDlH_&usp=drive_copy'>The Life of Jesus: Jesus' First Journey from Galilee to Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43003036",
+"end_ref_usfm": "JHN 3:36"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4607,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4311,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4197,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4016,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4016,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3943,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.3869,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.3449,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.3328,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3295,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "Nicodemus"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Cana"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.2121,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "realia:StoneJar",
+"type": "realia",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Stone Jar"
+},
+{
+"id": "keyterm:Heavenly",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Heavenly"
+}
+]
+}
+}
+]

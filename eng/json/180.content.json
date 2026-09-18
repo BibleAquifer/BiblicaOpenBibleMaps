@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT274",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV John: All John Sites (Levant)",
+"media_type": "Image",
+"index_reference": "srv john all john sites levant",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT274.png' alt='Image' width='480' /></p><p><a href='images/NT274.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=14l5e2QtE44lExfr_DJg6RvIix75vMCiS&usp=drive_copy'>SRV John: All John Sites (Levant)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43001001",
+"start_ref_usfm": "JHN 1:1",
+"end_ref": "43021025",
+"end_ref_usfm": "JHN 21:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4808,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4278,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3932,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3876,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3843,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3823,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3755,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3681,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.3676,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3661,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.363,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.3607,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Pilate"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3597,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.3592,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3587,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3584,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3579,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3574,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.3572,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.3569,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.3564,
+"match_method": "canonical",
+"preferred_label": "Written"
+}
+]
+}
+}
+]

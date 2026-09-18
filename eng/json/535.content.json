@@ -1,0 +1,159 @@
+[
+{
+"content_id": "OT313",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Exodus: Exod. 14:15–31, Exod. 25:1–8",
+"media_type": "Image",
+"index_reference": "srv exodus exod 141531 exod 2518",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT313.png' alt='Image' width='480' /></p><p><a href='images/OT313.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=192RQiuXEt8kcXdJa07jDpNOQ6WXuD2Ug&usp=drive_copy'>SRV Exodus: Exod. 14:15-31, Exod. 25:1-8</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014031",
+"end_ref_usfm": "EXO 14:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.6258,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5823,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5532,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.4952,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.4806,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4661,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.4271,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "place:Baal-zephon",
+"type": "place",
+"confidence": 0.2419,
+"match_method": "canonical",
+"preferred_label": "Baal-zephon"
+},
+{
+"id": "place:Pi-hahiroth",
+"type": "place",
+"confidence": 0.2355,
+"match_method": "canonical",
+"preferred_label": "Pi-hahiroth"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "place:Migdol",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Migdol"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Wagon"
+}
+]
+}
+}
+]

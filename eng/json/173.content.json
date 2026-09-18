@@ -1,0 +1,278 @@
+[
+{
+"content_id": "NT267",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV John: John 10:22–41",
+"media_type": "Image",
+"index_reference": "srv john john 102241",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT267.png' alt='Image' width='480' /></p><p><a href='images/NT267.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1dC6ksuo-oMCagA6MGs4pT-MyDDDMBQx7&usp=drive_copy'>SRV John: John 10:22-41</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43010001",
+"start_ref_usfm": "JHN 10:1",
+"end_ref": "43010042",
+"end_ref_usfm": "JHN 10:42"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4786,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4036,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.4036,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3436,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.3436,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3429,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:HiredWorker",
+"type": "keyterm",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Hired Worker"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.2262,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Sheepfold",
+"type": "realia",
+"confidence": 0.1662,
+"match_method": "canonical",
+"preferred_label": "Sheepfold"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Consecration"
+},
+{
+"id": "realia:Porch",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Porch"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Wolf"
+}
+]
+}
+}
+]

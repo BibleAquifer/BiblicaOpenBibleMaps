@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT027",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: The Deaths of Jacob and Joseph",
+"media_type": "Image",
+"index_reference": "pentateuch the deaths of jacob and joseph",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT027.png' alt='Image' width='480' /></p><p><a href='images/OT027.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=138PZP_mX2K5ehrXEhB_sBmMdh2t0o72C&usp=drive_copy'>Pentateuch: The Deaths of Jacob and Joseph</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01048001",
+"start_ref_usfm": "GEN 48:1",
+"end_ref": "01050026",
+"end_ref_usfm": "GEN 50:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.5111,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4556,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4222,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.3944,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.3914,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.3914,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3889,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.3222,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2691,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.2667,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.2667,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Ephron.2",
+"type": "person",
+"confidence": 0.2667,
+"match_method": "canonical",
+"preferred_label": "Ephron"
+},
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 0.221,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Machpelah",
+"type": "place",
+"confidence": 0.216,
+"match_method": "canonical",
+"preferred_label": "Machpelah"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.2136,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "place:Atad",
+"type": "place",
+"confidence": 0.2136,
+"match_method": "canonical",
+"preferred_label": "Atad"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"confidence": 0.2111,
+"match_method": "canonical",
+"preferred_label": "Mamre"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.2111,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2111,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2111,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.2111,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.2067,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2067,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.2067,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "person:Shiloh",
+"type": "person",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Leah"
+}
+]
+}
+}
+]

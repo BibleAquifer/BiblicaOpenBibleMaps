@@ -1,0 +1,355 @@
+[
+{
+"content_id": "NT040",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Павел и ранняя Церковь: Первое миссионерское путешествие Павла (Часть 2)",
+"media_type": "Image",
+"index_reference": "павел и ранняя церковь первое миссионерское путешествие павла часть 2",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT040.png' alt='Image' width='480' /></p><p><a href='images/NT040.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44014001",
+"start_ref_usfm": "ACT 14:1",
+"end_ref": "44014028",
+"end_ref_usfm": "ACT 14:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4464,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4304,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4304,
+"match_method": "canonical",
+"preferred_label": "Павел"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4304,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Икония"
+},
+{
+"id": "place:Lystra",
+"type": "place",
+"confidence": 0.3054,
+"match_method": "canonical",
+"preferred_label": "Листра"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Варнава"
+},
+{
+"id": "deity:Zeus",
+"type": "deity",
+"confidence": 0.2464,
+"match_method": "canonical",
+"preferred_label": "Зевс"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"confidence": 0.2464,
+"match_method": "canonical",
+"preferred_label": "Дервия"
+},
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Антиохия"
+},
+{
+"id": "place:Lycaonia",
+"type": "place",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Ликаония"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "group:Lycaonia",
+"type": "group",
+"confidence": 0.1804,
+"match_method": "canonical",
+"preferred_label": "Lycaonians"
+},
+{
+"id": "place:Attalia",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Атталия"
+},
+{
+"id": "place:Pisidia",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Писидийская"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Памфилия"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
+},
+{
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Do Good"
+},
+{
+"id": "deity:Hermes",
+"type": "deity",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Ермия"
+},
+{
+"id": "keyterm:Worthless",
+"type": "keyterm",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Worthless"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Пергия"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Иаван"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "keyterm:FromHeaven",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "From Heaven"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Антиохия"
+},
+{
+"id": "realia:Garland",
+"type": "realia",
+"confidence": 0.1132,
+"match_method": "canonical",
+"preferred_label": "Garland"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Door"
+}
+]
+}
+}
+]

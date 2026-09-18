@@ -1,0 +1,425 @@
+[
+{
+"content_id": "OT199",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecy Against Moab",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecy against moab",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT199.png' alt='Image' width='480' /></p><p><a href='images/OT199.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1mCgkS9tygT-gTOPcCZWjIId6Kg5EANTj/view?usp=drive_link'>Wisdom & Prophets: Prophecy Against Moab</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24048001",
+"start_ref_usfm": "JER 48:1",
+"end_ref": "24048047",
+"end_ref_usfm": "JER 48:47"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.6277,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4936,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Kiriathaim",
+"type": "place",
+"confidence": 0.3426,
+"match_method": "canonical",
+"preferred_label": "Kiriathaim"
+},
+{
+"id": "place:Horonaim",
+"type": "place",
+"confidence": 0.283,
+"match_method": "canonical",
+"preferred_label": "Horonaim"
+},
+{
+"id": "deity:Chemosh",
+"type": "deity",
+"confidence": 0.283,
+"match_method": "canonical",
+"preferred_label": "Chemosh"
+},
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 0.283,
+"match_method": "canonical",
+"preferred_label": "Heshbon"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Jahaz",
+"type": "place",
+"confidence": 0.2234,
+"match_method": "canonical",
+"preferred_label": "Jahaz"
+},
+{
+"id": "place:Nebo",
+"type": "place",
+"confidence": 0.2234,
+"match_method": "canonical",
+"preferred_label": "Nebo"
+},
+{
+"id": "place:Dibon",
+"type": "place",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Dibon"
+},
+{
+"id": "place:Kir",
+"type": "place",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Kir"
+},
+{
+"id": "place:Jazer",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Jazer"
+},
+{
+"id": "place:Nimrim",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Waters of Nimrim"
+},
+{
+"id": "place:Sibmah",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Sibmah"
+},
+{
+"id": "place:Mephaath",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Mephaath"
+},
+{
+"id": "place:Madmen",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Madmen"
+},
+{
+"id": "place:Luhith",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Luhith"
+},
+{
+"id": "place:JazerSea",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Sea of Jazer"
+},
+{
+"id": "place:Beth-gamul",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Beth-gamul"
+},
+{
+"id": "place:Baal-meon",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Baal-meon"
+},
+{
+"id": "place:Holon.2",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Holon"
+},
+{
+"id": "place:Beth-diblathaim",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Beth-diblathaim"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Safety"
+},
+{
+"id": "keyterm:Deceit",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Deceit"
+},
+{
+"id": "place:Elealeh",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Elealeh"
+},
+{
+"id": "place:Bezer",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Bezer"
+},
+{
+"id": "keyterm:Horn",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Horn"
+},
+{
+"id": "keyterm:Visitation",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Visitation"
+},
+{
+"id": "place:Arnon",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Arnon"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Sihon"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Trust"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "place:Zoar",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Zoar"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Woe",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "place:Aroer.2",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Aroer"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Trap"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "flora:JuniperTree",
+"type": "flora",
+"confidence": 0.1038,
+"match_method": "canonical",
+"preferred_label": "Phoenician Juniper"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Flute"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Vulture"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Fortress"
+},
+{
+"id": "fauna:WildDonkey",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Wild Donkey"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Sackcloth"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT334",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 13:42–51",
+"media_type": "Image",
+"index_reference": "srv acts acts 134251",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT334.png' alt='Image' width='480' /></p><p><a href='images/NT334.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1-sDZ1TylwKWkaxUrwKG_1CcJXakTqEgD&usp=drive_copy'>SRV Acts: Acts 13:42-51</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44013001",
+"start_ref_usfm": "ACT 13:1",
+"end_ref": "44013052",
+"end_ref_usfm": "ACT 13:52"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5317,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4404,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.4058,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3933,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3933,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Bar-jesus",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Bar-jesus"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Paphos"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Perga"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2198,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Mark"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+}
+]
+}
+}
+]

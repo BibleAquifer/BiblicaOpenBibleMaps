@@ -1,0 +1,222 @@
+[
+{
+"content_id": "OT283",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Genesis: Gen. 32:1–20",
+"media_type": "Image",
+"index_reference": "srv genesis gen 32120",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT283.png' alt='Image' width='480' /></p><p><a href='images/OT283.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1CM4BNRKmhoa6PKFiLP6wXSJwO0OdxHmX&usp=drive_copy'>SRV Genesis: Gen. 32:1-20</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01032001",
+"start_ref_usfm": "GEN 32:1",
+"end_ref": "01032033",
+"end_ref_usfm": "GEN 32:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5742,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.4727,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4182,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3582,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.3582,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3545,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2909,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Penuel",
+"type": "place",
+"confidence": 0.2394,
+"match_method": "canonical",
+"preferred_label": "Penuel"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.237,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"confidence": 0.1758,
+"match_method": "canonical",
+"preferred_label": "Mahanaim"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Jabbok",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Jabbok"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Appease"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Laban"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Seir"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+}
+]
+}
+}
+]

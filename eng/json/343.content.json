@@ -1,0 +1,166 @@
+[
+{
+"content_id": "OT093",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: The Death of Saul",
+"media_type": "Image",
+"index_reference": "historical the death of saul",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT093.png' alt='Image' width='480' /></p><p><a href='images/OT093.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1fF6bu4n0YaJueNnSYzQ74BNToUM4Mggt&usp=drive_copy'>Historical: The Death of Saul</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.6615,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.5577,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.5577,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "place:Jabesh-gilead",
+"type": "place",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Jabesh-gilead"
+},
+{
+"id": "place:GilboaMount",
+"type": "place",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Mount Gilboa"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Beth-shan",
+"type": "place",
+"confidence": 0.2692,
+"match_method": "canonical",
+"preferred_label": "Beth-shan"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.2092,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2092,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Malchi-shua",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Malchi-shua"
+},
+{
+"id": "person:Abinadab.2",
+"type": "person",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Abinadab"
+},
+{
+"id": "place:Beth-ashtoreth",
+"type": "place",
+"confidence": 0.2,
+"match_method": "canonical",
+"preferred_label": "Beth-ashtoreth"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Jonathan"
+},
+{
+"id": "deity:Ashtoreth",
+"type": "deity",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Ashtoreth"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Uncircumcised Person"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1846,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "flora:Tamarisk",
+"type": "flora",
+"confidence": 0.14,
+"match_method": "canonical",
+"preferred_label": "Tamarisk"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Image"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1246,
+"match_method": "canonical",
+"preferred_label": "Bow"
+}
+]
+}
+}
+]

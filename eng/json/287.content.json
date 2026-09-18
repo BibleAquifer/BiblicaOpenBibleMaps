@@ -1,0 +1,439 @@
+[
+{
+"content_id": "OT037",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: The Defeat of Sihon and Og",
+"media_type": "Image",
+"index_reference": "pentateuch the defeat of sihon and og",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT037.png' alt='Image' width='480' /></p><p><a href='images/OT037.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=11xZxl67VA0M5ah1MxJECKUqsoaKGSQ4K&usp=drive_copy'>Pentateuch: The Defeat of Sihon and Og</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "04021001",
+"start_ref_usfm": "NUM 21:1",
+"end_ref": "04021035",
+"end_ref_usfm": "NUM 21:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4914,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4657,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.4529,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 0.4514,
+"match_method": "canonical",
+"preferred_label": "Sihon"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 0.4271,
+"match_method": "canonical",
+"preferred_label": "Heshbon"
+},
+{
+"id": "place:Arnon",
+"type": "place",
+"confidence": 0.42,
+"match_method": "canonical",
+"preferred_label": "Arnon"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.2886,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "place:Mattanah",
+"type": "place",
+"confidence": 0.2371,
+"match_method": "canonical",
+"preferred_label": "Mattanah"
+},
+{
+"id": "place:Oboth",
+"type": "place",
+"confidence": 0.2371,
+"match_method": "canonical",
+"preferred_label": "Oboth"
+},
+{
+"id": "place:Bamoth",
+"type": "place",
+"confidence": 0.2371,
+"match_method": "canonical",
+"preferred_label": "Bamoth"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.2286,
+"match_method": "canonical",
+"preferred_label": "Snake"
+},
+{
+"id": "place:Ar",
+"type": "place",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Ar"
+},
+{
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Set Apart for Destruction"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2257,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "fauna:Viper",
+"type": "fauna",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Viper"
+},
+{
+"id": "place:Jahaz",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Jahaz"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Bashan"
+},
+{
+"id": "place:Beer",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Beer"
+},
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Og"
+},
+{
+"id": "place:Suphah",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Suphah"
+},
+{
+"id": "place:Jazer",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Jazer"
+},
+{
+"id": "place:Iye-abarim",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Iye-abarim"
+},
+{
+"id": "place:Waheb",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Waheb"
+},
+{
+"id": "deity:Chemosh",
+"type": "deity",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Chemosh"
+},
+{
+"id": "place:Atharim",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Atharim"
+},
+{
+"id": "place:Dibon",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Dibon"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Negev"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "place:Edrei",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Edrei"
+},
+{
+"id": "place:Medeba",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Medeba"
+},
+{
+"id": "place:KingsHighway",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "King’s Highway"
+},
+{
+"id": "keyterm:Woe",
+"type": "keyterm",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "place:Zered",
+"type": "place",
+"confidence": 0.1686,
+"match_method": "canonical",
+"preferred_label": "Valley of Zered"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"confidence": 0.1657,
+"match_method": "canonical",
+"preferred_label": "Standard"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "place:Pisgah",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Pisgah"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Zephath",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Zephath"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "place:Arad",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Arad"
+},
+{
+"id": "place:Lasha",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Lasha"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Kenath",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Kenath"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "place:Jabbok",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Jabbok"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "place:Bamoth-baal",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Bamoth-baal"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:HorMount",
+"type": "place",
+"confidence": 0.1629,
+"match_method": "canonical",
+"preferred_label": "Mount Hor"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.1029,
+"match_method": "canonical",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1029,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.1029,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1029,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1029,
+"match_method": "canonical",
+"preferred_label": "Vine"
+}
+]
+}
+}
+]

@@ -1,0 +1,242 @@
+[
+{
+"content_id": "NT059",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "保羅與早期教會：彼得書",
+"media_type": "Image",
+"index_reference": "保羅與早期教會彼得書",
+"language": "zht",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT059.png' alt='Image' width='480' /></p><p><a href='images/NT059.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "60001001",
+"start_ref_usfm": "1PE 1:1",
+"end_ref": "60005014",
+"end_ref_usfm": "1PE 5:14"
+},
+{
+"start_ref": "61001001",
+"start_ref_usfm": "2PE 1:1",
+"end_ref": "61003018",
+"end_ref_usfm": "2PE 3:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4855,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.434,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3934,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3852,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3825,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.3825,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3798,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3783,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3771,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3771,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3744,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.3717,
+"match_method": "canonical",
+"preferred_label": "Beloved"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3717,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3717,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3717,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.369,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.3675,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3663,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.3663,
+"match_method": "canonical",
+"preferred_label": "Judgment"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3648,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:DoGood",
+"type": "keyterm",
+"confidence": 0.3648,
+"match_method": "canonical",
+"preferred_label": "Do Good"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.3648,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.3648,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.3636,
+"match_method": "canonical",
+"preferred_label": "Savior"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3636,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3636,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.3636,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.3108,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.3108,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.3108,
+"match_method": "canonical",
+"preferred_label": "Decided"
+}
+]
+}
+}
+]

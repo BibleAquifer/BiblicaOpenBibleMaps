@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT035",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: From Mt. Sinai to Kadesh Barnea",
+"media_type": "Image",
+"index_reference": "pentateuch from mt sinai to kadesh barnea",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT035.png' alt='Image' width='480' /></p><p><a href='images/OT035.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1RTMpiMUnkNF-TKcPnXvo4JENY-4xz5tA&usp=drive_copy'>Pentateuch: From Mt. Sinai to Kadesh Barnea</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "04010001",
+"start_ref_usfm": "NUM 10:1",
+"end_ref": "04020029",
+"end_ref_usfm": "NUM 20:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5251,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4651,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4331,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.4081,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3884,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.3679,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3679,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.3666,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 0.3652,
+"match_method": "canonical",
+"preferred_label": "Korah"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3628,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 0.3595,
+"match_method": "canonical",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 0.3594,
+"match_method": "canonical",
+"preferred_label": "Caleb"
+},
+{
+"id": "keyterm:BearTheConsequencesOf",
+"type": "keyterm",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "Bear the Consequences Of"
+},
+{
+"id": "keyterm:PleasingOdor",
+"type": "keyterm",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "Pleasing Odor"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 0.3588,
+"match_method": "canonical",
+"preferred_label": "Miriam"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.3582,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "person:Nun",
+"type": "person",
+"confidence": 0.3582,
+"match_method": "canonical",
+"preferred_label": "Nun"
+},
+{
+"id": "person:Abiram",
+"type": "person",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Abiram"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "Testimony"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "person:Dathan",
+"type": "person",
+"confidence": 0.3575,
+"match_method": "canonical",
+"preferred_label": "Dathan"
+},
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 0.3575,
+"match_method": "canonical",
+"preferred_label": "Kadesh-barnea"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3564,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+}
+]
+}
+}
+]

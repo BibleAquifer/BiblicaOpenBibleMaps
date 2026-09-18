@@ -1,0 +1,257 @@
+[
+{
+"content_id": "OT315",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Exodus: Exod. 15:19–27, Exod. 16:1–12, Exod. 16:22–36, Exod. 33:1–11",
+"media_type": "Image",
+"index_reference": "srv exodus exod 151927 exod 16112 exod 162236 exod 33111",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT315.png' alt='Image' width='480' /></p><p><a href='images/OT315.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Le82edGm0G2i6piqi87bd67ac-R-lCJY&usp=drive_copy'>SRV Exodus: Exod. 15:19-27, Exod. 16:1-12, Exod. 16:22-36, Exod. 33:1-11</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02015001",
+"start_ref_usfm": "EXO 15:1",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.55,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Miriam"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.24,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Marah",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Marah"
+},
+{
+"id": "place:Elim",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Elim"
+},
+{
+"id": "keyterm:Leader",
+"type": "keyterm",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Leader"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "place:Shur",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Shur"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.1733,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.1733,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "keyterm:Mighty",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Mighty"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Terror"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Redeem"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "realia:Drum",
+"type": "realia",
+"confidence": 0.1141,
+"match_method": "canonical",
+"preferred_label": "Drum"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"confidence": 0.1141,
+"match_method": "canonical",
+"preferred_label": "Date Palm"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Sword"
+}
+]
+}
+}
+]

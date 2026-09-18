@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT033",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Stefanus Menceritakan Sejarah Bangsa Yahudi",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula stefanus menceritakan sejarah bangsa yahudi",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT033.png' alt='Image' width='480' /></p><p><a href='images/NT033.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44007001",
+"start_ref_usfm": "ACT 7:1",
+"end_ref": "44007060",
+"end_ref_usfm": "ACT 7:60"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.485,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.455,
+"match_method": "canonical",
+"preferred_label": "Mesir"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4175,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4175,
+"match_method": "canonical",
+"preferred_label": "Musa"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "Yusuf"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.33,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.33,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.33,
+"match_method": "canonical",
+"preferred_label": "sorga"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"confidence": 0.2758,
+"match_method": "canonical",
+"preferred_label": "bertindak jahat"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2725,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2725,
+"match_method": "canonical",
+"preferred_label": "hati"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2725,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.2217,
+"match_method": "canonical",
+"preferred_label": "melepaskan"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 0.2183,
+"match_method": "canonical",
+"preferred_label": "Firaun"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Ishak"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "imamat"
+},
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "hakim"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Sinai"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "kemuliaan"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "janji"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "persembahan"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "melayani"
+},
+{
+"id": "person:Hamor",
+"type": "person",
+"confidence": 0.1608,
+"match_method": "canonical",
+"preferred_label": "Hemor"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.1608,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "deity:Rephan",
+"type": "deity",
+"confidence": 0.1608,
+"match_method": "canonical",
+"preferred_label": "Refan"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.1608,
+"match_method": "canonical",
+"preferred_label": "Sekhem"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 0.1608,
+"match_method": "canonical",
+"preferred_label": "Aram-Mesopotamia"
+}
+]
+}
+}
+]

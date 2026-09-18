@@ -1,0 +1,320 @@
+[
+{
+"content_id": "OT078",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Samuel Anoints Saul",
+"media_type": "Image",
+"index_reference": "historical samuel anoints saul",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT078.png' alt='Image' width='480' /></p><p><a href='images/OT078.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=123a28eNpQQDm3jE0I3Uc-JKMF45oL97y&usp=drive_copy'>Historical: Samuel Anoints Saul</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09008001",
+"start_ref_usfm": "1SA 8:1",
+"end_ref": "09009027",
+"end_ref_usfm": "1SA 9:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.5153,
+"match_method": "canonical",
+"preferred_label": "Samuel"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.501,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4878,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4235,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.3367,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.3367,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.3359,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.3359,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.2767,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "person:Kish",
+"type": "person",
+"confidence": 0.2224,
+"match_method": "canonical",
+"preferred_label": "Kish"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.2184,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "person:Becorath",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Becorath"
+},
+{
+"id": "place:Shaalim",
+"type": "place",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Shaalim"
+},
+{
+"id": "place:Shalishah",
+"type": "place",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Shalishah"
+},
+{
+"id": "person:Aphiah",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Aphiah"
+},
+{
+"id": "person:Joel",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Joel"
+},
+{
+"id": "person:Abiel.2",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Abiel"
+},
+{
+"id": "place:Zuph",
+"type": "place",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Zuph"
+},
+{
+"id": "person:Abijah.2",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Zeror",
+"type": "person",
+"confidence": 0.1633,
+"match_method": "canonical",
+"preferred_label": "Zeror"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Beersheba"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Smear"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Ramah"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 0.1584,
+"match_method": "canonical",
+"preferred_label": "Barley"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.1584,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1584,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Mattock",
+"type": "realia",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Mattock"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "flora:Coriander",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Coriander"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "realia:Shekel",
+"type": "realia",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Shekel"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.0992,
+"match_method": "canonical",
+"preferred_label": "Goat"
+}
+]
+}
+}
+]

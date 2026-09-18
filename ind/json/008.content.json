@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT012",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Kehidupan Yesus: Perjalanan Pertama Yesus dari Galilea ke Yerusalem",
+"media_type": "Image",
+"index_reference": "kehidupan yesus perjalanan pertama yesus dari galilea ke yerusalem",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT012.png' alt='Image' width='480' /></p><p><a href='images/NT012.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43003036",
+"end_ref_usfm": "JHN 3:36"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4607,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4311,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4197,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4016,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4016,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3943,
+"match_method": "canonical",
+"preferred_label": "bersaksi"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.3869,
+"match_method": "canonical",
+"preferred_label": "Yohanes"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.3449,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.3328,
+"match_method": "canonical",
+"preferred_label": "tanda"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3295,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "Nikodemus"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "selama, lamanya"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "kasihi"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "sorga"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2754,
+"match_method": "canonical",
+"preferred_label": "amin!"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "baptisan"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Kana"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "tubuh"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "paskah"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "memutuskan"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "kerajaan"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "Galilea"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.2148,
+"match_method": "canonical",
+"preferred_label": "membersihkan"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.2121,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "realia:StoneJar",
+"type": "realia",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Stone Jar"
+},
+{
+"id": "keyterm:Heavenly",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "sorgawi"
+}
+]
+}
+}
+]

@@ -1,0 +1,222 @@
+[
+{
+"content_id": "OT261",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Genesis: Gen. 12:10–19",
+"media_type": "Image",
+"index_reference": "srv genesis gen 121019",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT261.png' alt='Image' width='480' /></p><p><a href='images/OT261.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1agZi2O9-ux5yHj20HAmETmGtM569ia7y&usp=drive_copy'>SRV Genesis: Gen. 12:10-19</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012020",
+"end_ref_usfm": "GEN 12:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.6075,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 0.42,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.3175,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.255,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.255,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.255,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.245,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.185,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.185,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.185,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.185,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Ai"
+},
+{
+"id": "place:Moreh",
+"type": "place",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Oak of Moreh"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.1825,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Negev"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.1225,
+"match_method": "canonical",
+"preferred_label": "Oak"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1125,
+"match_method": "canonical",
+"preferred_label": "Goat"
+}
+]
+}
+}
+]

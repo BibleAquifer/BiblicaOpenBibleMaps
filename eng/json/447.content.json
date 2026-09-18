@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT197",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Israelite Refugees in Egypt",
+"media_type": "Image",
+"index_reference": "wisdom  prophets israelite refugees in egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT197.png' alt='Image' width='480' /></p><p><a href='images/OT197.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/10OuoAL782YuWnuM1EjJxw5nQSxoFbYB-/view?usp=drive_link'>Wisdom & Prophets: Israelite Refugees in Egypt</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24042001",
+"start_ref_usfm": "JER 42:1",
+"end_ref": "24044030",
+"end_ref_usfm": "JER 44:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6131,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.5023,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4846,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4815,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.4331,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4054,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3985,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Johanan.5",
+"type": "person",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Johanan"
+},
+{
+"id": "person:Kareah",
+"type": "person",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Kareah"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.3846,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "place:Tahpanhes",
+"type": "place",
+"confidence": 0.3308,
+"match_method": "canonical",
+"preferred_label": "Tahpanhes"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.3277,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3277,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.2677,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "person:Hoshaiah.2",
+"type": "person",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Hoshaiah"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 0.2169,
+"match_method": "canonical",
+"preferred_label": "Baruch"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 0.2169,
+"match_method": "canonical",
+"preferred_label": "Hophra"
+},
+{
+"id": "keyterm:Supplication",
+"type": "keyterm",
+"confidence": 0.2169,
+"match_method": "canonical",
+"preferred_label": "Plea for Mercy"
+},
+{
+"id": "place:Pathros",
+"type": "place",
+"confidence": 0.2169,
+"match_method": "canonical",
+"preferred_label": "Pathros"
+},
+{
+"id": "person:Jezaniah",
+"type": "person",
+"confidence": 0.2169,
+"match_method": "canonical",
+"preferred_label": "Jezaniah"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Nebuchadnezzar"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "person:Neriah",
+"type": "person",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Neriah"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2108,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Memphis"
+},
+{
+"id": "place:Migdol",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Migdol"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1569,
+"match_method": "canonical",
+"preferred_label": "Judea"
+}
+]
+}
+}
+]

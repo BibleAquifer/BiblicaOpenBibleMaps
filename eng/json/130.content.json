@@ -1,0 +1,411 @@
+[
+{
+"content_id": "NT210",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 5:1–11",
+"media_type": "Image",
+"index_reference": "srv luke luke 5111",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT210.png' alt='Image' width='480' /></p><p><a href='images/NT210.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1b1vUisx1jW12yw6TfhCiHhDPCR4-oCnX&usp=drive_copy'>SRV Luke: Luke 5:1-11</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42005001",
+"start_ref_usfm": "LUK 5:1",
+"end_ref": "42005039",
+"end_ref_usfm": "LUK 5:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4077,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4077,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3462,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.3462,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3462,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "realia:Fishnet",
+"type": "realia",
+"confidence": 0.2862,
+"match_method": "canonical",
+"preferred_label": "Fishnet"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"confidence": 0.2862,
+"match_method": "canonical",
+"preferred_label": "Casting Net"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.2862,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "keyterm:BringIn",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Bring In"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2246,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.2246,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Matthew"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Infectious Skin Disease"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "realia:Skin-bottle",
+"type": "realia",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Skin-Bottle"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Must"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Religious Officials"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Gennesaret"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:TaxOffice",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Tax Office"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "realia:Tile",
+"type": "realia",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Tile"
+},
+{
+"id": "realia:Patch",
+"type": "realia",
+"confidence": 0.1067,
+"match_method": "canonical",
+"preferred_label": "Patch"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "realia:Housetop",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Housetop"
+}
+]
+}
+}
+]

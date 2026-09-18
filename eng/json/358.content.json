@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT108",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: David Returns to Jerusalem",
+"media_type": "Image",
+"index_reference": "historical david returns to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT108.png' alt='Image' width='480' /></p><p><a href='images/OT108.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=19C6LCRe75tHbIkOqn417148P5OZ3OXtI&usp=drive_copy'>Historical: David Returns to Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10019001",
+"start_ref_usfm": "2SA 19:1",
+"end_ref": "10020026",
+"end_ref_usfm": "2SA 20:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 0.4543,
+"match_method": "canonical",
+"preferred_label": "Joab"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4348,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.4283,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4217,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4217,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Bichri",
+"type": "person",
+"confidence": 0.4203,
+"match_method": "canonical",
+"preferred_label": "Bichri"
+},
+{
+"id": "person:Sheba.4",
+"type": "person",
+"confidence": 0.4109,
+"match_method": "canonical",
+"preferred_label": "Sheba"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4022,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.4022,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "person:Amasa",
+"type": "person",
+"confidence": 0.3986,
+"match_method": "canonical",
+"preferred_label": "Amasa"
+},
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 0.3891,
+"match_method": "canonical",
+"preferred_label": "Absalom"
+},
+{
+"id": "person:Barzillai",
+"type": "person",
+"confidence": 0.3855,
+"match_method": "canonical",
+"preferred_label": "Barzillai"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3826,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Shimei.5",
+"type": "person",
+"confidence": 0.329,
+"match_method": "canonical",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Chimham",
+"type": "person",
+"confidence": 0.2783,
+"match_method": "canonical",
+"preferred_label": "Chimham"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"confidence": 0.2725,
+"match_method": "canonical",
+"preferred_label": "Abel-beth-maacah"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Mephibosheth"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Abishai"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 0.2159,
+"match_method": "canonical",
+"preferred_label": "Cherethites"
+},
+{
+"id": "person:Gera.2",
+"type": "person",
+"confidence": 0.2159,
+"match_method": "canonical",
+"preferred_label": "Gera"
+},
+{
+"id": "group:Pelethites",
+"type": "group",
+"confidence": 0.2159,
+"match_method": "canonical",
+"preferred_label": "Pelethites"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Gilgal"
+},
+{
+"id": "person:Ziba",
+"type": "person",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Ziba"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Abiathar"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Zeruiah"
+}
+]
+}
+}
+]

@@ -1,0 +1,544 @@
+[
+{
+"content_id": "OT041",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Boundaries of Canaan",
+"media_type": "Image",
+"index_reference": "pentateuch boundaries of canaan",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT041.png' alt='Image' width='480' /></p><p><a href='images/OT041.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=12yB7R4jspahr5VzUudPIMA33l2UcjMEI&usp=drive_copy'>Pentateuch: Boundaries of Canaan</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "04034001",
+"start_ref_usfm": "NUM 34:1",
+"end_ref": "04034029",
+"end_ref_usfm": "NUM 34:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3621,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2966,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2966,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.2966,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "place:Hazar-enan",
+"type": "place",
+"confidence": 0.2448,
+"match_method": "canonical",
+"preferred_label": "Hazar-enan"
+},
+{
+"id": "place:Azmon",
+"type": "place",
+"confidence": 0.2448,
+"match_method": "canonical",
+"preferred_label": "Azmon"
+},
+{
+"id": "place:Shepham",
+"type": "place",
+"confidence": 0.2448,
+"match_method": "canonical",
+"preferred_label": "Shepham"
+},
+{
+"id": "place:HorMount.2",
+"type": "place",
+"confidence": 0.2379,
+"match_method": "canonical",
+"preferred_label": "Mount Hor"
+},
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 0.2379,
+"match_method": "canonical",
+"preferred_label": "Mediterranean Sea"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2379,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Tribe of Manasseh"
+},
+{
+"id": "place:SaltSea",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Dead Sea"
+},
+{
+"id": "place:Zin",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Wilderness of Zin"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "place:Zedad",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Zedad"
+},
+{
+"id": "person:Parnach",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Parnach"
+},
+{
+"id": "person:Elizaphan.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Elizaphan"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ain"
+},
+{
+"id": "person:Shelomi",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Shelomi"
+},
+{
+"id": "place:Ziphron",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ziphron"
+},
+{
+"id": "person:Shemuel",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Shemuel"
+},
+{
+"id": "person:Kemuel.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Kemuel"
+},
+{
+"id": "person:Ahihud",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ahihud"
+},
+{
+"id": "place:Riblah",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Riblah"
+},
+{
+"id": "person:Ephod",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ephod"
+},
+{
+"id": "place:BrookOfEgypt",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Brook of Egypt"
+},
+{
+"id": "person:Azzan",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Azzan"
+},
+{
+"id": "person:Shiphtan",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Shiphtan"
+},
+{
+"id": "person:Bukki",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Bukki"
+},
+{
+"id": "person:Hanniel",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Hanniel"
+},
+{
+"id": "person:Elidad",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Elidad"
+},
+{
+"id": "person:Paltiel.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Paltiel"
+},
+{
+"id": "place:Hazar-addar",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Hazar-addar"
+},
+{
+"id": "person:Ammihud.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ammihud"
+},
+{
+"id": "person:Ammihud.3",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ammihud"
+},
+{
+"id": "person:Pedahel",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Pedahel"
+},
+{
+"id": "person:Jogli",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Jogli"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Akrabbim",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Akrabbim"
+},
+{
+"id": "person:Chislon",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Chislon"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Hamath"
+},
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Kadesh-barnea"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Asher"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Issachar"
+},
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Eleazar"
+},
+{
+"id": "group:Asher",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Asher"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Zebulun"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Issachar"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "group:Simeon",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Simeon"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Caleb"
+},
+{
+"id": "person:Nun",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Nun"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Reuben"
+},
+{
+"id": "group:Naphtali",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Naphtali"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "person:Jephunneh",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Jephunneh"
+},
+{
+"id": "fauna:Scorpion",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Scorpion"
+}
+]
+}
+}
+]

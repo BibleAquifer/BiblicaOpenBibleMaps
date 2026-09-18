@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT074",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Levitical Towns",
+"media_type": "Image",
+"index_reference": "historical levitical towns",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT074.png' alt='Image' width='480' /></p><p><a href='images/OT074.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1z3Qo45KI5r_Wte8dOOPgoy9JzXfHJ2qR&usp=drive_copy'>Historical: Levitical Towns</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "13006001",
+"start_ref_usfm": "1CH 6:1",
+"end_ref": "13006066",
+"end_ref_usfm": "1CH 6:66"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Kohath",
+"type": "person",
+"confidence": 0.4182,
+"match_method": "canonical",
+"preferred_label": "Kohath"
+},
+{
+"id": "person:Merari",
+"type": "person",
+"confidence": 0.4068,
+"match_method": "canonical",
+"preferred_label": "Merari"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.4045,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.4045,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Gershon",
+"type": "person",
+"confidence": 0.3909,
+"match_method": "canonical",
+"preferred_label": "Gershon"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.3841,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3841,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Izhar",
+"type": "person",
+"confidence": 0.3273,
+"match_method": "canonical",
+"preferred_label": "Izhar"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.3273,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "person:Ahitub.2",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "Ahitub"
+},
+{
+"id": "person:Uzzi",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "Uzzi"
+},
+{
+"id": "person:Amram",
+"type": "person",
+"confidence": 0.2735,
+"match_method": "canonical",
+"preferred_label": "Amram"
+},
+{
+"id": "person:Meraioth",
+"type": "person",
+"confidence": 0.2735,
+"match_method": "canonical",
+"preferred_label": "Meraioth"
+},
+{
+"id": "person:Libni",
+"type": "person",
+"confidence": 0.2735,
+"match_method": "canonical",
+"preferred_label": "Libni"
+},
+{
+"id": "person:Abishua",
+"type": "person",
+"confidence": 0.2735,
+"match_method": "canonical",
+"preferred_label": "Abishua"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2705,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2705,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2705,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Ahimaaz.2",
+"type": "person",
+"confidence": 0.2705,
+"match_method": "canonical",
+"preferred_label": "Ahimaaz"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2705,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 0.2705,
+"match_method": "canonical",
+"preferred_label": "Eleazar"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2673,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Bukki.2",
+"type": "person",
+"confidence": 0.2227,
+"match_method": "canonical",
+"preferred_label": "Bukki"
+},
+{
+"id": "person:Iddo.4",
+"type": "person",
+"confidence": 0.2197,
+"match_method": "canonical",
+"preferred_label": "Iddo"
+},
+{
+"id": "person:Johanan.7",
+"type": "person",
+"confidence": 0.2197,
+"match_method": "canonical",
+"preferred_label": "Johanan"
+},
+{
+"id": "person:Elkanah.4",
+"type": "person",
+"confidence": 0.2197,
+"match_method": "canonical",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Zimmah",
+"type": "person",
+"confidence": 0.2197,
+"match_method": "canonical",
+"preferred_label": "Zimmah"
+},
+{
+"id": "person:Uriel",
+"type": "person",
+"confidence": 0.2197,
+"match_method": "canonical",
+"preferred_label": "Uriel"
+},
+{
+"id": "person:Assir.2",
+"type": "person",
+"confidence": 0.2197,
+"match_method": "canonical",
+"preferred_label": "Assir"
+},
+{
+"id": "person:Azariah.6",
+"type": "person",
+"confidence": 0.2197,
+"match_method": "canonical",
+"preferred_label": "Azariah"
+}
+]
+}
+}
+]

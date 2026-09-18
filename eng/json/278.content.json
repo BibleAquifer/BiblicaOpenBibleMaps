@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT028",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: The Kingdom of Egypt in the Time of Moses",
+"media_type": "Image",
+"index_reference": "pentateuch the kingdom of egypt in the time of moses",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT028.png' alt='Image' width='480' /></p><p><a href='images/OT028.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1SyqlLAZyF73rSEL_cbHg6ugm9Clky7d9&usp=drive_copy'>Pentateuch: The Kingdom of Egypt in the Time of Moses</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02001001",
+"start_ref_usfm": "EXO 1:1",
+"end_ref": "02040038",
+"end_ref_usfm": "EXO 40:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5008,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4475,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.412,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4071,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.3906,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.3865,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3772,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.365,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3611,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.3609,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.3608,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Testimony"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.3574,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.3568,
+"match_method": "canonical",
+"preferred_label": "Priesthood"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.3566,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3561,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 0.3559,
+"match_method": "canonical",
+"preferred_label": "Mount Sinai"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.3552,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.355,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.355,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.355,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3545,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3544,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "person:Bezalel",
+"type": "person",
+"confidence": 0.3544,
+"match_method": "canonical",
+"preferred_label": "Bezalel"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"confidence": 0.3542,
+"match_method": "canonical",
+"preferred_label": "Smear"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.354,
+"match_method": "canonical",
+"preferred_label": "Jethro"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.3539,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.3538,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 0.3535,
+"match_method": "canonical",
+"preferred_label": "Holy Place"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.3533,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+}
+]
+}
+}
+]

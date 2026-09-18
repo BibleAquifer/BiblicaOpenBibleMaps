@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT066",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Abimelek",
+"media_type": "Image",
+"index_reference": "historical abimelek",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT066.png' alt='Image' width='480' /></p><p><a href='images/OT066.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1FrtJpnNn1eylg-nlojZuNBubYRl50Xsb&usp=drive_copy'>Historical: Abimelek</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07009001",
+"start_ref_usfm": "JDG 9:1",
+"end_ref": "07009057",
+"end_ref_usfm": "JDG 9:57"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abimelech.2",
+"type": "person",
+"confidence": 0.6395,
+"match_method": "canonical",
+"preferred_label": "Abimelech"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.5079,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Gaal",
+"type": "person",
+"confidence": 0.4316,
+"match_method": "canonical",
+"preferred_label": "Gaal"
+},
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 0.4202,
+"match_method": "canonical",
+"preferred_label": "Gideon"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4053,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Zebul",
+"type": "person",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Zebul"
+},
+{
+"id": "person:Ebed",
+"type": "person",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Ebed"
+},
+{
+"id": "person:Jotham",
+"type": "person",
+"confidence": 0.3421,
+"match_method": "canonical",
+"preferred_label": "Jotham"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.3295,
+"match_method": "canonical",
+"preferred_label": "Tower"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.2737,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2716,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Beth-millo",
+"type": "place",
+"confidence": 0.2228,
+"match_method": "canonical",
+"preferred_label": "Beth-millo"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Smear"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.2137,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "place:Thebez",
+"type": "place",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Thebez"
+},
+{
+"id": "place:Arumah",
+"type": "place",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Arumah"
+},
+{
+"id": "deity:Baal-berith",
+"type": "deity",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Baal-Berith"
+},
+{
+"id": "place:DivinersOak",
+"type": "place",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Diviners’ Oak"
+},
+{
+"id": "deity:El-berith",
+"type": "deity",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "El-Berith"
+},
+{
+"id": "place:Ophrah.2",
+"type": "place",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Ophrah"
+},
+{
+"id": "place:GerizimMount",
+"type": "place",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Mount Gerizim"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.1593,
+"match_method": "canonical",
+"preferred_label": "Boxthorn"
+},
+{
+"id": "keyterm:Deceit",
+"type": "keyterm",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Deceit"
+},
+{
+"id": "person:Hamor",
+"type": "person",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Hamor"
+},
+{
+"id": "place:Beeroth",
+"type": "place",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Beeroth"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Lebanon"
+}
+]
+}
+}
+]

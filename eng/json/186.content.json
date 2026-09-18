@@ -1,0 +1,383 @@
+[
+{
+"content_id": "NT304",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 5:12–15",
+"media_type": "Image",
+"index_reference": "srv acts acts 51215",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT304.png' alt='Image' width='480' /></p><p><a href='images/NT304.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1PJOSDvzEJlkMxKQM77F4yvTYh3knQMd0&usp=drive_copy'>SRV Acts: Acts 5:12-15</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44005001",
+"start_ref_usfm": "ACT 5:1",
+"end_ref": "44005042",
+"end_ref_usfm": "ACT 5:42"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4464,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.4036,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4036,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.4036,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.359,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.3436,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "person:Ananias",
+"type": "person",
+"confidence": 0.2964,
+"match_method": "canonical",
+"preferred_label": "Ananias"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.2869,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2821,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2821,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2821,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2821,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.2221,
+"match_method": "canonical",
+"preferred_label": "Door"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2214,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "person:Judas.3",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "keyterm:Resentment",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Resentment"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "person:Sapphira",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Sapphira"
+},
+{
+"id": "person:Gamaliel",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Gamaliel"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Savior"
+},
+{
+"id": "person:Theudas",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Theudas"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "person:GenericPerson",
+"type": "person",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "A Person"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Sadducees"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:OpposingGod",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Opposing God"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Census"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1607,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Porch",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Porch"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1007,
+"match_method": "canonical",
+"preferred_label": "Bed"
+}
+]
+}
+}
+]

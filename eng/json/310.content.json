@@ -1,0 +1,516 @@
+[
+{
+"content_id": "OT060",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Joshua Recounts the History of Israel",
+"media_type": "Image",
+"index_reference": "historical joshua recounts the history of israel",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT060.png' alt='Image' width='480' /></p><p><a href='images/OT060.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=18ERn8-5JIOveYmgrAjJ88bxI9QaJ3_NY&usp=drive_copy'>Historical: Joshua Recounts the History of Israel</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "06024001",
+"start_ref_usfm": "JOS 24:1",
+"end_ref": "06024033",
+"end_ref_usfm": "JOS 24:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5955,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.5197,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4455,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4455,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.4182,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.3545,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.303,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.2909,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Balaam"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "person:Balak",
+"type": "person",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Balak"
+},
+{
+"id": "person:Zippor",
+"type": "person",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Zippor"
+},
+{
+"id": "person:Nahor",
+"type": "person",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Nahor"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gaash",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Gaash"
+},
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Terah"
+},
+{
+"id": "place:Timnath-heres",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Timnath-heres"
+},
+{
+"id": "person:Nun",
+"type": "person",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Nun"
+},
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Hivites"
+},
+{
+"id": "person:Beor.2",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Beor"
+},
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Hamor",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Hamor"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Edomites"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Zealous"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Jebusites"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Miraculous Sign"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Girgashites"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Seir"
+},
+{
+"id": "realia:PieceOfMoney",
+"type": "realia",
+"confidence": 0.1097,
+"match_method": "canonical",
+"preferred_label": "Piece of Money"
+},
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Terebinth"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "fauna:Hornet",
+"type": "fauna",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Hornet"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Vine"
+}
+]
+}
+}
+]

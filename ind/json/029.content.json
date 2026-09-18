@@ -1,0 +1,425 @@
+[
+{
+"content_id": "NT037",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Jemaat di Antiokhia",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula jemaat di antiokhia",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT037.png' alt='Image' width='480' /></p><p><a href='images/NT037.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44011001",
+"start_ref_usfm": "ACT 11:1",
+"end_ref": "44011030",
+"end_ref_usfm": "ACT 11:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.47,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.4317,
+"match_method": "canonical",
+"preferred_label": "Antiokhia"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "sorga"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Petrus"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.295,
+"match_method": "canonical",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.295,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2367,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.2367,
+"match_method": "canonical",
+"preferred_label": "Siprus"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.235,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Yehuda"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "jemaat"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "bimbang"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "pencemaran"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "firman"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Yafo"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 0.185,
+"match_method": "canonical",
+"preferred_label": "Klaudius"
+},
+{
+"id": "group:Cyprus",
+"type": "group",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Cypriots"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Fenisia"
+},
+{
+"id": "person:Agabus",
+"type": "person",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Agabus"
+},
+{
+"id": "group:Christ",
+"type": "group",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Christians"
+},
+{
+"id": "group:Hellenist",
+"type": "group",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Hellenists"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.17,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "hati"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "bertobat"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "penyunatan"
+},
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Tarsus"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Kaisarea"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Kirene"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Yohanes"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "injil"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "melayani"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "baptisan"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Stefanus"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "kemuliaan"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Yunani"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "membersihkan"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "yang baik"
+},
+{
+"id": "realia:LinenCloth",
+"type": "realia",
+"confidence": 0.1117,
+"match_method": "canonical",
+"preferred_label": "Linen Cloth"
+},
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "Lizard"
+},
+{
+"id": "fauna:CreepingAnimal",
+"type": "fauna",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "Creeping Animal"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "Monitor"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "Chameleon"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "Snake"
+}
+]
+}
+}
+]

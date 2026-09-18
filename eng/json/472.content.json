@@ -1,0 +1,502 @@
+[
+{
+"content_id": "OT222",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecy Against Nineveh",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecy against nineveh",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT222.png' alt='Image' width='480' /></p><p><a href='images/OT222.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1URvSinz-UlYglEYASXXnBRYFL4idtX0V&usp=drive_copy'>Wisdom & Prophets: Prophecy Against Nineveh</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "34001001",
+"start_ref_usfm": "NAM 1:1",
+"end_ref": "34003019",
+"end_ref_usfm": "NAM 3:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4457,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Nineveh"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.2783,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Wickedness"
+},
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 0.2187,
+"match_method": "canonical",
+"preferred_label": "Locust"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.2187,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "place:Thebes",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Thebes"
+},
+{
+"id": "deity:Amon",
+"type": "deity",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Amon"
+},
+{
+"id": "person:Nahum.2",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Nahum"
+},
+{
+"id": "place:Elkosh",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Elkosh"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Bashan"
+},
+{
+"id": "keyterm:Incantations",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Incantations"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Utterance"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Lebanon"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Carmel"
+},
+{
+"id": "place:Put",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Put"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "keyterm:PronounceInnocent",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Pronounce Innocent"
+},
+{
+"id": "keyterm:StateOfBeingUnderSiege",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Under Siege"
+},
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Zealous"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Libya"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Detested Thing"
+},
+{
+"id": "keyterm:SeekfindRefuge",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Seek Refugue"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Cush"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Fortress"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "realia:BrickMold",
+"type": "realia",
+"confidence": 0.1038,
+"match_method": "canonical",
+"preferred_label": "Brick Mold"
+},
+{
+"id": "realia:ProtectiveShield",
+"type": "realia",
+"confidence": 0.1038,
+"match_method": "canonical",
+"preferred_label": "Protective Shield"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "realia:StrongDrink",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Strong Drink"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Cypress"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:JuniperTree",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Phoenician Juniper"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Wagon"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Fir"
+},
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Graven Image"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Grass"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Spear"
+},
+{
+"id": "realia:DyedCloth",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Dyed Cloth"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Grecian Juniper"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Small Shield"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Fig"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Yoke"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "realia:Whip",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Whip"
+},
+{
+"id": "realia:Train",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Train"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Fortification"
+}
+]
+}
+}
+]

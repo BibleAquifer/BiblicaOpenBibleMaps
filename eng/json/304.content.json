@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT054",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Judah and Simeon",
+"media_type": "Image",
+"index_reference": "historical judah and simeon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT054.png' alt='Image' width='480' /></p><p><a href='images/OT054.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1FPhjd_03N5yioIm5zs6bvfnWT_mYsczC&usp=drive_copy'>Historical: Judah and Simeon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "06013001",
+"start_ref_usfm": "JOS 13:1",
+"end_ref": "06021045",
+"end_ref_usfm": "JOS 21:45"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.4136,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3996,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.3904,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.3897,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3897,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.3897,
+"match_method": "canonical",
+"preferred_label": "Tribe of Manasseh"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3847,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.3781,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3781,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.3781,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.3781,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.3765,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.3765,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.3748,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.3748,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.3732,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 0.3656,
+"match_method": "canonical",
+"preferred_label": "Caleb"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 0.3649,
+"match_method": "canonical",
+"preferred_label": "Bashan"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3649,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.3649,
+"match_method": "canonical",
+"preferred_label": "Tribe of Reuben"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.3649,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.3632,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 0.3632,
+"match_method": "canonical",
+"preferred_label": "Asher"
+},
+{
+"id": "group:Asher",
+"type": "group",
+"confidence": 0.3632,
+"match_method": "canonical",
+"preferred_label": "Tribe of Asher"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.3632,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "place:Kiriath-jearim",
+"type": "place",
+"confidence": 0.3629,
+"match_method": "canonical",
+"preferred_label": "Kiriath-jearim"
+},
+{
+"id": "keyterm:Refuge",
+"type": "keyterm",
+"confidence": 0.3623,
+"match_method": "canonical",
+"preferred_label": "Refuge"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.3616,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.3616,
+"match_method": "canonical",
+"preferred_label": "Gad"
+}
+]
+}
+}
+]

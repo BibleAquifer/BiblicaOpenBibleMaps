@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT094",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: David Assumes the Throne of Judah",
+"media_type": "Image",
+"index_reference": "historical david assumes the throne of judah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT094.png' alt='Image' width='480' /></p><p><a href='images/OT094.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1evAwPok2aBwNmSPdKkBxaWzN2jW3pMSF&usp=drive_copy'>Historical: David Assumes the Throne of Judah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10001001",
+"start_ref_usfm": "2SA 1:1",
+"end_ref": "10002032",
+"end_ref_usfm": "2SA 2:32"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.5254,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.4873,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "person:Abner",
+"type": "person",
+"confidence": 0.4678,
+"match_method": "canonical",
+"preferred_label": "Abner"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 0.4263,
+"match_method": "canonical",
+"preferred_label": "Joab"
+},
+{
+"id": "person:Asahel",
+"type": "person",
+"confidence": 0.4178,
+"match_method": "canonical",
+"preferred_label": "Asahel"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 0.4144,
+"match_method": "canonical",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.411,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4034,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3958,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.3958,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Ish-bosheth",
+"type": "person",
+"confidence": 0.3441,
+"match_method": "canonical",
+"preferred_label": "Ish-bosheth"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.3339,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.3305,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 0.3305,
+"match_method": "canonical",
+"preferred_label": "Gibeon"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.3305,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.2729,
+"match_method": "canonical",
+"preferred_label": "Amalekites"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.2729,
+"match_method": "canonical",
+"preferred_label": "Amalek"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"confidence": 0.2729,
+"match_method": "canonical",
+"preferred_label": "Mahanaim"
+},
+{
+"id": "person:Ner.2",
+"type": "person",
+"confidence": 0.2186,
+"match_method": "canonical",
+"preferred_label": "Ner"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"confidence": 0.2186,
+"match_method": "canonical",
+"preferred_label": "Zeruiah"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"confidence": 0.2186,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"confidence": 0.2186,
+"match_method": "canonical",
+"preferred_label": "Abishai"
+},
+{
+"id": "place:Jabesh-gilead",
+"type": "place",
+"confidence": 0.2153,
+"match_method": "canonical",
+"preferred_label": "Jabesh-gilead"
+},
+{
+"id": "place:GilboaMount",
+"type": "place",
+"confidence": 0.2153,
+"match_method": "canonical",
+"preferred_label": "Mount Gilboa"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2153,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.2153,
+"match_method": "canonical",
+"preferred_label": "Anointed"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"confidence": 0.2153,
+"match_method": "canonical",
+"preferred_label": "Smear"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.2153,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "person:Jashar",
+"type": "person",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Jashar"
+},
+{
+"id": "place:Ammah",
+"type": "place",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Ammah"
+}
+]
+}
+}
+]

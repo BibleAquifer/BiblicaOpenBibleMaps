@@ -1,0 +1,404 @@
+[
+{
+"content_id": "OT134",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Hazael's Conquests",
+"media_type": "Image",
+"index_reference": "historical hazaels conquests",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT134.png' alt='Image' width='480' /></p><p><a href='images/OT134.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1o072EGPSALZexXvWznluJRK2uCVowB3b&usp=drive_copy'>Historical: Hazael's Conquests</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12010001",
+"start_ref_usfm": "2KI 10:1",
+"end_ref": "12010036",
+"end_ref_usfm": "2KI 10:36"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jehu.2",
+"type": "person",
+"confidence": 0.5806,
+"match_method": "canonical",
+"preferred_label": "Jehu"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 0.475,
+"match_method": "canonical",
+"preferred_label": "Baal"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.45,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4375,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Ahab"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.4125,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.4125,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3525,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"confidence": 0.35,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.29,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "place:Beth-eked",
+"type": "place",
+"confidence": 0.2361,
+"match_method": "canonical",
+"preferred_label": "Beth-eked"
+},
+{
+"id": "person:Rechab.2",
+"type": "person",
+"confidence": 0.2306,
+"match_method": "canonical",
+"preferred_label": "Rechab"
+},
+{
+"id": "person:Jonadab",
+"type": "person",
+"confidence": 0.2306,
+"match_method": "canonical",
+"preferred_label": "Jonadab"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.2275,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Tribe of Manasseh"
+},
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Sacred Pillar"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Bashan"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "person:Jehoahaz.2",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Jehoahaz"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "place:Arnon",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Arnon"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Tribe of Reuben"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Nebat"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Ahaziah"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Tribe of Dan"
+},
+{
+"id": "place:Aroer.2",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Aroer"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "person:Hazael",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Hazael"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Pit"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "realia:Weapons",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Weapons"
+}
+]
+}
+}
+]

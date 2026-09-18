@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT068",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Deeds of Samson",
+"media_type": "Image",
+"index_reference": "historical deeds of samson",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT068.png' alt='Image' width='480' /></p><p><a href='images/OT068.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=148pbV2HaKEmlImwW3LPHHaa1ISqH0K_w&usp=drive_copy'>Historical: Deeds of Samson</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07013001",
+"start_ref_usfm": "JDG 13:1",
+"end_ref": "07015020",
+"end_ref_usfm": "JDG 15:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5231,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Samson",
+"type": "person",
+"confidence": 0.4877,
+"match_method": "canonical",
+"preferred_label": "Samson"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.4469,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.4469,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Manoah",
+"type": "person",
+"confidence": 0.4431,
+"match_method": "canonical",
+"preferred_label": "Manoah"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3277,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3246,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "place:Lehi",
+"type": "place",
+"confidence": 0.2769,
+"match_method": "canonical",
+"preferred_label": "Lehi"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "place:Timnah",
+"type": "place",
+"confidence": 0.2708,
+"match_method": "canonical",
+"preferred_label": "Timnah"
+},
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"confidence": 0.2677,
+"match_method": "canonical",
+"preferred_label": "Kid"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.2677,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.2677,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "place:Etam",
+"type": "place",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Etam"
+},
+{
+"id": "place:Zorah",
+"type": "place",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Zorah"
+},
+{
+"id": "person:WifeOfManoah",
+"type": "person",
+"confidence": 0.22,
+"match_method": "canonical",
+"preferred_label": "Manoah's Wife"
+},
+{
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"confidence": 0.2169,
+"match_method": "canonical",
+"preferred_label": "Uncircumcised Person"
+},
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 0.2138,
+"match_method": "canonical",
+"preferred_label": "Nazirites"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.2108,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2108,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "person:FatherInLawOfSamson",
+"type": "person",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Father-in-Law of Samson"
+},
+{
+"id": "group:Timnites",
+"type": "group",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Timnites"
+},
+{
+"id": "place:Mahaneh-dan",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Mahaneh-dan"
+},
+{
+"id": "place:Ramath-lehi",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "Ramath-lehi"
+},
+{
+"id": "person:Informant",
+"type": "person",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "An Informant"
+},
+{
+"id": "place:En-hakkore",
+"type": "place",
+"confidence": 0.16,
+"match_method": "canonical",
+"preferred_label": "En-hakkore"
+}
+]
+}
+}
+]

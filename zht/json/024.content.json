@@ -1,0 +1,327 @@
+[
+{
+"content_id": "NT032",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "保羅與早期教會：司提反的反對者",
+"media_type": "Image",
+"index_reference": "保羅與早期教會司提反的反對者",
+"language": "zht",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT032.png' alt='Image' width='480' /></p><p><a href='images/NT032.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006015",
+"end_ref_usfm": "ACT 6:15"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 0.3667,
+"match_method": "canonical",
+"preferred_label": "Stephen"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.3533,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.2467,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Parmenas",
+"type": "person",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Parmenas"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Alexandria"
+},
+{
+"id": "group:Alexandria",
+"type": "group",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Alexandrians"
+},
+{
+"id": "person:Nicanor",
+"type": "person",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Nicanor"
+},
+{
+"id": "person:Prochorus",
+"type": "person",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Prochorus"
+},
+{
+"id": "group:Freedmen",
+"type": "group",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Freedmen"
+},
+{
+"id": "person:Nicolaus",
+"type": "person",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Nicolaus"
+},
+{
+"id": "person:Timon",
+"type": "person",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Timon"
+},
+{
+"id": "group:Antioch",
+"type": "group",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Antiochians"
+},
+{
+"id": "group:Hellenist",
+"type": "group",
+"confidence": 0.1933,
+"match_method": "canonical",
+"preferred_label": "Hellenists"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Blasphemous",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Blasphemous"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Cyrene"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Cilicia"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Greece"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.18,
+"match_method": "canonical",
+"preferred_label": "Antioch"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.12,
+"match_method": "canonical",
+"preferred_label": "Tabernacle"
+}
+]
+}
+}
+]

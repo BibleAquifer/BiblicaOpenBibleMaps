@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT038",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Balak and Balaam",
+"media_type": "Image",
+"index_reference": "pentateuch balak and balaam",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT038.png' alt='Image' width='480' /></p><p><a href='images/OT038.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1NAX2Vvr_MtFc-4tjh-ZBfdJoUu32xdxm&usp=drive_copy'>Pentateuch: Balak and Balaam</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "04022001",
+"start_ref_usfm": "NUM 22:1",
+"end_ref": "04024025",
+"end_ref_usfm": "NUM 24:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 0.5745,
+"match_method": "canonical",
+"preferred_label": "Balaam"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5469,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Balak",
+"type": "person",
+"confidence": 0.538,
+"match_method": "canonical",
+"preferred_label": "Balak"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4109,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.3875,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.3828,
+"match_method": "canonical",
+"preferred_label": "Proverb"
+},
+{
+"id": "person:Zippor",
+"type": "person",
+"confidence": 0.3776,
+"match_method": "canonical",
+"preferred_label": "Zippor"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.339,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.3275,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3187,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3187,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.3187,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.3181,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.3181,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.3181,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3181,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.3181,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "person:Beor.2",
+"type": "person",
+"confidence": 0.2682,
+"match_method": "canonical",
+"preferred_label": "Beor"
+},
+{
+"id": "keyterm:HaveAVision",
+"type": "keyterm",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Have a Vision"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "keyterm:FeeForDivination",
+"type": "keyterm",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Fee for Divination"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.2041,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "place:Kiriath-huzoth",
+"type": "place",
+"confidence": 0.1568,
+"match_method": "canonical",
+"preferred_label": "Kiriath-huzoth"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.1568,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "place:Pisgah",
+"type": "place",
+"confidence": 0.1568,
+"match_method": "canonical",
+"preferred_label": "Pisgah"
+},
+{
+"id": "place:MoabPlains",
+"type": "place",
+"confidence": 0.1568,
+"match_method": "canonical",
+"preferred_label": "Plains of Moab"
+}
+]
+}
+}
+]

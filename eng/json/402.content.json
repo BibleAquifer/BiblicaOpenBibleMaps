@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT152",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Josiah Purges the Idols",
+"media_type": "Image",
+"index_reference": "historical josiah purges the idols",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT152.png' alt='Image' width='480' /></p><p><a href='images/OT152.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1gBHowWI3ACBdpxGXESmIXV0zw2fogS5m&usp=drive_copy'>Historical: Josiah Purges the Idols</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12022001",
+"start_ref_usfm": "2KI 22:1",
+"end_ref": "12023037",
+"end_ref_usfm": "2KI 23:37"
+},
+{
+"start_ref": "14034001",
+"start_ref_usfm": "2CH 34:1",
+"end_ref": "14035027",
+"end_ref_usfm": "2CH 35:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5731,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4615,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4577,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4577,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 0.4436,
+"match_method": "canonical",
+"preferred_label": "Josiah"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4231,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Hilkiah.2",
+"type": "person",
+"confidence": 0.409,
+"match_method": "canonical",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Shaphan",
+"type": "person",
+"confidence": 0.4043,
+"match_method": "canonical",
+"preferred_label": "Shaphan"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.39,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.3808,
+"match_method": "canonical",
+"preferred_label": "Asherah"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.3808,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 0.3748,
+"match_method": "canonical",
+"preferred_label": "Neco"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.3731,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3731,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.3709,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.3592,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.3285,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.3285,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.3285,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3285,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.3225,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.3208,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.3208,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.3154,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3154,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.3154,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+}
+]
+}
+}
+]

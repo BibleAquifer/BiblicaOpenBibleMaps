@@ -1,0 +1,208 @@
+[
+{
+"content_id": "OT306",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Exodus: Exod. 4:1–17, Exod. 7:14–25, Exod. 8:20–31",
+"media_type": "Image",
+"index_reference": "srv exodus exod 4117 exod 71425 exod 82031",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT306.png' alt='Image' width='480' /></p><p><a href='images/OT306.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ig6Cirg01KLEya0PoLK_X7dkwGGWSK40&usp=drive_copy'>SRV Exodus: Exod. 4:1-17, Exod. 7:14-25, Exod. 8:20-31</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6258,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.5387,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.429,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.429,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.2981,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Zipporah",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Zipporah"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Infectious Skin Disease"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "keyterm:Foreskin",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Foreskin"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jethro"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "realia:Knife",
+"type": "realia",
+"confidence": 0.111,
+"match_method": "canonical",
+"preferred_label": "Knife"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Snake"
+}
+]
+}
+}
+]

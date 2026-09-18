@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT159",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Miracles of Elisha (Part 1)",
+"media_type": "Image",
+"index_reference": "historical miracles of elisha part 1",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT159.png' alt='Image' width='480' /></p><p><a href='images/OT159.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1efg8-eM2VNQQWM0K8Nj-Sx8xWel1mNj0&usp=drive_copy'>Historical: Miracles of Elisha (Part 1)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "12004001",
+"start_ref_usfm": "2KI 4:1",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5021,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Gehazi",
+"type": "person",
+"confidence": 0.4387,
+"match_method": "canonical",
+"preferred_label": "Gehazi"
+},
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 0.4197,
+"match_method": "canonical",
+"preferred_label": "Elisha"
+},
+{
+"id": "person:Naaman.3",
+"type": "person",
+"confidence": 0.419,
+"match_method": "canonical",
+"preferred_label": "Naaman"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4007,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.3908,
+"match_method": "canonical",
+"preferred_label": "Infectious Skin Disease"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.3817,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.328,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "group:Shunammites",
+"type": "group",
+"confidence": 0.269,
+"match_method": "canonical",
+"preferred_label": "Shunammites"
+},
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"confidence": 0.2654,
+"match_method": "canonical",
+"preferred_label": "Cooking Pot"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.2654,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "realia:Stew",
+"type": "realia",
+"confidence": 0.2146,
+"match_method": "canonical",
+"preferred_label": "Stew"
+},
+{
+"id": "group:Syria",
+"type": "group",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Syrians"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "realia:Talent",
+"type": "realia",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Talent"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "place:Baal-shalishah",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Baal-shalishah"
+},
+{
+"id": "place:Pharpar",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Pharpar"
+},
+{
+"id": "place:Abana",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Abanah"
+},
+{
+"id": "deity:Rimmon",
+"type": "deity",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Rimmon"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Mount Carmel"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Offering"
+}
+]
+}
+}
+]

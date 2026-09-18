@@ -1,0 +1,383 @@
+[
+{
+"content_id": "NT120",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Matthew: Matt. 21:1–10",
+"media_type": "Image",
+"index_reference": "srv matthew matt 21110",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT120.png' alt='Image' width='480' /></p><p><a href='images/NT120.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1_IqJkO_QWUumz-UQi4xP-_gFXhFJDJU3&usp=drive_copy'>SRV Matthew: Matt. 21:1-10</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021001",
+"start_ref_usfm": "MAT 21:1",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4478,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.3433,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3391,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3391,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3389,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2837,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2793,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.2239,
+"match_method": "canonical",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "keyterm:Hosanna",
+"type": "keyterm",
+"confidence": 0.2239,
+"match_method": "canonical",
+"preferred_label": "Hosanna"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Fig"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.2193,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "place:Bethphage",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Bethphage"
+},
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Reject"
+},
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Height"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Bethany"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1598,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "realia:Seat",
+"type": "realia",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Seat"
+},
+{
+"id": "realia:Cornerstone",
+"type": "realia",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Cornerstone"
+},
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.1041,
+"match_method": "canonical",
+"preferred_label": "Tower"
+},
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "realia:ThornHedge",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Thorn Hedge"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.0998,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+}
+]
+}
+}
+]

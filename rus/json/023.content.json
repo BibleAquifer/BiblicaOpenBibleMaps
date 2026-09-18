@@ -1,0 +1,572 @@
+[
+{
+"content_id": "NT031",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Павел и ранняя Церковь: Собрание в день Пятидесятницы",
+"media_type": "Image",
+"index_reference": "павел и ранняя церковь собрание в день пятидесятницы",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT031.png' alt='Image' width='480' /></p><p><a href='images/NT031.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44002001",
+"start_ref_usfm": "ACT 2:1",
+"end_ref": "44002047",
+"end_ref_usfm": "ACT 2:47"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4936,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4074,
+"match_method": "canonical",
+"preferred_label": "Иисус"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3979,
+"match_method": "canonical",
+"preferred_label": "Святой Дух"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3383,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.2872,
+"match_method": "canonical",
+"preferred_label": "Portent"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.283,
+"match_method": "canonical",
+"preferred_label": "Пётр"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Давид"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2234,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.2234,
+"match_method": "canonical",
+"preferred_label": "World of the Dead"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2234,
+"match_method": "canonical",
+"preferred_label": "Иерусалим"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Иудея"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Израиль"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "group:Parthians",
+"type": "group",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Parthians"
+},
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Fellowship"
+},
+{
+"id": "group:Cretan",
+"type": "group",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "критянин"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Call Upon"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "киринеянин"
+},
+{
+"id": "group:Judea",
+"type": "group",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Judeans"
+},
+{
+"id": "place:Cappadocia",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Каппадокия"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Медан"
+},
+{
+"id": "person:Joel.14",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Иоиль"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Елам"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Ливияне"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Понт"
+},
+{
+"id": "group:Elam",
+"type": "group",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Elamites"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Фригия"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Lawless"
+},
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Крит"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Назарет"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Асии"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Oath"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Галилея"
+},
+{
+"id": "group:Mede",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Medes"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Египет"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Памфилия"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "keyterm:MightyAct",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Mighty Act"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Арбитянин"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Римлянин"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Месопотамия"
+},
+{
+"id": "keyterm:SomethingDefinite",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Something Definite"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Arabians"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:InCommon",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "In Common"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:SweetWine",
+"type": "realia",
+"confidence": 0.1038,
+"match_method": "canonical",
+"preferred_label": "Sweet Wine"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Throne"
+},
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Footstool"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Grave"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT264",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV John: John 7:1–10, John 18:1–14, John 21:1–14",
+"media_type": "Image",
+"index_reference": "srv john john 7110 john 18114 john 21114",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT264.png' alt='Image' width='480' /></p><p><a href='images/NT264.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=15GMZ3SCu07TtcdQzgQgyl9_FY3tniiEg&usp=drive_copy'>SRV John: John 7:1-10, John 18:1-14, John 21:1-14</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43007001",
+"start_ref_usfm": "JHN 7:1",
+"end_ref": "43007053",
+"end_ref_usfm": "JHN 7:53"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4689,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4009,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3925,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.3925,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.3377,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.334,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.334,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.334,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2755,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.2208,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Unjust Deed"
+},
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Nicodemus"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "group:Relatives",
+"type": "group",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Relatives"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Religious Officials"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+}
+]
+}
+}
+]

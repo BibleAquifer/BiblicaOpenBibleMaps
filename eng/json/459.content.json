@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT209",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecies Against Gog",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecies against gog",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT209.png' alt='Image' width='480' /></p><p><a href='images/OT209.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ti_ecYgbuajrnRvl8_Zg6IAwSg0FntBf&usp=drive_copy'>Wisdom & Prophets: Prophecies Against Gog</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26038001",
+"start_ref_usfm": "EZK 38:1",
+"end_ref": "26039029",
+"end_ref_usfm": "EZK 39:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5317,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4971,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Gog",
+"type": "place",
+"confidence": 0.4106,
+"match_method": "canonical",
+"preferred_label": "Gog"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"confidence": 0.3933,
+"match_method": "canonical",
+"preferred_label": "Safety"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 0.2798,
+"match_method": "canonical",
+"preferred_label": "Tubal"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"confidence": 0.2798,
+"match_method": "canonical",
+"preferred_label": "Meshech"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "place:Magog",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Magog"
+},
+{
+"id": "place:Hamon-gogValley",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Valley of Hamon-gog"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Be Unfaithful"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.216,
+"match_method": "canonical",
+"preferred_label": "Small Shield"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.216,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "person:Gomer",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Gomer"
+},
+{
+"id": "place:Hamonah",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Hamonah"
+},
+{
+"id": "place:Beth-togarmah",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Beth-togarmah"
+},
+{
+"id": "place:TravelersValley",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Valley of the Travelers"
+},
+{
+"id": "realia:Arrow",
+"type": "realia",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+},
+{
+"id": "realia:Weapons",
+"type": "realia",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "Weapons"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Be Zealous"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Sheba"
+},
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Bashan"
+},
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Persia"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Tarshish"
+}
+]
+}
+}
+]

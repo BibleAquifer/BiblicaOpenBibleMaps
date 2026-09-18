@@ -1,0 +1,453 @@
+[
+{
+"content_id": "NT044",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and the Early Church: End of Paul's Second Missionary Journey and Beginning of his Third",
+"media_type": "Image",
+"index_reference": "paul and the early church end of pauls second missionary journey and beginning of his third",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT044.png' alt='Image' width='480' /></p><p><a href='images/NT044.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=11WuuC7ODqTgnjL1xIsqATHfqKdrqrncB&usp=drive_copy'>Paul and the Early Church: End of Paul's Second Missionary Journey and Beginning of his Third</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44018001",
+"start_ref_usfm": "ACT 18:1",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4786,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4304,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.3864,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:Gallio",
+"type": "person",
+"confidence": 0.3196,
+"match_method": "canonical",
+"preferred_label": "Gallio"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Aquila"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 0.3054,
+"match_method": "canonical",
+"preferred_label": "Priscilla"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Ephesus"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"confidence": 0.2454,
+"match_method": "canonical",
+"preferred_label": "Judgment Seat"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "place:Achaia",
+"type": "place",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Achaia"
+},
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Corinth"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Alexandria"
+},
+{
+"id": "group:Alexandria",
+"type": "group",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Alexandrians"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Claudius"
+},
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Apollos"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Corinthians"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Pontus"
+},
+{
+"id": "person:Crispus",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Crispus"
+},
+{
+"id": "person:Sosthenes",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Sosthenes"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Pontus"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Phrygia"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Galatia"
+},
+{
+"id": "place:Cenchreae",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Cenchreae"
+},
+{
+"id": "person:Justus.2",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Justus"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Italy"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Declare"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Athens"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Silas"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Clean"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:UnrighteousAct",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Unrighteous Act"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Antioch"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+}
+]
+}
+}
+]
