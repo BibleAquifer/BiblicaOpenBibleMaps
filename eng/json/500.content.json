@@ -1,0 +1,229 @@
+[
+{
+"content_id": "OT274",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Genesis: Gen. 21:22–34, Gen. 22:1–18",
+"media_type": "Image",
+"index_reference": "srv genesis gen 212234 gen 22118",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT274.png' alt='Image' width='480' /></p><p><a href='images/OT274.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=19dUw-Wo7vfMNzn1IQ0QiB2ZGNkDj9IU9&usp=drive_copy'>SRV Genesis: Gen. 21:22-34, Gen. 22:1-18</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01021001",
+"start_ref_usfm": "GEN 21:1",
+"end_ref": "01021034",
+"end_ref_usfm": "GEN 21:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.5882,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4956,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.4485,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.4353,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"confidence": 0.4294,
+"match_method": "canonical",
+"preferred_label": "Abimelech"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 0.3588,
+"match_method": "canonical",
+"preferred_label": "Beersheba"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.2956,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Hagar"
+},
+{
+"id": "person:Phicol",
+"type": "person",
+"confidence": 0.2382,
+"match_method": "canonical",
+"preferred_label": "Phicol"
+},
+{
+"id": "realia:Skin-bottle",
+"type": "realia",
+"confidence": 0.2356,
+"match_method": "canonical",
+"preferred_label": "Skin-Bottle"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "place:Paran",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Paran"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1665,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1665,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "flora:Tamarisk",
+"type": "flora",
+"confidence": 0.1091,
+"match_method": "canonical",
+"preferred_label": "Tamarisk"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+}
+]
+}
+}
+]

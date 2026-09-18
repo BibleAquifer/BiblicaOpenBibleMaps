@@ -1,0 +1,397 @@
+[
+{
+"content_id": "OT092",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: David Destroys the Amalekites",
+"media_type": "Image",
+"index_reference": "historical david destroys the amalekites",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT092.png' alt='Image' width='480' /></p><p><a href='images/OT092.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1kD9QUbahAjZSfu-bvBO55aQyQpsshYPn&usp=drive_copy'>Historical: David Destroys the Amalekites</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030031",
+"end_ref_usfm": "1SA 30:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6548,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4226,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Besor",
+"type": "place",
+"confidence": 0.3065,
+"match_method": "canonical",
+"preferred_label": "Besor"
+},
+{
+"id": "place:Ziklag",
+"type": "place",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Ziklag"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Negev"
+},
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Amalekites"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Amalek"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Carmel"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Cherethites"
+},
+{
+"id": "person:Jerahmeel",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Jerahmeel"
+},
+{
+"id": "place:Bor-ashan",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Bor-ashan"
+},
+{
+"id": "group:Jerahmeel",
+"type": "group",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Jerahmeelites"
+},
+{
+"id": "place:Athach",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Athach"
+},
+{
+"id": "person:Ahinoam.2",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Ahinoam"
+},
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Siphmoth",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Siphmoth"
+},
+{
+"id": "place:Aroer.3",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Aroer"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "A Servant"
+},
+{
+"id": "place:Eshtemoa",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Eshtemoa"
+},
+{
+"id": "person:Nabal",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Nabal"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Jezreel",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "place:Zephath",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Zephath"
+},
+{
+"id": "group:Carmel",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Carmelites"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Ahimelech"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "person:Abigail",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Abigail"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Caleb"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Abiathar"
+},
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Wickedness"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "group:Jezreel",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "place:Jattir",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jattir"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Kenites"
+},
+{
+"id": "realia:FigCake",
+"type": "realia",
+"confidence": 0.111,
+"match_method": "canonical",
+"preferred_label": "Fig Cake"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Ephod"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Vine"
+}
+]
+}
+}
+]

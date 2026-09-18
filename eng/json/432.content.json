@@ -1,0 +1,201 @@
+[
+{
+"content_id": "OT182",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecy Against Tyre",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecy against tyre",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT182.png' alt='Image' width='480' /></p><p><a href='images/OT182.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1SMHdk7QaTiZp0kWn-stqKGRm2Qec-yja/view?usp=drive_link'>Wisdom & Prophets: Prophecy Against Tyre</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23023001",
+"start_ref_usfm": "ISA 23:1",
+"end_ref": "23023018",
+"end_ref_usfm": "ISA 23:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.4861,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 0.4111,
+"match_method": "canonical",
+"preferred_label": "Tarshish"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.325,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.265,
+"match_method": "canonical",
+"preferred_label": "Fortress"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.19,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Chaldea"
+},
+{
+"id": "place:BrookOfEgypt",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Brook of Egypt"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Utterance"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Play the Prostitute"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "To Dishonor"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "realia:SiegeTower",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Siege Tower"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "flora:Coriander",
+"type": "flora",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Coriander"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Lute"
+},
+{
+"id": "fauna:Hyena",
+"type": "fauna",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Hyena"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Barley"
+}
+]
+}
+}
+]

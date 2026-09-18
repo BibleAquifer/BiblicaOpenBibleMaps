@@ -1,0 +1,397 @@
+[
+{
+"content_id": "OT177",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: The Prophesied Attack on Jerusalem",
+"media_type": "Image",
+"index_reference": "wisdom  prophets the prophesied attack on jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT177.png' alt='Image' width='480' /></p><p><a href='images/OT177.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1RRMCWu80dY4-q0rnYPUDDajenTqDH2rQ/view?usp=drive_link'>Wisdom & Prophets: The Prophesied Attack on Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23010001",
+"start_ref_usfm": "ISA 10:1",
+"end_ref": "23010034",
+"end_ref_usfm": "ISA 10:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4559,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4162,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3529,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"confidence": 0.2324,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Sandalwood"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Idol",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Idol"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Gallim",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Gallim"
+},
+{
+"id": "place:Nob",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Nob"
+},
+{
+"id": "keyterm:Visitation",
+"type": "keyterm",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Visitation"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Ai"
+},
+{
+"id": "place:Migron",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Migron"
+},
+{
+"id": "place:Gebim",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Gebim"
+},
+{
+"id": "place:Madmenah",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Madmenah"
+},
+{
+"id": "place:Laishah",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Laishah"
+},
+{
+"id": "place:Carchemish",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Carchemish"
+},
+{
+"id": "person:Oreb",
+"type": "person",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Oreb"
+},
+{
+"id": "place:Calneh",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Calneh"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.1665,
+"match_method": "canonical",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.1665,
+"match_method": "canonical",
+"preferred_label": "Image"
+},
+{
+"id": "keyterm:Mighty",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Mighty"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Hamath"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "place:Anathoth",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Anathoth"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Gibeah"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "place:Arpad",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Arpad"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Lebanon"
+},
+{
+"id": "keyterm:Mischief",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Mischief"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "place:Geba",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Geba"
+},
+{
+"id": "group:Assyria",
+"type": "group",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Assyrians"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Perceive"
+},
+{
+"id": "place:Michmash",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Michmash"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "keyterm:MightyOne",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Mighty One"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Saw",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Saw"
+},
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Graven Image"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "realia:Axe",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Axe"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Yoke"
+},
+{
+"id": "realia:Whip",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Whip"
+}
+]
+}
+}
+]

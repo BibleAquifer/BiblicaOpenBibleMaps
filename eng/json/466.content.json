@@ -1,0 +1,495 @@
+[
+{
+"content_id": "OT216",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecies Against Foreign Nations",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecies against foreign nations",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT216.png' alt='Image' width='480' /></p><p><a href='images/OT216.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1FCu-xMn-WSmaOAir6XN9ZEI4WkYBkILv&usp=drive_copy'>Wisdom & Prophets: Prophecies Against Foreign Nations</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "30001001",
+"start_ref_usfm": "AMO 1:1",
+"end_ref": "30002016",
+"end_ref_usfm": "AMO 2:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5823,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.4661,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Gaza"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Nazirites"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "keyterm:HaveAVision",
+"type": "keyterm",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Have a Vision"
+},
+{
+"id": "place:Beth-eden",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Beth-eden"
+},
+{
+"id": "place:AvenValley",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Valley of Aven"
+},
+{
+"id": "place:Kir",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Kir"
+},
+{
+"id": "place:Tekoa",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Tekoa"
+},
+{
+"id": "person:Amos.3",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Amos"
+},
+{
+"id": "person:Hazael",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Hazael"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Ekron",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Ekron"
+},
+{
+"id": "person:Ben-hadad.3",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Ben-hadad"
+},
+{
+"id": "place:Ashkelon",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Ashkelon"
+},
+{
+"id": "place:Kiriathaim",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Kiriathaim"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Uzziah"
+},
+{
+"id": "place:Bozrah.2",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Bozrah"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "place:Ashdod",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Ashdod"
+},
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Carmel"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "place:Teman",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Teman"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Poor"
+},
+{
+"id": "person:Jeroboam.2",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "To Dishonor"
+},
+{
+"id": "person:Joash.4",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Joash"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Rams Horn"
+},
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Wagon"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Cedar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:Threshing-sledge",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Threshing-Sledge"
+},
+{
+"id": "realia:Sheaf",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Sheaf"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Oak"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Goat"
+}
+]
+}
+}
+]

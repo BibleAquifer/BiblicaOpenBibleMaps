@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT015",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "The Life of Jesus: Jesus Feeds the 5000 and Walks on Water",
+"media_type": "Image",
+"index_reference": "life of jesus jesus feeds the 5000 and walks on water",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT015.png' alt='Image' width='480' /></p><p><a href='images/NT015.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1RdY0RJshEwEzqk7VejJL-pzzcBBX6aYZ&usp=drive_copy'>The Life of Jesus: Jesus Feeds the 5000 and Walks on Water</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43006001",
+"start_ref_usfm": "JHN 6:1",
+"end_ref": "43006071",
+"end_ref_usfm": "JHN 6:71"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4894,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4324,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.4324,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.407,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.407,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4007,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3972,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3944,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.328,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.2746,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.269,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.269,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Simon.7",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "place:Tiberias",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Tiberias"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Andrew"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+}
+]
+}
+}
+]

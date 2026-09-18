@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT223",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: The Vision of Zephaniah",
+"media_type": "Image",
+"index_reference": "wisdom  prophets the vision of zephaniah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT223.png' alt='Image' width='480' /></p><p><a href='images/OT223.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1xxMrh3QrCTryvQvIEZzSDVCnY7Rk_D-D&usp=drive_copy'>Wisdom & Prophets: The Vision of Zephaniah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "36001001",
+"start_ref_usfm": "ZEP 1:1",
+"end_ref": "36003020",
+"end_ref_usfm": "ZEP 3:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5792,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.3925,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.334,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.334,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.334,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2755,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2755,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "place:Ashkelon",
+"type": "place",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Ashkelon"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "keyterm:Deceit",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Deceit"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Cush"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Zephaniah.3",
+"type": "person",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Zephaniah"
+},
+{
+"id": "person:Gedaliah.3",
+"type": "person",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Gedaliah"
+},
+{
+"id": "place:FishGate",
+"type": "place",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Fish Gate"
+},
+{
+"id": "person:Amariah.9",
+"type": "person",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Amariah"
+},
+{
+"id": "person:Cushi",
+"type": "person",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Cushi"
+},
+{
+"id": "keyterm:Stain",
+"type": "keyterm",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Defile"
+},
+{
+"id": "place:Mortar",
+"type": "place",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "The Hollow"
+},
+{
+"id": "person:Hezekiah.4",
+"type": "person",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "place:SecondQuarter",
+"type": "place",
+"confidence": 0.1623,
+"match_method": "canonical",
+"preferred_label": "Second District"
+},
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Cherethites"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.1585,
+"match_method": "canonical",
+"preferred_label": "Assyria"
+}
+]
+}
+}
+]

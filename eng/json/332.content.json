@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT082",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: The Battle of Mikmash",
+"media_type": "Image",
+"index_reference": "historical the battle of mikmash",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT082.png' alt='Image' width='480' /></p><p><a href='images/OT082.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1f8ahEgU7ZTb6t-UnhKXCnNC0wbAXyfDN&usp=drive_copy'>Historical: The Battle of Mikmash</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09014001",
+"start_ref_usfm": "1SA 14:1",
+"end_ref": "09014052",
+"end_ref_usfm": "1SA 14:52"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.5837,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 0.5269,
+"match_method": "canonical",
+"preferred_label": "Jonathan"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4885,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Ner.2",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Ner"
+},
+{
+"id": "place:Michmash",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Michmash"
+},
+{
+"id": "person:Abner",
+"type": "person",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Abner"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Gibeah"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Ahimelech"
+},
+{
+"id": "keyterm:Curse",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "To Curse"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "place:Bozez",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Bozez"
+},
+{
+"id": "person:Ichabod",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Ichabod"
+},
+{
+"id": "person:Ahitub",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Ahitub"
+},
+{
+"id": "person:Abiel.2",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Abiel"
+},
+{
+"id": "place:Migron",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Migron"
+},
+{
+"id": "person:Ahinoam",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Ahinoam"
+},
+{
+"id": "place:Zobah",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Zobah"
+},
+{
+"id": "person:Kish",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Kish"
+},
+{
+"id": "person:Ahimaaz",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Ahimaaz"
+},
+{
+"id": "person:Malchi-shua",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Malchi-shua"
+},
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Merab",
+"type": "person",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Merab"
+},
+{
+"id": "place:Seneh",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Seneh"
+},
+{
+"id": "place:Aijalon",
+"type": "place",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Aijalon"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT042",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Moses’ Death",
+"media_type": "Image",
+"index_reference": "pentateuch moses death",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT042.png' alt='Image' width='480' /></p><p><a href='images/OT042.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=16M8QOiUqu80brQFNYxbNq355TGmBnAfZ&usp=drive_copy'>Pentateuch: Moses’ Death</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "05031001",
+"start_ref_usfm": "DEU 31:1",
+"end_ref": "05034012",
+"end_ref_usfm": "DEU 34:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5439,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4524,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4305,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.3793,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3683,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.3683,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.3146,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.3146,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3083,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.2642,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "person:Nun",
+"type": "person",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Nun"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.261,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.261,
+"match_method": "canonical",
+"preferred_label": "Perceive"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.261,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.261,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.261,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.261,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "place:NeboMount",
+"type": "place",
+"confidence": 0.2106,
+"match_method": "canonical",
+"preferred_label": "Mount Nebo"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.2089,
+"match_method": "canonical",
+"preferred_label": "Tribe of Dan"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.2089,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"confidence": 0.2089,
+"match_method": "canonical",
+"preferred_label": "Arrow"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.2089,
+"match_method": "canonical",
+"preferred_label": "Be Zealous"
+},
+{
+"id": "group:Naphtali",
+"type": "group",
+"confidence": 0.2089,
+"match_method": "canonical",
+"preferred_label": "Tribe of Naphtali"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.2073,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.2073,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2073,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.2073,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+}
+]
+}
+}
+]

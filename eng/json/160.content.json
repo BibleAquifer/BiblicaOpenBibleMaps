@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT254",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV John: John 2:13–24",
+"media_type": "Image",
+"index_reference": "srv john john 21324",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT254.png' alt='Image' width='480' /></p><p><a href='images/NT254.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1eaF17UifhRH9X3lP3gHhofXaeiHj25M6&usp=drive_copy'>SRV John: John 2:13-24</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43002001",
+"start_ref_usfm": "JHN 2:1",
+"end_ref": "43002025",
+"end_ref_usfm": "JHN 2:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.53,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.424,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.312,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.244,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 0.244,
+"match_method": "canonical",
+"preferred_label": "Cana"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "realia:StoneJar",
+"type": "realia",
+"confidence": 0.192,
+"match_method": "canonical",
+"preferred_label": "Stone Jar"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.184,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "keyterm:Extremely",
+"type": "keyterm",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Extremely"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "realia:Measure",
+"type": "realia",
+"confidence": 0.116,
+"match_method": "canonical",
+"preferred_label": "Measure"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"confidence": 0.116,
+"match_method": "canonical",
+"preferred_label": "Rope"
+},
+{
+"id": "realia:Whip",
+"type": "realia",
+"confidence": 0.116,
+"match_method": "canonical",
+"preferred_label": "Whip"
+}
+]
+}
+}
+]

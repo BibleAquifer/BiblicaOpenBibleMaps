@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT051",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Roma",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula roma",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT051.png' alt='Image' width='480' /></p><p><a href='images/NT051.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "45001001",
+"start_ref_usfm": "ROM 1:1",
+"end_ref": "45016027",
+"end_ref_usfm": "ROM 16:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5059,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.429,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.4024,
+"match_method": "canonical",
+"preferred_label": "hukum"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4024,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3972,
+"match_method": "canonical",
+"preferred_label": "berbuat dosa"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.3952,
+"match_method": "canonical",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3858,
+"match_method": "canonical",
+"preferred_label": "tubuh"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3858,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3764,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3749,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3729,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.3723,
+"match_method": "canonical",
+"preferred_label": "yang baik"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3712,
+"match_method": "canonical",
+"preferred_label": "hati"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3687,
+"match_method": "canonical",
+"preferred_label": "kemuliaan"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.3666,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.365,
+"match_method": "canonical",
+"preferred_label": "memutuskan"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.365,
+"match_method": "canonical",
+"preferred_label": "kasihi"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3645,
+"match_method": "canonical",
+"preferred_label": "khusus"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.364,
+"match_method": "canonical",
+"preferred_label": "dalam kristus"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3629,
+"match_method": "canonical",
+"preferred_label": "harapan"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "penyunatan"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.3614,
+"match_method": "canonical",
+"preferred_label": "injil"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3614,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.3609,
+"match_method": "canonical",
+"preferred_label": "belas kasihan"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.3609,
+"match_method": "canonical",
+"preferred_label": "janji"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "kebangkitan"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "memperdamaikan"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3598,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+}
+]
+}
+}
+]

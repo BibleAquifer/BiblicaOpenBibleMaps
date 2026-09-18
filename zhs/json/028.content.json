@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT036",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "保罗与早期教会：彼得的旅程",
+"media_type": "Image",
+"index_reference": "保罗与早期教会彼得的旅程",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT036.png' alt='Image' width='480' /></p><p><a href='images/NT036.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44009001",
+"start_ref_usfm": "ACT 9:1",
+"end_ref": "44011030",
+"end_ref_usfm": "ACT 11:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4393,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4355,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4281,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.4058,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.395,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3946,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:Cornelius",
+"type": "person",
+"confidence": 0.3913,
+"match_method": "canonical",
+"preferred_label": "Cornelius"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.3888,
+"match_method": "canonical",
+"preferred_label": "Joppa"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3851,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3835,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.381,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3798,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.376,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3723,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3723,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.3702,
+"match_method": "canonical",
+"preferred_label": "Antioch"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.3686,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.3686,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.3686,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.3686,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3686,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3686,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3272,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Ananias.2",
+"type": "person",
+"confidence": 0.3198,
+"match_method": "canonical",
+"preferred_label": "Ananias"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"confidence": 0.3198,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.3149,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3149,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.3149,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.3149,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.3123,
+"match_method": "canonical",
+"preferred_label": "Temple"
+}
+]
+}
+}
+]

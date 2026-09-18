@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT064",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Deborah, Barak, and Sisera",
+"media_type": "Image",
+"index_reference": "historical deborah barak and sisera",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT064.png' alt='Image' width='480' /></p><p><a href='images/OT064.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1XAhPtgNhc7pWCjyaaJ-zA9Fw6OOU1ozE&usp=drive_copy'>Historical: Deborah, Barak, and Sisera</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07004001",
+"start_ref_usfm": "JDG 4:1",
+"end_ref": "07005031",
+"end_ref_usfm": "JDG 5:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4973,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Sisera",
+"type": "person",
+"confidence": 0.48,
+"match_method": "canonical",
+"preferred_label": "Sisera"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4645,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Barak",
+"type": "person",
+"confidence": 0.4555,
+"match_method": "canonical",
+"preferred_label": "Barak"
+},
+{
+"id": "person:Deborah.2",
+"type": "person",
+"confidence": 0.4309,
+"match_method": "canonical",
+"preferred_label": "Deborah"
+},
+{
+"id": "person:Jael",
+"type": "person",
+"confidence": 0.4136,
+"match_method": "canonical",
+"preferred_label": "Jael"
+},
+{
+"id": "person:Jabin.2",
+"type": "person",
+"confidence": 0.3982,
+"match_method": "canonical",
+"preferred_label": "Jabin"
+},
+{
+"id": "person:Abinoam",
+"type": "person",
+"confidence": 0.3473,
+"match_method": "canonical",
+"preferred_label": "Abinoam"
+},
+{
+"id": "person:Heber.2",
+"type": "person",
+"confidence": 0.3473,
+"match_method": "canonical",
+"preferred_label": "Heber"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.3391,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.3391,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.3327,
+"match_method": "canonical",
+"preferred_label": "Tribe of Zebulun"
+},
+{
+"id": "place:Kedesh",
+"type": "place",
+"confidence": 0.3327,
+"match_method": "canonical",
+"preferred_label": "Kedesh"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.3327,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3327,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Harosheth-hagoyim",
+"type": "place",
+"confidence": 0.2855,
+"match_method": "canonical",
+"preferred_label": "Harosheth-hagoyim"
+},
+{
+"id": "place:TaborMount",
+"type": "place",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Mount Tabor"
+},
+{
+"id": "place:Kishon",
+"type": "place",
+"confidence": 0.2818,
+"match_method": "canonical",
+"preferred_label": "Kishon"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"confidence": 0.2782,
+"match_method": "canonical",
+"preferred_label": "Kenites"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.2745,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2745,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "group:Naphtali",
+"type": "group",
+"confidence": 0.2745,
+"match_method": "canonical",
+"preferred_label": "Tribe of Naphtali"
+},
+{
+"id": "realia:Peg.2",
+"type": "realia",
+"confidence": 0.2182,
+"match_method": "canonical",
+"preferred_label": "Peg"
+},
+{
+"id": "realia:Peg",
+"type": "realia",
+"confidence": 0.2182,
+"match_method": "canonical",
+"preferred_label": "Peg"
+},
+{
+"id": "place:Hazor",
+"type": "place",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Hazor"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Tribe of Reuben"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.2164,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "person:Hobab",
+"type": "person",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Hobab"
+}
+]
+}
+}
+]

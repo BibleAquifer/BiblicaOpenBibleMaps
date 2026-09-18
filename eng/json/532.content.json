@@ -1,0 +1,306 @@
+[
+{
+"content_id": "OT310",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Exodus: Exod. 13:1–15",
+"media_type": "Image",
+"index_reference": "srv exodus exod 13115",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT310.png' alt='Image' width='480' /></p><p><a href='images/OT310.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13MXO5ZaRYqwRq5D0sNDrXLmZdQvbqNN0&usp=drive_copy'>SRV Exodus: Exod. 13:1-15</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01015001",
+"start_ref_usfm": "GEN 15:1",
+"end_ref": "01015021",
+"end_ref_usfm": "GEN 15:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.3952,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2429,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:Shield",
+"type": "keyterm",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Shield"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "person:Eliezer.2",
+"type": "person",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Eliezer"
+},
+{
+"id": "group:Kadmonites",
+"type": "group",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Kadmonites"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "group:Kenizzites",
+"type": "group",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Kenizzites"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.181,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Chaldea"
+},
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Terror"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Ur"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Jebusites"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Girgashites"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "group:Kenite",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Kenites"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"confidence": 0.1714,
+"match_method": "canonical",
+"preferred_label": "Rephaim"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.121,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "fauna:Bird",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Bird"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Dove"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Small Shield"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Vulture"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1114,
+"match_method": "canonical",
+"preferred_label": "Flock"
+}
+]
+}
+}
+]

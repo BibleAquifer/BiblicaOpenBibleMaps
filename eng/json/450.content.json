@@ -1,0 +1,404 @@
+[
+{
+"content_id": "OT200",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecies Against Ammon and Others",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecies against ammon and others",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT200.png' alt='Image' width='480' /></p><p><a href='images/OT200.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1XgajippBjZB_yW6x-j4oKSSETNjMo09z/view?usp=drive_link'>Wisdom & Prophets: Prophecies Against Ammon and Others</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24049001",
+"start_ref_usfm": "JER 49:1",
+"end_ref": "24049039",
+"end_ref_usfm": "JER 49:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5923,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "Elam"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.3462,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "place:Hazor.5",
+"type": "place",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Hazor"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Counsel"
+},
+{
+"id": "place:Bozrah.2",
+"type": "place",
+"confidence": 0.2282,
+"match_method": "canonical",
+"preferred_label": "Bozrah"
+},
+{
+"id": "place:Teman",
+"type": "place",
+"confidence": 0.2282,
+"match_method": "canonical",
+"preferred_label": "Teman"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Nebuchadnezzar"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Edomites"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Trust"
+},
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Molech"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Ai"
+},
+{
+"id": "person:Kedar",
+"type": "person",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Kedar"
+},
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Vulture"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1631,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Hamath"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Safety"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Be Blameless"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "place:Arpad",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Arpad"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Gomorrah"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "place:Dedan",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Dedan"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Perceive"
+},
+{
+"id": "person:Ben-hadad",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Ben-hadad"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Heshbon"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Cattails"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Jackal"
+},
+{
+"id": "realia:Sheepfold",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Sheepfold"
+},
+{
+"id": "realia:LinenStrips",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Linen Strips"
+},
+{
+"id": "realia:GoatHairStrips",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Goat Hair Strips"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Sackcloth"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.1015,
+"match_method": "canonical",
+"preferred_label": "Lion"
+}
+]
+}
+}
+]

@@ -1,0 +1,432 @@
+[
+{
+"content_id": "NT107",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Matthew: Matt. 12:38–44",
+"media_type": "Image",
+"index_reference": "srv matthew matt 123844",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT107.png' alt='Image' width='480' /></p><p><a href='images/NT107.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1AWxJWp5HqjXf3A4Nnx-jzoQFdV7LNTha&usp=drive_copy'>SRV Matthew: Matt. 12:38-44</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012050",
+"end_ref_usfm": "MAT 12:50"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.413,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.399,
+"match_method": "canonical",
+"preferred_label": "Judgment"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.34,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.336,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.336,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 0.281,
+"match_method": "canonical",
+"preferred_label": "Jonah"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.277,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.277,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.277,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.277,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.277,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"confidence": 0.277,
+"match_method": "canonical",
+"preferred_label": "Court Case"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Condemn"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.218,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.217,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.163,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "person:QueenOfSheba",
+"type": "person",
+"confidence": 0.163,
+"match_method": "canonical",
+"preferred_label": "Queen of Sheba"
+},
+{
+"id": "group:Nineveh",
+"type": "group",
+"confidence": 0.163,
+"match_method": "canonical",
+"preferred_label": "Ninevites"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Idle",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Useless"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Beloved"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Nineveh"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Be Unfaithful"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.103,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+},
+{
+"id": "fauna:Cobra",
+"type": "fauna",
+"confidence": 0.099,
+"match_method": "canonical",
+"preferred_label": "Cobra"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.099,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.099,
+"match_method": "canonical",
+"preferred_label": "Fish"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 0.099,
+"match_method": "canonical",
+"preferred_label": "Reed"
+},
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 0.099,
+"match_method": "canonical",
+"preferred_label": "Lamp"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.099,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.099,
+"match_method": "canonical",
+"preferred_label": "Snake"
+}
+]
+}
+}
+]

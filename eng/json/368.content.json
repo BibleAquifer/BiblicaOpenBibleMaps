@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT118",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: The Construction of Solomon’s Temple",
+"media_type": "Image",
+"index_reference": "historical the construction of solomons temple",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT118.png' alt='Image' width='480' /></p><p><a href='images/OT118.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1f1pUUzQ2mnY1vS2gBWdkoPlxbWgdVtnL&usp=drive_copy'>Historical: The Construction of Solomon’s Temple</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11005001",
+"start_ref_usfm": "1KI 5:1",
+"end_ref": "11009028",
+"end_ref_usfm": "1KI 9:28"
+},
+{
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14004022",
+"end_ref_usfm": "2CH 4:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4634,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.4547,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.4505,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4198,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3936,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Hiram",
+"type": "person",
+"confidence": 0.3777,
+"match_method": "canonical",
+"preferred_label": "Hiram"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.3657,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.364,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.364,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Supplication",
+"type": "keyterm",
+"confidence": 0.364,
+"match_method": "canonical",
+"preferred_label": "Plea for Mercy"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.364,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Hiram.2",
+"type": "person",
+"confidence": 0.3628,
+"match_method": "canonical",
+"preferred_label": "Hiram"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.3622,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.362,
+"match_method": "canonical",
+"preferred_label": "Most Holy Place"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3612,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.3605,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 0.3605,
+"match_method": "canonical",
+"preferred_label": "Lebanon"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.3595,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3587,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"confidence": 0.3493,
+"match_method": "canonical",
+"preferred_label": "Cubit"
+},
+{
+"id": "realia:WingedCreature",
+"type": "realia",
+"confidence": 0.3231,
+"match_method": "canonical",
+"preferred_label": "Winged Creature"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.3214,
+"match_method": "canonical",
+"preferred_label": "Cedar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.3082,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "keyterm:BegForMercy",
+"type": "keyterm",
+"confidence": 0.3078,
+"match_method": "canonical",
+"preferred_label": "To Beg for Mercy"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.3074,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.3074,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3074,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.307,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.307,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.3065,
+"match_method": "canonical",
+"preferred_label": "Ark of the Covenant"
+}
+]
+}
+}
+]

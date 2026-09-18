@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT154",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Mark: Mark 1:35–39, Mark 2:1–12, Mark 2:13–17, Mark 4:1–20, Mark 4:21–25, Mark 4:26–34",
+"media_type": "Image",
+"index_reference": "srv mark mark 13539 mark 2112 mark 21317 mark 4120 mark 42125 mark 42634",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT154.png' alt='Image' width='480' /></p><p><a href='images/NT154.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Qbo9gIiKqY5W2fBLLoFQnS4GGJss4WZY&usp=drive_copy'>SRV Mark: Mark 1:35-39, Mark 2:1-12, Mark 2:13-17, Mark 4:1-20, Mark 4:21-25, Mark 4:26-34</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013001",
+"start_ref_usfm": "MAT 13:1",
+"end_ref": "40013058",
+"end_ref_usfm": "MAT 13:58"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.4431,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.4422,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.4198,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "flora:Weed",
+"type": "flora",
+"confidence": 0.3555,
+"match_method": "canonical",
+"preferred_label": "Weed"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.3366,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.2133,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+},
+{
+"id": "person:Simon.3",
+"type": "person",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "Jude"
+},
+{
+"id": "keyterm:Disbelieve",
+"type": "keyterm",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "Disbelieve"
+},
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.159,
+"match_method": "canonical",
+"preferred_label": "Brier"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "Lawless"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "Happy"
+},
+{
+"id": "keyterm:StumblingBlock",
+"type": "keyterm",
+"confidence": 0.1578,
+"match_method": "canonical",
+"preferred_label": "Stumbling Block"
+},
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.1555,
+"match_method": "canonical",
+"preferred_label": "Kiln"
+}
+]
+}
+}
+]

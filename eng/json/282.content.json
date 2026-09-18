@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT032",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: The Exodus: From Elim to Mount Sinai",
+"media_type": "Image",
+"index_reference": "pentateuch the exodus from elim to mount sinai",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT032.png' alt='Image' width='480' /></p><p><a href='images/OT032.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1DWP7qAhf0ZBNkBlPs0rPckODVC5caySo&usp=drive_copy'>Pentateuch: The Exodus: From Elim to Mount Sinai</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02019025",
+"end_ref_usfm": "EXO 19:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5683,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4936,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4668,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4562,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.3864,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.3806,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.37,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.3672,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "Jethro"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.3634,
+"match_method": "canonical",
+"preferred_label": "Amalek"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 0.3623,
+"match_method": "canonical",
+"preferred_label": "Mount Sinai"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3596,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.3119,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.3077,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3077,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.3077,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3077,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3072,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.3062,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.3053,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Omer",
+"type": "realia",
+"confidence": 0.304,
+"match_method": "canonical",
+"preferred_label": "Omer"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.2996,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "place:Rephidim",
+"type": "place",
+"confidence": 0.2574,
+"match_method": "canonical",
+"preferred_label": "Rephidim"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.2574,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2557,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.2557,
+"match_method": "canonical",
+"preferred_label": "Redeem"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.2557,
+"match_method": "canonical",
+"preferred_label": "Swear"
+}
+]
+}
+}
+]

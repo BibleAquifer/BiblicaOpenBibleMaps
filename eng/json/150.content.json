@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT230",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 22:39–46, Luke 24:36–52",
+"media_type": "Image",
+"index_reference": "srv luke luke 223946 luke 243652",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT230.png' alt='Image' width='480' /></p><p><a href='images/NT230.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1fwellMSGYfJM5pmkr4MGnI1B061KGLsI&usp=drive_copy'>SRV Luke: Luke 22:39-46, Luke 24:36-52</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42022001",
+"start_ref_usfm": "LUK 22:1",
+"end_ref": "42022071",
+"end_ref_usfm": "LUK 22:71"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4035,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.388,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.388,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3817,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3817,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.3254,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.269,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2155,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Religious Officials"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Put to the Test"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "group:GenericPriests",
+"type": "group",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Priests"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Elders"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2127,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "fauna:Rooster",
+"type": "fauna",
+"confidence": 0.209,
+"match_method": "canonical",
+"preferred_label": "Rooster"
+},
+{
+"id": "person:SecondAccuserOfPeter",
+"type": "person",
+"confidence": 0.1592,
+"match_method": "canonical",
+"preferred_label": "Peter's Second Accuser"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Disaster"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "A Servant"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Lawless"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1563,
+"match_method": "canonical",
+"preferred_label": "Offering"
+}
+]
+}
+}
+]

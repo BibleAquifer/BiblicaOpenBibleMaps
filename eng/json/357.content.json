@@ -1,0 +1,432 @@
+[
+{
+"content_id": "OT107",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: The Defeat of Absalom",
+"media_type": "Image",
+"index_reference": "historical the defeat of absalom",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT107.png' alt='Image' width='480' /></p><p><a href='images/OT107.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1QDshCluiGnJfGep4hvq9Nw0Cq6pFaUoZ&usp=drive_copy'>Historical: The Defeat of Absalom</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10017001",
+"start_ref_usfm": "2SA 17:1",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 0.5517,
+"match_method": "canonical",
+"preferred_label": "Absalom"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4741,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.4741,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Ahithophel",
+"type": "person",
+"confidence": 0.4655,
+"match_method": "canonical",
+"preferred_label": "Ahithophel"
+},
+{
+"id": "person:Hushai",
+"type": "person",
+"confidence": 0.4431,
+"match_method": "canonical",
+"preferred_label": "Hushai"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.2966,
+"match_method": "canonical",
+"preferred_label": "Counsel"
+},
+{
+"id": "person:Ahimaaz.2",
+"type": "person",
+"confidence": 0.2379,
+"match_method": "canonical",
+"preferred_label": "Ahimaaz"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2366,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "group:Archites",
+"type": "group",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Archites"
+},
+{
+"id": "place:Mahanaim",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Mahanaim"
+},
+{
+"id": "person:Jonathan.4",
+"type": "person",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Jonathan"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.231,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "person:Amasa",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Amasa"
+},
+{
+"id": "person:Abigail.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Abigail"
+},
+{
+"id": "person:Machir.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Machir"
+},
+{
+"id": "person:Barzillai",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Barzillai"
+},
+{
+"id": "place:Lo-debar",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Lo-debar"
+},
+{
+"id": "place:Rogelim",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Rogelim"
+},
+{
+"id": "person:Nahash.4",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Nahash"
+},
+{
+"id": "person:Shobi",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Shobi"
+},
+{
+"id": "person:Nahash.3",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Nahash"
+},
+{
+"id": "person:Jether.3",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Jether"
+},
+{
+"id": "place:En-rogel",
+"type": "place",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "En-rogel"
+},
+{
+"id": "person:Ammiel.2",
+"type": "person",
+"confidence": 0.1724,
+"match_method": "canonical",
+"preferred_label": "Ammiel"
+},
+{
+"id": "group:Gilead",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Gileadites"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
+"id": "place:Bahurim",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Bahurim"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Joab"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Ishmaelites"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Beersheba"
+},
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Plague"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Abiathar"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Tribe of Dan"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Zeruiah"
+},
+{
+"id": "person:Zadok.2",
+"type": "person",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Zadok"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 0.1655,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "flora:Bean",
+"type": "flora",
+"confidence": 0.1124,
+"match_method": "canonical",
+"preferred_label": "Bean"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"confidence": 0.1124,
+"match_method": "canonical",
+"preferred_label": "Rope"
+},
+{
+"id": "flora:Lentil",
+"type": "flora",
+"confidence": 0.1124,
+"match_method": "canonical",
+"preferred_label": "Lentil"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Bowl",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Bowl"
+},
+{
+"id": "realia:ToSaddle",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "To Saddle"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Bear"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "realia:Screen",
+"type": "realia",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Screen"
+},
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 0.1055,
+"match_method": "canonical",
+"preferred_label": "Barley"
+}
+]
+}
+}
+]

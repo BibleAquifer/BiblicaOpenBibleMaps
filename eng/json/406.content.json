@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT156",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Elijah, Ahab, and the Drought",
+"media_type": "Image",
+"index_reference": "historical elijah ahab and the drought",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT156.png' alt='Image' width='480' /></p><p><a href='images/OT156.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=15bNs5Ll46R7Xm_3k007eHeYNSTem_e3A&usp=drive_copy'>Historical: Elijah, Ahab, and the Drought</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5621,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.5329,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 0.4529,
+"match_method": "canonical",
+"preferred_label": "Ahab"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4014,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Obadiah",
+"type": "person",
+"confidence": 0.3971,
+"match_method": "canonical",
+"preferred_label": "Obadiah"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 0.395,
+"match_method": "canonical",
+"preferred_label": "Baal"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.395,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3257,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.3221,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Mount Carmel"
+},
+{
+"id": "person:Jezebel",
+"type": "person",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Jezebel"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.2686,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.2657,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.2657,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.2657,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.2657,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "place:Zarephath",
+"type": "place",
+"confidence": 0.2157,
+"match_method": "canonical",
+"preferred_label": "Zarephath"
+},
+{
+"id": "place:Cherith",
+"type": "place",
+"confidence": 0.2157,
+"match_method": "canonical",
+"preferred_label": "Cherith"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.2093,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.2093,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "person:Widow",
+"type": "person",
+"confidence": 0.1593,
+"match_method": "canonical",
+"preferred_label": "A Widow"
+},
+{
+"id": "place:Kishon",
+"type": "place",
+"confidence": 0.1593,
+"match_method": "canonical",
+"preferred_label": "Kishon"
+},
+{
+"id": "group:Tishbite",
+"type": "group",
+"confidence": 0.1593,
+"match_method": "canonical",
+"preferred_label": "Tishbites"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.1593,
+"match_method": "canonical",
+"preferred_label": "Asherah"
+},
+{
+"id": "place:Tishbe",
+"type": "place",
+"confidence": 0.1593,
+"match_method": "canonical",
+"preferred_label": "Tishbe"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.1564,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1564,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1564,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+}
+]
+}
+}
+]

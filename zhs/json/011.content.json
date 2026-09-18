@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT016",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "耶稣的生平：耶稣第三次从加利利前往耶路撒冷的旅程",
+"media_type": "Image",
+"index_reference": "耶稣的生平耶稣第三次从加利利前往耶路撒冷的旅程",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT016.png' alt='Image' width='480' /></p><p><a href='images/NT016.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43007001",
+"start_ref_usfm": "JHN 7:1",
+"end_ref": "43010042",
+"end_ref_usfm": "JHN 10:42"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4585,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4215,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3938,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3892,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.3764,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3731,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3708,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3708,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3708,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.3662,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.3662,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3662,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3626,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3626,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.3223,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.3103,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.3062,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3015,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.3015,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "person:BlindMan",
+"type": "person",
+"confidence": 0.26,
+"match_method": "canonical",
+"preferred_label": "A Blind Man"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.2569,
+"match_method": "canonical",
+"preferred_label": "Written"
+}
+]
+}
+}
+]

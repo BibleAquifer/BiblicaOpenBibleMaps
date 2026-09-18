@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT051",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and the Early Church: Romans",
+"media_type": "Image",
+"index_reference": "paul and the early church romans",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT051.png' alt='Image' width='480' /></p><p><a href='images/NT051.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=16k06rjit2-or0vTMbyBVtDiKhB5SscAa&usp=drive_copy'>Paul and the Early Church: Romans</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "45001001",
+"start_ref_usfm": "ROM 1:1",
+"end_ref": "45016027",
+"end_ref_usfm": "ROM 16:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5059,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.429,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.4024,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4024,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3972,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.3952,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3858,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3858,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3764,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3749,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3729,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.3723,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3712,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3687,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.3666,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.365,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.365,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3645,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.364,
+"match_method": "canonical",
+"preferred_label": "In Christ"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3629,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.3614,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3614,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.3609,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.3609,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3598,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+}
+]
+}
+}
+]

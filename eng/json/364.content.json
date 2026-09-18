@@ -1,0 +1,243 @@
+[
+{
+"content_id": "OT114",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Cedar for the Temple",
+"media_type": "Image",
+"index_reference": "historical cedar for the temple",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT114.png' alt='Image' width='480' /></p><p><a href='images/OT114.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1HoctwriilQrKn8_4wcAGzmIv2iA1Us-S&usp=drive_copy'>Historical: Cedar for the Temple</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "13022001",
+"start_ref_usfm": "1CH 22:1",
+"end_ref": "13022019",
+"end_ref_usfm": "1CH 22:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6579,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5395,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.5268,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.5158,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.4684,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1874,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Tyrians"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "group:Sidon",
+"type": "group",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Sidonians"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Understanding"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Insight",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Insight"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.1737,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "realia:Nail",
+"type": "realia",
+"confidence": 0.1242,
+"match_method": "canonical",
+"preferred_label": "Nail"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "realia:Talent",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Talent"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:Craftsman",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Craftsman"
+},
+{
+"id": "realia:HewnStone",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Hewn Stone"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.1137,
+"match_method": "canonical",
+"preferred_label": "Cedar"
+}
+]
+}
+}
+]

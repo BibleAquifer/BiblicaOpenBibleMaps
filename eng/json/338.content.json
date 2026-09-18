@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT088",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: David on the Run (Part 3)",
+"media_type": "Image",
+"index_reference": "historical david on the run part 3",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT088.png' alt='Image' width='480' /></p><p><a href='images/OT088.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=122cFDSLtBQFphu6v_k_oMH-kM2i_kSiS&usp=drive_copy'>Historical: David on the Run (Part 3)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09024023",
+"end_ref_usfm": "1SA 24:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6356,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.5923,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5058,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Keilah",
+"type": "place",
+"confidence": 0.4577,
+"match_method": "canonical",
+"preferred_label": "Keilah"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.4192,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Ziph.2",
+"type": "place",
+"confidence": 0.3423,
+"match_method": "canonical",
+"preferred_label": "Wilderness of Ziph"
+},
+{
+"id": "place:Horesh",
+"type": "place",
+"confidence": 0.3385,
+"match_method": "canonical",
+"preferred_label": "Horesh"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.2746,
+"match_method": "canonical",
+"preferred_label": "Fortress"
+},
+{
+"id": "place:Jeshimon",
+"type": "place",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Jeshimon"
+},
+{
+"id": "place:Engedi",
+"type": "place",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "En-gedi"
+},
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Abiathar"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Jonathan"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Anointed"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Maon",
+"type": "place",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Maon"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "group:Ziph",
+"type": "group",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Ziphites"
+},
+{
+"id": "place:Hachilah",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Hachilah"
+},
+{
+"id": "place:RockOfEscape",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Sela-hammahlekoth"
+},
+{
+"id": "place:WildgoatsRocks",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Wildgoats' Rocks"
+},
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Crafty"
+},
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "Robe"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 0.1612,
+"match_method": "canonical",
+"preferred_label": "Ephod"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Gibeah"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.1587,
+"match_method": "canonical",
+"preferred_label": "Proverb"
+}
+]
+}
+}
+]

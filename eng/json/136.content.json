@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT216",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 8:40–55",
+"media_type": "Image",
+"index_reference": "srv luke luke 84055",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT216.png' alt='Image' width='480' /></p><p><a href='images/NT216.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1AXLytuapOtv2Hy5B6rBFskNkndrfqbQl&usp=drive_copy'>SRV Luke: Luke 8:40-55</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42008001",
+"start_ref_usfm": "LUK 8:1",
+"end_ref": "42008056",
+"end_ref_usfm": "LUK 8:56"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4223,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3982,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3902,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.3357,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2741,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Gerasa",
+"type": "place",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Gerasa"
+},
+{
+"id": "keyterm:DailyLife",
+"type": "keyterm",
+"confidence": 0.2196,
+"match_method": "canonical",
+"preferred_label": "Daily Life"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "deity:Legion",
+"type": "deity",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Legion"
+},
+{
+"id": "person:Susanna",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Susanna"
+},
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Mary Magdalene"
+},
+{
+"id": "person:Jairus",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Jairus"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Honest"
+},
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Abyss"
+},
+{
+"id": "person:Chuza",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Chuza"
+},
+{
+"id": "person:Joanna",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Joanna"
+},
+{
+"id": "person:GenericMale",
+"type": "person",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "A Man"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+}
+]
+}
+}
+]

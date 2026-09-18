@@ -1,0 +1,222 @@
+[
+{
+"content_id": "OT181",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophesies against Babylon, Edom, and Arabia",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophesies against babylon edom and arabia",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT181.png' alt='Image' width='480' /></p><p><a href='images/OT181.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/18dRusWwdWGCtHWgaC3zNc2yY6WcFHkYh/view?usp=drive_link'>Wisdom & Prophets: Prophesies against Babylon, Edom, and Arabia</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "23021001",
+"start_ref_usfm": "ISA 21:1",
+"end_ref": "23021017",
+"end_ref_usfm": "ISA 21:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5088,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Utterance",
+"type": "keyterm",
+"confidence": 0.3294,
+"match_method": "canonical",
+"preferred_label": "Utterance"
+},
+{
+"id": "person:Lookout",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "A Lookout"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2529,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Kedar",
+"type": "person",
+"confidence": 0.2529,
+"match_method": "canonical",
+"preferred_label": "Kedar"
+},
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.1929,
+"match_method": "canonical",
+"preferred_label": "Bow"
+},
+{
+"id": "place:Tema",
+"type": "place",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Tema"
+},
+{
+"id": "place:Dumah",
+"type": "place",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Dumah"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Arabia"
+},
+{
+"id": "group:Dedan",
+"type": "group",
+"confidence": 0.1882,
+"match_method": "canonical",
+"preferred_label": "Dedanites"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Elam"
+},
+{
+"id": "place:Dedan",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Dedan"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Media"
+},
+{
+"id": "keyterm:Smear",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Smear"
+},
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Negev"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"confidence": 0.1765,
+"match_method": "canonical",
+"preferred_label": "Seir"
+},
+{
+"id": "realia:Rug",
+"type": "realia",
+"confidence": 0.1282,
+"match_method": "canonical",
+"preferred_label": "Rug"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.1282,
+"match_method": "canonical",
+"preferred_label": "Small Shield"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Graven Image"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Sandalwood"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:ThreshingFloor",
+"type": "realia",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Threshing Floor"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.1165,
+"match_method": "canonical",
+"preferred_label": "Lion"
+}
+]
+}
+}
+]

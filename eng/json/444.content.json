@@ -1,0 +1,187 @@
+[
+{
+"content_id": "OT194",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Prophecy to Zedekiah",
+"media_type": "Image",
+"index_reference": "wisdom  prophets prophecy to zedekiah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT194.png' alt='Image' width='480' /></p><p><a href='images/OT194.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1lp6BJcqDVQ0G8AxXJ5ty_EbGoPnI7lDQ/view?usp=drive_link'>Wisdom & Prophets: Prophecy to Zedekiah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24034001",
+"start_ref_usfm": "JER 34:1",
+"end_ref": "24034022",
+"end_ref_usfm": "JER 34:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5341,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4932,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4932,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4523,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.4523,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"confidence": 0.4523,
+"match_method": "canonical",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.4523,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.3818,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3295,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2409,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.1809,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1809,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "keyterm:Alas",
+"type": "keyterm",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Alas!"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Lachish"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Azekah",
+"type": "place",
+"confidence": 0.1795,
+"match_method": "canonical",
+"preferred_label": "Azekah"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Nebuchadnezzar"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "keyterm:Dishonor",
+"type": "keyterm",
+"confidence": 0.1705,
+"match_method": "canonical",
+"preferred_label": "To Dishonor"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1105,
+"match_method": "canonical",
+"preferred_label": "House"
+}
+]
+}
+}
+]

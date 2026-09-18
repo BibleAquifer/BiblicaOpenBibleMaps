@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT235",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: All Luke Sites (Jerusalem)",
+"media_type": "Image",
+"index_reference": "srv luke all luke sites jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT235.png' alt='Image' width='480' /></p><p><a href='images/NT235.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=18ExmDvnFl84r6Lt5zLHglV4We2LjpRY1&usp=drive_copy'>SRV Luke: All Luke Sites (Jerusalem)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001001",
+"start_ref_usfm": "LUK 1:1",
+"end_ref": "42024053",
+"end_ref_usfm": "LUK 24:53"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4094,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3937,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.367,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3641,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3639,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3633,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3627,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3623,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3606,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3606,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3603,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.3599,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.3598,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3594,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3592,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.3592,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.3588,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3586,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3586,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.3582,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3578,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3578,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.3578,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.3572,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.357,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.357,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.3568,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.3568,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3566,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.3566,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+}
+]
+}
+}
+]

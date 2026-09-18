@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT029",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Moses flees to Midian and returns to Egypt",
+"media_type": "Image",
+"index_reference": "pentateuch moses flees to midian and returns to egypt",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT029.png' alt='Image' width='480' /></p><p><a href='images/OT029.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Hb1BC4xc_MDBKXDAk3QcienpJtPwaePc&usp=drive_copy'>Pentateuch: Moses flees to Midian and returns to Egypt</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002001",
+"start_ref_usfm": "EXO 2:1",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5487,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.5109,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.4769,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4423,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.3962,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 0.3897,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.3814,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.3814,
+"match_method": "canonical",
+"preferred_label": "Believe In"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3788,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.3788,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.3788,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 0.3256,
+"match_method": "canonical",
+"preferred_label": "Midian"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.3231,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 0.2699,
+"match_method": "canonical",
+"preferred_label": "Jethro"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.2699,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.2631,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2631,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.2631,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "person:Zipporah",
+"type": "person",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Zipporah"
+},
+{
+"id": "keyterm:LandFlowingOfMilkAndHoney",
+"type": "keyterm",
+"confidence": 0.2141,
+"match_method": "canonical",
+"preferred_label": "Land Flowing of Milk and Honey"
+},
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 0.2141,
+"match_method": "canonical",
+"preferred_label": "Perizzites"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.2141,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Hittites"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Jebusites"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+}
+]
+}
+}
+]

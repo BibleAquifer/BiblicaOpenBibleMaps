@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT018",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: The Last Migrations of Abraham",
+"media_type": "Image",
+"index_reference": "pentateuch the last migrations of abraham",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT018.png' alt='Image' width='480' /></p><p><a href='images/OT018.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1045FITRbcRPyOWyfnId4KGfwAt44TFEs&usp=drive_copy'>Pentateuch: The Last Migrations of Abraham</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01020001",
+"start_ref_usfm": "GEN 20:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.5984,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4812,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"confidence": 0.4271,
+"match_method": "canonical",
+"preferred_label": "Abimelech"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.4198,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.4036,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.3828,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "person:Ephron.2",
+"type": "person",
+"confidence": 0.3823,
+"match_method": "canonical",
+"preferred_label": "Ephron"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3802,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 0.3755,
+"match_method": "canonical",
+"preferred_label": "Beersheba"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.3208,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.3202,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3187,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.3155,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "place:Machpelah",
+"type": "place",
+"confidence": 0.2682,
+"match_method": "canonical",
+"preferred_label": "Machpelah"
+},
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 0.2641,
+"match_method": "canonical",
+"preferred_label": "Hagar"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2641,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Phicol",
+"type": "person",
+"confidence": 0.2135,
+"match_method": "canonical",
+"preferred_label": "Phicol"
+},
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 0.2135,
+"match_method": "canonical",
+"preferred_label": "Gerar"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Mamre"
+},
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Bethuel"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Milcah"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2115,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.2094,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+}
+]
+}
+}
+]

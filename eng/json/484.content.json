@@ -1,0 +1,208 @@
+[
+{
+"content_id": "OT258",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Genesis: Gen. 11:27–32, Gen. 23:1–19",
+"media_type": "Image",
+"index_reference": "srv genesis gen 112732 gen 23119",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT258.png' alt='Image' width='480' /></p><p><a href='images/OT258.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1xDK3gmYuW9lUq09flWLp9lUv87-At4rh&usp=drive_copy'>SRV Genesis: Gen. 11:27-32, Gen. 23:1-19</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011001",
+"start_ref_usfm": "GEN 11:1",
+"end_ref": "01011032",
+"end_ref_usfm": "GEN 11:32"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 0.4547,
+"match_method": "canonical",
+"preferred_label": "Terah"
+},
+{
+"id": "person:Haran",
+"type": "person",
+"confidence": 0.4516,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
+"id": "person:Reu",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Reu"
+},
+{
+"id": "person:Peleg",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Peleg"
+},
+{
+"id": "person:Shelah.2",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Shelah"
+},
+{
+"id": "person:Nahor",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Nahor"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "person:Serug",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Serug"
+},
+{
+"id": "person:Arpachshad",
+"type": "person",
+"confidence": 0.3563,
+"match_method": "canonical",
+"preferred_label": "Arpachshad"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3563,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Eber",
+"type": "person",
+"confidence": 0.3563,
+"match_method": "canonical",
+"preferred_label": "Eber"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.2984,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"confidence": 0.2984,
+"match_method": "canonical",
+"preferred_label": "Nahor"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"confidence": 0.2406,
+"match_method": "canonical",
+"preferred_label": "Ur"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.2344,
+"match_method": "canonical",
+"preferred_label": "Chaldea"
+},
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 0.2344,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.2344,
+"match_method": "canonical",
+"preferred_label": "Haran"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 0.2344,
+"match_method": "canonical",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 0.2281,
+"match_method": "canonical",
+"preferred_label": "Shem"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 0.1703,
+"match_method": "canonical",
+"preferred_label": "Milcah"
+},
+{
+"id": "person:Iscah",
+"type": "person",
+"confidence": 0.1703,
+"match_method": "canonical",
+"preferred_label": "Iscah"
+},
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 0.1703,
+"match_method": "canonical",
+"preferred_label": "Shinar"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1703,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Tower"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.1641,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "realia:Brick",
+"type": "realia",
+"confidence": 0.1103,
+"match_method": "canonical",
+"preferred_label": "Brick"
+}
+]
+}
+}
+]

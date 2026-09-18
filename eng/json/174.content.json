@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT268",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV John: John 11:1–15",
+"media_type": "Image",
+"index_reference": "srv john john 11115",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT268.png' alt='Image' width='480' /></p><p><a href='images/NT268.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=18FWtsBe6cOIy6YVlfp8JePZ2WLLCzY6t&usp=drive_copy'>SRV John: John 11:1-15</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43011057",
+"end_ref_usfm": "JHN 11:57"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5474,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 0.4167,
+"match_method": "canonical",
+"preferred_label": "Martha"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 0.4167,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4132,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4132,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 0.4044,
+"match_method": "canonical",
+"preferred_label": "Lazarus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3895,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3316,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.2737,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 0.2228,
+"match_method": "canonical",
+"preferred_label": "Bethany"
+},
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.2193,
+"match_method": "canonical",
+"preferred_label": "Stumble"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2193,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Friendship",
+"type": "keyterm",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Friendship"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2158,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.2137,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Thomas"
+},
+{
+"id": "person:Caiaphas",
+"type": "person",
+"confidence": 0.1614,
+"match_method": "canonical",
+"preferred_label": "Caiaphas"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.1579,
+"match_method": "canonical",
+"preferred_label": "Pure"
+}
+]
+}
+}
+]

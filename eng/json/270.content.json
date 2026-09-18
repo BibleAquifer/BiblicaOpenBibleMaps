@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT020",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: The Migrations of Jacob (Part 1)",
+"media_type": "Image",
+"index_reference": "pentateuch the migrations of jacob part 1",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT020.png' alt='Image' width='480' /></p><p><a href='images/OT020.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Q_ZCjLbb1gF8C5SUzNzQCGLKddjcC9-D&usp=drive_copy'>Pentateuch: The Migrations of Jacob (Part 1)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01028001",
+"start_ref_usfm": "GEN 28:1",
+"end_ref": "01031054",
+"end_ref_usfm": "GEN 31:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5253,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.464,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 0.4636,
+"match_method": "canonical",
+"preferred_label": "Laban"
+},
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 0.4399,
+"match_method": "canonical",
+"preferred_label": "Rachel"
+},
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 0.4182,
+"match_method": "canonical",
+"preferred_label": "Leah"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3792,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "Bilhah"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.3734,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 0.3705,
+"match_method": "canonical",
+"preferred_label": "Paddan-aram"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.3705,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.3646,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3644,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.3631,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.3163,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "person:Zilpah",
+"type": "person",
+"confidence": 0.3143,
+"match_method": "canonical",
+"preferred_label": "Zilpah"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.3117,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3117,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.3117,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"confidence": 0.2601,
+"match_method": "canonical",
+"preferred_label": "Teraphim"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.2601,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "place:Jegar-sahadutha",
+"type": "place",
+"confidence": 0.2601,
+"match_method": "canonical",
+"preferred_label": "Jegar-sahadutha"
+},
+{
+"id": "group:Aramean",
+"type": "group",
+"confidence": 0.2588,
+"match_method": "canonical",
+"preferred_label": "Arameans"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.253,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2071,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 0.2071,
+"match_method": "canonical",
+"preferred_label": "Bethuel"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.2071,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.2071,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"confidence": 0.2058,
+"match_method": "canonical",
+"preferred_label": "Nahor"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2058,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 0.2058,
+"match_method": "canonical",
+"preferred_label": "Haran"
+}
+]
+}
+}
+]

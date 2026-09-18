@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT222",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 11:14–31",
+"media_type": "Image",
+"index_reference": "srv luke luke 111431",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT222.png' alt='Image' width='480' /></p><p><a href='images/NT222.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1oWrjsTfHMfcWNqBMaEo6U9D695hHCV7f&usp=drive_copy'>SRV Luke: Luke 11:14-31</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42011001",
+"start_ref_usfm": "LUK 11:1",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Disaster"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.4,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.3917,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.3333,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Jonah"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Judgment"
+},
+{
+"id": "group:Nineveh",
+"type": "group",
+"confidence": 0.2241,
+"match_method": "canonical",
+"preferred_label": "Ninevites"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2204,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Nineveh"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Happy",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Happy"
+},
+{
+"id": "keyterm:CourtCase",
+"type": "keyterm",
+"confidence": 0.2167,
+"match_method": "canonical",
+"preferred_label": "Court Case"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 0.162,
+"match_method": "canonical",
+"preferred_label": "Zechariah"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Abel",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Abel"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "person:Scribe",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "A Scribe"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.1583,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+}
+]
+}
+}
+]

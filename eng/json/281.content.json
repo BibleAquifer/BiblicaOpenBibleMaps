@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT031",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: The Exodus: From Egypt to Elim",
+"media_type": "Image",
+"index_reference": "pentateuch the exodus from egypt to elim",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT031.png' alt='Image' width='480' /></p><p><a href='images/OT031.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Fn4QQa_owp2SoyKk90bUx-9jdiqRnNVI&usp=drive_copy'>Pentateuch: The Exodus: From Egypt to Elim</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012001",
+"start_ref_usfm": "EXO 12:1",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5561,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.5027,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4702,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4221,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 0.405,
+"match_method": "canonical",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.3809,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.3706,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.3687,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.3293,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3209,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.319,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.314,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3137,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.3137,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3137,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.3072,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 0.2634,
+"match_method": "canonical",
+"preferred_label": "Red Sea"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.2618,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2603,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.2603,
+"match_method": "canonical",
+"preferred_label": "Redeem"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.2603,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.2603,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.2603,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.2537,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.2537,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.2537,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "place:Succoth.2",
+"type": "place",
+"confidence": 0.2099,
+"match_method": "canonical",
+"preferred_label": "Succoth"
+},
+{
+"id": "place:Baal-zephon",
+"type": "place",
+"confidence": 0.2099,
+"match_method": "canonical",
+"preferred_label": "Baal-zephon"
+},
+{
+"id": "place:Pi-hahiroth",
+"type": "place",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Pi-hahiroth"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+}
+]
+}
+}
+]

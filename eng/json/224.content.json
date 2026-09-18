@@ -1,0 +1,383 @@
+[
+{
+"content_id": "NT342",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 17:16–20",
+"media_type": "Image",
+"index_reference": "srv acts acts 171620",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT342.png' alt='Image' width='480' /></p><p><a href='images/NT342.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1tDxjco5JsNemObS3kpAGclNL_OzIxOg-&usp=drive_copy'>SRV Acts: Acts 17:16-20</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44017001",
+"start_ref_usfm": "ACT 17:1",
+"end_ref": "44017034",
+"end_ref_usfm": "ACT 17:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4691,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4162,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4162,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Jason",
+"type": "person",
+"confidence": 0.3706,
+"match_method": "canonical",
+"preferred_label": "Jason"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"confidence": 0.3588,
+"match_method": "canonical",
+"preferred_label": "Athens"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.3529,
+"match_method": "canonical",
+"preferred_label": "Silas"
+},
+{
+"id": "place:Areopagus",
+"type": "place",
+"confidence": 0.3015,
+"match_method": "canonical",
+"preferred_label": "Areopagus"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 0.3015,
+"match_method": "canonical",
+"preferred_label": "Thessalonica"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.2956,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2897,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.2324,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.2324,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 0.2324,
+"match_method": "canonical",
+"preferred_label": "Berea"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "person:Damaris",
+"type": "person",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Damaris"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "place:Apollonia",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Apollonia"
+},
+{
+"id": "group:Stoic",
+"type": "group",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Stoics"
+},
+{
+"id": "group:Areopagus",
+"type": "group",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Areopagites"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "group:Athens",
+"type": "group",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Athenians"
+},
+{
+"id": "keyterm:Divine",
+"type": "keyterm",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Divine"
+},
+{
+"id": "place:Amphipolis",
+"type": "place",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Amphipolis"
+},
+{
+"id": "group:Epicurean",
+"type": "group",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Epicureans"
+},
+{
+"id": "person:Dionysius",
+"type": "person",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Dionysius"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.1665,
+"match_method": "canonical",
+"preferred_label": "Image"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Claudius"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:ObjectOfWorship",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Object of Worship"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:BringToTheAttentionOf",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Bring to the Attention Of"
+},
+{
+"id": "keyterm:Proof",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Proof"
+},
+{
+"id": "keyterm:Ought",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Obligated"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Temple"
+}
+]
+}
+}
+]

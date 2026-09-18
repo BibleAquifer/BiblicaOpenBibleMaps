@@ -1,0 +1,270 @@
+[
+{
+"content_id": "OT103",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: David Defeats the Ammonites and Arameans",
+"media_type": "Image",
+"index_reference": "historical david defeats the ammonites and arameans",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT103.png' alt='Image' width='480' /></p><p><a href='images/OT103.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1S3eUrKHERBfTRf7s_3Zo1WXc6QKxyDIP&usp=drive_copy'>Historical: David Defeats the Ammonites and Arameans</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10010001",
+"start_ref_usfm": "2SA 10:1",
+"end_ref": "10010019",
+"end_ref_usfm": "2SA 10:19"
+},
+{
+"start_ref": "13019001",
+"start_ref_usfm": "1CH 19:1",
+"end_ref": "13019019",
+"end_ref_usfm": "1CH 19:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Syria",
+"type": "group",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "Syrians"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.5513,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Hanun",
+"type": "person",
+"confidence": 0.5079,
+"match_method": "canonical",
+"preferred_label": "Hanun"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4684,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 0.4447,
+"match_method": "canonical",
+"preferred_label": "Joab"
+},
+{
+"id": "person:Shobach",
+"type": "person",
+"confidence": 0.3632,
+"match_method": "canonical",
+"preferred_label": "Shobach"
+},
+{
+"id": "person:Hadadezer",
+"type": "person",
+"confidence": 0.3474,
+"match_method": "canonical",
+"preferred_label": "Hadadezer"
+},
+{
+"id": "person:Abishai",
+"type": "person",
+"confidence": 0.3474,
+"match_method": "canonical",
+"preferred_label": "Abishai"
+},
+{
+"id": "person:Nahash.2",
+"type": "person",
+"confidence": 0.3013,
+"match_method": "canonical",
+"preferred_label": "Nahash"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 0.2908,
+"match_method": "canonical",
+"preferred_label": "Maacah"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.2874,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "place:Zobah",
+"type": "place",
+"confidence": 0.2855,
+"match_method": "canonical",
+"preferred_label": "Zobah"
+},
+{
+"id": "place:Beth-rehob",
+"type": "place",
+"confidence": 0.2342,
+"match_method": "canonical",
+"preferred_label": "Beth-rehob"
+},
+{
+"id": "group:Tob",
+"type": "group",
+"confidence": 0.2342,
+"match_method": "canonical",
+"preferred_label": "People of Tob"
+},
+{
+"id": "place:Tob",
+"type": "place",
+"confidence": 0.2289,
+"match_method": "canonical",
+"preferred_label": "Tob"
+},
+{
+"id": "place:Helam",
+"type": "place",
+"confidence": 0.2289,
+"match_method": "canonical",
+"preferred_label": "Helam"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "place:Aram-maacah",
+"type": "place",
+"confidence": 0.1671,
+"match_method": "canonical",
+"preferred_label": "Aram-maacah"
+},
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Mesopotamia"
+},
+{
+"id": "place:Medeba",
+"type": "place",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Medeba"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Talent",
+"type": "realia",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Talent"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Money"
+}
+]
+}
+}
+]

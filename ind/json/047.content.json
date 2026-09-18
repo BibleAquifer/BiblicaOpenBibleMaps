@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT055",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Kolose",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula kolose",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT055.png' alt='Image' width='480' /></p><p><a href='images/NT055.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "51001001",
+"start_ref_usfm": "COL 1:1",
+"end_ref": "51004018",
+"end_ref_usfm": "COL 4:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5016,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4495,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.4163,
+"match_method": "canonical",
+"preferred_label": "tubuh"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.4021,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3832,
+"match_method": "canonical",
+"preferred_label": "kasihi"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3784,
+"match_method": "canonical",
+"preferred_label": "khusus"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "hati"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "sorga"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "kekasih"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "hidup"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "jemaat"
+},
+{
+"id": "place:Laodicea",
+"type": "place",
+"confidence": 0.3211,
+"match_method": "canonical",
+"preferred_label": "Laodikia"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.3189,
+"match_method": "canonical",
+"preferred_label": "kesetiaan"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3189,
+"match_method": "canonical",
+"preferred_label": "kekuasaan"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3189,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.2663,
+"match_method": "canonical",
+"preferred_label": "memperdamaikan"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.2642,
+"match_method": "canonical",
+"preferred_label": "harapan"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.2642,
+"match_method": "canonical",
+"preferred_label": "mengampuni"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.2642,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.2642,
+"match_method": "canonical",
+"preferred_label": "penyunatan"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.2642,
+"match_method": "canonical",
+"preferred_label": "dalam kristus"
+},
+{
+"id": "person:Epaphras",
+"type": "person",
+"confidence": 0.2137,
+"match_method": "canonical",
+"preferred_label": "Epafras"
+},
+{
+"id": "keyterm:FundamentalPrinciples",
+"type": "keyterm",
+"confidence": 0.2116,
+"match_method": "canonical",
+"preferred_label": "roh, roh dunia"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2095,
+"match_method": "canonical",
+"preferred_label": "memberitakan"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2095,
+"match_method": "canonical",
+"preferred_label": "kerajaan"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2095,
+"match_method": "canonical",
+"preferred_label": "kemuliaan"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2095,
+"match_method": "canonical",
+"preferred_label": "kebangkitan"
+}
+]
+}
+}
+]

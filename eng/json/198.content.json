@@ -1,0 +1,292 @@
+[
+{
+"content_id": "NT316",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 9:19b-30",
+"media_type": "Image",
+"index_reference": "srv acts acts 919b30",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT316.png' alt='Image' width='480' /></p><p><a href='images/NT316.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1HFz4egU_qtf-txKkLOHyShpVtsQYRJOt&usp=drive_copy'>SRV Acts: Acts 9:19b-30</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40019001",
+"start_ref_usfm": "MAT 19:1",
+"end_ref": "40019030",
+"end_ref_usfm": "MAT 19:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.455,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.295,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.295,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "person:RichYoungRuler",
+"type": "person",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Rich Young Ruler"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:NewWorld",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "New World"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Hardheartedness",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Hardheartedness"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "realia:Needle",
+"type": "realia",
+"confidence": 0.1117,
+"match_method": "canonical",
+"preferred_label": "Needle"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1117,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "Throne"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.105,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+}
+]
+}
+}
+]

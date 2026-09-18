@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT060",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "保羅與早期教會：啟示錄",
+"media_type": "Image",
+"index_reference": "保羅與早期教會啟示錄",
+"language": "zht",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT060.png' alt='Image' width='480' /></p><p><a href='images/NT060.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "66001001",
+"start_ref_usfm": "REV 1:1",
+"end_ref": "66022021",
+"end_ref_usfm": "REV 22:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4544,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.4211,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.4056,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3889,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3844,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3833,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3756,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.3749,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3716,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3716,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.3711,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3711,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.3678,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.366,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3644,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.3627,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "deity:Voice",
+"type": "deity",
+"confidence": 0.3622,
+"match_method": "canonical",
+"preferred_label": "A Disembodied Voice"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.3616,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.3611,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.3605,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"confidence": 0.3605,
+"match_method": "canonical",
+"preferred_label": "To Act Wickedly"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.3593,
+"match_method": "canonical",
+"preferred_label": "Abyss"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "Faithfulness"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.3583,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"confidence": 0.3583,
+"match_method": "canonical",
+"preferred_label": "Disaster"
+}
+]
+}
+}
+]

@@ -1,0 +1,194 @@
+[
+{
+"content_id": "OT096",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Ish-Boseth Murdered",
+"media_type": "Image",
+"index_reference": "historical ishboseth murdered",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT096.png' alt='Image' width='480' /></p><p><a href='images/OT096.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1qc28Xm-yEk1J96K3yWVHIDIxQWo_EzOL&usp=drive_copy'>Historical: Ish-Boseth Murdered</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10004001",
+"start_ref_usfm": "2SA 4:1",
+"end_ref": "10004012",
+"end_ref_usfm": "2SA 4:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.5375,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "person:Baanah",
+"type": "person",
+"confidence": 0.5167,
+"match_method": "canonical",
+"preferred_label": "Baanah"
+},
+{
+"id": "person:Rechab",
+"type": "person",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Rechab"
+},
+{
+"id": "place:Beeroth",
+"type": "place",
+"confidence": 0.4667,
+"match_method": "canonical",
+"preferred_label": "Beeroth"
+},
+{
+"id": "group:Beeroth",
+"type": "group",
+"confidence": 0.4667,
+"match_method": "canonical",
+"preferred_label": "Beerothites"
+},
+{
+"id": "person:Ish-bosheth",
+"type": "person",
+"confidence": 0.4292,
+"match_method": "canonical",
+"preferred_label": "Ish-bosheth"
+},
+{
+"id": "person:Rimmon",
+"type": "person",
+"confidence": 0.4125,
+"match_method": "canonical",
+"preferred_label": "Rimmon"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.39,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Abner",
+"type": "person",
+"confidence": 0.275,
+"match_method": "canonical",
+"preferred_label": "Abner"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.215,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "place:Gittaim",
+"type": "place",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Gittaim"
+},
+{
+"id": "place:Jezreel.3",
+"type": "place",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 0.2042,
+"match_method": "canonical",
+"preferred_label": "Mephibosheth"
+},
+{
+"id": "place:Ziklag",
+"type": "place",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Ziklag"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Jonathan"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Redeem"
+},
+{
+"id": "place:Arabah",
+"type": "place",
+"confidence": 0.1875,
+"match_method": "canonical",
+"preferred_label": "Arabah"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.1275,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+}
+]
+}
+}
+]

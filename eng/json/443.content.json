@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT193",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Israel Restored from Desolation",
+"media_type": "Image",
+"index_reference": "wisdom  prophets israel restored from desolation",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT193.png' alt='Image' width='480' /></p><p><a href='images/OT193.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1Ij0AGwbduYheVAL2Y6bXDU5p2HV4WmOW/view?usp=drive_link'>Wisdom & Prophets: Israel Restored from Desolation</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24032001",
+"start_ref_usfm": "JER 32:1",
+"end_ref": "24033026",
+"end_ref_usfm": "JER 33:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.575,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.44,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4271,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.4014,
+"match_method": "canonical",
+"preferred_label": "Chaldea"
+},
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 0.4014,
+"match_method": "canonical",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.395,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3886,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.3886,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.3886,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3821,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Hanamel",
+"type": "person",
+"confidence": 0.3343,
+"match_method": "canonical",
+"preferred_label": "Hanamel"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.3314,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.3257,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 0.2721,
+"match_method": "canonical",
+"preferred_label": "Baruch"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "place:Anathoth",
+"type": "place",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Anathoth"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.2657,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.2157,
+"match_method": "canonical",
+"preferred_label": "Miraculous Sign"
+},
+{
+"id": "person:Neriah",
+"type": "person",
+"confidence": 0.2157,
+"match_method": "canonical",
+"preferred_label": "Neriah"
+},
+{
+"id": "keyterm:Safety",
+"type": "keyterm",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Safety"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Nebuchadnezzar"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Passion"
+}
+]
+}
+}
+]

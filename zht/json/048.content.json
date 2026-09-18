@@ -1,0 +1,242 @@
+[
+{
+"content_id": "NT056",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "保羅與早期教會：帖撒羅尼迦書",
+"media_type": "Image",
+"index_reference": "保羅與早期教會帖撒羅尼迦書",
+"language": "zht",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT056.png' alt='Image' width='480' /></p><p><a href='images/NT056.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "52001001",
+"start_ref_usfm": "1TH 1:1",
+"end_ref": "52005028",
+"end_ref_usfm": "1TH 5:28"
+},
+{
+"start_ref": "53001001",
+"start_ref_usfm": "2TH 1:1",
+"end_ref": "53003018",
+"end_ref_usfm": "2TH 3:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5055,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4956,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4195,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3996,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3897,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.3798,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3699,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3699,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3699,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.368,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Consecration"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Live"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3665,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.3132,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3132,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.3132,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.3132,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.3132,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "keyterm:Lawless",
+"type": "keyterm",
+"confidence": 0.2614,
+"match_method": "canonical",
+"preferred_label": "Lawless"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.2614,
+"match_method": "canonical",
+"preferred_label": "Be Blameless"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.2614,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.2599,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2599,
+"match_method": "canonical",
+"preferred_label": "Sky"
+}
+]
+}
+}
+]

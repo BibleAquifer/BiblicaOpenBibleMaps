@@ -1,0 +1,201 @@
+[
+{
+"content_id": "OT025",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Judah and Tamar",
+"media_type": "Image",
+"index_reference": "pentateuch judah and tamar",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT025.png' alt='Image' width='480' /></p><p><a href='images/OT025.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1MhvKnqqn2nseebVa9T-HTuz8YI4K-pI1&usp=drive_copy'>Pentateuch: Judah and Tamar</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01038001",
+"start_ref_usfm": "GEN 38:1",
+"end_ref": "01038030",
+"end_ref_usfm": "GEN 38:30"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5517,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 0.3733,
+"match_method": "canonical",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Shelah",
+"type": "person",
+"confidence": 0.3733,
+"match_method": "canonical",
+"preferred_label": "Shelah"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.365,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "group:Adullam",
+"type": "group",
+"confidence": 0.315,
+"match_method": "canonical",
+"preferred_label": "Adullamites"
+},
+{
+"id": "place:Timnah",
+"type": "place",
+"confidence": 0.315,
+"match_method": "canonical",
+"preferred_label": "Timnah"
+},
+{
+"id": "person:Onan",
+"type": "person",
+"confidence": 0.3083,
+"match_method": "canonical",
+"preferred_label": "Onan"
+},
+{
+"id": "person:Er.2",
+"type": "person",
+"confidence": 0.3083,
+"match_method": "canonical",
+"preferred_label": "Er"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "place:Adullam",
+"type": "place",
+"confidence": 0.295,
+"match_method": "canonical",
+"preferred_label": "Adullam"
+},
+{
+"id": "place:Enaim",
+"type": "place",
+"confidence": 0.2433,
+"match_method": "canonical",
+"preferred_label": "Enaim"
+},
+{
+"id": "person:Shua",
+"type": "person",
+"confidence": 0.2433,
+"match_method": "canonical",
+"preferred_label": "Shua"
+},
+{
+"id": "person:Hirah",
+"type": "person",
+"confidence": 0.2433,
+"match_method": "canonical",
+"preferred_label": "Hirah"
+},
+{
+"id": "fauna:Kid",
+"type": "fauna",
+"confidence": 0.235,
+"match_method": "canonical",
+"preferred_label": "Kid"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.23,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Thread",
+"type": "realia",
+"confidence": 0.1767,
+"match_method": "canonical",
+"preferred_label": "Thread"
+},
+{
+"id": "person:Zerah.3",
+"type": "person",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Zerah"
+},
+{
+"id": "person:Perez",
+"type": "person",
+"confidence": 0.1717,
+"match_method": "canonical",
+"preferred_label": "Perez"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.17,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.17,
+"match_method": "canonical",
+"preferred_label": "Measuring Reed"
+},
+{
+"id": "place:Achzib",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Achzib"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Canaanites"
+},
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Play the Prostitute"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.165,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+}
+]
+}
+}
+]

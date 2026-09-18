@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT170",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Susa in the Time of Esther",
+"media_type": "Image",
+"index_reference": "historical susa in the time of esther",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT170.png' alt='Image' width='480' /></p><p><a href='images/OT170.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ntHSjTX0sTXbCeHAAk_1ViXCUVmHomSP&usp=drive_copy'>Historical: Susa in the Time of Esther</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "17001001",
+"start_ref_usfm": "EST 1:1",
+"end_ref": "17010003",
+"end_ref_usfm": "EST 10:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 0.4883,
+"match_method": "canonical",
+"preferred_label": "Mordecai"
+},
+{
+"id": "person:Haman",
+"type": "person",
+"confidence": 0.4796,
+"match_method": "canonical",
+"preferred_label": "Haman"
+},
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 0.4772,
+"match_method": "canonical",
+"preferred_label": "Esther"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.474,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 0.429,
+"match_method": "canonical",
+"preferred_label": "Ahasuerus"
+},
+{
+"id": "place:Susa",
+"type": "place",
+"confidence": 0.3958,
+"match_method": "canonical",
+"preferred_label": "Susa"
+},
+{
+"id": "person:Vashti",
+"type": "person",
+"confidence": 0.3805,
+"match_method": "canonical",
+"preferred_label": "Vashti"
+},
+{
+"id": "person:Hammedatha",
+"type": "person",
+"confidence": 0.3671,
+"match_method": "canonical",
+"preferred_label": "Hammedatha"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3662,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "group:Agag",
+"type": "group",
+"confidence": 0.3647,
+"match_method": "canonical",
+"preferred_label": "Agagites"
+},
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "Persia"
+},
+{
+"id": "person:Agag.2",
+"type": "person",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "Agag"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3358,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.3169,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "person:Hathach",
+"type": "person",
+"confidence": 0.3144,
+"match_method": "canonical",
+"preferred_label": "Hathach"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.312,
+"match_method": "canonical",
+"preferred_label": "Media"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3108,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.3062,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3062,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.3062,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "person:Hegai",
+"type": "person",
+"confidence": 0.2641,
+"match_method": "canonical",
+"preferred_label": "Hegai"
+},
+{
+"id": "person:Memucan",
+"type": "person",
+"confidence": 0.2617,
+"match_method": "canonical",
+"preferred_label": "Memucan"
+},
+{
+"id": "person:Zeresh",
+"type": "person",
+"confidence": 0.2617,
+"match_method": "canonical",
+"preferred_label": "Zeresh"
+},
+{
+"id": "group:GenericServants",
+"type": "group",
+"confidence": 0.2581,
+"match_method": "canonical",
+"preferred_label": "Servants"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.2581,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.252,
+"match_method": "canonical",
+"preferred_label": "Sackcloth"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 0.252,
+"match_method": "canonical",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.2508,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "person:Bigthan",
+"type": "person",
+"confidence": 0.2078,
+"match_method": "canonical",
+"preferred_label": "Bigthan"
+},
+{
+"id": "person:Teresh",
+"type": "person",
+"confidence": 0.2078,
+"match_method": "canonical",
+"preferred_label": "Teresh"
+}
+]
+}
+}
+]

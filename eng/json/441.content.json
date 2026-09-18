@@ -1,0 +1,243 @@
+[
+{
+"content_id": "OT191",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Persecution of Prophets",
+"media_type": "Image",
+"index_reference": "wisdom  prophets persecution of prophets",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT191.png' alt='Image' width='480' /></p><p><a href='images/OT191.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1ASSGKNWVxpRWUNK6vl9KEnl_neI70L0N/view?usp=drive_link'>Wisdom & Prophets: Persecution of Prophets</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24026001",
+"start_ref_usfm": "JER 26:1",
+"end_ref": "24026024",
+"end_ref_usfm": "JER 26:24"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6125,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4437,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4437,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.4437,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.4213,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 0.375,
+"match_method": "canonical",
+"preferred_label": "Jehoiakim"
+},
+{
+"id": "person:Uriah.2",
+"type": "person",
+"confidence": 0.3312,
+"match_method": "canonical",
+"preferred_label": "Uriah"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3063,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 0.2375,
+"match_method": "canonical",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 0.2375,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "person:Achbor.2",
+"type": "person",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "Achbor"
+},
+{
+"id": "place:Moresheth",
+"type": "place",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "Moresheth"
+},
+{
+"id": "place:NewGate",
+"type": "place",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "New Gate"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Shemaiah.24",
+"type": "person",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "Shemaiah"
+},
+{
+"id": "person:Ahikam",
+"type": "person",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "Ahikam"
+},
+{
+"id": "person:Elnathan.5",
+"type": "person",
+"confidence": 0.1771,
+"match_method": "canonical",
+"preferred_label": "Elnathan"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "person:Shaphan",
+"type": "person",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Shaphan"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Public Officials"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Josiah"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Exempt",
+"type": "keyterm",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Exempt"
+},
+{
+"id": "place:Kiriath-jearim",
+"type": "place",
+"confidence": 0.1688,
+"match_method": "canonical",
+"preferred_label": "Kiriath-jearim"
+},
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"confidence": 0.1088,
+"match_method": "canonical",
+"preferred_label": "Sandalwood"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1088,
+"match_method": "canonical",
+"preferred_label": "Sword"
+}
+]
+}
+}
+]

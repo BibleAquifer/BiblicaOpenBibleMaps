@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT017",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Kehidupan Yesus: Perjalanan Terakhir Yesus ke Yerusalem dalam Injil Yohanes",
+"media_type": "Image",
+"index_reference": "kehidupan yesus perjalanan terakhir yesus ke yerusalem dalam injil yohanes",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT017.png' alt='Image' width='480' /></p><p><a href='images/NT017.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43012050",
+"end_ref_usfm": "JHN 12:50"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5266,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4173,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4047,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "Lazarus"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3921,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 0.3916,
+"match_method": "canonical",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 0.3916,
+"match_method": "canonical",
+"preferred_label": "Marta"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3794,
+"match_method": "canonical",
+"preferred_label": "kemuliaan"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3794,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3752,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.3729,
+"match_method": "canonical",
+"preferred_label": "kebangkitan"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.371,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3168,
+"match_method": "canonical",
+"preferred_label": "selama, lamanya"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3168,
+"match_method": "canonical",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3168,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 0.2664,
+"match_method": "canonical",
+"preferred_label": "Betania"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "perintah"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Yesaya"
+},
+{
+"id": "keyterm:Friendship",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "persahabatan"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "tanda"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.2568,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "paskah"
+},
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "tersandung"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Filipus"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "firman"
+},
+{
+"id": "group:GenericGroup",
+"type": "group",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "A Group of People"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "memutuskan"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "murni"
+}
+]
+}
+}
+]

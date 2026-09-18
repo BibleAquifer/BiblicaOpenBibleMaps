@@ -1,0 +1,327 @@
+[
+{
+"content_id": "NT225",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 18:31–34",
+"media_type": "Image",
+"index_reference": "srv luke luke 183134",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT225.png' alt='Image' width='480' /></p><p><a href='images/NT225.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1xk0mTChSD_EielkfDWw3C5pHBNssfofE&usp=drive_copy'>SRV Luke: Luke 18:31-34</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42018001",
+"start_ref_usfm": "LUK 18:1",
+"end_ref": "42018043",
+"end_ref_usfm": "LUK 18:43"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.486,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4442,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.4023,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.3512,
+"match_method": "canonical",
+"preferred_label": "Avenge"
+},
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.286,
+"match_method": "canonical",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2814,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.2256,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.2209,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.1651,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1609,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1609,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Unjust Deed"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Week"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "person:RichYoungRuler",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Rich Young Ruler"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Needle",
+"type": "realia",
+"confidence": 0.1051,
+"match_method": "canonical",
+"preferred_label": "Needle"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.1005,
+"match_method": "canonical",
+"preferred_label": "Camel"
+}
+]
+}
+}
+]

@@ -1,0 +1,376 @@
+[
+{
+"content_id": "NT048",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Paulus ke Roma (Bagian 1)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula perjalanan paulus ke roma bagian 1",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT048.png' alt='Image' width='480' /></p><p><a href='images/NT048.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44027001",
+"start_ref_usfm": "ACT 27:1",
+"end_ref": "44027044",
+"end_ref_usfm": "ACT 27:44"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.4582,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.442,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.4011,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 0.35,
+"match_method": "canonical",
+"preferred_label": "Kreta"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3409,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2807,
+"match_method": "canonical",
+"preferred_label": "takut"
+},
+{
+"id": "realia:Anchor",
+"type": "realia",
+"confidence": 0.2298,
+"match_method": "canonical",
+"preferred_label": "Anchor"
+},
+{
+"id": "person:Julius",
+"type": "person",
+"confidence": 0.2295,
+"match_method": "canonical",
+"preferred_label": "Yulius"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Italia"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2205,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2205,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "place:FairHavens",
+"type": "place",
+"confidence": 0.1693,
+"match_method": "canonical",
+"preferred_label": "Indah"
+},
+{
+"id": "place:Myra",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Mira"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Pamfilia"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Aleksandria"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Aristarkhus"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:AdriaticSea",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Adria"
+},
+{
+"id": "place:Cnidus",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Knidus"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "place:Lasea",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Lasea"
+},
+{
+"id": "place:Salmone",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Salmone"
+},
+{
+"id": "place:Syrtis",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Sirtis"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Kilikia"
+},
+{
+"id": "place:Phoenix",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Feniks"
+},
+{
+"id": "place:Cauda",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Kauda"
+},
+{
+"id": "place:Adramyttium",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Adramitium"
+},
+{
+"id": "place:Lycia",
+"type": "place",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Likia"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 0.1648,
+"match_method": "canonical",
+"preferred_label": "Agustus"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Rope"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "imamat"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "Klaudius"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "berpuasa"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "memutuskan"
+},
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "Tesalonika"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "melayani"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "harapan"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "mengampuni"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "Thessalonians"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "Siprus"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "membujuk"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.1602,
+"match_method": "canonical",
+"preferred_label": "Makedonia"
+},
+{
+"id": "realia:Sail",
+"type": "realia",
+"confidence": 0.1048,
+"match_method": "canonical",
+"preferred_label": "Sail"
+},
+{
+"id": "realia:Fathom",
+"type": "realia",
+"confidence": 0.1048,
+"match_method": "canonical",
+"preferred_label": "Fathom"
+},
+{
+"id": "realia:Rudder",
+"type": "realia",
+"confidence": 0.1048,
+"match_method": "canonical",
+"preferred_label": "Rudder"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.1002,
+"match_method": "canonical",
+"preferred_label": "Wheat"
+}
+]
+}
+}
+]

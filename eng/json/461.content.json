@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT211",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Ezekiel’s Promised Land",
+"media_type": "Image",
+"index_reference": "wisdom  prophets ezekiels promised land",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT211.png' alt='Image' width='480' /></p><p><a href='images/OT211.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1b-FXN8plg54eMiQdAdh7Fu7ILVclhSEV&usp=drive_copy'>Wisdom & Prophets: Ezekiel’s Promised Land</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "26047001",
+"start_ref_usfm": "EZK 47:1",
+"end_ref": "26048035",
+"end_ref_usfm": "EZK 48:35"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4121,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4043,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.4043,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.3966,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 0.3922,
+"match_method": "canonical",
+"preferred_label": "Mediterranean Sea"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 0.3888,
+"match_method": "canonical",
+"preferred_label": "Hamath"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.3888,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.3888,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.331,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Asher"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Tribe of Issachar"
+},
+{
+"id": "group:Asher",
+"type": "group",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Tribe of Asher"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Tribe of Zebulun"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Issachar"
+},
+{
+"id": "group:Simeon",
+"type": "group",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Tribe of Simeon"
+},
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Reuben"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Tribe of Reuben"
+},
+{
+"id": "group:Naphtali",
+"type": "group",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Tribe of Naphtali"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Tribe of Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Dan"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.2733,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 0.2259,
+"match_method": "canonical",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Hethlon",
+"type": "place",
+"confidence": 0.2224,
+"match_method": "canonical",
+"preferred_label": "Hethlon"
+}
+]
+}
+}
+]

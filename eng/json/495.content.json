@@ -1,0 +1,117 @@
+[
+{
+"content_id": "OT269",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Genesis: Gen. 17:1–27",
+"media_type": "Image",
+"index_reference": "srv genesis gen 17127",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT269.png' alt='Image' width='480' /></p><p><a href='images/OT269.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1iVTtFdNkwwE0hzPGYVMC5mlghlN4T0Ja&usp=drive_copy'>SRV Genesis: Gen. 17:1-27</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01017001",
+"start_ref_usfm": "GEN 17:1",
+"end_ref": "01017027",
+"end_ref_usfm": "GEN 17:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.5704,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.5241,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5167,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.5074,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Foreskin",
+"type": "keyterm",
+"confidence": 0.4407,
+"match_method": "canonical",
+"preferred_label": "Foreskin"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.4407,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.3741,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.3067,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.2407,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.2333,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:UncircumcisedPerson",
+"type": "keyterm",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Uncircumcised Person"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 0.1741,
+"match_method": "canonical",
+"preferred_label": "Canaan"
+}
+]
+}
+}
+]

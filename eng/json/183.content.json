@@ -1,0 +1,425 @@
+[
+{
+"content_id": "NT301",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 1:6–10",
+"media_type": "Image",
+"index_reference": "srv acts acts 1610",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT301.png' alt='Image' width='480' /></p><p><a href='images/NT301.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1zQTWcP2-Q1PazdWRIEsvQmpz7AIUN0K_&usp=drive_copy'>SRV Acts: Acts 1:6-10</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44001001",
+"start_ref_usfm": "ACT 1:1",
+"end_ref": "44001026",
+"end_ref_usfm": "ACT 1:26"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4538,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.4365,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3692,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Matthias",
+"type": "person",
+"confidence": 0.25,
+"match_method": "canonical",
+"preferred_label": "Matthias"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2423,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2423,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.2423,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2346,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "place:Akeldama",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Akeldama"
+},
+{
+"id": "person:Joseph.9",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Andrew"
+},
+{
+"id": "person:Alphaeus",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Alphaeus"
+},
+{
+"id": "person:Simon.2",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Bartholomew"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Galileans"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Mount of Olives"
+},
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Thomas"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "person:Theophilus",
+"type": "person",
+"confidence": 0.175,
+"match_method": "canonical",
+"preferred_label": "Theophilus"
+},
+{
+"id": "keyterm:UnjustDeed",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Unjust Deed"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:KnowerOfHearts",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Knower of Hearts"
+},
+{
+"id": "keyterm:PositionOfResponsibility",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Position of Responsibility"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:HalfAMile",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Sabbath Journey"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Matthew"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "realia:UpstairsRoom",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Upstairs Room"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:HalfAMile",
+"type": "realia",
+"confidence": 0.115,
+"match_method": "canonical",
+"preferred_label": "Half a Mile"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1073,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+}
+]
+}
+}
+]

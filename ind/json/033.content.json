@@ -1,0 +1,432 @@
+[
+{
+"content_id": "NT041",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Kedua Paulus (Bagian 1)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula perjalanan misi kedua paulus bagian 1",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT041.png' alt='Image' width='480' /></p><p><a href='images/NT041.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44015001",
+"start_ref_usfm": "ACT 15:1",
+"end_ref": "44015041",
+"end_ref_usfm": "ACT 15:41"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4707,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4378,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.4378,
+"match_method": "canonical",
+"preferred_label": "Barnabas"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.4268,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.3488,
+"match_method": "canonical",
+"preferred_label": "Silas"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.3488,
+"match_method": "canonical",
+"preferred_label": "Antiokhia"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3439,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.3439,
+"match_method": "canonical",
+"preferred_label": "jemaat"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.2976,
+"match_method": "canonical",
+"preferred_label": "Yudas"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2829,
+"match_method": "canonical",
+"preferred_label": "Musa"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2829,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.2829,
+"match_method": "canonical",
+"preferred_label": "orang pilihan"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.2268,
+"match_method": "canonical",
+"preferred_label": "Markus"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.2268,
+"match_method": "canonical",
+"preferred_label": "Kilikia"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "penyunatan"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "injil"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Petrus"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "darah"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "persundalan"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.222,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1659,
+"match_method": "canonical",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 0.1659,
+"match_method": "canonical",
+"preferred_label": "Yakobus"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.1659,
+"match_method": "canonical",
+"preferred_label": "Fenisia"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "menasihati"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "hati"
+},
+{
+"id": "place:Pamphylia",
+"type": "place",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Pamfilia"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "sabat"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "bimbang"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "selama, lamanya"
+},
+{
+"id": "keyterm:Portent",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "mujizat"
+},
+{
+"id": "keyterm:KnowerOfHearts",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "yang mengenal hati"
+},
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "kekasih"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "memutuskan"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Daud"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "memberitakan"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "kekuasaan"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "tanda"
+},
+{
+"id": "keyterm:CallUpon",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "group:GenericMales",
+"type": "group",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Men"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "bersaksi"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "hukum"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "memperdamaikan"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Siprus"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "membersihkan"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.161,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.1059,
+"match_method": "canonical",
+"preferred_label": "Yoke"
+},
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.101,
+"match_method": "canonical",
+"preferred_label": "Image"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.101,
+"match_method": "canonical",
+"preferred_label": "Tabernacle"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.101,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+}
+]
+}
+}
+]

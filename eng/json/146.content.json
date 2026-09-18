@@ -1,0 +1,222 @@
+[
+{
+"content_id": "NT226",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 18:35–19:09",
+"media_type": "Image",
+"index_reference": "srv luke luke 18351909",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT226.png' alt='Image' width='480' /></p><p><a href='images/NT226.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1RK_WLTDSHsIajyNvfM3s6bp9UPelFvYX&usp=drive_copy'>SRV Luke: Luke 18:35-19:09</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40020001",
+"start_ref_usfm": "MAT 20:1",
+"end_ref": "40020034",
+"end_ref_usfm": "MAT 20:34"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4294,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3562,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Denarius",
+"type": "realia",
+"confidence": 0.2929,
+"match_method": "canonical",
+"preferred_label": "Denarius"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2324,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Idle",
+"type": "keyterm",
+"confidence": 0.2324,
+"match_method": "canonical",
+"preferred_label": "Useless"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1691,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Ransom"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Condemn"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Jericho"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:ActWickedly",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "To Act Wickedly"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.1632,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.1032,
+"match_method": "canonical",
+"preferred_label": "Cross"
+}
+]
+}
+}
+]

@@ -1,0 +1,432 @@
+[
+{
+"content_id": "OT140",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Rehoboam Fortifies Judah",
+"media_type": "Image",
+"index_reference": "historical rehoboam fortifies judah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT140.png' alt='Image' width='480' /></p><p><a href='images/OT140.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=17wwql79Q5Feyp3Eh0bsWyLjnHRgDrNBM&usp=drive_copy'>Historical: Rehoboam Fortifies Judah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "14011001",
+"start_ref_usfm": "2CH 11:1",
+"end_ref": "14011023",
+"end_ref_usfm": "2CH 11:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5065,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.5065,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.487,
+"match_method": "canonical",
+"preferred_label": "Rehoboam"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.4478,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.4478,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3783,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3783,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3783,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"confidence": 0.327,
+"match_method": "canonical",
+"preferred_label": "Fortification"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 0.3174,
+"match_method": "canonical",
+"preferred_label": "Maacah"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Absalom"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"confidence": 0.2391,
+"match_method": "canonical",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Zaham",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Zaham"
+},
+{
+"id": "person:Mahalath.2",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Mahalath"
+},
+{
+"id": "person:Shelomith.3",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Shelomith"
+},
+{
+"id": "person:Ziph",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Ziph"
+},
+{
+"id": "place:Adoraim",
+"type": "place",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Adoraim"
+},
+{
+"id": "person:Abihail.4",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Abihail"
+},
+{
+"id": "person:Jerimoth.6",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Jerimoth"
+},
+{
+"id": "person:Shemariah.2",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Shemariah"
+},
+{
+"id": "person:Attai.3",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Attai"
+},
+{
+"id": "person:Jeush.5",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Jeush"
+},
+{
+"id": "person:Ziza.2",
+"type": "person",
+"confidence": 0.1783,
+"match_method": "canonical",
+"preferred_label": "Ziza"
+},
+{
+"id": "place:Socoh",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Socoh"
+},
+{
+"id": "place:Adullam",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Adullam"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Priesthood"
+},
+{
+"id": "place:Mareshah",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Mareshah"
+},
+{
+"id": "place:Aijalon",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Aijalon"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "place:Zorah",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Zorah"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Jesse"
+},
+{
+"id": "place:Beth-zur",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Beth-zur"
+},
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Gath"
+},
+{
+"id": "place:Tekoa",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Tekoa"
+},
+{
+"id": "person:Shemaiah",
+"type": "person",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Shemaiah"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Perceive"
+},
+{
+"id": "person:Eliab.3",
+"type": "person",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Eliab"
+},
+{
+"id": "place:Lachish",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Lachish"
+},
+{
+"id": "place:Azekah",
+"type": "place",
+"confidence": 0.1696,
+"match_method": "canonical",
+"preferred_label": "Azekah"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Large Shield"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Spear"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1096,
+"match_method": "canonical",
+"preferred_label": "Vine"
+}
+]
+}
+}
+]

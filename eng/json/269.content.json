@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT019",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Isaac and Rebekah",
+"media_type": "Image",
+"index_reference": "pentateuch isaac and rebekah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT019.png' alt='Image' width='480' /></p><p><a href='images/OT019.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=14kWfsNErASJmE4gshEx16hchqTLpE5nc&usp=drive_copy'>Pentateuch: Isaac and Rebekah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01027046",
+"end_ref_usfm": "GEN 27:46"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 0.4563,
+"match_method": "canonical",
+"preferred_label": "Isaac"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4291,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.4217,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.4198,
+"match_method": "canonical",
+"preferred_label": "Esau"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.4168,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 0.4126,
+"match_method": "canonical",
+"preferred_label": "Rebekah"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3995,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"confidence": 0.3673,
+"match_method": "canonical",
+"preferred_label": "Abimelech"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.3673,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 0.3646,
+"match_method": "canonical",
+"preferred_label": "Bethuel"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "Ishmael"
+},
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 0.3635,
+"match_method": "canonical",
+"preferred_label": "Gerar"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.3624,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.3624,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3624,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 0.3282,
+"match_method": "canonical",
+"preferred_label": "Camel"
+},
+{
+"id": "realia:ClayJar",
+"type": "realia",
+"confidence": 0.3134,
+"match_method": "canonical",
+"preferred_label": "Clay Jar"
+},
+{
+"id": "person:Nahor.2",
+"type": "person",
+"confidence": 0.3121,
+"match_method": "canonical",
+"preferred_label": "Nahor"
+},
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 0.311,
+"match_method": "canonical",
+"preferred_label": "Laban"
+},
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.311,
+"match_method": "canonical",
+"preferred_label": "Oath"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.3099,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.3099,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.3099,
+"match_method": "canonical",
+"preferred_label": "Heth"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3024,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.3024,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.3024,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 0.2585,
+"match_method": "canonical",
+"preferred_label": "Milcah"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2585,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.2574,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.2574,
+"match_method": "canonical",
+"preferred_label": "Truth"
+}
+]
+}
+}
+]

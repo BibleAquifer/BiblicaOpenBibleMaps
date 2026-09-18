@@ -1,0 +1,320 @@
+[
+{
+"content_id": "OT164",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Nehemiah’s Mission to Jerusalem",
+"media_type": "Image",
+"index_reference": "historical nehemiahs mission to jerusalem",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT164.png' alt='Image' width='480' /></p><p><a href='images/OT164.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1dvP_s3M-R6R7PVHZohasRjukDRGy-yMe&usp=drive_copy'>Historical: Nehemiah’s Mission to Jerusalem</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "16001001",
+"start_ref_usfm": "NEH 1:1",
+"end_ref": "16002020",
+"end_ref_usfm": "NEH 2:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4661,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4516,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:ValleyGate",
+"type": "place",
+"confidence": 0.2419,
+"match_method": "canonical",
+"preferred_label": "Valley Gate"
+},
+{
+"id": "group:Horonites",
+"type": "group",
+"confidence": 0.2419,
+"match_method": "canonical",
+"preferred_label": "Horonites"
+},
+{
+"id": "person:Tobiah.2",
+"type": "person",
+"confidence": 0.2419,
+"match_method": "canonical",
+"preferred_label": "Tobiah"
+},
+{
+"id": "person:Sanballat",
+"type": "person",
+"confidence": 0.2355,
+"match_method": "canonical",
+"preferred_label": "Sanballat"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Geshem",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Geshem"
+},
+{
+"id": "person:Hanani.4",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Hanani"
+},
+{
+"id": "place:FountainGate",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Fountain Gate"
+},
+{
+"id": "place:DragonSpring",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Dragon Spring"
+},
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Dung Gate"
+},
+{
+"id": "person:Hacaliah",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Hacaliah"
+},
+{
+"id": "place:Susa",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Susa"
+},
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Nehemiah"
+},
+{
+"id": "person:Asaph.4",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Asaph"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Artaxerxes"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "place:Arabia",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Arabia"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Arabians"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Redeem"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Decree"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Be Unfaithful"
+},
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Siloam"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Vine"
+}
+]
+}
+}
+]

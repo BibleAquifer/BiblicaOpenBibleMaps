@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT125",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Rehoboam, Jeroboam, and the Divided Kingdom",
+"media_type": "Image",
+"index_reference": "historical rehoboam jeroboam and the divided kingdom",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT125.png' alt='Image' width='480' /></p><p><a href='images/OT125.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1k8cwjcOEqaQEzLFMfkD5XhsCNtHWg2O6&usp=drive_copy'>Historical: Rehoboam, Jeroboam, and the Divided Kingdom</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11012001",
+"start_ref_usfm": "1KI 12:1",
+"end_ref": "11012033",
+"end_ref_usfm": "1KI 12:33"
+},
+{
+"start_ref": "14010001",
+"start_ref_usfm": "2CH 10:1",
+"end_ref": "14010019",
+"end_ref_usfm": "2CH 10:19"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4971,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.4962,
+"match_method": "canonical",
+"preferred_label": "Rehoboam"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 0.4577,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4106,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4106,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "Counsel"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3933,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.3804,
+"match_method": "canonical",
+"preferred_label": "Yoke"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"confidence": 0.3385,
+"match_method": "canonical",
+"preferred_label": "Nebat"
+},
+{
+"id": "realia:Whip",
+"type": "realia",
+"confidence": 0.2785,
+"match_method": "canonical",
+"preferred_label": "Whip"
+},
+{
+"id": "fauna:Scorpion",
+"type": "fauna",
+"confidence": 0.2785,
+"match_method": "canonical",
+"preferred_label": "Scorpion"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Adoram",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Adoram"
+},
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Ahijah"
+},
+{
+"id": "group:Shiloh",
+"type": "group",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Shilonites"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Jesse"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Tribe of Dan"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Dan"
+}
+]
+}
+}
+]

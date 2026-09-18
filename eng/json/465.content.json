@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT215",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Joel",
+"media_type": "Image",
+"index_reference": "wisdom  prophets joel",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT215.png' alt='Image' width='480' /></p><p><a href='images/OT215.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1dQ59h43iQU0CbKFAIEM7z3QGhEofllr-&usp=drive_copy'>Wisdom & Prophets: Joel</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "29001001",
+"start_ref_usfm": "JOL 1:1",
+"end_ref": "29004021",
+"end_ref_usfm": "JOL 4:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5226,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4116,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.387,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.387,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.3393,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.327,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3247,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3247,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.3208,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2685,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2685,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.2647,
+"match_method": "canonical",
+"preferred_label": "Must"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 0.2123,
+"match_method": "canonical",
+"preferred_label": "Kidron"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.2123,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.2085,
+"match_method": "canonical",
+"preferred_label": "Grain"
+},
+{
+"id": "fauna:Mule",
+"type": "fauna",
+"confidence": 0.2085,
+"match_method": "canonical",
+"preferred_label": "Mule"
+},
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.2085,
+"match_method": "canonical",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.2085,
+"match_method": "canonical",
+"preferred_label": "Fig"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.2085,
+"match_method": "canonical",
+"preferred_label": "Anointing Oil"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.2085,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:ShittimValley",
+"type": "place",
+"confidence": 0.1589,
+"match_method": "canonical",
+"preferred_label": "Valley of Shittim"
+},
+{
+"id": "person:Joel.14",
+"type": "person",
+"confidence": 0.1589,
+"match_method": "canonical",
+"preferred_label": "Joel"
+},
+{
+"id": "group:Sabean",
+"type": "group",
+"confidence": 0.1589,
+"match_method": "canonical",
+"preferred_label": "Sabeans"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1589,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Pethuel",
+"type": "person",
+"confidence": 0.1589,
+"match_method": "canonical",
+"preferred_label": "Pethuel"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.1562,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Generous",
+"type": "keyterm",
+"confidence": 0.1562,
+"match_method": "canonical",
+"preferred_label": "Generous"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1562,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.1562,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.1562,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+}
+]
+}
+}
+]

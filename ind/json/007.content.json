@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT011",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Kehidupan Yesus: Yesus Dibaptis dan Pergi ke Galilea",
+"media_type": "Image",
+"index_reference": "kehidupan yesus yesus dibaptis dan pergi ke galilea",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT011.png' alt='Image' width='480' /></p><p><a href='images/NT011.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43001001",
+"start_ref_usfm": "JHN 1:1",
+"end_ref": "43001051",
+"end_ref_usfm": "JHN 1:51"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4735,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4471,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.4206,
+"match_method": "canonical",
+"preferred_label": "Yohanes"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.4069,
+"match_method": "canonical",
+"preferred_label": "bersaksi"
+},
+{
+"id": "person:Nathanael",
+"type": "person",
+"confidence": 0.402,
+"match_method": "canonical",
+"preferred_label": "Natanael"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 0.398,
+"match_method": "canonical",
+"preferred_label": "Filipus"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.3941,
+"match_method": "canonical",
+"preferred_label": "baptisan"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.3353,
+"match_method": "canonical",
+"preferred_label": "Petrus"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3353,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2765,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2216,
+"match_method": "canonical",
+"preferred_label": "Nazaret"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.2216,
+"match_method": "canonical",
+"preferred_label": "Andreas"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.2216,
+"match_method": "canonical",
+"preferred_label": "benar"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2216,
+"match_method": "canonical",
+"preferred_label": "hukum"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "tubuh"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "Elia"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "sorga"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "kebenaran"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "Musa"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2176,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.1627,
+"match_method": "canonical",
+"preferred_label": "A Disciple"
+},
+{
+"id": "place:Bethsaida",
+"type": "place",
+"confidence": 0.1627,
+"match_method": "canonical",
+"preferred_label": "Betsaida"
+},
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 0.1627,
+"match_method": "canonical",
+"preferred_label": "Betania"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1627,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"confidence": 0.1627,
+"match_method": "canonical",
+"preferred_label": "Yohanes"
+}
+]
+}
+}
+]

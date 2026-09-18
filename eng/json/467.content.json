@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT217",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Warning to Israel",
+"media_type": "Image",
+"index_reference": "wisdom  prophets warning to israel",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT217.png' alt='Image' width='480' /></p><p><a href='images/OT217.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=12XhvUc5yXju8E_sL7KR5q-jahRQ69nTy&usp=drive_copy'>Wisdom & Prophets: Warning to Israel</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "30003001",
+"start_ref_usfm": "AMO 3:1",
+"end_ref": "30006014",
+"end_ref_usfm": "AMO 6:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5783,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4413,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3291,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.3261,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 0.3261,
+"match_method": "canonical",
+"preferred_label": "Samaria"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.2661,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.2661,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "keyterm:Woe.2",
+"type": "keyterm",
+"confidence": 0.2159,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Hamath"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.213,
+"match_method": "canonical",
+"preferred_label": "Gilgal"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.2096,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "place:Harmon",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Harmon"
+},
+{
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Lamentation"
+},
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Brook of the Arabah"
+},
+{
+"id": "place:Calneh",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Calneh"
+},
+{
+"id": "deity:Sikkuth",
+"type": "deity",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Sikkuth"
+},
+{
+"id": "place:Lo-debar",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Lo-debar"
+},
+{
+"id": "deity:Kiyyun",
+"type": "deity",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Kiyyun"
+},
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 0.1565,
+"match_method": "canonical",
+"preferred_label": "Damascus"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.1565,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1565,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 0.1565,
+"match_method": "canonical",
+"preferred_label": "Beersheba"
+}
+]
+}
+}
+]

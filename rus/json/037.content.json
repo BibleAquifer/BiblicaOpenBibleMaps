@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT045",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Павел и ранняя Церковь: Третье миссионерское путешествие Павла (Часть 1)",
+"media_type": "Image",
+"index_reference": "павел и ранняя церковь третье миссионерское путешествие павла часть 1",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT045.png' alt='Image' width='480' /></p><p><a href='images/NT045.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44019001",
+"start_ref_usfm": "ACT 19:1",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4468,
+"match_method": "canonical",
+"preferred_label": "Павел"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.407,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4013,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.4006,
+"match_method": "canonical",
+"preferred_label": "Ефес"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3956,
+"match_method": "canonical",
+"preferred_label": "Иисус"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.3949,
+"match_method": "canonical",
+"preferred_label": "Асии"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.3835,
+"match_method": "canonical",
+"preferred_label": "Македонянин"
+},
+{
+"id": "deity:Artemis",
+"type": "deity",
+"confidence": 0.381,
+"match_method": "canonical",
+"preferred_label": "Артемида"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3785,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3785,
+"match_method": "canonical",
+"preferred_label": "Святой Дух"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3785,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.3253,
+"match_method": "canonical",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3228,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3228,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Ephesians"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Иаван"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Иерусалим"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "place:Miletus",
+"type": "place",
+"confidence": 0.2165,
+"match_method": "canonical",
+"preferred_label": "Милит"
+},
+{
+"id": "person:Demetrius",
+"type": "person",
+"confidence": 0.2165,
+"match_method": "canonical",
+"preferred_label": "Димитрий"
+},
+{
+"id": "place:Assos",
+"type": "place",
+"confidence": 0.2139,
+"match_method": "canonical",
+"preferred_label": "Асс"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 0.2139,
+"match_method": "canonical",
+"preferred_label": "Троада"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"confidence": 0.2139,
+"match_method": "canonical",
+"preferred_label": "Аристарх"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2114,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.2114,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.2114,
+"match_method": "canonical",
+"preferred_label": "Repent"
+}
+]
+}
+}
+]

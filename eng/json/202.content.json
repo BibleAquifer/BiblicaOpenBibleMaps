@@ -1,0 +1,460 @@
+[
+{
+"content_id": "NT320",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Acts: Acts 10:23b-32",
+"media_type": "Image",
+"index_reference": "srv acts acts 1023b32",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT320.png' alt='Image' width='480' /></p><p><a href='images/NT320.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1dxprPupV4hBf5uTaduLXPRjAQL13eK06&usp=drive_copy'>SRV Acts: Acts 10:23b-32</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44010001",
+"start_ref_usfm": "ACT 10:1",
+"end_ref": "44010048",
+"end_ref_usfm": "ACT 10:48"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4906,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4906,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Cornelius",
+"type": "person",
+"confidence": 0.4542,
+"match_method": "canonical",
+"preferred_label": "Cornelius"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3969,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "Joppa"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.3375,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3369,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Simon.9",
+"type": "person",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2781,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.2229,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Witness",
+"type": "keyterm",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Witness"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2188,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.2181,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "group:Italy",
+"type": "group",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Italians"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.1635,
+"match_method": "canonical",
+"preferred_label": "Anointed"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Italy"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Disgusting",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Disgusting"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Circumcision"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Faithfulness"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "group:GenericMales",
+"type": "group",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Men"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.1594,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.1588,
+"match_method": "canonical",
+"preferred_label": "Leather"
+},
+{
+"id": "realia:Housetop",
+"type": "realia",
+"confidence": 0.1035,
+"match_method": "canonical",
+"preferred_label": "Housetop"
+},
+{
+"id": "realia:LinenCloth",
+"type": "realia",
+"confidence": 0.1035,
+"match_method": "canonical",
+"preferred_label": "Linen Cloth"
+},
+{
+"id": "fauna:Lizard",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Lizard"
+},
+{
+"id": "fauna:CreepingAnimal",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Creeping Animal"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
+"id": "fauna:Iguana",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Monitor"
+},
+{
+"id": "fauna:Chameleon",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Chameleon"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 0.0994,
+"match_method": "canonical",
+"preferred_label": "Snake"
+}
+]
+}
+}
+]

@@ -1,0 +1,418 @@
+[
+{
+"content_id": "NT042",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "保罗与早期教会：保罗第二次传教旅程（第二部分）",
+"media_type": "Image",
+"index_reference": "保罗与早期教会保罗第二次传教旅程第二部分",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT042.png' alt='Image' width='480' /></p><p><a href='images/NT042.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44016040",
+"end_ref_usfm": "ACT 16:40"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4738,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4287,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.3575,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.345,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.345,
+"match_method": "canonical",
+"preferred_label": "Rome"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.2938,
+"match_method": "canonical",
+"preferred_label": "Macedonia"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2888,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.2888,
+"match_method": "canonical",
+"preferred_label": "Silas"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "person:Lydia",
+"type": "person",
+"confidence": 0.2325,
+"match_method": "canonical",
+"preferred_label": "Lydia"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 0.2275,
+"match_method": "canonical",
+"preferred_label": "Troas"
+},
+{
+"id": "place:Lystra",
+"type": "place",
+"confidence": 0.2275,
+"match_method": "canonical",
+"preferred_label": "Lystra"
+},
+{
+"id": "place:Mysia",
+"type": "place",
+"confidence": 0.2275,
+"match_method": "canonical",
+"preferred_label": "Mysia"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.2238,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Faithfulness"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Philippi"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Timothy"
+},
+{
+"id": "place:Bithynia",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Bithynia"
+},
+{
+"id": "place:Neapolis",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Neapolis"
+},
+{
+"id": "person:PhilippianJailer",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Philippian Jailer"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "place:Thyatira",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Thyatira"
+},
+{
+"id": "place:Samothrace",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Samothrace"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Phrygia"
+},
+{
+"id": "place:Derbe",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Derbe"
+},
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Galatia"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Door"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Encourage"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Iconium"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Peace",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Make Peace"
+},
+{
+"id": "realia:Torch",
+"type": "realia",
+"confidence": 0.1063,
+"match_method": "canonical",
+"preferred_label": "Torch"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Chain"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Foundation"
+}
+]
+}
+}
+]

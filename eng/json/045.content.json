@@ -1,0 +1,495 @@
+[
+{
+"content_id": "NT046",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and the Early Church: Paul's Third Missionary Journey (Part 2)",
+"media_type": "Image",
+"index_reference": "paul and the early church pauls third missionary journey part 2",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT046.png' alt='Image' width='480' /></p><p><a href='images/NT046.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13qqVxHNjLTuzt4r23BFyffk9LgXjKBZY&usp=drive_copy'>Paul and the Early Church: Paul's Third Missionary Journey (Part 2)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44021001",
+"start_ref_usfm": "ACT 21:1",
+"end_ref": "44021040",
+"end_ref_usfm": "ACT 21:40"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4738,
+"match_method": "canonical",
+"preferred_label": "Paul"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4287,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4062,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.3575,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.345,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.2275,
+"match_method": "canonical",
+"preferred_label": "Caesarea"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.2238,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Pure"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Cyprus"
+},
+{
+"id": "realia:Step",
+"type": "realia",
+"confidence": 0.1725,
+"match_method": "canonical",
+"preferred_label": "Step"
+},
+{
+"id": "place:Cos",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Cos"
+},
+{
+"id": "place:Rhodes",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Rhodes"
+},
+{
+"id": "person:Trophimus",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Trophimus"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Philip"
+},
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Tarsus"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Tarsians"
+},
+{
+"id": "person:Mnason",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Mnason"
+},
+{
+"id": "group:Cyprus",
+"type": "group",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Cypriots"
+},
+{
+"id": "place:Patara",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Patara"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Phoenicia"
+},
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Cilicia"
+},
+{
+"id": "person:Agabus",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Agabus"
+},
+{
+"id": "place:Acco",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Acco"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Ephesians"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Live"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "person:MilitaryMember",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Military Member"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "keyterm:SomethingDefinite",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Something Definite"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Ephesus"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "group:Egypt",
+"type": "group",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Egyptians"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Persuade"
+},
+{
+"id": "realia:Belt",
+"type": "realia",
+"confidence": 0.1063,
+"match_method": "canonical",
+"preferred_label": "Belt"
+},
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Chain"
+},
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Tabernacle"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Bag",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Bag"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Door"
+}
+]
+}
+}
+]

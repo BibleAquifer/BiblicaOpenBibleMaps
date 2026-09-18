@@ -1,0 +1,242 @@
+[
+{
+"content_id": "NT010",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "耶稣的生平：耶稣的降生",
+"media_type": "Image",
+"index_reference": "耶稣的生平耶稣的降生",
+"language": "zhs",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT010.png' alt='Image' width='480' /></p><p><a href='images/NT010.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40002001",
+"start_ref_usfm": "MAT 2:1",
+"end_ref": "40002023",
+"end_ref_usfm": "MAT 2:23"
+},
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002052",
+"end_ref_usfm": "LUK 2:52"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.464,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 0.4093,
+"match_method": "canonical",
+"preferred_label": "Herod"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.398,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.398,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 0.3973,
+"match_method": "canonical",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.392,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.386,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.386,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.38,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 0.38,
+"match_method": "canonical",
+"preferred_label": "Mary"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.3293,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 0.3267,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3267,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.324,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.324,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.32,
+"match_method": "canonical",
+"preferred_label": "Flock"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.32,
+"match_method": "canonical",
+"preferred_label": "Goat"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.2707,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.268,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.268,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.268,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.268,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Register",
+"type": "keyterm",
+"confidence": 0.268,
+"match_method": "canonical",
+"preferred_label": "Register"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.268,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.264,
+"match_method": "canonical",
+"preferred_label": "Sheep"
+},
+{
+"id": "person:Simeon.2",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Simeon"
+},
+{
+"id": "keyterm:CauseOfJoy",
+"type": "keyterm",
+"confidence": 0.2147,
+"match_method": "canonical",
+"preferred_label": "Cause of Joy"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.212,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.212,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.212,
+"match_method": "canonical",
+"preferred_label": "Offering"
+}
+]
+}
+}
+]

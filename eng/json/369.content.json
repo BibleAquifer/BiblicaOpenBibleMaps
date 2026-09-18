@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT119",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Building Plan: Solomon's Temple",
+"media_type": "Image",
+"index_reference": "historical building plan solomons temple",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT119.png' alt='Image' width='480' /></p><p><a href='images/OT119.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1x_5EbO4L2ClLcQ18yo-b8vDaLMACLOYX&usp=drive_copy'>Historical: Building Plan: Solomon's Temple</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11006001",
+"start_ref_usfm": "1KI 6:1",
+"end_ref": "11007051",
+"end_ref_usfm": "1KI 7:51"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.4611,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.4229,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4165,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Cubit",
+"type": "realia",
+"confidence": 0.3977,
+"match_method": "canonical",
+"preferred_label": "Cubit"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.3799,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3722,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.3718,
+"match_method": "canonical",
+"preferred_label": "Most Holy Place"
+},
+{
+"id": "person:Hiram.2",
+"type": "person",
+"confidence": 0.3701,
+"match_method": "canonical",
+"preferred_label": "Hiram"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3658,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "realia:WingedCreature",
+"type": "realia",
+"confidence": 0.3502,
+"match_method": "canonical",
+"preferred_label": "Winged Creature"
+},
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.328,
+"match_method": "canonical",
+"preferred_label": "Cedar"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.3185,
+"match_method": "canonical",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.3122,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:Craftsman",
+"type": "realia",
+"confidence": 0.3122,
+"match_method": "canonical",
+"preferred_label": "Craftsman"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.3104,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.309,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.309,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.309,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:Shovel",
+"type": "realia",
+"confidence": 0.309,
+"match_method": "canonical",
+"preferred_label": "Shovel"
+},
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 0.3058,
+"match_method": "canonical",
+"preferred_label": "Pomegranate"
+},
+{
+"id": "flora:DatePalm",
+"type": "flora",
+"confidence": 0.3058,
+"match_method": "canonical",
+"preferred_label": "Date Palm"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.2595,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.2595,
+"match_method": "canonical",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.2595,
+"match_method": "canonical",
+"preferred_label": "Levi"
+},
+{
+"id": "realia:Floor",
+"type": "realia",
+"confidence": 0.2555,
+"match_method": "canonical",
+"preferred_label": "Floor"
+},
+{
+"id": "flora:PineTree",
+"type": "flora",
+"confidence": 0.2541,
+"match_method": "canonical",
+"preferred_label": "Aleppo Pine"
+},
+{
+"id": "flora:Lily",
+"type": "flora",
+"confidence": 0.2541,
+"match_method": "canonical",
+"preferred_label": "Lily"
+},
+{
+"id": "realia:HewnStone",
+"type": "realia",
+"confidence": 0.2527,
+"match_method": "canonical",
+"preferred_label": "Hewn Stone"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.2527,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:Zarethan",
+"type": "place",
+"confidence": 0.2077,
+"match_method": "canonical",
+"preferred_label": "Zarethan"
+}
+]
+}
+}
+]

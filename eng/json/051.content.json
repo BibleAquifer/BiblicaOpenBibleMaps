@@ -1,0 +1,242 @@
+[
+{
+"content_id": "NT052",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paul and the Early Church: Corinthians",
+"media_type": "Image",
+"index_reference": "paul and the early church corinthians",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT052.png' alt='Image' width='480' /></p><p><a href='images/NT052.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1EO1O8oVZ6ytHLXM38WuWoVIcYuDKWHqE&usp=drive_copy'>Paul and the Early Church: Corinthians</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "46001001",
+"start_ref_usfm": "1CO 1:1",
+"end_ref": "46016024",
+"end_ref_usfm": "1CO 16:24"
+},
+{
+"start_ref": "47001001",
+"start_ref_usfm": "2CO 1:1",
+"end_ref": "47013013",
+"end_ref_usfm": "2CO 13:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4623,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4513,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3948,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3892,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3714,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.3695,
+"match_method": "canonical",
+"preferred_label": "Church"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3688,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3682,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3662,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3656,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.3652,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3636,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.3633,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3617,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.3617,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.3613,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.3613,
+"match_method": "canonical",
+"preferred_label": "In Christ"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.3597,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.3594,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3584,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3584,
+"match_method": "canonical",
+"preferred_label": "Hope"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3584,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3578,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3578,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3571,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.3565,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.3565,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.3565,
+"match_method": "canonical",
+"preferred_label": "Conscience"
+}
+]
+}
+}
+]

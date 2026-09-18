@@ -1,0 +1,278 @@
+[
+{
+"content_id": "OT091",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Achish’s Campaign against the Israelites",
+"media_type": "Image",
+"index_reference": "historical achishs campaign against the israelites",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT091.png' alt='Image' width='480' /></p><p><a href='images/OT091.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1eveth7DVUJQaAsXAf4OXsCbYkDKNW72V&usp=drive_copy'>Historical: Achish’s Campaign against the Israelites</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09028001",
+"start_ref_usfm": "1SA 28:1",
+"end_ref": "09029011",
+"end_ref_usfm": "1SA 29:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.5625,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.5,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.475,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.475,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Achish",
+"type": "person",
+"confidence": 0.4486,
+"match_method": "canonical",
+"preferred_label": "Achish"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.4375,
+"match_method": "canonical",
+"preferred_label": "Samuel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.425,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Spirit",
+"type": "keyterm",
+"confidence": 0.3556,
+"match_method": "canonical",
+"preferred_label": "Necromancer"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2875,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "place:Jezreel",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Jezreel"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "person:GenericFemale",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "A Woman"
+},
+{
+"id": "keyterm:PracticeDivination",
+"type": "keyterm",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Practice Divination"
+},
+{
+"id": "place:En-dor",
+"type": "place",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Endor"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Amalek"
+},
+{
+"id": "place:Shunem",
+"type": "place",
+"confidence": 0.1681,
+"match_method": "canonical",
+"preferred_label": "Shunem"
+},
+{
+"id": "keyterm:Deceit",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Deceit"
+},
+{
+"id": "place:Aphek",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Aphek"
+},
+{
+"id": "place:GilboaMount",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Mount Gilboa"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Israelites"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Passion"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "group:GenericServants",
+"type": "group",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Servants"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Ramah"
+},
+{
+"id": "keyterm:Swear",
+"type": "keyterm",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Swear"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "realia:AnimalPen",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Animal Pen"
+},
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Robe"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Unleavened Bread"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 0.1025,
+"match_method": "canonical",
+"preferred_label": "Trap"
+}
+]
+}
+}
+]

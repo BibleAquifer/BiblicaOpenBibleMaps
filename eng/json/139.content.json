@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT219",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 9:46–61",
+"media_type": "Image",
+"index_reference": "srv luke luke 94661",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT219.png' alt='Image' width='480' /></p><p><a href='images/NT219.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1505Dd8vadshGXk5Gbu_D33v-aPwmFtWq&usp=drive_copy'>SRV Luke: Luke 9:46-61</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4153,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4081,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3935,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.3863,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.329,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.329,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2718,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2145,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.1637,
+"match_method": "canonical",
+"preferred_label": "Samaritans"
+},
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Reject"
+},
+{
+"id": "person:ReligiousOfficial",
+"type": "person",
+"confidence": 0.1605,
+"match_method": "canonical",
+"preferred_label": "Religious Official"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1573,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "person:GenericMale",
+"type": "person",
+"confidence": 0.1573,
+"match_method": "canonical",
+"preferred_label": "A Man"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.1573,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+}
+]
+}
+}
+]

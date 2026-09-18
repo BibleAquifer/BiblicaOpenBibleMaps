@@ -1,0 +1,254 @@
+[
+{
+"content_id": "NT019",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "The Life of Jesus: The Last Week of Jesus' Life (With Reference Table)",
+"media_type": "Image",
+"index_reference": "life of jesus the last week of jesus life with reference table",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT019.png' alt='Image' width='480' /></p><p><a href='images/NT019.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ygmpy9niS73v65QpPJea8C739eTD4ZQW&usp=drive_copy'>The Life of Jesus: The Last Week of Jesus' Life (With Reference Table)</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021001",
+"start_ref_usfm": "MAT 21:1",
+"end_ref": "40028020",
+"end_ref_usfm": "MAT 28:20"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41016020",
+"end_ref_usfm": "MRK 16:20"
+},
+{
+"start_ref": "42019001",
+"start_ref_usfm": "LUK 19:1",
+"end_ref": "42024053",
+"end_ref_usfm": "LUK 24:53"
+},
+{
+"start_ref": "43012001",
+"start_ref_usfm": "JHN 12:1",
+"end_ref": "43021025",
+"end_ref_usfm": "JHN 21:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4337,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3978,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3786,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3757,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.3701,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 0.3668,
+"match_method": "canonical",
+"preferred_label": "Pilate"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3663,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.363,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3628,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3618,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.3607,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3604,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.3599,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.3587,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3584,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3583,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3583,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.3581,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3578,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3573,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3569,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.3566,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3566,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.3566,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3564,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.3564,
+"match_method": "canonical",
+"preferred_label": "Written"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3562,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.3562,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3562,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3555,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+}
+]
+}
+}
+]

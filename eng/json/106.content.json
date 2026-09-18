@@ -1,0 +1,306 @@
+[
+{
+"content_id": "NT163",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Mark: Mark 7:31–36",
+"media_type": "Image",
+"index_reference": "srv mark mark 73136",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT163.png' alt='Image' width='480' /></p><p><a href='images/NT163.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1G7Vn49s5ABL0jAvGgDh2dQ8CptQg0MUp&usp=drive_copy'>SRV Mark: Mark 7:31-36</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41007001",
+"start_ref_usfm": "MRK 7:1",
+"end_ref": "41007037",
+"end_ref_usfm": "MRK 7:37"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.423,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.4162,
+"match_method": "canonical",
+"preferred_label": "Teaching"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.2973,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2865,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2297,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.2265,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2243,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "place:Corban",
+"type": "place",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Temple Treasury"
+},
+{
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Decapolis"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Phoenicia"
+},
+{
+"id": "group:Phoenicia",
+"type": "group",
+"confidence": 0.1676,
+"match_method": "canonical",
+"preferred_label": "Syrophoenicians"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1643,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Bed",
+"type": "realia",
+"confidence": 0.1643,
+"match_method": "canonical",
+"preferred_label": "Bed"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.1643,
+"match_method": "canonical",
+"preferred_label": "Dog"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Live.3",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Live"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "group:ReligiousOfficials",
+"type": "group",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Religious Officials"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Javan"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Honest"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Baptism"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Fornication"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Cleanse.2",
+"type": "keyterm",
+"confidence": 0.1622,
+"match_method": "canonical",
+"preferred_label": "To Cleanse"
+},
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"confidence": 0.1022,
+"match_method": "canonical",
+"preferred_label": "Cooking Pot"
+}
+]
+}
+}
+]

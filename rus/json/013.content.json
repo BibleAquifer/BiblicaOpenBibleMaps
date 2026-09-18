@@ -1,0 +1,248 @@
+[
+{
+"content_id": "NT018",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Жизнь Иисуса: Последнее путешествие Иисуса в Иерусалим по Синоптическим Евангелиям",
+"media_type": "Image",
+"index_reference": "жизнь иисуса последнее путешествие иисуса в иерусалим по синоптическим евангелиям",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT018.png' alt='Image' width='480' /></p><p><a href='images/NT018.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40019001",
+"start_ref_usfm": "MAT 19:1",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41010001",
+"start_ref_usfm": "MRK 10:1",
+"end_ref": "41011033",
+"end_ref_usfm": "MRK 11:33"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42019048",
+"end_ref_usfm": "LUK 19:48"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4082,
+"match_method": "canonical",
+"preferred_label": "Иисус"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4022,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.379,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3737,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.3707,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3669,
+"match_method": "canonical",
+"preferred_label": "Иерусалим"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3634,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3627,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.3623,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.3614,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3603,
+"match_method": "canonical",
+"preferred_label": "Pray"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.36,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.3594,
+"match_method": "canonical",
+"preferred_label": "Authority"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.3594,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3587,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.3583,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.358,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.358,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.3577,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3574,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.3567,
+"match_method": "canonical",
+"preferred_label": "Demons"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.3567,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.3567,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.3567,
+"match_method": "canonical",
+"preferred_label": "Иоанн"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3567,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.3563,
+"match_method": "canonical",
+"preferred_label": "Mercy"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.356,
+"match_method": "canonical",
+"preferred_label": "Авраам"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.356,
+"match_method": "canonical",
+"preferred_label": "Пётр"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.356,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.356,
+"match_method": "canonical",
+"preferred_label": "Body"
+}
+]
+}
+}
+]

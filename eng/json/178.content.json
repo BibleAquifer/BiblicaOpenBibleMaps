@@ -1,0 +1,292 @@
+[
+{
+"content_id": "NT272",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV John: John 18:1–13",
+"media_type": "Image",
+"index_reference": "srv john john 18113",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT272.png' alt='Image' width='480' /></p><p><a href='images/NT272.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1kqvLzCtbSdGO1BSM7OnNg6qUNmOkth0j&usp=drive_copy'>SRV John: John 18:1-13</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "43018001",
+"start_ref_usfm": "JHN 18:1",
+"end_ref": "43018040",
+"end_ref_usfm": "JHN 18:40"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5637,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.4513,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4513,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4287,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 0.4175,
+"match_method": "canonical",
+"preferred_label": "Pilate"
+},
+{
+"id": "person:Caiaphas",
+"type": "person",
+"confidence": 0.35,
+"match_method": "canonical",
+"preferred_label": "Caiaphas"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Judas"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2838,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "person:Annas",
+"type": "person",
+"confidence": 0.2275,
+"match_method": "canonical",
+"preferred_label": "Annas"
+},
+{
+"id": "person:GenericServant",
+"type": "person",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "A Servant"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Passover"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.2225,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "group:MilitaryMembers",
+"type": "group",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Military Members"
+},
+{
+"id": "person:Malchus",
+"type": "person",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Malchus"
+},
+{
+"id": "keyterm:Lawful",
+"type": "keyterm",
+"confidence": 0.1663,
+"match_method": "canonical",
+"preferred_label": "Be Lawful"
+},
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 0.1625,
+"match_method": "canonical",
+"preferred_label": "Palace"
+},
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Barabbas"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "group:GenericOfficials",
+"type": "group",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Public Officials"
+},
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Kidron"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.1613,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "realia:Torch",
+"type": "realia",
+"confidence": 0.1063,
+"match_method": "canonical",
+"preferred_label": "Torch"
+},
+{
+"id": "realia:Sheath",
+"type": "realia",
+"confidence": 0.1063,
+"match_method": "canonical",
+"preferred_label": "Sheath"
+},
+{
+"id": "realia:Lantern",
+"type": "realia",
+"confidence": 0.1063,
+"match_method": "canonical",
+"preferred_label": "Lantern"
+},
+{
+"id": "realia:Courtyard",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Courtyard"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "fauna:Rooster",
+"type": "fauna",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Rooster"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.1013,
+"match_method": "canonical",
+"preferred_label": "Door"
+}
+]
+}
+}
+]

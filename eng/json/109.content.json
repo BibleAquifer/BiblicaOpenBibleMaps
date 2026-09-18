@@ -1,0 +1,299 @@
+[
+{
+"content_id": "NT166",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Mark: Mark 8:27–30, Mark 8:31–9:0",
+"media_type": "Image",
+"index_reference": "srv mark mark 82730 mark 83190",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT166.png' alt='Image' width='480' /></p><p><a href='images/NT166.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=18Ema2QsITIcrnDCajnasHpU1YSCR4L-Z&usp=drive_copy'>SRV Mark: Mark 8:27-30, Mark 8:31-9:0</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008038",
+"end_ref_usfm": "MRK 8:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.4329,
+"match_method": "canonical",
+"preferred_label": "Be a Disciple"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.2855,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2855,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.2855,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.2255,
+"match_method": "canonical",
+"preferred_label": "Basket"
+},
+{
+"id": "group:GenericDisciples",
+"type": "group",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "A Group of Disciples"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Pharisees"
+},
+{
+"id": "place:Bethsaida",
+"type": "place",
+"confidence": 0.1671,
+"match_method": "canonical",
+"preferred_label": "Bethsaida"
+},
+{
+"id": "keyterm:Baptist",
+"type": "keyterm",
+"confidence": 0.1671,
+"match_method": "canonical",
+"preferred_label": "Baptist"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"confidence": 0.1671,
+"match_method": "canonical",
+"preferred_label": "Caesarea Philippi"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1637,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.1637,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.1637,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Elijah"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "keyterm:Affection",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Affection"
+},
+{
+"id": "keyterm:Think",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Think"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "place:Magadan",
+"type": "place",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Magadan"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Reject"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Be Unfaithful"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
+"id": "fauna:Fish",
+"type": "fauna",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Fish"
+}
+]
+}
+}
+]

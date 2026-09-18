@@ -1,0 +1,257 @@
+[
+{
+"content_id": "NT229",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 21:29–37",
+"media_type": "Image",
+"index_reference": "srv luke luke 212937",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT229.png' alt='Image' width='480' /></p><p><a href='images/NT229.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1xMgCSwpnMgyMrVdcA7XIjynZ8HxvR525&usp=drive_copy'>SRV Luke: Luke 21:29-37</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42021001",
+"start_ref_usfm": "LUK 21:1",
+"end_ref": "42021038",
+"end_ref_usfm": "LUK 21:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.2855,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2855,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2289,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.2255,
+"match_method": "canonical",
+"preferred_label": "Temple"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Example",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Symbol"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2237,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "keyterm:Disaster",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Disaster"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Liberation",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Liberation"
+},
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Parable"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:OfThisLife",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Everyday Matters"
+},
+{
+"id": "keyterm:True",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "True"
+},
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Avenge"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Bear Witness"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Mount of Olives"
+},
+{
+"id": "keyterm:DreadfulEventOrSight",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Dreadful Event"
+},
+{
+"id": "keyterm:DailyLife",
+"type": "keyterm",
+"confidence": 0.1618,
+"match_method": "canonical",
+"preferred_label": "Daily Life"
+},
+{
+"id": "realia:Lepton",
+"type": "realia",
+"confidence": 0.1071,
+"match_method": "canonical",
+"preferred_label": "Lepton"
+},
+{
+"id": "realia:Net",
+"type": "realia",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Net"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Fig"
+},
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Prison"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "realia:Treasury",
+"type": "realia",
+"confidence": 0.1018,
+"match_method": "canonical",
+"preferred_label": "Treasury"
+}
+]
+}
+}
+]

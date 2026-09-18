@@ -1,0 +1,453 @@
+[
+{
+"content_id": "NT044",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Akhir Perjalanan Misi Kedua Paulus dan Awal Perjalanan Ketiganya",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula akhir perjalanan misi kedua paulus dan awal perjalanan ketiganya",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT044.png' alt='Image' width='480' /></p><p><a href='images/NT044.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44018001",
+"start_ref_usfm": "ACT 18:1",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4786,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4625,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4304,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.3864,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "person:Gallio",
+"type": "person",
+"confidence": 0.3196,
+"match_method": "canonical",
+"preferred_label": "Galio"
+},
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 0.3125,
+"match_method": "canonical",
+"preferred_label": "Akwila"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 0.3054,
+"match_method": "canonical",
+"preferred_label": "Priskila"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Efesus"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2982,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"confidence": 0.2454,
+"match_method": "canonical",
+"preferred_label": "Judgment Seat"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "sembah"
+},
+{
+"id": "place:Achaia",
+"type": "place",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Akhaya"
+},
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Korintus"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Scripture",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "kitab suci"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "baptisan"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "hukum"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "jalan tuhan"
+},
+{
+"id": "place:Alexandria",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Aleksandria"
+},
+{
+"id": "group:Alexandria",
+"type": "group",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Alexandrians"
+},
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Klaudius"
+},
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Apolos"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Corinthians"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Pontus"
+},
+{
+"id": "person:Crispus",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Krispus"
+},
+{
+"id": "person:Sosthenes",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Sostenes"
+},
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Pontus"
+},
+{
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Frigia"
+},
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Roma"
+},
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Galatia"
+},
+{
+"id": "place:Cenchreae",
+"type": "place",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Kengkrea"
+},
+{
+"id": "person:Justus.2",
+"type": "person",
+"confidence": 0.1732,
+"match_method": "canonical",
+"preferred_label": "Yustus"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Timotius"
+},
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "jemaat"
+},
+{
+"id": "place:Italy",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Italia"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "sabat"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "menghujat"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "memberi kesaksian yang sungguh, sungguh"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Kaisarea"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "place:Athens",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Atena"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "roh"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Yohanes"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Yunani"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "bernazar"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Silas"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "takut"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "suci"
+},
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "darah"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "keyterm:UnrighteousAct",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "kejahatan"
+},
+{
+"id": "keyterm:Persuade",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "membujuk"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Makedonia"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Antiokhia"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "realia:Clothing",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Clothing"
+}
+]
+}
+}
+]

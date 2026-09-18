@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT231",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Luke: Luke 23:26–42",
+"media_type": "Image",
+"index_reference": "srv luke luke 232642",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT231.png' alt='Image' width='480' /></p><p><a href='images/NT231.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1iQ5df_1AjXe8nAB3835n9Rb11EbZn2kP&usp=drive_copy'>SRV Luke: Luke 23:26-42</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "42023001",
+"start_ref_usfm": "LUK 23:1",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4464,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 0.4339,
+"match_method": "canonical",
+"preferred_label": "Pilate"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.3982,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 0.3902,
+"match_method": "canonical",
+"preferred_label": "Herod Antipas"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3321,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.2757,
+"match_method": "canonical",
+"preferred_label": "Cross"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2741,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Body.3",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Body"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.2161,
+"match_method": "canonical",
+"preferred_label": "Be (Or Show Oneself) Just"
+},
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 0.1652,
+"match_method": "canonical",
+"preferred_label": "Barabbas"
+},
+{
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Simon"
+},
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Cyrene"
+},
+{
+"id": "person:Joseph.6",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Dysmas",
+"type": "person",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Criminal on the Cross"
+},
+{
+"id": "place:Arimathea",
+"type": "place",
+"confidence": 0.1616,
+"match_method": "canonical",
+"preferred_label": "Arimathea"
+},
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Grave"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "keyterm:Paradise",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Paradise"
+},
+{
+"id": "keyterm:Commandment",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Commandment"
+},
+{
+"id": "keyterm:TributeTax",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Tribute Tax"
+},
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Discern"
+},
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Blaspheme"
+},
+{
+"id": "keyterm:Chosen",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Chosen"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Spirit"
+},
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Golgotha"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.158,
+"match_method": "canonical",
+"preferred_label": "Decided"
+}
+]
+}
+}
+]

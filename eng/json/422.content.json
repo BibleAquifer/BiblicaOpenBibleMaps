@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT172",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Psalms 60 and 108",
+"media_type": "Image",
+"index_reference": "wisdom  prophets psalms 60 and 108",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT172.png' alt='Image' width='480' /></p><p><a href='images/OT172.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1VolwM5f1pBkBmr-05gQYcuYyeere0pE6/view?usp=drive_link'>Wisdom & Prophets: Psalms 60 and 108</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "19060001",
+"start_ref_usfm": "PSA 60:1",
+"end_ref": "19060014",
+"end_ref_usfm": "PSA 60:14"
+},
+{
+"start_ref": "19108001",
+"start_ref_usfm": "PSA 108:1",
+"end_ref": "19108014",
+"end_ref_usfm": "PSA 108:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5107,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.3643,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.2393,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "place:Succoth",
+"type": "place",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Succoth"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Tribe of Manasseh"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Ephraim"
+},
+{
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Tribe of Ephraim"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 0.2321,
+"match_method": "canonical",
+"preferred_label": "Shechem"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Cooking Pot"
+},
+{
+"id": "realia:Helmet",
+"type": "realia",
+"confidence": 0.1721,
+"match_method": "canonical",
+"preferred_label": "Helmet"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Testimony"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Kindness"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.1661,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Lute"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Wine"
+},
+{
+"id": "realia:Standard",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Standard"
+},
+{
+"id": "flora:Lily",
+"type": "flora",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Lily"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Fortification"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.1061,
+"match_method": "canonical",
+"preferred_label": "Lyre"
+}
+]
+}
+}
+]

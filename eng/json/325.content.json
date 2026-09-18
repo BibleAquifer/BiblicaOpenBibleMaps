@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT075",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Eli, Samuel, and the Battle of Ebenezer",
+"media_type": "Image",
+"index_reference": "historical eli samuel and the battle of ebenezer",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT075.png' alt='Image' width='480' /></p><p><a href='images/OT075.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13Bnt1N7Zsh3Sr6lhe3OjK2aaUl3A3nHc&usp=drive_copy'>Historical: Eli, Samuel, and the Battle of Ebenezer</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "09001001",
+"start_ref_usfm": "1SA 1:1",
+"end_ref": "09004022",
+"end_ref_usfm": "1SA 4:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6234,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Eli",
+"type": "person",
+"confidence": 0.4734,
+"match_method": "canonical",
+"preferred_label": "Eli"
+},
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 0.4379,
+"match_method": "canonical",
+"preferred_label": "Samuel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4257,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Hannah",
+"type": "person",
+"confidence": 0.4019,
+"match_method": "canonical",
+"preferred_label": "Hannah"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.4005,
+"match_method": "canonical",
+"preferred_label": "Covenant Box"
+},
+{
+"id": "person:Elkanah.2",
+"type": "person",
+"confidence": 0.3893,
+"match_method": "canonical",
+"preferred_label": "Elkanah"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 0.3855,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.3836,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.3836,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 0.379,
+"match_method": "canonical",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Hophni",
+"type": "person",
+"confidence": 0.3785,
+"match_method": "canonical",
+"preferred_label": "Hophni"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.371,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.3405,
+"match_method": "canonical",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3168,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.311,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 0.2664,
+"match_method": "canonical",
+"preferred_label": "Ramah"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2645,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Covenant"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2626,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "person:Peninnah",
+"type": "person",
+"confidence": 0.2121,
+"match_method": "canonical",
+"preferred_label": "Peninnah"
+},
+{
+"id": "keyterm:Horn",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Horn"
+},
+{
+"id": "keyterm:Vow",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Vow"
+},
+{
+"id": "keyterm:Woe",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Woe"
+},
+{
+"id": "keyterm:BeFirm",
+"type": "keyterm",
+"confidence": 0.2103,
+"match_method": "canonical",
+"preferred_label": "Well-Established"
+},
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Hebrews"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.2084,
+"match_method": "canonical",
+"preferred_label": "Passion"
+}
+]
+}
+}
+]

@@ -1,0 +1,242 @@
+[
+{
+"content_id": "NT057",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Timotius",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula timotius",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT057.png' alt='Image' width='480' /></p><p><a href='images/NT057.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "54001001",
+"start_ref_usfm": "1TI 1:1",
+"end_ref": "54006021",
+"end_ref_usfm": "1TI 6:21"
+},
+{
+"start_ref": "55001001",
+"start_ref_usfm": "2TI 1:1",
+"end_ref": "55004022",
+"end_ref_usfm": "2TI 4:22"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.4395,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4281,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.4189,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:Faithfulness",
+"type": "keyterm",
+"confidence": 0.3798,
+"match_method": "canonical",
+"preferred_label": "kesetiaan"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.3776,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.3753,
+"match_method": "canonical",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.3753,
+"match_method": "canonical",
+"preferred_label": "kasihi"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.3753,
+"match_method": "canonical",
+"preferred_label": "kebenaran"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.3707,
+"match_method": "canonical",
+"preferred_label": "selama, lamanya"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.3707,
+"match_method": "canonical",
+"preferred_label": "keahlian"
+},
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.3707,
+"match_method": "canonical",
+"preferred_label": "dalam kristus"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3684,
+"match_method": "canonical",
+"preferred_label": "keselamatan"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.3661,
+"match_method": "canonical",
+"preferred_label": "melayani"
+},
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "belas kasihan"
+},
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "yang baik"
+},
+{
+"id": "keyterm:Just",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "menjadi (atau menunjukkan diri) tidak bersalah"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3638,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.3625,
+"match_method": "canonical",
+"preferred_label": "hati nurani"
+},
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "harapan"
+},
+{
+"id": "keyterm:BearWitness",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "bersaksi"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.3615,
+"match_method": "canonical",
+"preferred_label": "kemuliaan"
+},
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 0.3102,
+"match_method": "canonical",
+"preferred_label": "Timotius"
+},
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.3102,
+"match_method": "canonical",
+"preferred_label": "biasa"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "berbuat dosa"
+},
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "berdoa"
+},
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "juruselamat"
+},
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "hati"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "janji"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "injil"
+},
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"confidence": 0.3092,
+"match_method": "canonical",
+"preferred_label": "suci"
+}
+]
+}
+}
+]

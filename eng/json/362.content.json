@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT112",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: David’s Mighty Warriors",
+"media_type": "Image",
+"index_reference": "historical davids mighty warriors",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT112.png' alt='Image' width='480' /></p><p><a href='images/OT112.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1Q_KfflO_eIOCIvGiW3Fmz2z7LG4W8nHE&usp=drive_copy'>Historical: David’s Mighty Warriors</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "10023001",
+"start_ref_usfm": "2SA 23:1",
+"end_ref": "10023039",
+"end_ref_usfm": "2SA 23:39"
+},
+{
+"start_ref": "13011001",
+"start_ref_usfm": "1CH 11:1",
+"end_ref": "13012041",
+"end_ref_usfm": "1CH 12:41"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.474,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4173,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.3961,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.3961,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.389,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 0.3799,
+"match_method": "canonical",
+"preferred_label": "Joab"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 0.3783,
+"match_method": "canonical",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 0.3713,
+"match_method": "canonical",
+"preferred_label": "Saul"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"confidence": 0.3709,
+"match_method": "canonical",
+"preferred_label": "Jehoiada"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 0.3677,
+"match_method": "canonical",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.3677,
+"match_method": "canonical",
+"preferred_label": "Tribe of Benjamin"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.3219,
+"match_method": "canonical",
+"preferred_label": "Spear"
+},
+{
+"id": "group:Hararites",
+"type": "group",
+"confidence": 0.3189,
+"match_method": "canonical",
+"preferred_label": "Hararites"
+},
+{
+"id": "group:Ahoah",
+"type": "group",
+"confidence": 0.3157,
+"match_method": "canonical",
+"preferred_label": "Ahohites"
+},
+{
+"id": "person:Ahoah",
+"type": "person",
+"confidence": 0.3157,
+"match_method": "canonical",
+"preferred_label": "Ahoah"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 0.3157,
+"match_method": "canonical",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 0.3142,
+"match_method": "canonical",
+"preferred_label": "Manasseh"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.3142,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.3142,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:Zeruiah",
+"type": "person",
+"confidence": 0.3142,
+"match_method": "canonical",
+"preferred_label": "Zeruiah"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.3142,
+"match_method": "canonical",
+"preferred_label": "Tribe of Manasseh"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 0.3142,
+"match_method": "canonical",
+"preferred_label": "Gad"
+},
+{
+"id": "keyterm:BringHonorAndGloryOnOneself",
+"type": "keyterm",
+"confidence": 0.3142,
+"match_method": "canonical",
+"preferred_label": "Bring Honor and Glory on Oneself"
+},
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.3113,
+"match_method": "canonical",
+"preferred_label": "Fortress"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 0.3113,
+"match_method": "canonical",
+"preferred_label": "Pit"
+},
+{
+"id": "group:Pelonites",
+"type": "group",
+"confidence": 0.2638,
+"match_method": "canonical",
+"preferred_label": "Pelonites"
+},
+{
+"id": "group:Netophah",
+"type": "group",
+"confidence": 0.2622,
+"match_method": "canonical",
+"preferred_label": "Netophathites"
+},
+{
+"id": "place:Anathoth",
+"type": "place",
+"confidence": 0.2606,
+"match_method": "canonical",
+"preferred_label": "Anathoth"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.2606,
+"match_method": "canonical",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.2606,
+"match_method": "canonical",
+"preferred_label": "Moab"
+}
+]
+}
+}
+]

@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT045",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Paulus dan Gereja Mula-mula: Perjalanan Misi Ketiga Paulus (Bagian 1)",
+"media_type": "Image",
+"index_reference": "paulus dan gereja mulamula perjalanan misi ketiga paulus bagian 1",
+"language": "ind",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT045.png' alt='Image' width='480' /></p><p><a href='images/NT045.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44019001",
+"start_ref_usfm": "ACT 19:1",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4468,
+"match_method": "canonical",
+"preferred_label": "Paulus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.407,
+"match_method": "canonical",
+"preferred_label": "Tuhan"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.4013,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 0.4006,
+"match_method": "canonical",
+"preferred_label": "Efesus"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.3956,
+"match_method": "canonical",
+"preferred_label": "Yesus"
+},
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 0.3949,
+"match_method": "canonical",
+"preferred_label": "Asia"
+},
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 0.3835,
+"match_method": "canonical",
+"preferred_label": "Makedonia"
+},
+{
+"id": "deity:Artemis",
+"type": "deity",
+"confidence": 0.381,
+"match_method": "canonical",
+"preferred_label": "Artemis"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.3785,
+"match_method": "canonical",
+"preferred_label": "nama"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3785,
+"match_method": "canonical",
+"preferred_label": "Roh"
+},
+{
+"id": "keyterm:Disciple",
+"type": "keyterm",
+"confidence": 0.3785,
+"match_method": "canonical",
+"preferred_label": "menjadi murid"
+},
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 0.3253,
+"match_method": "canonical",
+"preferred_label": "memberi kesaksian yang sungguh, sungguh"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3228,
+"match_method": "canonical",
+"preferred_label": "percaya"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.3228,
+"match_method": "canonical",
+"preferred_label": "meminta"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.2696,
+"match_method": "canonical",
+"preferred_label": "Ephesians"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Yunani"
+},
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "baptisan"
+},
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Greeks"
+},
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "menasihati"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "melayani"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.2671,
+"match_method": "canonical",
+"preferred_label": "kehidupan"
+},
+{
+"id": "place:Miletus",
+"type": "place",
+"confidence": 0.2165,
+"match_method": "canonical",
+"preferred_label": "Miletus"
+},
+{
+"id": "person:Demetrius",
+"type": "person",
+"confidence": 0.2165,
+"match_method": "canonical",
+"preferred_label": "Demetrius"
+},
+{
+"id": "place:Assos",
+"type": "place",
+"confidence": 0.2139,
+"match_method": "canonical",
+"preferred_label": "Asos"
+},
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 0.2139,
+"match_method": "canonical",
+"preferred_label": "Troas"
+},
+{
+"id": "person:Aristarchus",
+"type": "person",
+"confidence": 0.2139,
+"match_method": "canonical",
+"preferred_label": "Aristarkhus"
+},
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.2114,
+"match_method": "canonical",
+"preferred_label": "kekuasaan"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.2114,
+"match_method": "canonical",
+"preferred_label": "jalan tuhan"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.2114,
+"match_method": "canonical",
+"preferred_label": "bertobat"
+}
+]
+}
+}
+]

@@ -1,0 +1,242 @@
+[
+{
+"content_id": "OT036",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Pentateuch: Wandering in the Wilderness",
+"media_type": "Image",
+"index_reference": "pentateuch wandering in the wilderness",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT036.png' alt='Image' width='480' /></p><p><a href='images/OT036.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1mjdccnErbUUd2XNfT7z5BJ5hwNeeJwDe&usp=drive_copy'>Pentateuch: Wandering in the Wilderness</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "04020001",
+"start_ref_usfm": "NUM 20:1",
+"end_ref": "04021035",
+"end_ref_usfm": "NUM 21:35"
+},
+{
+"start_ref": "05002001",
+"start_ref_usfm": "DEU 2:1",
+"end_ref": "05002037",
+"end_ref_usfm": "DEU 2:37"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5015,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4436,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.4347,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 0.4074,
+"match_method": "canonical",
+"preferred_label": "Sihon"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.4035,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.4035,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.401,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 0.3901,
+"match_method": "canonical",
+"preferred_label": "Heshbon"
+},
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 0.3901,
+"match_method": "canonical",
+"preferred_label": "Amorites"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.3856,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "place:Arnon",
+"type": "place",
+"confidence": 0.3832,
+"match_method": "canonical",
+"preferred_label": "Arnon"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"confidence": 0.3767,
+"match_method": "canonical",
+"preferred_label": "Edomites"
+},
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 0.3762,
+"match_method": "canonical",
+"preferred_label": "Kadesh-barnea"
+},
+{
+"id": "place:Ar",
+"type": "place",
+"confidence": 0.3743,
+"match_method": "canonical",
+"preferred_label": "Ar"
+},
+{
+"id": "place:HorMount",
+"type": "place",
+"confidence": 0.3743,
+"match_method": "canonical",
+"preferred_label": "Mount Hor"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"confidence": 0.3743,
+"match_method": "canonical",
+"preferred_label": "Seir"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.3198,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.3178,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3178,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "keyterm:Possess",
+"type": "keyterm",
+"confidence": 0.3178,
+"match_method": "canonical",
+"preferred_label": "To Cause to Possess"
+},
+{
+"id": "place:Zered",
+"type": "place",
+"confidence": 0.2693,
+"match_method": "canonical",
+"preferred_label": "Valley of Zered"
+},
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 0.2653,
+"match_method": "canonical",
+"preferred_label": "Eleazar"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.2634,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:Proscribe.2",
+"type": "keyterm",
+"confidence": 0.2634,
+"match_method": "canonical",
+"preferred_label": "Set Apart for Destruction"
+},
+{
+"id": "person:Anak",
+"type": "person",
+"confidence": 0.2634,
+"match_method": "canonical",
+"preferred_label": "Anak"
+},
+{
+"id": "group:Anak",
+"type": "group",
+"confidence": 0.2634,
+"match_method": "canonical",
+"preferred_label": "Anakim"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2634,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.2578,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "place:Mattanah",
+"type": "place",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Mattanah"
+},
+{
+"id": "place:Oboth",
+"type": "place",
+"confidence": 0.2129,
+"match_method": "canonical",
+"preferred_label": "Oboth"
+}
+]
+}
+}
+]

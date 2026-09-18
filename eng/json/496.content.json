@@ -1,0 +1,138 @@
+[
+{
+"content_id": "OT270",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Genesis: Gen. 18:1–14",
+"media_type": "Image",
+"index_reference": "srv genesis gen 18114",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT270.png' alt='Image' width='480' /></p><p><a href='images/OT270.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1MH0v7IwSCDLDx0ea9L_ZHk3OHg4f1A82&usp=drive_copy'>SRV Genesis: Gen. 18:1-14</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "01018001",
+"start_ref_usfm": "GEN 18:1",
+"end_ref": "01018033",
+"end_ref_usfm": "GEN 18:33"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5273,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 0.5136,
+"match_method": "canonical",
+"preferred_label": "Abraham"
+},
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 0.4591,
+"match_method": "canonical",
+"preferred_label": "Sarah"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.3642,
+"match_method": "canonical",
+"preferred_label": "Tent"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 0.3545,
+"match_method": "canonical",
+"preferred_label": "Sodom"
+},
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.2273,
+"match_method": "canonical",
+"preferred_label": "Forgive"
+},
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 0.1697,
+"match_method": "canonical",
+"preferred_label": "Gomorrah"
+},
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.1673,
+"match_method": "canonical",
+"preferred_label": "Cattle"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "The Way"
+},
+{
+"id": "place:Mamre",
+"type": "place",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Mamre"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "Bless"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1636,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "realia:Seah",
+"type": "realia",
+"confidence": 0.1097,
+"match_method": "canonical",
+"preferred_label": "Seah"
+},
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.1036,
+"match_method": "canonical",
+"preferred_label": "Oak"
+}
+]
+}
+}
+]

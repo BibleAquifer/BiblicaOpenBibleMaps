@@ -1,0 +1,236 @@
+[
+{
+"content_id": "NT039",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Павел и ранняя Церковь: Первое миссионерское путешествие Павла (Часть 1)",
+"media_type": "Image",
+"index_reference": "павел и ранняя церковь первое миссионерское путешествие павла часть 1",
+"language": "rus",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT039.png' alt='Image' width='480' /></p><p><a href='images/NT039.png'>link</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "44013001",
+"start_ref_usfm": "ACT 13:1",
+"end_ref": "44013052",
+"end_ref_usfm": "ACT 13:52"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5317,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 0.4404,
+"match_method": "canonical",
+"preferred_label": "Павел"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.4058,
+"match_method": "canonical",
+"preferred_label": "Варнава"
+},
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.3933,
+"match_method": "canonical",
+"preferred_label": "Believe"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.3933,
+"match_method": "canonical",
+"preferred_label": "Jews"
+},
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Sabbath"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Израиль"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.3346,
+"match_method": "canonical",
+"preferred_label": "Святой Дух"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Иерусалим"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.276,
+"match_method": "canonical",
+"preferred_label": "Давид"
+},
+{
+"id": "person:Bar-jesus",
+"type": "person",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Вариисус"
+},
+{
+"id": "place:Paphos",
+"type": "place",
+"confidence": 0.225,
+"match_method": "canonical",
+"preferred_label": "Паф"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Worship"
+},
+{
+"id": "place:Perga",
+"type": "place",
+"confidence": 0.2212,
+"match_method": "canonical",
+"preferred_label": "Пергия"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.2198,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Law"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Always",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Always"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Иоанн"
+},
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Salvation"
+},
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Resurrection"
+},
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Promise"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Марк"
+},
+{
+"id": "keyterm:Decided",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Decided"
+},
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Fear"
+},
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Name"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Иисус"
+},
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.2173,
+"match_method": "canonical",
+"preferred_label": "Ask for"
+}
+]
+}
+}
+]

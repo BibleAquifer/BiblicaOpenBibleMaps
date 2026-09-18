@@ -1,0 +1,208 @@
+[
+{
+"content_id": "OT069",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Samson and Delilah",
+"media_type": "Image",
+"index_reference": "historical samson and delilah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT069.png' alt='Image' width='480' /></p><p><a href='images/OT069.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1hiBQ7cJhKSOotMIs3AEKw9QVBYcrLTuJ&usp=drive_copy'>Historical: Samson and Delilah</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "07016001",
+"start_ref_usfm": "JDG 16:1",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Samson",
+"type": "person",
+"confidence": 0.6113,
+"match_method": "canonical",
+"preferred_label": "Samson"
+},
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 0.5242,
+"match_method": "canonical",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.5242,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 0.4565,
+"match_method": "canonical",
+"preferred_label": "Delilah"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.4516,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.4226,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3771,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 0.2935,
+"match_method": "canonical",
+"preferred_label": "Gaza"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.229,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Nazirites"
+},
+{
+"id": "deity:Dagon",
+"type": "deity",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Dagon"
+},
+{
+"id": "place:SorekValley",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Valley of Sorek"
+},
+{
+"id": "place:Eshtaol",
+"type": "place",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Eshtaol"
+},
+{
+"id": "person:Manoah",
+"type": "person",
+"confidence": 0.171,
+"match_method": "canonical",
+"preferred_label": "Manoah"
+},
+{
+"id": "realia:Thread",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Thread"
+},
+{
+"id": "realia:Rope",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Rope"
+},
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.169,
+"match_method": "canonical",
+"preferred_label": "Money"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "place:Zorah",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Zorah"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 0.1645,
+"match_method": "canonical",
+"preferred_label": "Hebron"
+},
+{
+"id": "realia:Doorpost",
+"type": "realia",
+"confidence": 0.111,
+"match_method": "canonical",
+"preferred_label": "Doorpost"
+},
+{
+"id": "realia:Shuttle",
+"type": "realia",
+"confidence": 0.111,
+"match_method": "canonical",
+"preferred_label": "Shuttle"
+},
+{
+"id": "realia:Pin",
+"type": "realia",
+"confidence": 0.111,
+"match_method": "canonical",
+"preferred_label": "Pin"
+},
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Measuring Reed"
+},
+{
+"id": "realia:Razor",
+"type": "realia",
+"confidence": 0.1045,
+"match_method": "canonical",
+"preferred_label": "Razor"
+}
+]
+}
+}
+]

@@ -1,0 +1,362 @@
+[
+{
+"content_id": "NT102",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Matthew: Matt. 4:12–24",
+"media_type": "Image",
+"index_reference": "srv matthew matt 41224",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/NT102.png' alt='Image' width='480' /></p><p><a href='images/NT102.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1vBbbIHzE3StZH2IZ8C6hpmTuxCgodgQK&usp=drive_copy'>SRV Matthew: Matt. 4:12-24</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "40004001",
+"start_ref_usfm": "MAT 4:1",
+"end_ref": "40004025",
+"end_ref_usfm": "MAT 4:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.388,
+"match_method": "canonical",
+"preferred_label": "Galilee"
+},
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Serve"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.372,
+"match_method": "canonical",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.304,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.304,
+"match_method": "canonical",
+"preferred_label": "Kingdom"
+},
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.244,
+"match_method": "canonical",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.244,
+"match_method": "canonical",
+"preferred_label": "Proclaim"
+},
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.244,
+"match_method": "canonical",
+"preferred_label": "Put to the Test"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"confidence": 0.244,
+"match_method": "canonical",
+"preferred_label": "Casting Net"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Tribe of Zebulun"
+},
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Naphtali"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+},
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Zebulun"
+},
+{
+"id": "keyterm:Command",
+"type": "keyterm",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "To Command"
+},
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 0.236,
+"match_method": "canonical",
+"preferred_label": "Jordan River"
+},
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 0.192,
+"match_method": "canonical",
+"preferred_label": "Andrew"
+},
+{
+"id": "realia:Fishnet",
+"type": "realia",
+"confidence": 0.184,
+"match_method": "canonical",
+"preferred_label": "Fishnet"
+},
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Repent"
+},
+{
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Decapolis"
+},
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Nazareth"
+},
+{
+"id": "keyterm:Word",
+"type": "keyterm",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Word"
+},
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Zebedee"
+},
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Good News"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "James"
+},
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Ship"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.176,
+"match_method": "canonical",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Judea"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Priesthood",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Priesthood"
+},
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Be Demon Possessed"
+},
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Satan"
+},
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Abstain from Food"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "John"
+},
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Sky"
+},
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Gentiles"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Peter"
+},
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Capernaum"
+},
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Isaiah"
+},
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Glory"
+},
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Life"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Holy"
+},
+{
+"id": "keyterm:Happen",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "To Cause to Happen"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.168,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "realia:Pinnacle",
+"type": "realia",
+"confidence": 0.116,
+"match_method": "canonical",
+"preferred_label": "Pinnacle"
+},
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.116,
+"match_method": "canonical",
+"preferred_label": "Synagogue"
+},
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.108,
+"match_method": "canonical",
+"preferred_label": "Temple"
+}
+]
+}
+}
+]

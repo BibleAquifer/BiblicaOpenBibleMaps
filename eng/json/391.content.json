@@ -1,0 +1,361 @@
+[
+{
+"content_id": "OT141",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: Shishak’s Invasion",
+"media_type": "Image",
+"index_reference": "historical shishaks invasion",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT141.png' alt='Image' width='480' /></p><p><a href='images/OT141.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=13dWkS9LO5G1MQbfe4AEZKKQhtEo1yEji&usp=drive_copy'>Historical: Shishak’s Invasion</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11014001",
+"start_ref_usfm": "1KI 14:1",
+"end_ref": "11014031",
+"end_ref_usfm": "1KI 14:31"
+},
+{
+"start_ref": "14012001",
+"start_ref_usfm": "2CH 12:1",
+"end_ref": "14012016",
+"end_ref_usfm": "2CH 12:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5702,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 0.5074,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4745,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.4745,
+"match_method": "canonical",
+"preferred_label": "Rehoboam"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.4266,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4074,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4074,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"confidence": 0.4064,
+"match_method": "canonical",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Shishak",
+"type": "person",
+"confidence": 0.4064,
+"match_method": "canonical",
+"preferred_label": "Shishak"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3762,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.3383,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "person:Naamah",
+"type": "person",
+"confidence": 0.2915,
+"match_method": "canonical",
+"preferred_label": "Naamah"
+},
+{
+"id": "person:Shemaiah",
+"type": "person",
+"confidence": 0.2872,
+"match_method": "canonical",
+"preferred_label": "Shemaiah"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Ammonites"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.2787,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.2783,
+"match_method": "canonical",
+"preferred_label": "Small Shield"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"confidence": 0.2234,
+"match_method": "canonical",
+"preferred_label": "Abijah"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Asherah"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 0.2191,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "person:Abijah.3",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Iddo.5",
+"type": "person",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Iddo"
+},
+{
+"id": "group:Sukkiim",
+"type": "group",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Sukkiim"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"confidence": 0.1638,
+"match_method": "canonical",
+"preferred_label": "Tirzah"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Be Zealous"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Ethiopians"
+},
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Euphrates River"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Nadab"
+},
+{
+"id": "place:Libya",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Libya"
+},
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Ethiopia"
+},
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Work"
+},
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.1596,
+"match_method": "canonical",
+"preferred_label": "Be Unfaithful"
+},
+{
+"id": "realia:SacredPole",
+"type": "realia",
+"confidence": 0.1591,
+"match_method": "canonical",
+"preferred_label": "Sacred Pole"
+},
+{
+"id": "realia:Fortification",
+"type": "realia",
+"confidence": 0.1038,
+"match_method": "canonical",
+"preferred_label": "Fortification"
+},
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Molten Image"
+},
+{
+"id": "realia:Doorstep",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Doorstep"
+},
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Reed"
+},
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Sacred Pillar"
+},
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Chariot"
+},
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Dog"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.0996,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+}
+]
+}
+}
+]

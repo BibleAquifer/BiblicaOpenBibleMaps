@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT188",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Jerusalem’s Coming Destruction",
+"media_type": "Image",
+"index_reference": "wisdom  prophets jerusalems coming destruction",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT188.png' alt='Image' width='480' /></p><p><a href='images/OT188.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1yn1nlw-GonwQSRRjAmNrhn06DeIuqYA7/view?usp=drive_link'>Wisdom & Prophets: Jerusalem’s Coming Destruction</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24006001",
+"start_ref_usfm": "JER 6:1",
+"end_ref": "24009025",
+"end_ref_usfm": "JER 9:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5568,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3986,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.3743,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.3743,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3703,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.3162,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.3162,
+"match_method": "canonical",
+"preferred_label": "Trust"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.3162,
+"match_method": "canonical",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.3162,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.3162,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3143,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "keyterm:Lamentation",
+"type": "keyterm",
+"confidence": 0.264,
+"match_method": "canonical",
+"preferred_label": "Lamentation"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.2622,
+"match_method": "canonical",
+"preferred_label": "Slaughtering"
+},
+{
+"id": "keyterm:Deceit",
+"type": "keyterm",
+"confidence": 0.2622,
+"match_method": "canonical",
+"preferred_label": "Deceit"
+},
+{
+"id": "keyterm:Instruction",
+"type": "keyterm",
+"confidence": 0.2622,
+"match_method": "canonical",
+"preferred_label": "Instruction"
+},
+{
+"id": "place:HinnomValley",
+"type": "place",
+"confidence": 0.2099,
+"match_method": "canonical",
+"preferred_label": "Valley of Hinnom"
+},
+{
+"id": "place:Topheth",
+"type": "place",
+"confidence": 0.2081,
+"match_method": "canonical",
+"preferred_label": "Topheth"
+},
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.2081,
+"match_method": "canonical",
+"preferred_label": "Perceive"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 0.2081,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2081,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 0.2081,
+"match_method": "canonical",
+"preferred_label": "Baal"
+},
+{
+"id": "keyterm:Ability",
+"type": "keyterm",
+"confidence": 0.2081,
+"match_method": "canonical",
+"preferred_label": "Ability"
+},
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 0.2022,
+"match_method": "canonical",
+"preferred_label": "Horse"
+},
+{
+"id": "place:Beth-haccherem",
+"type": "place",
+"confidence": 0.1559,
+"match_method": "canonical",
+"preferred_label": "Beth-haccherem"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 0.1559,
+"match_method": "canonical",
+"preferred_label": "Gilead"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"confidence": 0.1559,
+"match_method": "canonical",
+"preferred_label": "Detested Thing"
+},
+{
+"id": "keyterm:Defilement",
+"type": "keyterm",
+"confidence": 0.1541,
+"match_method": "canonical",
+"preferred_label": "Defilement"
+},
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.1541,
+"match_method": "canonical",
+"preferred_label": "Dispossess"
+},
+{
+"id": "keyterm:HaveInsight",
+"type": "keyterm",
+"confidence": 0.1541,
+"match_method": "canonical",
+"preferred_label": "Have Insight"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.1541,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+}
+]
+}
+}
+]

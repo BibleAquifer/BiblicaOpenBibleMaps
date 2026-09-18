@@ -1,0 +1,110 @@
+[
+{
+"content_id": "OT174",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: Psalm 87",
+"media_type": "Image",
+"index_reference": "wisdom  prophets psalm 87",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT174.png' alt='Image' width='480' /></p><p><a href='images/OT174.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1pEO2yYQZGM6pNLBeHhOB41LnK7lgVDMJ/view?usp=drive_link'>Wisdom & Prophets: Psalm 87</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "19087001",
+"start_ref_usfm": "PSA 87:1",
+"end_ref": "19087007",
+"end_ref_usfm": "PSA 87:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5571,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3286,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Philistia"
+},
+{
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Psalm"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Cush"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.2143,
+"match_method": "canonical",
+"preferred_label": "Love"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.1543,
+"match_method": "canonical",
+"preferred_label": "Foundation"
+}
+]
+}
+}
+]

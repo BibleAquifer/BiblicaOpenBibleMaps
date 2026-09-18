@@ -1,0 +1,187 @@
+[
+{
+"content_id": "OT316",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "SRV Exodus: Exod. 17:1–7, Exod. 17:8–15",
+"media_type": "Image",
+"index_reference": "srv exodus exod 1717 exod 17815",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT316.png' alt='Image' width='480' /></p><p><a href='images/OT316.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1jgg8FwBxvH81APDeQBYuBDzt5NRO0KQY&usp=drive_copy'>SRV Exodus: Exod. 17:1-7, Exod. 17:8-15</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017016",
+"end_ref_usfm": "EXO 17:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 0.6594,
+"match_method": "canonical",
+"preferred_label": "Moses"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6031,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.5469,
+"match_method": "canonical",
+"preferred_label": "Amalek"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.5188,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 0.4125,
+"match_method": "canonical",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Hur.2",
+"type": "person",
+"confidence": 0.2938,
+"match_method": "canonical",
+"preferred_label": "Hur"
+},
+{
+"id": "place:Rephidim",
+"type": "place",
+"confidence": 0.2688,
+"match_method": "canonical",
+"preferred_label": "Rephidim"
+},
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 0.2562,
+"match_method": "canonical",
+"preferred_label": "Aaron"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.1963,
+"match_method": "canonical",
+"preferred_label": "Rod"
+},
+{
+"id": "place:Sin",
+"type": "place",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Wilderness of Sin"
+},
+{
+"id": "place:Massah",
+"type": "place",
+"confidence": 0.1906,
+"match_method": "canonical",
+"preferred_label": "Massah"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Mount Sinai"
+},
+{
+"id": "keyterm:Destroy",
+"type": "keyterm",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Destroy"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Meribah"
+},
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 0.1781,
+"match_method": "canonical",
+"preferred_label": "Nile River"
+},
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 0.1306,
+"match_method": "canonical",
+"preferred_label": "Throne"
+},
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Sword"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Scroll"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.1181,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+}
+]
+}
+}
+]

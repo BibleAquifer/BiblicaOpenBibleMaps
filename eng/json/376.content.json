@@ -1,0 +1,236 @@
+[
+{
+"content_id": "OT126",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Historical: The Sins of Jeroboam",
+"media_type": "Image",
+"index_reference": "historical the sins of jeroboam",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT126.png' alt='Image' width='480' /></p><p><a href='images/OT126.png'>link</a></p><p>Original: <a href='https://drive.google.com/open?id=1ocs9xGDkDJ669t64vFv7xD7HsChKQBkX&usp=drive_copy'>Historical: The Sins of Jeroboam</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "11012001",
+"start_ref_usfm": "1KI 12:1",
+"end_ref": "11014031",
+"end_ref_usfm": "1KI 14:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5245,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 0.4801,
+"match_method": "canonical",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.4464,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 0.4209,
+"match_method": "canonical",
+"preferred_label": "Rehoboam"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4097,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4097,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.4026,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 0.3867,
+"match_method": "canonical",
+"preferred_label": "Bethel"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.3821,
+"match_method": "canonical",
+"preferred_label": "David"
+},
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"confidence": 0.3816,
+"match_method": "canonical",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 0.3776,
+"match_method": "canonical",
+"preferred_label": "Solomon"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3776,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3589,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.3267,
+"match_method": "canonical",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.3267,
+"match_method": "canonical",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.3267,
+"match_method": "canonical",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.3267,
+"match_method": "canonical",
+"preferred_label": "Altar"
+},
+{
+"id": "keyterm:Sin",
+"type": "keyterm",
+"confidence": 0.3184,
+"match_method": "canonical",
+"preferred_label": "To Sin"
+},
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.3176,
+"match_method": "canonical",
+"preferred_label": "Donkey"
+},
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.3176,
+"match_method": "canonical",
+"preferred_label": "High Place"
+},
+{
+"id": "flora:Pine",
+"type": "flora",
+"confidence": 0.3176,
+"match_method": "canonical",
+"preferred_label": "Stone Pine"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.315,
+"match_method": "canonical",
+"preferred_label": "Yoke"
+},
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.2638,
+"match_method": "canonical",
+"preferred_label": "Rebel"
+},
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.2638,
+"match_method": "canonical",
+"preferred_label": "Counsel"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 0.2638,
+"match_method": "canonical",
+"preferred_label": "Shiloh"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 0.2638,
+"match_method": "canonical",
+"preferred_label": "Egypt"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.2604,
+"match_method": "canonical",
+"preferred_label": "Lion"
+},
+{
+"id": "person:Naamah",
+"type": "person",
+"confidence": 0.2133,
+"match_method": "canonical",
+"preferred_label": "Naamah"
+},
+{
+"id": "person:Nebat",
+"type": "person",
+"confidence": 0.2112,
+"match_method": "canonical",
+"preferred_label": "Nebat"
+},
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.2092,
+"match_method": "canonical",
+"preferred_label": "Asherah"
+}
+]
+}
+}
+]

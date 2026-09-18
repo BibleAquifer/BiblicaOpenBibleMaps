@@ -1,0 +1,264 @@
+[
+{
+"content_id": "OT192",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Wisdom & Prophets: The Yoke of the King of Babylon",
+"media_type": "Image",
+"index_reference": "wisdom  prophets the yoke of the king of babylon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Image Content</h3>\n<block><p><img src='images/OT192.png' alt='Image' width='480' /></p><p><a href='images/OT192.png'>link</a></p><p>Original: <a href='https://drive.google.com/file/d/1idli2iOQG3sE3Yecl-D6EQnj5KtCL_0-/view?usp=drive_link'>Wisdom & Prophets: The Yoke of the King of Babylon</a></p></block>",
+"associations": {
+"passage": [
+{
+"start_ref": "24027001",
+"start_ref_usfm": "JER 27:1",
+"end_ref": "24028017",
+"end_ref_usfm": "JER 28:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6385,
+"match_method": "canonical",
+"preferred_label": "LORD"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.5577,
+"match_method": "canonical",
+"preferred_label": "Babylon"
+},
+{
+"id": "keyterm:EnticedToServe",
+"type": "keyterm",
+"confidence": 0.4654,
+"match_method": "canonical",
+"preferred_label": "Force to Serve"
+},
+{
+"id": "person:Hananiah.12",
+"type": "person",
+"confidence": 0.4577,
+"match_method": "canonical",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.4423,
+"match_method": "canonical",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.4423,
+"match_method": "canonical",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "keyterm:Speak",
+"type": "keyterm",
+"confidence": 0.4308,
+"match_method": "canonical",
+"preferred_label": "Speak as a Prophet"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 0.4308,
+"match_method": "canonical",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 0.4244,
+"match_method": "canonical",
+"preferred_label": "Nebuchadnezzar"
+},
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.4169,
+"match_method": "canonical",
+"preferred_label": "Yoke"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.3708,
+"match_method": "canonical",
+"preferred_label": "House"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.3462,
+"match_method": "canonical",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.3462,
+"match_method": "canonical",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 0.2846,
+"match_method": "canonical",
+"preferred_label": "Jehoiakim"
+},
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Jehoiachin"
+},
+{
+"id": "keyterm:WordOfTheLord",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Word of the Lord"
+},
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 0.2231,
+"match_method": "canonical",
+"preferred_label": "Appoint"
+},
+{
+"id": "person:Azzur.2",
+"type": "person",
+"confidence": 0.1667,
+"match_method": "canonical",
+"preferred_label": "Azzur"
+},
+{
+"id": "keyterm:PracticeDivination",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Practice Divination"
+},
+{
+"id": "keyterm:IntactState",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Peace"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Tyre"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Sidon"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Complete"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Edom"
+},
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Gibeon"
+},
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Trust"
+},
+{
+"id": "keyterm:Truth",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Truth"
+},
+{
+"id": "keyterm:Strength",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Strength"
+},
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Surely!"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Josiah"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Ammon"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "Moab"
+},
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.1615,
+"match_method": "canonical",
+"preferred_label": "An Angel"
+}
+]
+}
+}
+]
